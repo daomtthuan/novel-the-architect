@@ -1,9 +1,9 @@
-# Emotional Memory (v6, World Calendar canon)
+# Emotional Memory (v7, World Calendar canon)
 
 These moments should echo later.
 
-## The Teacher's Sacrifice (WC16)
-The origin point of the Darkest Point. Later referenced as the first time the Architect learned that being right about the plan isn't the same as protecting the person.
+## First Major Loss (WC16, revised v7)
+The origin point of the Darkest Point. Not merely The Teacher's death — the Architect's tactical miscalculation against a high-tier Demon costs him his Father, Mother, The Teacher, and the Scout in one battle; his father throws him clear at the last moment. Later referenced as the first time the Architect learned that being right about the plan isn't the same as protecting the people he loves.
 
 ## Elena's "People Are Not Variables" (WC23)
 Later referenced as proof that the Architect once needed saving from himself before he could save anyone else.

@@ -1,13 +1,15 @@
-# Conflict and Antagonist Board (v6, World Calendar canon)
+# Conflict and Antagonist Board (v7, World Calendar canon)
 
 ## Season 1 — Political Powers
-Motivations: fear, greed, security, control, competition. Not all are evil. Isolde's Kingdom is initially adversarial-by-negotiation, not hostile.
+Motivations: fear, greed, security, control, competition. Not all are evil. **The Empire of Veyrand** is initially adversarial-by-negotiation, not hostile. (Corrected v7 — previously "Isolde's Kingdom"; Veyrand is an Empire, see `06-factions-and-politics.md`.)
 
 ## Season 1 — Demon Threat
-Major external threat. Seraphine's original faction represents its domination-seeking leadership specifically; not all Demon factions share that agenda. The Demon King (or equivalent leadership) is not the ultimate antagonist of the entire saga.
+Major external threat. Two distinct Demon threads exist across the saga:
+1. The high-tier Demon encountered at WC16 (see `45-session-update-wc16-revision-and-worldbuilding.md` §4) — fate after WC16 is OPEN (see `28-unresolved-threads.md`).
+2. Seraphine's original faction, whose domination-seeking leadership specifically drives the WC33–35 arc; not all Demon factions share that agenda. The Demon King (or equivalent leadership) is not the ultimate antagonist of the entire saga.
 
 ## Season 1 — Internal Antagonist
-The Architect's own need for control — the Darkest Point (WC16–23) — is the true central conflict of the installment, more than any external war.
+The Architect's own need for control — the Darkest Point (WC16–23) — is the true central conflict of the installment, more than any external war. Its origin is now grounded in a concrete tactical failure at WC16 that cost him his parents, The Teacher, and the Scout (see `02-timeline.md`).
 
 ## Movie 1 — Historical / Ideological Conflict
 The primary conflict is emotional and ideological: the Son vs. his father's secrecy, converging with the father's death.

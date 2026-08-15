@@ -1,4 +1,4 @@
-# Character Bible (v6, World Calendar canon)
+# Character Bible (v7, World Calendar canon)
 
 ## The Architect
 
@@ -15,10 +15,54 @@ systems thinking · engineering · infrastructure · strategy · leadership · l
 control · over-optimization · difficulty expressing grief · arrogance during success · tendency to treat social (and after WC16, human) problems as engineering problems
 
 ### Arc
-"I can solve problems." → "I can control systems." → **The Teacher's death (WC16): "I failed and someone I love paid for it."** → "I can control systems so this never happens again" (Darkest Point) → Elena: "People are not variables" (WC23) → "I cannot save everyone" (WC35) → "I must respect choices" → "I must build something that no longer needs me."
+"I can solve problems." → "I can control systems." → **First Major Loss (WC16): "I failed and the people I love paid for it."** → "I can control systems so this never happens again" (Darkest Point) → Elena: "People are not variables" (WC23) → "I cannot save everyone" (WC35) → "I must respect choices" → "I must build something that no longer needs me."
 
 ### Title
 "The Architect" is earned specifically by his choice at WC35: accepting Elena's agency instead of overriding it. This distinguishes him from a mere "Builder" (see `08-multiverse-and-quantum-lore.md`).
+
+## The Architect's Father (new, v7)
+
+### Role
+Retired A-rank swordsman; one of five members of the adventuring party that included the Mother, The Teacher, the Guild Master, and the Scout.
+
+### Function
+Retires from adventuring upon marrying the Mother; requests The Teacher take his son on as a student (WC9). Rejoins the reunited party at WC16 for what was meant to be a defensive operation; dies protecting the Architect from the high-tier Demon's finishing blow, physically throwing him clear at the last possible moment.
+
+### Name
+Owner's discretion — not yet assigned.
+
+## The Architect's Mother (new, v7)
+
+### Role
+Retired A-rank healer/enchantress; one of the same five-person party.
+
+### Function
+Retires from adventuring upon marrying the Father. Dies at WC16 alongside her husband, The Teacher, and the Scout, in the all-out defense that saves the Architect.
+
+### Name
+Owner's discretion — not yet assigned.
+
+## The Guild Master (new, v7)
+
+### Role
+Former tanker of the same five-person party; sole adult survivor of the original five.
+
+### Function
+Rises to Guild Master after the party disbands. Absent from the WC16 battle, coordinating the guild's response instead. Becomes a recurring political and material support figure for the Architect from WC16 onward, through The Guild (see `23-organization-registry.md`).
+
+### Name
+Owner's discretion — not yet assigned.
+
+## The Scout / Investigator (new, v7)
+
+### Role
+Investigator-assassin of the same five-person party.
+
+### Function
+Continues as an investigative adventurer after the party disbands. At WC16, uncovers the earliest signs of unusual Demon activity — the seed of what eventually escalates into the Great War — and brings the reunited party into the operation that costs him his life alongside the Father, Mother, and The Teacher.
+
+### Name
+Owner's discretion — not yet assigned.
 
 ## Elena
 
@@ -77,6 +121,9 @@ Infiltrator/temptress → witness → defector → guilt-driven caretaker → pe
 
 ### Role
 Political love interest; secondary heroine.
+
+### Race / Polity
+Princess of the **Empire of Veyrand** (not a Kingdom — see `06-factions-and-politics.md`).
 
 ### Relationship
 Proposes political marriage (WC26); refused. Becomes a political ally and, later, a critical wartime ally (WC32+). Even when Elena herself later consents to the idea of a second political wife, the Architect refuses — this is his own principle, not merely deference to Elena.
@@ -146,10 +193,10 @@ Citizen → investigator → defender of plural futures → chooses freedom.
 The Architect's mentor, Era 1–2.
 
 ### Function
-Recognizes the Architect's prodigious aptitude at WC9; formally trains him from WC10; dies at WC16 saving him from the consequences of his own tactical miscalculation against Demon forces. His death is the direct trigger for the Architect's Darkest Point.
+Formerly the mage of the same five-person A-rank party as the Architect's Father and Mother. After the party disbands, teaches independently; at the Father's request, takes on the Architect as a student (WC9–10). At WC16, rejoins the reunited party for a defensive operation and dies alongside the Father, Mother, and the Scout, in the all-out defense that saves the Architect from the high-tier Demon.
 
 ### Rule
-Do not let his death read as a cheap fridging beat — it must land as the Architect's own first serious failure, not an external tragedy that merely happens to him.
+Do not let his death read as a cheap fridging beat — it must land as the Architect's own first serious failure (see `45-session-update-wc16-revision-and-worldbuilding.md` §4), not an external tragedy that merely happens to him, and not a loss isolated from the deaths of his parents and the Scout in the same battle.
 
 ## Protagonist Naming Rule
 

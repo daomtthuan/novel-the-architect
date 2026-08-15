@@ -1,4 +1,4 @@
-# Relationship Map (v6, World Calendar canon)
+# Relationship Map (v7, World Calendar canon)
 
 ## The Architect ↔ Elena
 
@@ -21,9 +21,17 @@ Central principle:
 
 > He loves her enough to want to save her, but respects her enough to accept her choice. That single act of acceptance is what makes him The Architect rather than merely a Builder.
 
+## The Architect ↔ Father and Mother (new, v7)
+
+Loving, ordinary parents — retired A-rank adventurers who chose an ordinary life after marrying. The Father requests The Teacher take his son on as a student (WC9). Both die at WC16, in the same battle as The Teacher and the Scout, saving the Architect from a high-tier Demon. His father's last act is to physically throw him clear of the finishing blow. This loss — not The Teacher's alone — is the true origin of the Darkest Point.
+
 ## The Architect ↔ The Teacher
 
-Mentor → prodigy. Ends at WC16 with the Teacher's death, which the Architect caused through his own tactical error. This relationship is the origin of the Darkest Point, not merely a loss that happens near it.
+Mentor → prodigy. Formerly the mage of the same disbanded party as the Architect's parents — not an unconnected mentor figure. Ends at WC16 with the Teacher's death, which the Architect caused through his own tactical error, alongside the deaths of his parents and the Scout. This relationship, combined with the loss of his parents, is the origin of the Darkest Point.
+
+## The Architect ↔ The Guild Master (new, v7)
+
+The sole adult survivor of the original five-person party (absent from the WC16 battle, coordinating the guild's response). Becomes a recurring political and material supporter of the Architect from WC16 onward, through The Guild.
 
 ## The Architect ↔ Iris
 
@@ -35,7 +43,7 @@ Enemy infiltrator/seductress (WC33) → jealousy trigger for Elena → witness t
 
 ## The Architect ↔ Isolde
 
-Political marriage proposal (WC26) → refusal → political ally → wartime ally → a refusal that persists even once Elena herself would permit a second marriage, establishing it as the Architect's own principle.
+Political marriage proposal from the Empire of Veyrand (WC26) → refusal → political ally → wartime ally → a refusal that persists even once Elena herself would permit a second marriage, establishing it as the Architect's own principle.
 
 ## Secondary Romantic Tension (summary)
 
@@ -63,7 +71,7 @@ Difference: at the defining choice, the primary Architect accepted imperfect fre
 
 ## Mira ↔ Architect
 
-Historian → skeptic → investigator → understanding. Mira eventually stops seeing a legend and sees a flawed human who once made one very costly mistake (The Teacher) and one very difficult right choice (Elena).
+Historian → skeptic → investigator → understanding. Mira eventually stops seeing a legend and sees a flawed human who once made one very costly mistake (First Major Loss, WC16) and one very difficult right choice (Elena, WC35).
 
 ## Mira ↔ Elena
 

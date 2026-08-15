@@ -1,4 +1,4 @@
-# Character Psychology (v6, World Calendar canon)
+# Character Psychology (v7, World Calendar canon)
 
 ## The Architect
 
@@ -6,7 +6,7 @@
 To be useful.
 
 ### Core Fear
-Being unable to save someone he loves — first realized concretely at WC16 with The Teacher's death.
+Being unable to save someone he loves — first realized concretely at WC16, when his tactical miscalculation against a high-tier Demon costs him his Father, Mother, The Teacher, and the Scout in a single battle.
 
 ### Psychological Contradiction
 He believes people deserve freedom but becomes controlling when frightened. This is not a background trait — it is a full era (the Darkest Point, WC16–23).
@@ -15,7 +15,7 @@ He believes people deserve freedom but becomes controlling when frightened. This
 Problem-solving. When emotionally overwhelmed, he tries to build or fix something.
 
 ### Origin of the Darkest Point
-The Teacher's sacrifice at WC16 is a direct consequence of the Architect's own tactical miscalculation. Rather than grieve it as an accident, he reframes it as a *systems failure* — and resolves to eliminate the possibility of future failure by controlling more variables, including people.
+The WC16 battle is a direct consequence of the Architect's own tactical miscalculation: he identifies what he believes is the high-tier Demon's weakness, but the Demon deliberately baits him, exploiting his tactical read. His parents, The Teacher, and the Scout die defending him; his father throws him clear at the last possible moment. Rather than grieve it as an accident, he reframes it as a *systems failure* — and resolves to eliminate the possibility of future failure by controlling more variables, including people. This is not merely "The Teacher's death" — it is the loss of his entire found family of mentors and parents in one battle he believes he caused.
 
 ### Elena's Influence
 She teaches him that not every problem should be solved — and specifically, that people are not variables (WC23).
@@ -80,7 +80,7 @@ Political security for her people, later intertwined with genuine personal feeli
 Being valued only as a political asset.
 
 ### Arc
-Proposes a strategic marriage → refused → chooses to remain an ally anyway → genuine feeling develops → refused again, even with Elena's blessing, which she comes to respect rather than resent.
+Proposes a strategic marriage on behalf of the Empire of Veyrand → refused → chooses to remain an ally anyway → genuine feeling develops → refused again, even with Elena's blessing, which she comes to respect rather than resent.
 
 ## Son
 

@@ -1,4 +1,4 @@
-# 44 — Iconic Dialogue Registry
+# 46 — Iconic Dialogue Registry
 
 ## Purpose
 
@@ -10,6 +10,7 @@ A registered line is **not ordinary dialogue**.
 The agent must treat registered dialogue as narrative anchors.
 
 Do not:
+
 - paraphrase a locked line casually;
 - repeat it frequently;
 - reuse it in another context;
@@ -24,15 +25,19 @@ The fewer times an iconic line appears, the more emotional weight it retains.
 # Status System
 
 ### LOCKED
+
 Canon-critical wording and meaning. Do not alter casually.
 
 ### SINGLE-USE
+
 Belongs to one specific scene. Do not reuse unless the author explicitly changes canon.
 
 ### FINAL / LOCKED
+
 Belongs to the final resolution. Never reuse casually.
 
 ### THEMATIC ANCHOR
+
 Meaning and narrative function are canon; wording may be adapted for translation.
 
 ---
@@ -177,6 +182,7 @@ Its deeper questions are:
 The Son should not simply inherit the Architect's voice.
 
 Prefer:
+
 - emotional directness;
 - occasional sarcasm;
 - defensive speech when young;
@@ -196,6 +202,7 @@ No fully locked iconic quote currently exists for Iris.
 Do not invent a quote and silently promote it to canon.
 
 Her established voice:
+
 - plainspoken;
 - loyal;
 - dry;
@@ -231,6 +238,7 @@ Do not reduce Seraphine to fan-service.
 No fully locked iconic quote currently exists.
 
 Established voice:
+
 - composed;
 - diplomatic;
 - precise;
@@ -345,12 +353,14 @@ He can regret the pain and loss while still choosing Elena again.
 ## The Architect
 
 Prefer:
+
 - concise statements;
 - analytical language early;
 - increasingly restrained speech later;
 - silence after emotionally significant questions.
 
 Avoid:
+
 - constant philosophical monologues;
 - explaining every emotion;
 - melodrama;
@@ -361,6 +371,7 @@ His silence becomes increasingly important after Elena's death.
 ## Elena
 
 Prefer:
+
 - simple but penetrating questions;
 - emotional intelligence;
 - warmth;
@@ -372,6 +383,7 @@ Avoid making her a passive moral compass.
 ## The Son
 
 Prefer:
+
 - emotional directness;
 - questions;
 - sarcasm when defensive;
@@ -382,6 +394,7 @@ Avoid copying his father's rhetoric.
 ## Iris
 
 Prefer:
+
 - short sentences;
 - practical observations;
 - dry humor;
@@ -392,6 +405,7 @@ Avoid excessive exposition and overly poetic speeches.
 ## Seraphine
 
 Prefer:
+
 - teasing;
 - confidence;
 - playful provocation;
@@ -402,6 +416,7 @@ Avoid reducing every line to seduction.
 ## Princess
 
 Prefer:
+
 - diplomatic precision;
 - political subtext;
 - controlled emotion.
@@ -411,6 +426,7 @@ Avoid making her politically naive because of romance.
 ## Mira
 
 Prefer:
+
 - precise observations;
 - historical framing;
 - questions;
@@ -421,6 +437,7 @@ Avoid omniscient exposition.
 ## Other Builder
 
 Prefer:
+
 - calm;
 - rational;
 - unsettling certainty;
@@ -431,6 +448,7 @@ Avoid cartoon-villain speeches.
 ## Noah
 
 Prefer:
+
 - simple;
 - mature;
 - reflective;

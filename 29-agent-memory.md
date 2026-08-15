@@ -110,6 +110,10 @@ CURRENT POV:
 - The Architect's death by old age is told inside Movie 1, not Season 1.
 - "Builder" ≠ "Architect." The title is earned by respecting agency, not merely by ability.
 - The Other Builder is properly named "Other Builder," not "Other Architect."
+- WC16 "First Major Loss" (revised v7): not merely The Teacher's death. The Architect's parents (Father, swordsman; Mother, healer/enchantress), The Teacher, and the Scout/Investigator all die in the same battle against a high-tier Demon, defending the Architect after his tactical misjudgment. The Guild Master, absent, survives and later supports the Architect through The Guild. High-tier Demon's post-WC16 fate is OPEN.
+- The Empire of Veyrand is an Empire, not a Kingdom. Isolde is "Isolde Veyrand, princess of the Empire of Veyrand." Never refer to it as "Isolde's Kingdom."
+- The Architect's city is renamed "Elena" after her death (post-WC35 reconstruction). Exact stylization is OPEN — do not treat a specific spelling/form as settled canon.
+- World Peoples now include, alongside Human/Eterna/Half-blood/Demon: Beastkin, Dwarf, Sylvan/Elf-adjacent, Undead/Revenant, Giant/Titan-kin.
 
 ---
 
