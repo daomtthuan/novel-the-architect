@@ -178,6 +178,27 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way," why the Teacher stopped taking students) remain open. The Teacher's uncharacteristic sorrow when delivering his WC14 warning is left open as a minor, non-mystery-board character beat.
 - **Handoff to Chapter 7:** Default next chronological point is **WC15** — the canonical meeting of Elena and Iris (per `world_calendar.md`, `02-timeline.md`, `20-scene-memory.md`), unless the owner specifies an intermediate chapter. Iris is 12 at this point — strictly platonic framing only.
 
+### Chapter 7 — Two Signals in the Noise
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC15
+- **POV:** The Architect, first-person
+- **Location:** Village square, harvest fair, near the family's home village
+- **Characters:** The Architect (15), Elena (23.75), Iris (12), The Teacher (brief)
+- **Core conflict:** A runaway lantern-golem cart at a harvest fair; internally, the Architect's first real experience of being seen as a person rather than a phenomenon
+- **Emotional objective:** Dramatize the required WC15 permanent scene (meeting Elena and Iris) with full, distinct characterization for both from their very first appearance; keep Iris's framing strictly platonic and age-appropriate
+- **Plot objective:** Establish ACQUAINTANCE-state relationships for Architect↔Elena and Architect↔Iris per `37-relationship-state-machine.md`; seed the "small adventures and small battles" the three will share in the following years, per `world_calendar.md` WC15 entry
+- **New facts:** First formal meeting between the Architect, Elena, and Iris, triggered by a malfunctioning lantern-golem cart at the village harvest fair; Elena is established as Eterna, a longtime family friend of Iris's household, currently traveling and planning to remain in the area a few more days; The Teacher displays an unusually sharp, unexplained attentiveness toward Elena.
+- **Character changes:** The Architect experiences, for the first time on-page, being regarded as a person rather than a phenomenon — a contrast to the pride/overconfidence established in Chapter 6.
+- **Relationship changes:** Architect ↔ Elena begins at ACQUAINTANCE; Architect ↔ Iris begins, entirely platonic, characterized through Iris's established plainspoken/dry voice and quiet approval rather than open admiration; Elena ↔ Iris confirmed as an established prior friendship.
+- **World changes:** None significant; the harvest fair is a one-time backdrop, not a registry-level location.
+- **New objects:** The fair's lantern-golem cart — background detail, non-registry.
+- **New locations:** Village square during the harvest fair — one-time backdrop, non-registry.
+- **Foreshadowing:** The Teacher's warning about how the Eterna experience time differently plants early, gentle groundwork for the eventual weight of Elena's long lifespan relative to the Architect's; The Teacher's unusually sharp attention toward Elena is left open and unexplained — a minor character beat, not a formal mystery-board entry.
+- **Secrets revealed:** None.
+- **Unresolved questions:** None new; existing threads (nature of reincarnation, The Teacher's unfinished remark from Chapter 4, his uncharacteristic sorrow from Chapter 6) remain open.
+- **Handoff to Chapter 8:** Default next chronological point continues Era 2 forward from WC15 — further time spent with Elena and Iris, deepening the newly-established acquaintance toward friendship, per `world_calendar.md`'s WC15–16 entries — unless the owner specifies otherwise. WC16 (First Major Loss) looms as the next major required permanent scene and must not be triggered without explicit structural buildup.
+
 ---
 
 ## Required Chapter Record

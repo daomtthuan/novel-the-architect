@@ -1,4 +1,4 @@
-# Romance Continuity Memory (v8, World Calendar canon)
+# Romance Continuity Memory (v9, World Calendar canon)
 
 ## Purpose
 
@@ -78,6 +78,22 @@ A romantic interaction that becomes important must be remembered. The AI agent s
 
 Especially track: first meeting (WC15); the WC18 major argument during the Architect's Darkest Point; the WC19 reconciliation; the WC23 ideological breakthrough; first confession; proposal; wedding (WC24); first home; family moments; major disagreements; final sacrifice (WC35); objects/phrases associated with her.
 
+### WC15 — First Meeting
+
+- **Event ID:** ROM-S01-C007-01
+- **WC Year:** 15
+- **Characters:** Architect, Elena
+- **Character Ages (computed):** Architect 15; Elena 23.75
+- **Relationship State Before:** STRANGER.
+- **Interaction:** A runaway lantern-golem cart at the village harvest fair endangers a young child. Elena saves the child directly, using Light magic to calm her; the Architect independently disables the cart by identifying and cutting its enchanted power tether. They formally introduce themselves afterward. Elena is warm, direct, and playfully teasing (notably teasing him for slipping into "con" mid-sentence); she notes he still has no name people call him by, and offers, half-joking, to invent one until he finds his own. She states she intends to remain in the area a few more days.
+- **Relationship State After:** ACQUAINTANCE.
+- **Emotional Meaning:** The Architect's first on-page experience of being regarded as a person rather than a phenomenon — a direct emotional counterweight to the pride/overconfidence developing since Chapter 6.
+- **Joke / Running Motif:** Elena's teasing about the Architect having no name — a light callback opportunity for later chapters, not yet a locked motif.
+- **Foreshadowing:** The Teacher's brief, unexplained remark that the Eterna experience time differently plants very early, gentle groundwork for the eventual emotional weight of Elena's long lifespan relative to the Architect's own. Do not resolve or dwell on this before it becomes structurally relevant.
+- **Reader Interpretation:** A warm, low-stakes "meet cute" that reads as the true beginning of Era 2, distinct in tone from the Architect's mentorship-focused Era 1 chapters.
+- **Character Interpretation:** Neither character reads this as romantic; Elena's warmth here is characteristic of her personality broadly (see `15-character-voice.md`), not an attraction cue. The Architect's own reaction is curiosity and mild self-consciousness, not attraction.
+- **Must Be Remembered Later:** Do not retroactively write this meeting as instantly romantic. The relationship must progress through FRIEND and TRUST stages (`37-relationship-state-machine.md`) well before any romantic framing is appropriate, culminating only at the WC23 ideological breakthrough.
+
 ### WC18 — Major Argument
 
 - **WC Year:** 18
@@ -99,6 +115,19 @@ Especially track: first meeting (WC15); the WC18 major argument during the Archi
 - **Must Be Remembered Later:** Later chapters may show further disagreements, but must not imply that WC18 permanently separated them or that WC18 never happened.
 
 ## Iris Memory
+
+### WC15 — First Meeting
+
+- **Event ID:** ROM-S01-C007-02
+- **WC Year:** 15
+- **Characters:** Architect, Iris
+- **Character Ages (computed):** Architect 15; Iris 12 (STRICTLY PLATONIC — hard age rule applies)
+- **Relationship State Before:** STRANGER (the Chapter 2 infant-era cameo does not count as a relationship state).
+- **Interaction:** Iris is introduced alongside Elena at the harvest fair. She observes the Architect's handling of the runaway lantern-golem cart with quiet, practical curiosity, asks him a short, direct question about how he disabled it, and responds to his equally direct answer with a brief nod of approval rather than any effusive reaction.
+- **Relationship State After:** ACQUAINTANCE, entirely platonic.
+- **Emotional Meaning:** Establishes Iris's core voice (plainspoken, dry, restrained — `15-character-voice.md`) from her very first formal appearance, and establishes that her approval, even at 12, is quiet and earned rather than performative.
+- **Character Interpretation:** No attraction, no admiration beyond a child's practical respect for competence. This must remain strictly platonic per the Character Age Rule (`01-canon-rules.md`, `34-romance-harem-fanservice.md`) until she is textually an adult (~WC21+).
+- **Must Be Remembered Later:** Do not write this meeting, or any Iris scene before ~WC21, with romantic or attraction-coded framing. Her eventual quiet, unspoken feelings (established generally in `17-character-secrets.md`, `42-romance-continuity-memory.md`) begin developing only much later, around WC21–24.
 
 ### WC22 — Indirect Emotional Disclosure
 
