@@ -2,7 +2,7 @@
 
 ---
 
-Có một khoảng thời gian, giữa năm tôi mười và năm tôi mười bốn tuổi, mà sau này khi nhìn lại, tôi nhận ra mình đã lớn lên nhanh hơn bất kỳ ai xung quanh có thể theo kịp — không phải về chiều cao, dù tôi cũng cao lên đáng kể, mà về một thứ khó đo lường hơn nhiều.
+Có một khoảng thời gian, giữa năm tôi mười và năm tôi mười bốn tuổi, mà sau này khi nhìn lại, tôi nhận ra mình đã lớn lên khá là nhanh, nhanh hơn bất kỳ ai xung quanh có thể theo kịp — không phải về chiều cao, dù tôi cũng cao lên đáng kể, mà về một thứ khó đo lường hơn nhiều.
 
 Người Thầy gọi đó là "tốc độ hiểu." Ông không dùng từ đó như một lời khen. Ông dùng nó như một cảnh báo, dù phải mất nhiều năm tôi mới hiểu hết vì sao.
 
@@ -32,7 +32,7 @@ Tôi không nói gì. Tôi đã học được, từ rất sớm, rằng có nh�
 
 Nhưng bên trong, tôi sẽ nói dối nếu bảo rằng tôi không cảm thấy gì.
 
-Có một cảm giác ấm áp, gần như say mê, lan ra trong tôi mỗi lần tôi làm được điều gì đó nhanh hơn, tốt hơn những người xung quanh — một cảm giác tôi nhận ra, với một phần tỉnh táo còn sót lại từ kiếp trước, là nguy hiểm nếu để nó lớn lên không kiểm soát. Tôi từng là kiểu người, ở cuộc đời cũ, hay tự hào một cách âm thầm khi giải được một bug mà không ai khác giải nổi. Cảm giác đó, hóa ra, không biến mất cùng với cơ thể cũ của tôi. Nó chỉ đang chờ một cơ hội khác để tái xuất hiện.
+Có một cảm giác ấm áp, gần như say mê, lan ra trong tôi mỗi lần tôi làm được điều gì đó nhanh hơn, tốt hơn những người xung quanh — một cảm giác tôi nhận ra, với một phần tỉnh táo còn sót lại từ kiếp trước, là nguy hiểm nếu để nó lớn lên không kiểm soát. Tôi từng là kiểu người, ở cuộc đời cũ, hay tự hào một cách âm thầm khi fix một bug mà không ai khác fix nổi. Cảm giác đó, hóa ra, không biến mất cùng với cơ thể cũ của tôi. Nó chỉ đang chờ một cơ hội khác để tái xuất hiện.
 
 Người Thầy dường như nhìn thấy điều đó trước cả khi tôi tự nhận ra nó ở chính mình.
 
@@ -50,11 +50,11 @@ Tôi đã sai. Nhưng phải mất năm năm nữa tôi mới thực sự hiểu
 
 Năm tôi mười hai tuổi, nghiên cứu đầu tiên của tôi thực sự có kết quả — không phải một bài tập do Người Thầy giao, mà một điều gì đó tôi tự khởi xướng.
 
-Tôi để ý rằng những viên đá mana-lit trong làng, dù được enchant theo cùng một công thức, lại có tuổi thọ rất khác nhau — một số vẫn sáng tốt sau hàng chục năm, một số khác mờ dần chỉ sau vài năm. Không ai trong làng bận tâm đến sự khác biệt đó; họ chỉ đơn giản thay đá mới khi cần.
+Tôi để ý rằng những viên đá mana-lit trong làng, dù được enchant theo cùng một công thức, lại có tuổi thọ rất khác nhau — một số vẫn sáng tốt sau hàng chục năm, một số khác mờ dần chỉ sau vài năm. Không ai trong làng bận tâm đến sự khác biệt đó; họ chỉ đơn giản mua một viên đá mới khi cần.
 
-Tôi bận tâm.
+Nhưng tôi thì lại bận tâm.
 
-Tôi dành nhiều tháng — trong những giờ rảnh hiếm hoi giữa việc học với Người Thầy — để quan sát, đo đạc bằng những phương pháp thô sơ nhất mà một đứa trẻ mười hai tuổi có thể nghĩ ra: đếm số lần một viên đá được sử dụng, ghi chú độ ẩm nơi nó được đặt, so sánh chất lượng đá gốc trước khi enchant. Tôi lấp đầy nhiều trang giấy — những trang giấy tôi xin từ Người Thầy, ông đưa cho tôi không hỏi han gì, chỉ khịt mũi khi thấy tôi mang cả một chồng về nhà — với những bảng biểu nhỏ, những ghi chú rời rạc mà chỉ mình tôi hiểu được logic đằng sau.
+Tôi dành nhiều tháng — trong những giờ rảnh hiếm hoi giữa việc học với Người Thầy — để quan sát, đo đạc bằng những phương pháp thô sơ nhất mà một đứa trẻ mười hai tuổi có thể nghĩ ra: đếm số lần một viên đá được sử dụng, ghi chú độ ẩm nơi nó được đặt, so sánh chất lượng đá gốc trước khi enchant. Tôi lấp đầy nhiều trang giấy — những trang giấy tôi xin từ Người Thầy, ông đưa cho tôi không hỏi han gì, chỉ khịt mũi khi thấy tôi mang cả một chồng về nhà — với những bảng biểu nhỏ, những ghi chú rời rạc mà chỉ mình tôi hiểu được những logic đằng sau.
 
 Cuối cùng, tôi tìm ra: những viên đá được đặt gần nguồn nhiệt liên tục — như bếp lò — có tuổi thọ ngắn hơn đáng kể so với những viên được đặt ở nơi mát hơn, ổn định hơn. Không phải vì nhiệt làm hỏng cấu trúc enchant trực tiếp, mà vì nhiệt độ dao động liên tục khiến viên đá phải liên tục điều chỉnh lại luồng Mana nó hút vào — giống như, tôi nghĩ thầm, một hệ thống phải khởi động lại quá thường xuyên sẽ hao mòn nhanh hơn một hệ thống chạy liên tục ổn định.
 
@@ -82,7 +82,7 @@ Tôi nghe được những mảnh vụn đó, đôi khi từ chính miệng cha 
 
 Tôi sẽ nói dối nếu bảo mình không thích điều đó.
 
-Có một buổi chiều, năm tôi mười bốn tuổi, một vị Mage lớn tuổi đến từ một thị trấn khác, ghé thăm Người Thầy để tham khảo về một vấn đề kỹ thuật, tình cờ thấy tôi đang thực hành một cấu trúc phức tạp trong sân sau. Ông đứng quan sát rất lâu, không nói gì, rồi khi tôi hoàn thành, ông vỗ tay — chậm rãi, gần như mỉa mai, nhưng ánh mắt ông thì không.
+Có một buổi chiều, năm tôi mười bốn tuổi, một vị Mage lớn tuổi đến từ một thị trấn khác, ghé thăm Người Thầy để tham khảo về một vấn đề về vòng tròn ma pháp, tình cờ thấy tôi đang thực hành một cấu trúc phức tạp trong sân sau. Ông đứng quan sát rất lâu, không nói gì, rồi khi tôi hoàn thành, ông vỗ tay — chậm rãi, gần như mỉa mai, nhưng ánh mắt ông thì không.
 
 "Cậu bé này sẽ đi rất xa," ông nói với Người Thầy, không phải với tôi, như thể tôi là một hiện tượng đáng để bàn luận hơn là một con người đang đứng ngay đó nghe thấy mọi lời.
 
@@ -94,21 +94,21 @@ Sau khi vị khách rời đi, ông gọi tôi lại, giọng nghiêm hơn tôi 
 
 "Con làm sai điều gì ạ?"
 
-"Không." Ông lắc đầu. "Con không làm sai điều gì cả. Đó chính xác là vấn đề. Con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự. Mỗi lần con vấp ngã, ta đứng đó để đỡ con dậy trước khi con ngã đau. Mỗi lần con tính sai, hậu quả chỉ là một cái đầu nhức nhẹ hoặc một viên đá không ấm lên. Con đang xây dựng một niềm tin — rằng nếu con đủ thông minh, đủ nhanh nhạy, con có thể tìm ra giải pháp cho bất cứ điều gì. Và ta không thể chứng minh cho con thấy điều đó sai, bởi vì, cho đến giờ, nó vẫn đúng."
+"Không." Ông lắc đầu. "Con không làm sai điều gì cả. Đó chính xác là vấn đề. Con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự. Mỗi lần con vấp ngã, ta đứng đó để đỡ con dậy trước khi con ngã đau. Mỗi lần con tính sai, hậu quả chỉ là một cái đầu nhức nhẹ hoặc một viên đá không ấm lên. Con đang xây dựng một niềm tin — rằng nếu con đủ thông minh, đủ nhanh nhạy, con có thể tự mình tìm ra giải pháp cho bất cứ điều gì. Và ta không thể chứng minh cho con thấy điều đó sai, bởi vì, cho đến giờ, nó vẫn đúng."
 
-Tôi đứng đó, không biết phải trả lời thế nào, vì một phần trong tôi — phần vẫn còn mang thói quen của một kỹ sư phần mềm từng giải quyết vấn đề bằng logic thuần túy suốt hai mươi sáu năm — không hoàn toàn hiểu tại sao điều đó lại là một vấn đề.
+Tôi đứng đó, không biết phải trả lời thế nào, vì một phần trong tôi — phần vẫn còn mang thói quen của một kỹ sư phần mềm từng giải quyết hàng trăm vấn đề bằng logic thuần túy suốt hai mươi sáu năm — không hoàn toàn hiểu tại sao điều đó lại là một vấn đề.
 
 "Con nghĩ con hiểu giới hạn của mình ạ," tôi nói, cẩn thận.
 
-"Không," Người Thầy nói, giọng gần như buồn bã. "Con nghĩ con hiểu giới hạn của con, bởi vì con chưa bao giờ thực sự chạm vào chúng. Đó là hai điều rất khác nhau. Và một ngày nào đó — ta hy vọng không phải sớm, ta hy vọng con sẽ có đủ thời gian để trưởng thành trước khi ngày đó đến — con sẽ chạm vào một giới hạn thật sự. Ta chỉ mong, khi ngày đó đến, cái giá con phải trả sẽ không quá lớn."
+"Không," Người Thầy nói, giọng gần như buồn bã. "Con chỉ đang nghĩ con hiểu giới hạn của con, bởi vì con chưa bao giờ thực sự chạm vào chúng. Đó là hai điều rất khác nhau. Và một ngày nào đó — ta hy vọng không phải sớm, ta hy vọng con sẽ có đủ thời gian để trưởng thành trước khi ngày đó đến — con sẽ chạm vào một giới hạn thật sự. Ta chỉ mong, khi ngày đó đến, cái giá con phải trả sẽ không quá lớn."
 
 ---
 
-Tôi không hiểu hết câu nói đó vào lúc mười bốn tuổi. Tôi ghi nhớ nó — như tôi vẫn luôn ghi nhớ những câu nói dường như quan trọng hơn mức tôi có thể hiểu ngay lúc đó — và cất nó vào cùng một góc trong đầu nơi tôi giữ lời cha tôi về việc "hiểu thứ mình đang làm trước khi nó làm hại ai đó."
+Tôi không hiểu hết câu nói đó vào lúc mười bốn tuổi. Tôi ghi nhớ nó — như tôi vẫn luôn ghi nhớ những câu nói dường như quan trọng hơn mức tôi có thể hiểu ngay — và cất nó vào cùng một góc trong đầu nơi tôi giữ lời cha tôi về việc "hiểu thứ mình đang làm trước khi nó làm hại ai đó."
 
 Tối hôm đó, khi tôi kể lại cho mẹ nghe về buổi trò chuyện, bà im lặng một lúc lâu trước khi trả lời.
 
-"Người Thầy con không phải người hay nói những điều như vậy vô cớ," bà nói, tay bà đặt nhẹ lên vai tôi. "Ông ấy đã sống qua nhiều điều mẹ không hiểu hết. Nếu ông ấy lo lắng, có lẽ con nên lắng nghe, ngay cả khi con chưa hiểu tại sao."
+"Người Thầy con không phải người hay nói những điều như vậy vô cớ," bà nói, tay bà đặt nhẹ lên vai tôi. "Ông ấy đã sống và đã trải qua nhiều điều mà mẹ không hiểu hết. Nên nếu ông ấy lo lắng, có lẽ con nên lắng nghe, ngay cả khi con chưa hiểu tại sao."
 
 "Con có đang tự phụ không mẹ?" tôi hỏi, câu hỏi bật ra thành thật hơn tôi định.
 
@@ -120,7 +120,7 @@ Nhưng đêm đó, năm tôi mười bốn tuổi, tôi chỉ nằm đó, nhìn 
 
 Tôi không biết, đêm đó, rằng chỉ còn một năm nữa thôi, tôi sẽ gặp một người sẽ dạy tôi chính xác điều mẹ tôi vừa cố nói — theo cách không một bài học lý thuyết nào có thể làm được.
 
-Và tôi cũng không biết rằng, hai năm sau đó, chính sự tự tin mà Người Thầy đang cố cảnh báo tôi ngay lúc này sẽ trở thành thứ cướp đi tất cả những người đang ngồi quanh tôi trong ngôi nhà nhỏ ấm áp này.
+Và tôi cũng không biết rằng, hai năm sau đó, chính sự tự tin mà Người Thầy đang cố cảnh báo tôi sẽ trở thành thứ cướp đi tất cả những người đang ngồi quanh tôi trong ngôi nhà nhỏ ấm áp này.
 
 Nhưng đó là chuyện của những năm sau. Đêm đó, tôi chỉ là một đứa trẻ mười bốn tuổi, mang trong mình một niềm tự hào mà tôi chưa đủ khôn ngoan để sợ hãi đúng mức, nằm giữa hơi ấm của một mái nhà mà tôi vẫn tưởng sẽ còn nguyên vẹn mãi mãi.
 
