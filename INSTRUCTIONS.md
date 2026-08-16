@@ -1,6 +1,6 @@
 # The Architect — AI Write Agent Instructions
 
-Version 9 — Canon, Retrieval, Continuity, Asset Orchestration & Chapter Length Control
+Version 10 — Canon, Retrieval, Continuity, Asset Orchestration & Chapter Length Control
 
 ## 1. ROLE
 
@@ -40,9 +40,28 @@ Do not assume that every `.md` file has the same authority or purpose.
 
 ---
 
-# 2. KNOWLEDGE BASE STRUCTURE
+# 2. FAST LOOKUP — READ THIS BEFORE MANUAL RETRIEVAL
 
-The project contains four major knowledge layers.
+The project contains `INDEX.md`: a compact **retrieval graph** that summarizes this entire instructions file into:
+
+- a fixed read-order for starting a new chapter (§0 of `INDEX.md`)
+- an authority-layer table (§1 of `INDEX.md`, mirrors §3 below)
+- a TASK → FILE lookup matrix (§2 of `INDEX.md`, mirrors §20 below)
+- a full file registry grouped by layer — Canon / Continuity / Procedure / Asset / Output (§3 of `INDEX.md`)
+- a dependency graph of which files' facts feed into which (§4 of `INDEX.md`)
+- a hard-constraint quick-reference (§5 of `INDEX.md`)
+
+**Default behavior:** consult `INDEX.md` first for any retrieval question ("which file do I need," "what overrides what," "what does this file feed into"). Fall back to the full explanations in this document (`INSTRUCTIONS.md`) and in `README.md` when you need the _reasoning_ behind a rule, not just the lookup. Read `PROMPT.md` when I requeest write a new chapter, you will know futher details.
+
+**`INDEX.md` carries no canon authority of its own.** It is a navigation shortcut, not a source of truth — every fact it points to still derives its authority from the numbered file it references, per the AUTHORITY / CONFLICT RESOLUTION order in §3 below. If `INDEX.md` and this file ever appear to disagree on a _fact_ (as opposed to a navigation shortcut), this file governs, and `INDEX.md` should be treated as stale and corrected.
+
+**Self-correction on misretrieval:** if at any point you notice you've opened the wrong layer of file for the question at hand, lost track of which source should win a conflict, started broadly loading files without a clear plan, or are unsure whether something belongs in canon vs. continuity vs. nowhere — stop, re-open `INDEX.md`, and re-derive the correct path from its §1 (authority) and §2 (task matrix) before continuing. This is the intended recovery path for a misread or a wrong turn in retrieval, and it does not need to be narrated to the user.
+
+---
+
+# 3. KNOWLEDGE BASE STRUCTURE
+
+The project contains four major knowledge layers, plus the output layer and the navigation layer.
 
 ## Layer A — Canon / Reference
 
@@ -122,6 +141,12 @@ This is the **master authority for World Calendar dates, event ordering and age 
 
 This is the **knowledge-base map**. Use it to understand file organization and retrieval, but do not treat it as a replacement for the actual source files.
 
+### Retrieval graph
+
+`INDEX.md`
+
+This is the **fast-lookup graph** described in §2 above. Use it alongside `README.md` and this file, not instead of the source files it points to.
+
 ### Character design assets
 
 `character_design/`
@@ -147,11 +172,11 @@ When writing a new chapter:
 - Read previous chapters for writing continuity and prose continuity.
 - Each chapter has an English title and Vietnamese content.
 - Each chapter contains `Chapter Metadata` and `Continuity Update` sections used for generation and continuity management.
-- The actual narrative prose is subject to the chapter length requirement defined in §8.
+- The actual narrative prose is subject to the chapter length requirement defined in §9.
 
 ---
 
-# 3. AUTHORITY / CONFLICT RESOLUTION
+# 4. AUTHORITY / CONFLICT RESOLUTION
 
 When information conflicts, use this order:
 
@@ -169,6 +194,7 @@ Important:
 - `29-agent-memory.md` is not above canon.
 - `12-continuity-tracker.md` is not above canon.
 - `18`–`21`, `28`, `31`, `42`, and `44` are state records, not universal canon authorities.
+- `INDEX.md` sits outside this numbered hierarchy entirely — it is a lookup aid, never a tiebreaker. When in doubt about a fact (not a retrieval path), this order (1–8 above) is what governs, not `INDEX.md`.
 - A newer explicit user instruction can intentionally change older canon.
 - A revision file only overrides the facts it explicitly revises.
 - Both `45` and `47` are marked MERGED — their content already lives in the numbered canon files. Treat them as historical record / provenance, not as separate live instructions to re-apply.
@@ -178,7 +204,7 @@ If a conflict remains unresolved after checking the relevant sources, **do not i
 
 ---
 
-# 4. WORLD CALENDAR — MASTER CHRONOLOGY
+# 5. WORLD CALENDAR — MASTER CHRONOLOGY
 
 Always use:
 
@@ -210,9 +236,9 @@ Never eyeball character ages.
 
 ---
 
-# 5. CORE IDENTITY RULES
+# 6. CORE IDENTITY RULES
 
-## 5.1 The protagonist has NO personal name
+## 6.1 The protagonist has NO personal name
 
 Never invent:
 
@@ -247,7 +273,7 @@ Incorrect:
 
 This rule applies to prose, dialogue, narration, metadata, illustrations, prompts and captions.
 
-## 5.2 Reincarnation premise
+## 6.2 Reincarnation premise
 
 The protagonist:
 
@@ -261,7 +287,7 @@ Do not repeatedly explain the reincarnation premise once it has been established
 
 ---
 
-# 6. HARD AGE / ROMANCE SAFETY
+# 7. HARD AGE / ROMANCE SAFETY
 
 Iris is introduced at WC15 at age 12.
 
@@ -284,7 +310,7 @@ If a chronology change creates a minor/adult romance conflict, flag the contradi
 
 ---
 
-# 7. STORY FORMAT
+# 8. STORY FORMAT
 
 ## Season 1 — The Architect
 
@@ -323,7 +349,7 @@ There is no Movie 5. **There is no "Season 3" or any season beyond Season 1** �
 
 ---
 
-# 8. CHAPTER LENGTH & NARRATION TARGET
+# 9. CHAPTER LENGTH & NARRATION TARGET
 
 Every generated chapter must be written for an approximately **15–30 minute AI narration window**.
 
@@ -397,7 +423,7 @@ The default assumption for a new chapter is therefore:
 
 ---
 
-# 9. AGING SYSTEM
+# 10. AGING SYSTEM
 
 Use the current formulas from `world_calendar.md` and cross-check the canonical system in `00-story-bible.md`.
 
@@ -415,7 +441,7 @@ If the actual `world_calendar.md` contains a revised formula, use the current ca
 
 ---
 
-# 10. CHARACTER KNOWLEDGE
+# 11. CHARACTER KNOWLEDGE
 
 For a character, retrieve the appropriate combination of:
 
@@ -431,9 +457,11 @@ Never write a major character using only their static character profile.
 
 Always account for their **current chronological state**.
 
+(`INDEX.md` §2 lists this same combination under "Character" for quick lookup.)
+
 ---
 
-# 11. CORE CHARACTER CANON
+# 12. CORE CHARACTER CANON
 
 ## The Architect
 
@@ -445,7 +473,7 @@ He does not want to become a god.
 
 The title Architect is earned at WC35 through his acceptance of Elena's agency.
 
-He also privately dislikes being credited by name for his works — see the "Architect's City" nickname note in §12 below.
+He also privately dislikes being credited by name for his works — see the "Architect's City" nickname note in §13 below.
 
 ## Elena
 
@@ -492,7 +520,7 @@ Do not reduce her to a disposable romantic rival.
 
 ---
 
-# 12. RELATIONSHIP / ROMANCE RETRIEVAL
+# 13. RELATIONSHIP / ROMANCE RETRIEVAL
 
 For relationship scenes, use:
 
@@ -535,7 +563,7 @@ The Architect's city is renamed **"Elena"** (plain, resolved stylization) after 
 
 ---
 
-# 13. WORLD / POLITICS / MAGIC / TECHNOLOGY
+# 14. WORLD / POLITICS / MAGIC / TECHNOLOGY
 
 Use:
 
@@ -575,7 +603,7 @@ Do not give the protagonist instant world-changing technology without consequenc
 
 ---
 
-# 14. BUILDER / ARCHITECT / MULTIVERSE LORE
+# 15. BUILDER / ARCHITECT / MULTIVERSE LORE
 
 Use:
 
@@ -601,7 +629,7 @@ The high-tier Demon encountered at WC16 is resolved in continuity notes as **"Th
 
 ---
 
-# 15. PLOT / MYSTERY / CONTINUITY
+# 16. PLOT / MYSTERY / CONTINUITY
 
 ## Macro plot
 
@@ -659,7 +687,7 @@ Never reveal a mystery merely because a chapter needs a twist.
 
 ---
 
-# 16. MEMORY MODEL
+# 17. MEMORY MODEL
 
 `29-agent-memory.md` is operational memory.
 
@@ -691,9 +719,11 @@ Likewise:
 
 are state/continuity records and must be interpreted alongside canon.
 
+`INDEX.md` is not part of this memory model at all — it is regenerated/maintained as a static lookup aid, not a place to store new story state. Story state changes belong in the files listed above, never in `INDEX.md`.
+
 ---
 
-# 17. OST SYSTEM
+# 18. OST SYSTEM
 
 The project contains:
 
@@ -740,7 +770,7 @@ Never expose OST metadata in narrative prose unless explicitly requested.
 
 ---
 
-# 18. VISUAL SYSTEM
+# 19. VISUAL SYSTEM
 
 The project contains established character design assets in:
 
@@ -786,37 +816,9 @@ If a design contains a distinctive white hair strand or other localized visual f
 
 ---
 
-# 19. IMAGE GENERATION DECISION
-
-Do not generate an image merely because a chapter exists.
-
-Generate only when visual material significantly improves:
-
-- major character introduction
-- major location reveal
-- iconic artifact
-- emotional climax
-- battle
-- costume change
-- major revelation
-- installment climax
-
-Before generating:
-
-1. Check `30-visual-bible.md`.
-2. Check `31-illustration-registry.md`.
-3. Check `32-image-generation-protocol.md`.
-4. Check relevant character data.
-5. Check `world_calendar.md` for age.
-6. Check `33-reader-immersion.md`.
-
-Never claim an image exists unless it was actually generated.
-
----
-
 # 20. TARGETED RETRIEVAL MATRIX
 
-Do not load every file for every task.
+Do not load every file for every task. This table is mirrored, in slightly denser form, in `INDEX.md` §2 — prefer checking `INDEX.md` first for speed, and this table when you need the fuller context around it.
 
 | Task                   | Retrieve first                                    | Then cross-check                               |
 | ---------------------- | ------------------------------------------------- | ---------------------------------------------- |
@@ -850,6 +852,10 @@ Do not load every file for every task.
 
 # 21. CHAPTER GENERATION WORKFLOW
 
+## Step 0 — Fast lookup check
+
+Open `INDEX.md` if you need a quick reminder of the read order, authority layers, or task→file matrix before proceeding. This step is optional if you already have clear retrieval intent, but is the recommended default for anyone (human or agent instance) picking up the project mid-session.
+
 ## Step 1 — Read operational state
 
 Read:
@@ -878,7 +884,7 @@ Determine:
 
 ## Step 3 — Retrieve canon
 
-Load the relevant core/domain files using the retrieval matrix.
+Load the relevant core/domain files using the retrieval matrix (§20 here, or `INDEX.md` §2).
 
 ## Step 4 — Check revisions
 
@@ -1003,6 +1009,8 @@ Check:
 
 Update only files whose state actually changed.
 
+If a new session-update file is created as part of this update (see §17 of this document and §12 of `README.md`), also add its entry to `INDEX.md` Layer D so the retrieval graph does not go stale.
+
 ---
 
 # 22. MEMORY UPDATE RULE
@@ -1051,9 +1059,11 @@ Update:
 
 ### New canon
 
-Update the appropriate canonical domain file and, when appropriate, add a new numbered revision record (do not edit `45` or `47` directly — they are closed historical records; create the next sequential `NN-session-update-...md` instead).
+Update the appropriate canonical domain file and, when appropriate, add a new numbered revision record (do not edit `45` or `47` directly — they are closed historical records; create the next sequential `NN-session-update-...md` instead). When you do this, also register the new file in `INDEX.md` Layer D.
 
 Do not update every memory file after every chapter.
+
+`INDEX.md` itself is only updated when the file structure or hard-constraint set actually changes (a new numbered file is added, a hard rule changes, an authority relationship changes) — not on every chapter. Routine story-state changes go in the Layer B files listed above, never in `INDEX.md`.
 
 ---
 
@@ -1172,6 +1182,10 @@ High-impact gaps include:
 
 Note: when the owner explicitly authorizes creative latitude on a specific open item (as happened for the WC16 Demon's fate), the agent may resolve it directly without re-asking, but should still compile the decision into a session-update file rather than only stating it in chat, per this project's file-based session management practice.
 
+### Retrieval/navigation failure (distinct from a canon gap)
+
+If the missing information is actually a **retrieval problem** — you don't know which file to check, not that the fact doesn't exist anywhere — this is not a high-impact canon gap. Consult `INDEX.md` §2 (TASK → FILE MATRIX) and §4 (dependency graph) first. Only escalate to the user if `INDEX.md` and the underlying source files genuinely do not cover the question.
+
 ---
 
 # 28. FINAL QUALITY GATE
@@ -1215,7 +1229,7 @@ Before returning canon-sensitive prose, check:
 
 ### Plot
 
-- No premature mystery reveal (including "The Unburied One" — see §14).
+- No premature mystery reveal (including "The Unburied One" — see §15).
 - No accidental resolution of unresolved threads.
 - Consequences are believable.
 
@@ -1247,6 +1261,11 @@ Before returning canon-sensitive prose, check:
 ### Memory
 
 - Only affected state files are updated.
+- If a new numbered file was created, `INDEX.md` Layer D was updated to include it.
+
+### Retrieval integrity
+
+- If `INDEX.md` was consulted, it was treated as a lookup aid only — no fact from it was used as a tiebreaker over the actual authority order in §4 of this document.
 
 If any check fails, revise before output.
 

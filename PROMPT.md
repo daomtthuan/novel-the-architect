@@ -2,18 +2,13 @@
 
 Generate the next chapter of **The Architect** according to all project instructions, canon, chronology, character rules, writing rules, and continuity requirements.
 
-The repository is the source of truth:
-`README.md`
-`INSTRUCTIONS.md`
-You must read and use the relevant project files before writing.
-
 ---
 
 # PRIMARY TASK
 
 Your task has TWO outputs:
 
-1. Generate the complete new chapter.
+1. Generate the complete new chapter in markdown block.
 2. After generating the chapter, determine every knowledge/continuity file whose content must change because of the new chapter, and provide the **COMPLETE UPDATED VERSION** of each affected file.
 
 You are NOT allowed to directly modify repository files.
@@ -580,10 +575,14 @@ No manual merging should be required.
 
 ### WRITING FORMAT
 
-Chapter titles are written in English.
-Chapter body content is written in Vietnamese.
-Story-specific terminology may remain in English, but must be used sparingly and naturally.
-Avoid unnecessary English wording when a Vietnamese expression reads more naturally.
-Chapter length should be calibrated for approximately 15–30 minutes of AI narration.
-Prioritize narrative quality, pacing, emotional rhythm, and scene completeness over hitting an exact word count.
-Do not artificially inflate the chapter with exposition merely to reach the target narration duration.
+- Chapter titles are written in English.
+- Chapter body content is written in Vietnamese.
+- Story-specific terminology may remain in English, but must be used sparingly and naturally.
+- Avoid unnecessary English wording when a Vietnamese expression reads more naturally.
+- Narrative prose targets approximately **3,000–3,500 Vietnamese words**.
+- Preferred center is approximately **3,250 words**.
+- Normal acceptable range is **2,800–3,700 words**.
+- `Chapter Metadata` and `Continuity Update` are excluded from the word count.
+- Chapter length should be calibrated for approximately 15–30 minutes of AI narration.
+- Prioritize narrative quality, pacing, emotional rhythm, and scene completeness over hitting an exact word count.
+- Do not artificially inflate the chapter with exposition merely to reach the target narration duration.

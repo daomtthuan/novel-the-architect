@@ -1,6 +1,6 @@
 # The Architect — AI Write Agent Knowledge Base
 
-Version: 8
+Version: 9
 
 This directory is the complete knowledge base and asset library for **The Architect**.
 
@@ -8,7 +8,36 @@ The project is organized so that the AI Write Agent can retrieve the smallest re
 
 ---
 
+# 0. FAST LOOKUP — `INDEX.md`
+
+Before doing manual retrieval by reading through this README section by section, check:
+
+## `INDEX.md`
+
+The **retrieval graph**.
+
+It is not canon and not a procedural guide — it is a navigation aid that compresses this README and `INSTRUCTIONS.md`'s retrieval logic into:
+
+- a fixed read-order for starting a new chapter
+- an authority-layer table (what overrides what)
+- a TASK → FILE lookup matrix
+- a full file registry grouped by layer (Canon / Continuity / Procedure / Asset / Output)
+- a dependency graph showing which files' facts feed into which
+- a hard-constraint quick-reference (name rule, Iris age gate, Elena rules, Builder≠Architect, no "Season 3," city name, chapter length)
+
+**If the agent is ever unsure which file to open, misreads a retrieval instruction, loses track of the authority hierarchy, or is about to load files broadly instead of narrowly — stop and consult `INDEX.md` first.** It exists specifically to prevent misretrieval and over-loading. `INDEX.md` itself carries no canon authority; it only points at the files that do (per §2 AUTHORITY MODEL below and §1 of `INDEX.md` itself). If `INDEX.md` and this README or `INSTRUCTIONS.md` ever appear to disagree on a fact (not on navigation), the numbered canon/continuity files are still what's authoritative — treat the disagreement as a signal to re-check the source file directly, and flag it rather than silently trusting either navigation document.
+
+Use `INDEX.md` for fast lookup. Use this README and `INSTRUCTIONS.md` for full explanations of _why_ the rules exist and _how_ to apply them.
+
+Use `PROMPT.md` for futher task details when I request to writing a new chapter.
+
+---
+
 # 1. ENTRY POINTS
+
+## `INDEX.md`
+
+The **retrieval graph**. See §0 above. Use this for quick task→file lookup and to self-correct if retrieval goes off track.
 
 ## `INSTRUCTIONS.md`
 
@@ -26,7 +55,7 @@ It defines:
 - visual rules
 - memory update rules
 
-The agent should consult `INSTRUCTIONS.md` before performing a canon-sensitive writing task.
+The agent should consult `INSTRUCTIONS.md` before performing a canon-sensitive writing task. `INSTRUCTIONS.md` itself opens by pointing to `INDEX.md` for fast lookup — see `INSTRUCTIONS.md` §2.
 
 ## `README.md`
 
@@ -35,6 +64,10 @@ The **knowledge-base index**.
 It tells the agent what each file and asset group is for.
 
 It is a navigation/reference document, not a replacement for the underlying source files.
+
+## `PROMPT.md`
+
+The details task when writing a new chapter.
 
 ## `world_calendar.md`
 
@@ -73,6 +106,8 @@ When sources conflict:
 Do not resolve important conflicts silently.
 
 `29-agent-memory.md` is mutable state, not superior canon.
+
+`INDEX.md` is a navigation aid, not a canon authority — it sits outside this numbered hierarchy entirely. It never overrides any of the eight levels above; it only helps the agent find the right level faster. If `INDEX.md`'s summarized authority table ever seems to conflict with this section, this section (§2 of `README.md`, mirrored in `INSTRUCTIONS.md` §3) governs, and `INDEX.md` should be corrected to match.
 
 ---
 
@@ -264,7 +299,7 @@ Status: **MERGED.** A full knowledge-base conflict pass (found and fixed the str
 - The city's final name is resolved as plain **"Elena"** (no derived stylization), with a new motivation layer — the Architect's dislike of the informal "Architect's City" nickname (~WC28–31).
 - The WC16 high-tier Demon's fate is resolved (continuity name **"The Unburied One"**): critically wounded rather than killed, dormant WC16–32, secretly influencing Seraphine's domination-seeking faction from the shadows, presumed-but-unconfirmed destroyed at WC40. See `26-mystery-board.md`, `27-conflict-and-antagonist-board.md`, `28-unresolved-threads.md` for full detail and reveal-discipline notes (backstage only until at least Movie 1).
 
-Both revision/session files are retained as historical decision records. They do not need to be re-applied — their content already lives in the relevant numbered canon files above. Future sessions should add a new numbered `NN-session-update-...md` file for new canon decisions rather than editing these two.
+Both revision/session files are retained as historical decision records. They do not need to be re-applied — their content already lives in the relevant numbered canon files above. Future sessions should add a new numbered `NN-session-update-...md` file for new canon decisions rather than editing these two. Whenever a new session-update file is added, also add it to `INDEX.md` Layer D so the retrieval graph stays current — see `INDEX.md` §6.
 
 ---
 
@@ -306,6 +341,8 @@ Then add:
 when relevant.
 
 Always consider the character's current WC state.
+
+(This retrieval sequence is also mirrored in `INDEX.md` §2 and §4 for quick lookup.)
 
 ---
 
@@ -499,19 +536,19 @@ Therefore, it never silently overrides:
 For a new chapter:
 
 ```text
-1. Read INSTRUCTIONS.md
+1. Read INSTRUCTIONS.md (or INDEX.md §0 for the fast version)
 2. Read 29-agent-memory.md
 3. Read 12-continuity-tracker.md
 4. Establish installment + WC + POV + location + characters
 5. Check world_calendar.md
-6. Retrieve only relevant domain files
+6. Retrieve only relevant domain files (use INDEX.md §2 TASK MATRIX)
 7. Check revision file(s) when applicable (45, 47)
 8. Write using the writing procedures
 9. Validate continuity
 10. Update only affected state files
 ```
 
-Do not load all project files blindly.
+Do not load all project files blindly. If retrieval feels uncertain at any step, stop and consult `INDEX.md` rather than guessing or broadening the search arbitrarily.
 
 ---
 
@@ -527,8 +564,22 @@ Do not load all project files blindly.
 - No romantic/sexualized framing of a character before textual adulthood.
 - `world_calendar.md` is the master chronology.
 - `29-agent-memory.md` is mutable state.
+- `INDEX.md` is a navigation aid only — it carries no canon authority of its own; consult it for retrieval speed, not for facts.
 - OST is internal writing guidance unless explicitly requested otherwise.
 - Established visual designs must remain consistent.
 - The saga is **Season 1 + Movies 1–4** only — there is no "Season 3" (corrected in `43-ost-reference.md`, v8).
 - The Architect's city is renamed **"Elena"** (plain stylization, resolved v8) after her death — see `05-world.md`.
 - The WC16 Demon ("The Unburied One") is resolved but its full WC16→WC35 connection must stay backstage until at least Movie 1 — see `26-mystery-board.md`.
+
+---
+
+# 25. SELF-CORRECTION ON MISRETRIEVAL
+
+If the agent notices, mid-task, that it has:
+
+- opened a file that turned out to be the wrong layer for the question asked (e.g. read a Layer B state file expecting Layer A canon),
+- lost track of which file wins in a conflict,
+- started loading many files without a clear plan, or
+- is unsure whether a fact belongs in a canon file, a continuity file, or should not be written into any file at all,
+
+then it should stop, open `INDEX.md`, and re-derive the correct retrieval path from §2 (TASK → FILE MATRIX) and §1 (AUTHORITY LAYERS) before continuing. This is cheaper and safer than continuing on a possibly-wrong file and is the intended failure-recovery path for retrieval mistakes. `INDEX.md` does not need to be announced to the user when consulted this way — it is an internal navigation step, like re-reading a table of contents.
