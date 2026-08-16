@@ -12,11 +12,11 @@ Reality contains multiple branches. Choices produce divergent histories. Not eve
 
 **"Builder"** is the general term for any transmigrated/reincarnated consciousness that carries the systems-shaping aptitude the protagonist displays. Many Builders have existed across history and across timelines, before and alongside him — referred to collectively as **the Other Builders**.
 
-Being a Builder is a *capacity*, not a title of honor.
+Being a Builder is a _capacity_, not a title of honor.
 
 ## Architect vs. Builder — the central distinction
 
-**"The Architect"** is not synonymous with "Builder." It is a specific, earned state: a Builder becomes "an Architect" only by completing their great work *while preserving the free agency of the person they love most*, at the moment it would be easiest to override it.
+**"The Architect"** is not synonymous with "Builder." It is a specific, earned state: a Builder becomes "an Architect" only by completing their great work _while preserving the free agency of the person they love most_, at the moment it would be easiest to override it.
 
 The primary protagonist becomes The Architect at WC35, by accepting Elena's own choice to become the Ark's core instead of forcing an alternative to save her.
 

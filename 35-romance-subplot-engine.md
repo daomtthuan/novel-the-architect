@@ -27,21 +27,27 @@ Before writing a chapter:
 ## Types of Romantic Beats
 
 ### Micro Beat
+
 One line or gesture — e.g., Iris quietly noticing the Architect is exhausted; Seraphine teasing him and getting no rise out of him.
 
 ### Comedy Beat
+
 A misunderstanding or teasing exchange, most often Seraphine-driven.
 
 ### Emotional Beat
+
 A character reveals genuine vulnerability — e.g., Seraphine's guilt; Iris's restraint; Isolde's relief at being refused for the right reasons.
 
 ### Relationship Beat
+
 A bond changes — e.g., Iris's decision to step back at the wedding (WC24).
 
 ### Political Romance Beat
+
 Isolde's arc is built almost entirely from this type.
 
 ### Foreshadowing Beat
+
 A seemingly harmless interaction becomes meaningful later — e.g., Elena's jealousy of Seraphine (WC33) foreshadowing Seraphine's later guilt and devotion to the Son.
 
 ## Anti-Pattern

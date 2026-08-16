@@ -20,7 +20,7 @@ Foreshadow (from ~WC15, strictly platonic at that stage): quiet loyalty; noticin
 
 ## Seraphine
 
-Foreshadow: her early teasing hides real perceptiveness; she is one of the first to see through the Architect's public composure, even while trying to seduce him for entirely different reasons; her eventual guilt is seeded in how *easily* she succeeds at provoking Elena's jealousy (WC33) — planting the idea that her actions have real consequences.
+Foreshadow: her early teasing hides real perceptiveness; she is one of the first to see through the Architect's public composure, even while trying to seduce him for entirely different reasons; her eventual guilt is seeded in how _easily_ she succeeds at provoking Elena's jealousy (WC33) — planting the idea that her actions have real consequences.
 
 ## Isolde
 

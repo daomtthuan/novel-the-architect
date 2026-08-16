@@ -7,69 +7,91 @@ Track every canonical or planned generated illustration.
 ## Record Template
 
 ### Illustration ID
-ILL-[INSTALLMENT]-C[chapter]-[seq]  (e.g. ILL-S01-C001-01, ILL-M01-C001-01)
+
+ILL-[INSTALLMENT]-C[chapter]-[seq] (e.g. ILL-S01-C001-01, ILL-M01-C001-01)
 
 ### Status
+
 PLANNED / GENERATED / CANONICAL / REJECTED
 
 ### Installment
+
 Season 1 / Movie 1 / Movie 2 / Movie 3 / Movie 4
 
 ### Chapter
+
 -
 
 ### WC Year
+
 -
 
 ### Scene
+
 -
 
 ### Purpose
+
 CHARACTER / LOCATION / EMOTIONAL / ACTION / CONCEPT / CLIMAX
 
 ### Characters
+
 -
 
 ### Ages (computed via Aging Rate System)
+
 -
 
 ### Location
+
 -
 
 ### Clothing
+
 -
 
 ### Emotional State
+
 -
 
 ### Action
+
 -
 
 ### Camera
+
 -
 
 ### Composition
+
 -
 
 ### Lighting
+
 -
 
 ### Art Direction
+
 -
 
 ### Protagonist Framing
+
 READER-PROJECTABLE / FULL FACE ALLOWED / SILHOUETTE
 
 ### Continuity References
+
 -
 
 ### Prompt
+
 -
 
 ### Generated Result Notes
+
 -
 
 ### Canon Decision
+
 -
 
 ## Rules
@@ -87,6 +109,7 @@ READER-PROJECTABLE / FULL FACE ALLOWED / SILHOUETTE
 ## Suggested Illustration Priority
 
 P0 — essential
+
 - Elena introduction (WC15)
 - The Teacher's death (WC16)
 - first city reveal
@@ -98,12 +121,14 @@ P0 — essential
 - final Home
 
 P1 — highly valuable
+
 - major character introductions (Iris, Seraphine, Isolde);
 - major locations;
 - political turning points;
 - major magical technology.
 
 P2 — optional
+
 - comedy;
 - slice of life;
 - fanservice;

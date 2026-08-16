@@ -8,7 +8,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
 
 ## Era 1 — Childhood & Discovery (WC 0–14)
 
-- **WC0**: Birth of The Architect. A Human consciousness is reborn as a newborn in the new world, retaining full adult memory and reasoning. *(Background, v7: his biological parents in this world are both retired A-rank adventurers — a swordsman father and a healer/enchantress mother — who married and retired from adventuring shortly before his birth, disbanding a five-person A-rank party. See `45-session-update-wc16-revision-and-worldbuilding.md` §4 and `03-characters.md`.)*
+- **WC0**: Birth of The Architect. A Human consciousness is reborn as a newborn in the new world, retaining full adult memory and reasoning. _(Background, v7: his biological parents in this world are both retired A-rank adventurers — a swordsman father and a healer/enchantress mother — who married and retired from adventuring shortly before his birth, disbanding a five-person A-rank party. See `45-session-update-wc16-revision-and-worldbuilding.md` §4 and `03-characters.md`.)_
 - **WC1–8**: Childhood. Unusually fast development of cause-and-effect thinking, systematic experimentation, and early exposure to magic. Recognizes magic has observable rules.
 - **WC3**: Iris is born.
 - **WC9**: Meets The Teacher — at the Father's request, since the Teacher was formerly the mage of the same disbanded adventuring party — who recognizes his prodigious aptitude.
@@ -23,7 +23,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
   The engagement escalates unexpectedly into a fight against a **high-tier Demon**, far stronger than anticipated. The Architect deduces what he believes is the Demon's weakness — overconfidence: the Demon deliberately baits the party, exploiting his tactical read. He is badly wounded; the rest of the party is forced into an all-out defense to save him, absorbing the Demon's finishing blow meant for him. His father physically throws him clear at the last possible moment.
   **Father, Mother, The Teacher, and the Scout all die. The Architect is the sole survivor of the battle.** The Guild Master, not present, survives and later supports the Architect materially and politically through The Guild.
   This tactical miscalculation — not merely The Teacher's death alone — is the trigger for the Architect's descent into cold, control-obsessed thinking.
-  *(Demon's fate, RESOLVED v8 — see `26-mystery-board.md`, `28-unresolved-threads.md`: the Demon, continuity name "The Unburied One," is critically wounded rather than killed, and driven into a long dormancy. Keep this connection to later events backstage in Season 1 prose.)*
+  _(Demon's fate, RESOLVED v8 — see `26-mystery-board.md`, `28-unresolved-threads.md`: the Demon, continuity name "The Unburied One," is critically wounded rather than killed, and driven into a long dormancy. Keep this connection to later events backstage in Season 1 prose.)_
 - **WC17–19**: The Architect continues research but grows colder; Elena and Iris stay close to him; first real magical technologies emerge; his influence in the mage world grows.
 - **WC20–21**: Kingdoms and Empires begin to notice him; Elena tries to pull him back toward an ordinary life; he begins engaging in politics with the belief that people can be managed like systems.
 - **WC22**: Darkest Point. Great achievement, greatest distance from other people. Elena does not leave him.
@@ -52,13 +52,13 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
 
 - **WC36**: After Elena. The Architect collapses emotionally. Seraphine begins visiting regularly, offering comfort he refuses; she asks him to call her "Sera" as proof she is no longer his enemy — he agrees to the name only. Iris helps care for the Son.
 - **WC37–41**: The Great War continues toward a ceasefire; the Son develops normally in early infancy/toddlerhood; the Architect slowly returns to fatherhood; Iris and Seraphine both become fixtures in the Son's early life. The Architect begins rebuilding his destroyed home city.
-- **WC40**: Great War turning point — Demon territories collapse. *(New, v8: "The Unburied One," dormant since WC16, is presumed — but not confirmed — destroyed in this collapse. See `26-mystery-board.md`, `28-unresolved-threads.md`.)*
+- **WC40**: Great War turning point — Demon territories collapse. _(New, v8: "The Unburied One," dormant since WC16, is presumed — but not confirmed — destroyed in this collapse. See `26-mystery-board.md`, `28-unresolved-threads.md`.)_
 - **WC42–47**: Reconstruction Era. Iris begins playful sword-training with the Son (~WC42), then formal First Sword Training (~WC43); the rebuilt city — renamed "Elena" after his wife's death — grows into a full civilization; academies and research institutions are founded to spread knowledge rather than hoard it.
 - **WC48–52**: The Reform — the Architect actively dismantles his own "Darkest Point" systems that risked treating people as variables. Sometime in this stretch, Seraphine genuinely falls in love with the Architect and, as a direct consequence, permanently loses her demonic combat power, retaining only ordinary magic; she stops fighting entirely and begins teaching the Son magic instead (~WC48). Formal "Training Era" for the Son begins (~WC51). The Son starts asking about Elena.
 - **WC53–58**: The Son begins independently researching history and Elena; discovers inconsistencies with what his father has told him; first ideological friction between father and son; Iris becomes the Son's primary source of (partial) truth about Elena.
 - **WC59–66**: The Son finds records pointing toward The Ark; the Architect begins guarding information more tightly; father-son distance widens into open ideological conflict; Iris and Seraphine both try to prevent the rift from becoming hostility.
 
-## Era 7 — The Break, Reconciliation, and The Architect's Death (WC 67–82) — *told in Movie 1*
+## Era 7 — The Break, Reconciliation, and The Architect's Death (WC 67–82) — _told in Movie 1_
 
 - **WC67**: THE BREAK. The Son (16) openly confronts the Architect and leaves to find the truth himself. The Architect does not pursue him, but watches from a distance.
 - **WC69**: The Architect quietly finishes a Final Archive — the whole truth he never told his son.

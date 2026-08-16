@@ -9,21 +9,27 @@ The protagonist succeeds by systematizing these rules — an ability rooted in h
 ## Major Developments
 
 ### Magic Framework
+
 Standardized terminology and education, begun under The Teacher's mentorship (WC10–16).
 
 ### Magic Network
+
 Long-distance communication.
 
 ### Mana Infrastructure
+
 Civilization-scale energy.
 
 ### Teleportation Gates
+
 Connect cities and nations.
 
 ### Automated Magic
+
 Repeatable magical functions.
 
 ### The Ark
+
 Strategic magical system with deeper space-time capabilities, completed ahead of the Great War (culminating WC35).
 
 ## Ark Stages

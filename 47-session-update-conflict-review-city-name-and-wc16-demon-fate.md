@@ -35,11 +35,11 @@ No other hard contradictions found.
 
 **New motivation layer (confirmed this session):**
 
-During the nation-building era (~WC28–31), as the city's reputation spreads, common usage — citizens, visiting nobles, foreign dignitaries — starts informally calling it **"the Architect's City."** He privately dislikes this. It sits directly against his established core line, *"I don't want to become a god"* (`21-dialogue-memory.md` / `46-iconic-dialogue-registry.md` §1.1), and against his broader refusal to let his influence calcify into a personality cult. He never issues a formal correction at this stage — he simply never uses the nickname himself, and quietly redirects it when others do (show, don't state, per `10-light-novel-writing-guide.md`).
+During the nation-building era (~WC28–31), as the city's reputation spreads, common usage — citizens, visiting nobles, foreign dignitaries — starts informally calling it **"the Architect's City."** He privately dislikes this. It sits directly against his established core line, _"I don't want to become a god"_ (`21-dialogue-memory.md` / `46-iconic-dialogue-registry.md` §1.1), and against his broader refusal to let his influence calcify into a personality cult. He never issues a formal correction at this stage — he simply never uses the nickname himself, and quietly redirects it when others do (show, don't state, per `10-light-novel-writing-guide.md`).
 
 This sets up the real payoff: after the WC35 destruction and postwar rebuilding, the moment everyone expects him to finally accept the "Architect's City" title for good, he instead gives the name to her. Renaming it "Elena" isn't only memorial — it's also a final, deliberate refusal of the god-title people kept trying to hand him.
 
-**Suggested new scene** (optional, P1): a foreign dignitary calls it "the Architect's City" sometime WC29–31; he deflects with a line about what the city is *for*, not who built it. Good candidate for `20-scene-memory.md` and a future illustration entry.
+**Suggested new scene** (optional, P1): a foreign dignitary calls it "the Architect's City" sometime WC29–31; he deflects with a line about what the city is _for_, not who built it. Good candidate for `20-scene-memory.md` and a future illustration entry.
 
 ---
 

@@ -3,6 +3,7 @@
 ## Required Permanent Scenes
 
 ### Season 1 (Series)
+
 - Birth (WC0) — adult mind, infant body, born to retired A-rank adventurer parents.
 - First evidence of unusual aptitude (early childhood).
 - Meeting The Teacher (WC9, at the Father's request) and becoming his student (WC10).
@@ -13,7 +14,7 @@
 - Proposal / marriage (WC24).
 - Isolde's proposal (from the Empire of Veyrand) and refusal (WC26).
 - First city light.
-- **"The Architect's City" (~WC28–31, new v8):** as the city's reputation spreads, someone — a foreign dignitary is a good candidate — calls it "the Architect's City" in his presence. He visibly dislikes it and deflects, redirecting to what the city is *for* rather than who built it, without ever formally correcting the name. Plant this quietly; do not over-explain it. Pays off directly at the WC35+ renaming beat below.
+- **"The Architect's City" (~WC28–31, new v8):** as the city's reputation spreads, someone — a foreign dignitary is a good candidate — calls it "the Architect's City" in his presence. He visibly dislikes it and deflects, redirecting to what the city is _for_ rather than who built it, without ever formally correcting the name. Plant this quietly; do not over-explain it. Pays off directly at the WC35+ renaming beat below.
 - First major political confrontation.
 - Seraphine's arrival and provocation (WC33).
 - Great War begins (WC35).
@@ -27,6 +28,7 @@
 - **The city is rebuilt and renamed "Elena" (post-war; final stylization RESOLVED, v8 — plain "Elena").** This should read as a deliberate double payoff: memorial to Elena, and his final refusal of the "Architect's City" framing planted earlier.
 
 ### Movie 1
+
 - Opening: The Architect's death (framing device, WC82), then flashback structure begins.
 - The Son's early childhood with Iris and Seraphine.
 - First sword lesson with Iris (~WC43).
@@ -41,6 +43,7 @@
 - Closing: The Architect's death (WC82), converging with full reconciliation — mirrors the opening.
 
 ### Movie 2
+
 - Mira enters ancient archive.
 - First impossible record.
 - First evidence of the Quantum Anchor.
@@ -49,6 +52,7 @@
 - Reality Convergence begins.
 
 ### Movie 3
+
 - The Other Builder introduction.
 - First proof he is an alternate self.
 - Alternate Elena encounter.
@@ -57,6 +61,7 @@
 - Final release.
 
 ### Movie 4
+
 - Noah's ordinary life.
 - Returnist revelation.
 - Original Timeline discovery.

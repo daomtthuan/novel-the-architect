@@ -15,6 +15,7 @@ Elena is the primary heroine and emotional home of the protagonist.
 ## Core Rule
 
 Iris, Seraphine, and Isolde may:
+
 - develop and hold genuine attraction;
 - flirt or tease (Seraphine especially, early on);
 - become emotionally attached;
@@ -34,12 +35,12 @@ Never introduce romantic or sexualized framing for minors, for any character, un
 
 ## Heroine Hierarchy
 
-| Character | Romantic Role | Intensity | Resolution |
-|---|---|---:|---|
-| Elena | Primary heroine / wife | 5/5 | Married; dies WC35 |
-| Iris | Secondary — quiet, unspoken | 3/5 | Self-withdrawal; permanent found-family |
-| Seraphine | Secondary — guilt-driven, offered and refused | 3/5 | Permanently refused; co-parent |
-| Isolde | Political-then-genuine | 3/5 | Refused twice (WC26 and later); enduring ally |
+| Character | Romantic Role                                 | Intensity | Resolution                                    |
+| --------- | --------------------------------------------- | --------: | --------------------------------------------- |
+| Elena     | Primary heroine / wife                        |       5/5 | Married; dies WC35                            |
+| Iris      | Secondary — quiet, unspoken                   |       3/5 | Self-withdrawal; permanent found-family       |
+| Seraphine | Secondary — guilt-driven, offered and refused |       3/5 | Permanently refused; co-parent                |
+| Isolde    | Political-then-genuine                        |       3/5 | Refused twice (WC26 and later); enduring ally |
 
 These values are narrative guidance, not a requirement that every character actively pursue him in every chapter.
 
@@ -61,25 +62,30 @@ If a romantic scene does none of these, remove or shorten it.
 ## Fan-Service Frequency
 
 ### Season 1 (Series)
+
 High relative frequency, but still secondary to plot.
 
 ### Movie 1
+
 Low. Centered on found-family warmth (Iris/Seraphine raising the Son) rather than romance.
 
 ### Movie 2
+
 Minimal.
 
 ### Movie 3
+
 Light and character-oriented, where relevant to The Other Builder's alternate-Elena material — handled with care, not as spectacle.
 
 ### Movie 4
+
 Very low. Prioritize legacy and the future.
 
 ## Fan-Service Tone
 
 Allowed: teasing; playful jealousy; beach/festival clothing; changing-room comedy; accidental proximity; awkward situations; romantic tension; affectionate domestic moments; character-focused illustrations; comedic misunderstandings.
 
-Keep presentation tasteful and non-graphic. Seraphine's Succubus nature and her post-WC35 "offers of comfort" must always be written as *refused* — never fulfilled, never explicit.
+Keep presentation tasteful and non-graphic. Seraphine's Succubus nature and her post-WC35 "offers of comfort" must always be written as _refused_ — never fulfilled, never explicit.
 
 ## Elena Protection Rule
 

@@ -38,6 +38,7 @@ Do not invent a convenient third solution after the dilemma is established. **Th
 Do not turn the story into endless power escalation.
 
 The Architect's strongest abilities are:
+
 - systems thinking (an adult mind, applied to magic from early childhood);
 - engineering;
 - infrastructure;
@@ -50,6 +51,7 @@ The Architect's strongest abilities are:
 Light harem elements are permitted, centered on four women: Elena (primary), Iris, Seraphine, and Isolde.
 
 Other female characters can have:
+
 - attraction;
 - chemistry;
 - flirtation;
@@ -57,6 +59,7 @@ Other female characters can have:
 - romantic tension.
 
 But:
+
 - Elena is the sole primary heroine;
 - no secondary heroine replaces her;
 - no multi-wife ending — the Architect refuses Isolde's political marriage even when Elena herself is willing to allow it, and refuses Seraphine's post-war comfort;
@@ -67,6 +70,7 @@ But:
 All romantic or fanservice framing must involve characters who are clearly adults at the time of that framing. Iris is introduced at WC15 as a close platonic friend (she is 12 at that point) — any romantic feeling on her part is **not depicted or referenced until she is an adult**, placed narratively around WC21–24 (Iris age 18–21), coinciding with the Architect and Elena's relationship deepening toward marriage. This is a deliberate continuity correction to the raw spreadsheet timing and must not be reversed.
 
 Fanservice can include:
+
 - playful teasing;
 - embarrassing situations;
 - festivals;
@@ -76,23 +80,28 @@ Fanservice can include:
 
 Season 1 has the most. Fanservice decreases as the story becomes darker.
 
-After Elena's death, romantic fanservice involving The Architect should be extremely restrained — Seraphine's post-war visits are written as *offers he refuses*, never as fulfilled romance.
+After Elena's death, romantic fanservice involving The Architect should be extremely restrained — Seraphine's post-war visits are written as _offers he refuses_, never as fulfilled romance.
 
 ## POV Rules
 
 ### Season 1 (Series)
+
 The Architect — first-person, from birth.
 
 ### Movie 1
+
 The Son — first-person, framed by his father's death at the opening/closing.
 
 ### Movie 2
+
 Mira — first-person.
 
 ### Movie 3
+
 The Other Builder and Mira — dual first-person. Do not switch POV inside a scene.
 
 ### Movie 4
+
 Noah — first-person. Final scene may briefly use third-person.
 
 ## Lore Rules

@@ -9,6 +9,7 @@ The relationship with Elena should grow alongside: childhood and magic; The Teac
 Iris and Seraphine both appear naturally through the main plot — Iris from the very start (WC15, platonic), Seraphine from the war build-up (WC33). Their presence should make the world larger, not distract from Elena.
 
 ### Recommended Balance
+
 Main plot: 65–75%
 Romance / slice of life: 20–30%
 Fan-service: occasional layer inside the above

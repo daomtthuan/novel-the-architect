@@ -15,6 +15,7 @@ Season 1: first-person "I / me / my," from birth onward.
 Other characters should normally address him naturally without repeatedly using a name.
 
 Examples:
+
 - "Are you coming?"
 - "You really built this?"
 - "Architect." only after the title is established (WC35 onward).
@@ -32,9 +33,11 @@ Self-insert compatibility does not mean weak characterization. The protagonist s
 Prioritize internal reactions.
 
 Instead of:
+
 > The city was beautiful.
 
 Prefer:
+
 > I had seen cities before, in another life, with other eyes. None of them had ever felt like something I built with these hands.
 
 ## Elena, Iris, Seraphine, Isolde

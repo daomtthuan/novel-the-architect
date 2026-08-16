@@ -5,6 +5,7 @@
 Core relationship of Season 1.
 
 Progression:
+
 1. strangers (WC15)
 2. companions
 3. the one who breaks his Darkest Point ideology (WC23)

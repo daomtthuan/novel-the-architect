@@ -11,13 +11,13 @@ Status: **MERGED.** All non-OPEN items below have been confirmed and propagated 
 
 ## 2. New Races (add to `05-world.md` § Peoples)
 
-| Race | Political status |
-|---|---|
-| Beastkin | Sovereign nation(s) of their own |
-| Dwarf | Sovereign nation, mountain-dwelling, tied to magical/engineering infrastructure |
-| Elf-adjacent / Sylvan | Stateless, reclusive, deep forests, distrustful of otherworlders |
-| Undead / Revenant | Very rare, tied to Ark/Quantum-adjacent magic |
-| Giant / Titan-kin | Ancient, near-extinct, potential hook for "Other Builders across history" lore (`08-multiverse-and-quantum-lore.md`) |
+| Race                  | Political status                                                                                                     |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Beastkin              | Sovereign nation(s) of their own                                                                                     |
+| Dwarf                 | Sovereign nation, mountain-dwelling, tied to magical/engineering infrastructure                                      |
+| Elf-adjacent / Sylvan | Stateless, reclusive, deep forests, distrustful of otherworlders                                                     |
+| Undead / Revenant     | Very rare, tied to Ark/Quantum-adjacent magic                                                                        |
+| Giant / Titan-kin     | Ancient, near-extinct, potential hook for "Other Builders across history" lore (`08-multiverse-and-quantum-lore.md`) |
 
 ## 3. The Architect's City → Renamed "Elena" (add to `05-world.md`, `22-location-registry.md`)
 
@@ -37,6 +37,7 @@ Supersedes the current version in: `00-story-bible.md`, `01-canon-rules.md`, `02
 **New backstory:**
 
 The Architect's biological parents in this world were both members of a 5-person A-rank adventuring party:
+
 1. **Father** — swordsman.
 2. **Mother** — healer / enchantress.
 3. **A-rank mage** — later becomes **The Teacher**.

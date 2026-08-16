@@ -1,4 +1,4 @@
-# Chapter 4 — The Teacher's Test
+# Chapter 4 — The Test
 
 ---
 

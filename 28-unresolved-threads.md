@@ -1,6 +1,7 @@
 # Unresolved Threads (v8, World Calendar canon)
 
 ## Season 1 Threads
+
 - true nature of the protagonist's reincarnation (the Builder phenomenon);
 - Ark anomalies;
 - Elena's strange dreams/resonance;
@@ -11,6 +12,7 @@
 - ~~exact stylization of the city name "Elena"~~ — **RESOLVED, v8.** Plain "Elena." See `05-world.md`, `22-location-registry.md`.
 
 ## Movie 1 Threads
+
 - hidden Ark records;
 - historical inconsistencies;
 - Observatory references;
@@ -20,6 +22,7 @@
 - whether the Son (or Mira, later) ever connects the WC16 Demon to the WC33–35 war — not yet blocked out; reveal discipline says no earlier than Movie 1 if it happens at all.
 
 ## Movie 2 Threads
+
 - Quantum Anchor;
 - Reality Convergence;
 - Aion's true objective;
@@ -27,12 +30,14 @@
 - what exactly a "Builder" is.
 
 ## Movie 3 Threads
+
 - consequences of alternate Elena;
 - whether timelines can coexist;
 - The Other Builder's final decision;
 - whether more Builders/Architects exist elsewhere.
 
 ## Movie 4 Threads
+
 - Original Timeline;
 - Earth;
 - Noah's role;
