@@ -1,4 +1,4 @@
-# The Architect. Chapter 3 — First Light
+# The Architect. Chapter 3 — The First Light
 
 ---
 
