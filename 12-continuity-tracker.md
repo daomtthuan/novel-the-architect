@@ -1,4 +1,4 @@
-# Continuity Tracker (v7, World Calendar canon)
+# Continuity Tracker (v8, World Calendar canon)
 
 Updated after every accepted chapter/scene.
 
@@ -156,6 +156,27 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Secrets revealed:** None.
 - **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way" from Chapter 4) remain open.
 - **Handoff to Chapter 6:** Formal training under The Teacher continues; default next chronological point is later in Era 1 (WC11–14), showing rapid progress and the beginnings of a magic classification system, unless the owner specifies otherwise.
+
+### Chapter 6 — The Shape of Confidence
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC11–14
+- **POV:** The Architect, first-person
+- **Location:** The Teacher's house/study; family village
+- **Characters:** The Architect (11–14), The Teacher, Father (brief), Mother, unnamed visiting Mage professor, three unnamed older Academy students
+- **Core conflict:** Growing external success/reputation colliding with two direct, serious warnings (Teacher, Mother) about untested confidence and unfelt limits
+- **Emotional objective:** Give the Architect his first on-page, named experience of pride/superiority as a real (not merely theoretical) psychological force; deliver the clearest foreshadowing yet, via two independent voices, for the Darkest Point and for Elena's eventual "people are not variables" breakthrough
+- **Plot objective:** Dramatize WC11–14 per `world_calendar.md` (surpassing older students; first practical research result — mana-lit stone lifespan study; growing reputation among Mages; Teacher's growing concern about overconfidence)
+- **New facts:** First independent research project (mana-lit stone lifespan vs. temperature fluctuation), recognized by The Teacher as genuine research; a controlled "reality check" test against older Academy students, decisively won; a visiting Mage professor's prediction ("cậu bé này sẽ đi rất xa") as the trigger for The Teacher's most direct warning yet
+- **Character changes:** Architect explicitly names and partially recognizes his own growing pride/overconfidence for the first time on-page
+- **Relationship changes:** Architect ↔ Teacher deepens through Teacher's most serious warning to date, delivered with unusual emotional weight ("gần như buồn bã"); Mother becomes an explicit second voice of caution, directly foreshadowing her own thematic role relative to Elena's later breakthrough
+- **World changes:** None significant; light establishment of a regional Mage "reputation network."
+- **New objects:** None registry-level; the Architect's research notes are a non-canon-critical precursor to the "Architect's Notebooks" already generically established in `24-artifact-registry.md`.
+- **New locations:** None registry-level; testing occurs at the Teacher's existing training ground.
+- **Foreshadowing:** The Teacher's line — "con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự" — the clearest direct foreshadowing yet for WC16's First Major Loss. Mother's line — "có những thứ trên đời không có quy luật để tìm ra... chỉ có thể được cảm nhận, được chấp nhận, hoặc được mất đi" — direct thematic seed for Elena's WC23 "people are not variables" breakthrough.
+- **Secrets revealed:** None.
+- **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way," why the Teacher stopped taking students) remain open. The Teacher's uncharacteristic sorrow when delivering his WC14 warning is left open as a minor, non-mystery-board character beat.
+- **Handoff to Chapter 7:** Default next chronological point is **WC15** — the canonical meeting of Elena and Iris (per `world_calendar.md`, `02-timeline.md`, `20-scene-memory.md`), unless the owner specifies an intermediate chapter. Iris is 12 at this point — strictly platonic framing only.
 
 ---
 
