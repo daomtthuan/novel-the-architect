@@ -244,7 +244,9 @@ Apply this specifically to: the Builder concept, the Architect/Builder distincti
 
 ## Relationship State
 
-STRANGER → ACQUAINTANCE → TRUST → FRIEND → LOVE → PARTNER → FAMILY → CONFLICT → RECONCILIATION → LOSS
+For primary romantic characters (Elena):
+
+STRANGER → ACQUAINTANCE → TRUST → FRIEND → LOVE → PARTNER → CONFLICT → RECONCILIATION → FAMILY → LOSS
 
 For secondary romantic characters (Iris, Seraphine, Isolde):
 

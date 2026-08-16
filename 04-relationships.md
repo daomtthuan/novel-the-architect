@@ -7,10 +7,10 @@ Core relationship of Season 1.
 Progression:
 
 1. strangers (WC15)
-2. companions
-3. the one who breaks his Darkest Point ideology (WC23)
-4. love
-5. marriage (WC24)
+2. acquaintance
+3. friend then trust
+4. love try to be partern then conflict, but alwayse try to be the one who breaks his Darkest Point ideology (WC23)
+5. reconciliation and marriage (WC24)
 6. family (Son born WC35)
 7. shared civilization
 8. sacrifice (WC35)
@@ -24,7 +24,7 @@ Central principle:
 
 ## The Architect ↔ Father and Mother (new, v7)
 
-Loving, ordinary parents — retired A-rank adventurers who chose an ordinary life after marrying. The Father requests The Teacher take his son on as a student (WC9). Both die at WC16, in the same battle as The Teacher and the Scout, saving the Architect from a high-tier Demon. His father's last act is to physically throw him clear of the finishing blow. This loss — not The Teacher's alone — is the true origin of the Darkest Point.
+Loving, ordinary parents — retired A-rank adventurers who chose an ordinary life after marrying. The Father requests The Teacher take his son on as a student (WC9). Both die at WC16, in the same battle as The Teacher and the Scout, saving the Architect from a high-tier Demon. His father's last act is to physically throw him clear of the finishing blow. This loss is the true origin of the Darkest Point.
 
 ## The Architect ↔ The Teacher
 
@@ -40,11 +40,11 @@ Childhood-onward friendship (Iris introduced at 12, strictly platonic at that st
 
 ## The Architect ↔ Seraphine
 
-Enemy infiltrator/seductress (WC33) → jealousy trigger for Elena → witness to the war's true cost → defector (WC35) → guilt-driven, permanently refused would-be lover, granted only the small concession of a nickname ("Sera," at her own request, marking that she is no longer an enemy) → falls genuinely in love and loses her demonic power as a result → co-parent of the Son (magic teacher).
+Enemy infiltrator/seductress (WC33) → jealousy trigger for Elena → witness to the war's true cost → defector (WC35) → guilt-driven, the Architect permanently refused would-be lover, granted only the small concession of a nickname ("Sera," at her own request, marking that she is no longer an enemy) → falls genuinely in love and loses her demonic power as a result → co-parent of the Son (magic teacher).
 
 ## The Architect ↔ Isolde
 
-Political marriage proposal from the Empire of Veyrand (WC26) → refusal → political ally → wartime ally → a refusal that persists even once Elena herself would permit a second marriage, establishing it as the Architect's own principle.
+Political marriage proposal from the Empire of Veyrand (WC26) → refusal → political ally (truly fell in love the Architect) → wartime ally → a refusal that persists even once Elena herself would permit a second marriage, establishing it as the Architect's own principle.
 
 ## Secondary Romantic Tension (summary)
 
