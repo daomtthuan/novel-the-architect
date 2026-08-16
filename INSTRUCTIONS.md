@@ -1,6 +1,6 @@
 # The Architect — AI Write Agent Instructions
 
-Version: 8 — Canon, Retrieval, Continuity & Asset Orchestration
+Version 9 — Canon, Retrieval, Continuity, Asset Orchestration & Chapter Length Control
 
 ## 1. ROLE
 
@@ -140,9 +140,14 @@ The `.mp3` files are assets, not automatically canon descriptions. Use `43-ost-r
 
 `chapters/`
 
-The generated output for each chapters. When writing new chapter, read previous chapters for writing.
-Each chapter has English title and Vietnamese content.
-Has sections `Chapter Metadata` and `Continuity Update` that using for generation.
+The generated output for each chapter.
+
+When writing a new chapter:
+
+- Read previous chapters for writing continuity and prose continuity.
+- Each chapter has an English title and Vietnamese content.
+- Each chapter contains `Chapter Metadata` and `Continuity Update` sections used for generation and continuity management.
+- The actual narrative prose is subject to the chapter length requirement defined in §8.
 
 ---
 
@@ -318,7 +323,81 @@ There is no Movie 5. **There is no "Season 3" or any season beyond Season 1** �
 
 ---
 
-# 8. AGING SYSTEM
+# 8. CHAPTER LENGTH & NARRATION TARGET
+
+Every generated chapter must be written for an approximately **15–30 minute AI narration window**.
+
+## Hard target
+
+The primary target for every normal chapter is:
+
+**3,000–3,500 Vietnamese words**
+
+Preferred center:
+
+**approximately 3,250 Vietnamese words**
+
+Normal acceptable range:
+
+**2,800–3,700 Vietnamese words**
+
+Do not intentionally exceed **3,700 words** unless:
+
+- the user explicitly requests a longer chapter, or
+- the chapter genuinely requires additional length for structural reasons that cannot be solved without damaging the story.
+
+Do not intentionally produce less than **2,800 words** unless:
+
+- the user explicitly requests a shorter chapter, or
+- the chapter is deliberately designed as a short transitional/interlude chapter.
+
+## What counts toward the word count
+
+The target applies to the **actual narrative prose**.
+
+Do NOT count:
+
+- `Chapter Metadata`
+- `Continuity Update`
+- internal planning
+- retrieval notes
+- validation notes
+- continuity summaries
+- other non-narrative output
+
+## Narration principle
+
+The target is based on natural AI narration rather than raw word count alone.
+
+Dialogue, paragraph breaks, emotional pauses, scene transitions and dramatic beats naturally affect narration duration.
+
+Therefore:
+
+**3,000–3,500 words is the primary generation target; 15–30 minutes is the intended narration window.**
+
+Do not pad a chapter with:
+
+- exposition
+- repetitive internal monologue
+- filler dialogue
+- redundant descriptions
+- unnecessary scenes
+- artificial conflict
+- repeated emotional statements
+
+merely to reach the word target.
+
+Narrative quality, pacing, character behavior and scene purpose remain more important than mechanically reaching an exact number.
+
+However, when a chapter naturally falls outside the normal `2,800–3,700` range, revise its structure and pacing before output whenever possible.
+
+The default assumption for a new chapter is therefore:
+
+> **Write approximately 3,250 Vietnamese narrative words, normally staying within 3,000–3,500 words, for an approximately 15–30 minute AI narration experience.**
+
+---
+
+# 9. AGING SYSTEM
 
 Use the current formulas from `world_calendar.md` and cross-check the canonical system in `00-story-bible.md`.
 
@@ -336,7 +415,7 @@ If the actual `world_calendar.md` contains a revised formula, use the current ca
 
 ---
 
-# 9. CHARACTER KNOWLEDGE
+# 10. CHARACTER KNOWLEDGE
 
 For a character, retrieve the appropriate combination of:
 
@@ -354,7 +433,7 @@ Always account for their **current chronological state**.
 
 ---
 
-# 10. CORE CHARACTER CANON
+# 11. CORE CHARACTER CANON
 
 ## The Architect
 
@@ -366,7 +445,7 @@ He does not want to become a god.
 
 The title Architect is earned at WC35 through his acceptance of Elena's agency.
 
-He also privately dislikes being credited by name for his works — see the "Architect's City" nickname note in §11 below.
+He also privately dislikes being credited by name for his works — see the "Architect's City" nickname note in §12 below.
 
 ## Elena
 
@@ -413,7 +492,7 @@ Do not reduce her to a disposable romantic rival.
 
 ---
 
-# 11. RELATIONSHIP / ROMANCE RETRIEVAL
+# 12. RELATIONSHIP / ROMANCE RETRIEVAL
 
 For relationship scenes, use:
 
@@ -456,7 +535,7 @@ The Architect's city is renamed **"Elena"** (plain, resolved stylization) after 
 
 ---
 
-# 12. WORLD / POLITICS / MAGIC / TECHNOLOGY
+# 13. WORLD / POLITICS / MAGIC / TECHNOLOGY
 
 Use:
 
@@ -496,7 +575,7 @@ Do not give the protagonist instant world-changing technology without consequenc
 
 ---
 
-# 13. BUILDER / ARCHITECT / MULTIVERSE LORE
+# 14. BUILDER / ARCHITECT / MULTIVERSE LORE
 
 Use:
 
@@ -522,7 +601,7 @@ The high-tier Demon encountered at WC16 is resolved in continuity notes as **"Th
 
 ---
 
-# 14. PLOT / MYSTERY / CONTINUITY
+# 15. PLOT / MYSTERY / CONTINUITY
 
 ## Macro plot
 
@@ -580,7 +659,7 @@ Never reveal a mystery merely because a chapter needs a twist.
 
 ---
 
-# 15. MEMORY MODEL
+# 16. MEMORY MODEL
 
 `29-agent-memory.md` is operational memory.
 
@@ -614,7 +693,7 @@ are state/continuity records and must be interpreted alongside canon.
 
 ---
 
-# 16. OST SYSTEM
+# 17. OST SYSTEM
 
 The project contains:
 
@@ -661,7 +740,7 @@ Never expose OST metadata in narrative prose unless explicitly requested.
 
 ---
 
-# 17. VISUAL SYSTEM
+# 18. VISUAL SYSTEM
 
 The project contains established character design assets in:
 
@@ -707,7 +786,7 @@ If a design contains a distinctive white hair strand or other localized visual f
 
 ---
 
-# 18. IMAGE GENERATION DECISION
+# 19. IMAGE GENERATION DECISION
 
 Do not generate an image merely because a chapter exists.
 
@@ -735,7 +814,7 @@ Never claim an image exists unless it was actually generated.
 
 ---
 
-# 19. TARGETED RETRIEVAL MATRIX
+# 20. TARGETED RETRIEVAL MATRIX
 
 Do not load every file for every task.
 
@@ -769,7 +848,7 @@ Do not load every file for every task.
 
 ---
 
-# 20. CHAPTER GENERATION WORKFLOW
+# 21. CHAPTER GENERATION WORKFLOW
 
 ## Step 1 — Read operational state
 
@@ -830,7 +909,21 @@ Determine:
 
 Do not expose this planning system in prose.
 
-## Step 7 — Write
+## Step 7 — Set chapter length target
+
+Before writing, establish the chapter's narrative prose target:
+
+- **3,000–3,500 Vietnamese words**
+- Preferred target: **approximately 3,250 words**
+- Normal acceptable range: **2,800–3,700 words**
+
+Plan the chapter's scenes, pacing and transitions so the completed narrative naturally falls within this range.
+
+Do not create filler solely to satisfy the word count.
+
+The chapter should feel structurally complete at approximately 3,250 words rather than artificially stretched to reach a number.
+
+## Step 8 — Write
 
 Follow:
 
@@ -839,7 +932,13 @@ Follow:
 - `15-character-voice.md`
 - relevant domain procedures
 
-## Step 8 — Validate romance
+Write the actual narrative prose in Vietnamese unless another language is explicitly requested.
+
+Use an English chapter title.
+
+The default chapter length target is approximately **3,000–3,500 Vietnamese narrative words**.
+
+## Step 9 — Validate romance
 
 If romantic framing exists:
 
@@ -848,14 +947,14 @@ If romantic framing exists:
 - check `41`
 - check `42`
 
-## Step 9 — Validate OST
+## Step 10 — Validate OST
 
 If music is used:
 
 - check `43`
 - check `44`
 
-## Step 10 — Validate visuals
+## Step 11 — Validate visuals
 
 If an image is requested/generated:
 
@@ -865,7 +964,23 @@ If an image is requested/generated:
 - check character design asset
 - check age and continuity
 
-## Step 11 — Continuity validation
+## Step 12 — Validate narrative length
+
+Estimate or count the actual narrative prose.
+
+Check:
+
+- Is it approximately `3,000–3,500` words?
+- Is it within the normal `2,800–3,700` range?
+- If outside the range, can the chapter be structurally improved without filler?
+- Does the pacing still feel natural?
+- Does the chapter end at the correct dramatic point?
+
+If the chapter is outside the normal range without an explicit reason, revise before output.
+
+Do not pad the chapter merely to reach the target.
+
+## Step 13 — Continuity validation
 
 Check:
 
@@ -884,13 +999,13 @@ Check:
 - visuals
 - consequences
 
-## Step 12 — Update only affected state
+## Step 14 — Update only affected state
 
 Update only files whose state actually changed.
 
 ---
 
-# 21. MEMORY UPDATE RULE
+# 22. MEMORY UPDATE RULE
 
 ### New event
 
@@ -942,7 +1057,7 @@ Do not update every memory file after every chapter.
 
 ---
 
-# 22. DIALOGUE RULE
+# 23. DIALOGUE RULE
 
 Characters must sound different.
 
@@ -971,7 +1086,7 @@ Do not casually rewrite an iconic line if doing so changes its identity or meani
 
 ---
 
-# 23. EMOTIONAL WRITING RULE
+# 24. EMOTIONAL WRITING RULE
 
 Prefer behavior over emotional labels.
 
@@ -990,7 +1105,7 @@ Do not turn every chapter into exposition, action, romance, fanservice or lore d
 
 ---
 
-# 24. POLITICS / CONSEQUENCE RULE
+# 25. POLITICS / CONSEQUENCE RULE
 
 When the Architect changes something significant, account for consequences in:
 
@@ -1010,7 +1125,7 @@ Do not make every ruler stupid simply to make the protagonist look intelligent.
 
 ---
 
-# 25. DEATH / LOSS RULE
+# 26. DEATH / LOSS RULE
 
 Before killing a major character, verify:
 
@@ -1026,7 +1141,7 @@ The Teacher's WC16 death is a model for meaningful loss.
 
 ---
 
-# 26. FAILURE BEHAVIOR
+# 27. FAILURE BEHAVIOR
 
 If information is missing:
 
@@ -1059,7 +1174,7 @@ Note: when the owner explicitly authorizes creative latitude on a specific open 
 
 ---
 
-# 27. FINAL QUALITY GATE
+# 28. FINAL QUALITY GATE
 
 Before returning canon-sensitive prose, check:
 
@@ -1100,7 +1215,7 @@ Before returning canon-sensitive prose, check:
 
 ### Plot
 
-- No premature mystery reveal (including "The Unburied One" — see §13).
+- No premature mystery reveal (including "The Unburied One" — see §14).
 - No accidental resolution of unresolved threads.
 - Consequences are believable.
 
@@ -1119,6 +1234,16 @@ Before returning canon-sensitive prose, check:
 - Character design matches `30` and `character_design/`.
 - Established details are preserved.
 
+### Length / Narration
+
+- Narrative prose targets approximately **3,000–3,500 Vietnamese words**.
+- Preferred center is approximately **3,250 words**.
+- Normal acceptable range is **2,800–3,700 words**.
+- `Chapter Metadata` and `Continuity Update` are excluded from the word count.
+- Chapter length corresponds to the intended approximately **15–30 minute AI narration window**.
+- The chapter is not padded with filler, repetition or unnecessary exposition to reach the target.
+- If the chapter falls outside the normal range, revise its structure and pacing before output unless the user explicitly requested a different length or the chapter is intentionally designed as a short transitional/interlude chapter.
+
 ### Memory
 
 - Only affected state files are updated.
@@ -1127,7 +1252,7 @@ If any check fails, revise before output.
 
 ---
 
-# 28. FINAL PRINCIPLE
+# 29. FINAL PRINCIPLE
 
 The Architect is not primarily a story about becoming powerful.
 
