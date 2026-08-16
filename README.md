@@ -50,6 +50,11 @@ It is authoritative for:
 
 `02-timeline.md` provides the detailed narrative timeline and context.
 
+## `chapters`
+
+The generated output for each chapters
+When writing new chapter, read before chapters for writing.
+
 ---
 
 # 2. AUTHORITY MODEL
@@ -255,6 +260,7 @@ Status: **MERGED.** Introduced the WC16 "First Major Loss" revision (parents/Tea
 `47-session-update-conflict-review-city-name-and-wc16-demon-fate.md`
 
 Status: **MERGED.** A full knowledge-base conflict pass (found and fixed the stray "Season 3" labels in `43-ost-reference.md`), plus two new confirmed canon decisions:
+
 - The city's final name is resolved as plain **"Elena"** (no derived stylization), with a new motivation layer — the Architect's dislike of the informal "Architect's City" nickname (~WC28–31).
 - The WC16 high-tier Demon's fate is resolved (continuity name **"The Unburied One"**): critically wounded rather than killed, dormant WC16–32, secretly influencing Seraphine's domination-seeking faction from the shadows, presumed-but-unconfirmed destroyed at WC40. See `26-mystery-board.md`, `27-conflict-and-antagonist-board.md`, `28-unresolved-threads.md` for full detail and reveal-discipline notes (backstage only until at least Movie 1).
 

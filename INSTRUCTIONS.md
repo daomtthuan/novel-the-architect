@@ -136,6 +136,14 @@ Contains the actual OST audio assets.
 
 The `.mp3` files are assets, not automatically canon descriptions. Use `43-ost-reference.md` and `44-ost-continuity.md` for narrative/music canon and track-state decisions.
 
+## Layer E — Outputs
+
+`chapters/`
+
+The generated output for each chapters. When writing new chapter, read previous chapters for writing.
+Each chapter has English title and Vietnamese content.
+Has sections `Chapter Metadata` and `Continuity Update` that using for generation.
+
 ---
 
 # 3. AUTHORITY / CONFLICT RESOLUTION
