@@ -2,17 +2,17 @@
 
 ---
 
-Cánh cổng gỗ thấp không có bất kỳ dấu hiệu nào cho thấy đây là nhà của một pháp sư hạng A. Không có biển hiệu. Không có runes phát sáng dọc hàng rào. Chỉ có một khu vườn hơi um tùm, những luống cây tôi không nhận ra được một nửa, và một lối đi lát đá cũ, mòn vẹt ở giữa như thể ai đó đã đi qua lại con đường này hàng nghìn lần.
+Cánh cổng gỗ thấp không có bất kỳ dấu hiệu nào cho thấy đây là nhà của một pháp sư hạng A. Không có biển hiệu cung không có runes phát sáng dọc hàng rào. Chỉ có một khu vườn hơi um tùm, những luống cây tôi không nhận ra được một nửa, và một lối đi lát đá cũ, mòn vẹt ở giữa như thể ai đó đã đi qua lại con đường này hàng nghìn lần.
 
-Tôi đứng cạnh cha, một năm sau buổi chiều chúng tôi chỉ dừng lại nhìn từ xa. Lần này ông không đứng lại. Ông bước thẳng đến cổng, gõ ba tiếng lên khung gỗ, theo một nhịp điệu có vẻ đã được định sẵn từ rất lâu — không phải kiểu gõ cửa của người lạ.
+Tôi đứng cạnh cha, một năm sau buổi chiều mà chúng tôi chỉ dừng lại và nhìn từ xa. Lần này ông không đứng lại. Ông bước thẳng đến cửa, gõ ba tiếng lên khung gỗ, theo một nhịp điệu có vẻ đã được định sẵn từ rất lâu — không phải kiểu gõ cửa của người lạ.
 
-Không ai trả lời ngay. Tôi nghe thấy tiếng bước chân, chậm, không vội, từ đâu đó phía sau ngôi nhà.
+Không ai trả lời ngay. Tôi nghe thấy tiếng bước chân, chậm rãi, không vội, từ đâu đó phía sau ngôi nhà.
 
 "Vẫn còn sống à," một giọng nói vang lên trước khi cánh cửa mở ra — khô khốc, không có chút ngạc nhiên nào, như thể đang tiếp tục một cuộc trò chuyện bị bỏ dở từ nhiều năm trước.
 
 "Chưa chết được," cha tôi đáp, và trong giọng ông có một thứ tôi hiếm khi nghe thấy — một sự nhẹ nhõm gần như trẻ con.
 
-Cánh cửa mở hẳn. Người đàn ông đứng đó không giống bất cứ hình dung nào tôi từng có về một "pháp sư" — không có áo choàng thêu sao, không có cây gậy chạm khắc, không có bộ râu dài huyền bí. Ông mặc một bộ áo vải thô, sờn ở khuỷu tay, vương đầy vết cháy nhỏ li ti như thể ông đã làm cháy xém nó hàng trăm lần và chưa bao giờ buồn thay áo mới. Tóc ông cắt ngắn, cẩu thả. Đôi mắt ông, khi cuối cùng cũng nhìn xuống tôi, có một thứ ánh nhìn tôi sẽ chỉ học được cách gọi tên nhiều năm sau: đánh giá, không phải chào đón.
+Cánh cửa mở hẳn. Người đàn ông đứng đó không giống bất cứ hình dung nào tôi từng có về một "pháp sư" — không có áo choàng thêu sao, không có cây gậy chạm khắc, không có bộ râu dài huyền bí. Ông mặc một bộ áo vải thô, sờn ở khuỷu tay, vương đầy vết cháy nhỏ li ti như thể ông đã làm cháy xém nó hàng trăm lần và chưa bao giờ buồn thay áo mới. Tóc ông cắt ngắn, cẩu thả. Đôi mắt ông, khi cuối cùng cũng nhìn xuống tôi, có một thứ ánh nhìn tôi sẽ chỉ học được cách gọi tên nhiều năm sau: đánh giá - không phải chào đón.
 
 "Đây là nó à," ông nói. Không phải câu hỏi.
 
@@ -28,9 +28,9 @@ Trên bàn làm việc chính giữa phòng là một mô hình nhỏ — nhữn
 
 "Đừng chạm vào," ông nói, không quay đầu lại, vẫn đang rót nước cho cha tôi từ một ấm đất nung sứt mẻ.
 
-Tôi rụt tay lại, nhưng mắt tôi vẫn dán chặt vào mô hình. "Nó đang mô phỏng cái gì ạ?"
+Tôi rụt tay lại, nhưng mắt tôi vẫn dán chặt vào mô hình đó. "Nó đang mô phỏng cái gì ạ?"
 
-Đó là câu hỏi đầu tiên tôi hỏi ông. Không phải "Đây là gì?" Không phải "Chú làm cái này thế nào?" Mà là: nó đang _mô phỏng_ điều gì. Như thể tôi đã mặc định rằng nó phải đại diện cho một thứ gì đó thật, ở một quy mô khác.
+Đó là câu hỏi đầu tiên tôi hỏi ông. Không phải "Đây là gì?" cũng không phải "Chú làm cái này thế nào?" Mà là: nó đang _mô phỏng_ điều gì. Như thể tôi đã mặc định rằng nó phải đại diện cho một thứ gì đó thật, ở một quy mô khác.
 
 Tôi thấy tay ông khựng lại trên quai ấm nước, chỉ trong một khoảnh khắc ngắn ngủi. Rồi ông đặt ấm xuống, quay người lại, và lần đầu tiên thực sự nhìn thẳng vào tôi — không phải kiểu nhìn lướt qua một đứa trẻ đi cùng bạn cũ, mà là kiểu nhìn của một người vừa nghe thấy điều gì đó không mong đợi.
 
@@ -46,7 +46,7 @@ Cha tôi nhìn tôi, rồi nhìn người đàn ông, một câu hỏi thầm l�
 
 Người đàn ông không nói gì. Ông bước đến bên bàn, ngồi xuống một chiếc ghế gỗ đơn sơ, và ra hiệu cho tôi ngồi xuống chiếc ghế đối diện — chiếc ghế nhỏ hơn, có vẻ được đặt ở đó từ trước, như thể ông đã biết trước sẽ có ai đó ngồi vào nó.
 
-"Ta không dạy trẻ con để chúng học thuộc thần chú," ông nói, giọng vẫn khô khốc, nhưng có gì đó trong đó đã thay đổi — chậm hơn, cân nhắc hơn. "Ta dạy chúng cách nhìn. Phần lớn không chịu được điều đó lâu. Chúng muốn có kết quả ngay — một tia lửa, một luồng sáng, một thứ gì đó để khoe với bạn bè. Con có muốn thứ đó không?"
+"Ta không dạy trẻ con để chúng học thuộc thần chú," ông nói, giọng vẫn khô khốc, nhưng có gì đó trong đó đã thay đổi — chậm hơn, cân nhắc hơn. "Ta dạy chúng cách nhìn. Phần lớn không chịu được điều đó quá lâu. Chúng muốn có kết quả ngay — một tia lửa, một luồng sáng, một thứ gì đó để khoe với bạn bè. Con có muốn thứ đó không?"
 
 Tôi nghĩ về câu hỏi một lúc, cố không trả lời quá nhanh, vì tôi cảm giác — đúng như sau này tôi sẽ biết là đúng — rằng đây chính là bài kiểm tra thật sự, không phải mô hình những viên đá kia.
 
@@ -62,7 +62,7 @@ Rồi ông quay sang cha tôi. "Cậu tìm nó ở đâu ra vậy?"
 
 Ông tên là — tôi sẽ không bao giờ gọi ông bằng tên riêng, không phải vì tôi không biết nó, mà vì ngay từ buổi gặp đầu tiên đó, cách ông nói chuyện, cách ông tồn tại trong căn phòng bừa bộn đầy sách và những mô hình chưa hoàn thành này, đã khiến tôi nghĩ về ông chỉ bằng một danh xưng duy nhất, một danh xưng tôi sẽ dùng cho đến hết đời: Người Thầy.
 
-Ông dành phần còn lại của buổi chiều hôm đó để hỏi tôi hàng loạt câu hỏi kỳ lạ, không hề liên quan gì đến những gì tôi tưởng tượng một "bài kiểm tra năng khiếu magic" nên có.
+Ông dành phần còn lại của buổi chiều hôm đó để hỏi tôi hàng loạt câu hỏi kỳ lạ, không hề liên quan gì đến những gì tôi tưởng tượng về một "bài kiểm tra năng khiếu magic" nên có.
 
 "Nếu con đổ nước vào một cái bát bị nứt, nước sẽ chảy ra theo đường nào?"
 
@@ -70,7 +70,7 @@ Rồi ông quay sang cha tôi. "Cậu tìm nó ở đâu ra vậy?"
 
 "Nếu ta cho con hai câu thần chú, một cái mạnh hơn nhưng tốn nhiều Mana hơn gấp mười lần, cái kia yếu hơn nhưng gần như không tốn gì — con chọn cái nào, và tại sao?"
 
-Tôi trả lời từng câu, đôi khi sai, đôi khi ông chỉ khịt mũi và không nói tôi đúng hay sai, chỉ chuyển sang câu hỏi tiếp theo. Nhưng có một điều tôi nhận ra, càng lúc càng rõ ràng khi buổi chiều trôi qua: ông không quan tâm đến đáp án cuối cùng của tôi nhiều bằng cách tôi đi đến đáp án đó.
+Tôi trả lời từng câu, đôi khi sai, đôi khi ông chỉ khịt mũi và không nói tôi đúng hay sai, chỉ chuyển sang câu hỏi tiếp theo. Nhưng có một điều tôi nhận ra, càng lúc càng rõ ràng khi buổi chiều trôi qua: ông không quan tâm đến đáp án cuối cùng của tôi nhiều hơn là cách mà tôi đi đến đáp án đó.
 
 Có một lần, khi tôi trả lời sai hoàn toàn một câu hỏi về sự cân bằng năng lượng, ông ngắt lời tôi giữa chừng.
 
@@ -84,7 +84,7 @@ Tôi khựng lại. Đó là một khái niệm từ cuộc đời trước củ
 
 "Con... chỉ nghĩ vậy thôi ạ," tôi nói, cố giữ giọng bình thản. "Có vẻ hợp lý. Nếu không thì phép thuật kiểu như tạo ra thứ gì đó từ hư không sẽ dễ dàng quá."
 
-Người Thầy im lặng nhìn tôi một lúc lâu, đôi mắt ông hẹp lại theo một cách khiến tôi cảm thấy như bị lột trần trước một thứ máy dò dối trá vô hình nào đó.
+Người Thầy im lặng nhìn tôi một lúc lâu, đôi mắt ông hẹp lại theo một cách khiến tôi cảm thấy như bị lột trần trước một chiếc máy dò dối trá vô hình nào đó.
 
 "Đó không phải là một kết luận một đứa trẻ chín tuổi tự nghĩ ra bằng trực giác," ông nói cuối cùng, giọng chậm rãi. "Đó là một kết luận người ta đi đến sau khi đã kiểm chứng nó hàng trăm lần, hoặc..."
 
@@ -92,7 +92,7 @@ Người Thầy im lặng nhìn tôi một lúc lâu, đôi mắt ông hẹp l�
 
 "Hoặc gì ạ?" tôi hỏi, có lẽ hơi quá nhanh.
 
-"Không có gì," ông nói, quay đi, nhưng tôi thấy vai ông hơi cứng lại, một sự căng thẳng thoáng qua mà một đứa trẻ bình thường có lẽ sẽ không để ý. "Ta từng biết một người nghĩ theo cách tương tự. Cách rất lâu rồi. Ở một nơi rất xa."
+"Không có gì," ông nói, quay đi, nhưng tôi thấy vai ông hơi cứng lại, một sự căng thẳng thoáng qua mà một đứa trẻ bình thường có lẽ sẽ không để ý. "Ta từng biết một người nghĩ theo cách tương tự. Cũng rất lâu rồi. Ở một nơi rất xa."
 
 Ông không nói thêm gì về điều đó. Và tôi, dù bụng dạ nôn nao với một sự tò mò mà tôi không có tên gọi cho nó vào lúc đó, cũng biết đủ để không hỏi thêm. Có một ranh giới ông vừa chạm vào rồi rút lui, và ngay cả ở tuổi chín, tôi hiểu rằng ép ông nói tiếp sẽ chỉ khiến cánh cửa đó đóng lại vĩnh viễn.
 
@@ -114,9 +114,9 @@ Tôi thấy khuôn mặt cha tôi hơi sụp xuống, dù ông cố không để
 
 "Đừng cảm ơn vội," Người Thầy đáp, giọng đã trở lại khô khốc như ban đầu. "Ta không dạy dỗ dễ chịu. Ta không vỗ về. Nếu nó làm sai, ta sẽ nói nó sai. Nếu nó lười, ta sẽ đuổi nó về. Và—" ông dừng lại, nhìn thẳng vào tôi lần nữa, "—có những thứ ta sẽ không dạy, dù con có hỏi bao nhiêu lần đi nữa. Con hiểu chứ?"
 
-Tôi gật đầu, dù tôi không hoàn toàn hiểu ông đang ám chỉ điều gì. Chỉ nhiều năm sau, tôi mới nhận ra ông đang nói về chính bản thân ông — về những lý thuyết dang dở ông giữ kín trong một góc phòng nào đó của căn nhà này, về những câu hỏi ông từng tự đặt ra cho chính mình và chưa bao giờ dám theo đuổi đến cùng.
+Tôi gật đầu, dù tôi không hoàn toàn hiểu ông đang ám chỉ điều gì. Chỉ là nhiều năm sau, tôi mới nhận ra ông đang nói về chính bản thân ông — về những lý thuyết còn đang dang dở ông giữ kín trong một góc phòng nào đó của căn nhà này, về những câu hỏi ông từng tự đặt ra cho chính mình và chưa bao giờ dám theo đuổi đến cùng.
 
-"Bắt đầu từ năm sau," ông nói, quay đi để dọn dẹp mô hình những viên đá xoay tròn trên bàn. "Cho nó thêm một năm để lớn thêm một chút. Ta không cần một đứa trẻ chín tuổi vụng về làm vỡ đồ đạc trong nhà ta."
+"Bắt đầu từ năm sau," ông nói, quay đi để dọn dẹp mô hình những viên đá xoay tròn trên bàn. "Cho nó thêm một năm nữa để lớn thêm một chút. Ta không cần một đứa trẻ chín tuổi vụng về làm vỡ đồ đạc trong nhà ta."
 
 ---
 
@@ -134,13 +134,13 @@ Có một khoảng lặng, ngắn nhưng đủ để tôi nhận ra mình vừa 
 
 Cha tôi im lặng lâu hơn lần này. Khi ông cuối cùng cũng trả lời, giọng ông có một trọng lượng tôi chưa từng nghe thấy trước đây, ngay cả trong những lần ông kể về những trận chiến ông từng tham gia.
 
-"Đó là một câu chuyện của một ngày khác," ông nói. "Khi con đủ lớn."
+"Đó là một câu chuyện vào một ngày khác," ông nói. "Khi con đủ lớn."
 
 Tôi không hỏi thêm. Có điều gì đó trong giọng nói của ông — một sự mệt mỏi rất cũ, rất sâu — khiến tôi hiểu rằng đây không phải là lúc.
 
-Tôi sẽ chỉ hiểu, nhiều năm sau, rằng câu chuyện đó chính là câu chuyện về một đội phiêu lưu năm người đã từng cùng nhau đi qua lửa đạn và trở về, rồi tan rã không phải vì thất bại, mà vì mỗi người trong số họ, theo cách riêng của mình, đã tìm được một lý do để dừng lại. Và rằng chính sự dừng lại ấy — sự bình yên mong manh mà cả năm người bọn họ đã cùng nhau chọn lựa — sẽ, mười năm sau, bị phá vỡ trong một buổi chiều duy nhất mà tôi vẫn chưa hề hay biết đang chờ đợi mình phía trước.
+Tôi sẽ chỉ hiểu, nhiều năm sau, rằng câu chuyện đó chính là câu chuyện về một đội phiêu lưu năm người đã từng cùng nhau đi qua máu và lửa rồi trở về, sau đó là tan rã không phải vì thất bại, mà vì mỗi người trong số họ, theo cách riêng của mình, đã tìm được một lý do để dừng lại. Và rằng chính sự dừng lại ấy — sự bình yên mong manh mà cả năm người bọn họ đã cùng nhau chọn lựa — sẽ, mười năm sau, bị phá vỡ trong một buổi chiều duy nhất mà tôi vẫn chưa hề hay biết đang chờ đợi mình phía trước.
 
-Nhưng đêm đó, đi bên cạnh cha dưới bầu trời đầy sao lạ, tay tôi vẫn còn cảm nhận được dư âm của áp lực vô hình từ mô hình những viên đá xoay tròn trên bàn Người Thầy, tôi chỉ cảm thấy một điều duy nhất: một cánh cửa vừa mở ra, và phía sau nó là chính xác thứ tôi đã tìm kiếm kể từ khoảnh khắc đầu tiên tỉnh dậy trong cơ thể nhỏ bé, lạ lẫm này.
+Nhưng đêm đó, đi bên cạnh cha dưới bầu trời đầy sao lạ, tay tôi vẫn còn cảm nhận được dư âm của áp lực vô hình từ mô hình những viên đá xoay tròn trên bàn Người Thầy, tôi chỉ cảm thấy một điều duy nhất: một cánh cửa vừa mở ra, và phía sau nó là chính xác thứ tôi đã tìm kiếm kể từ khoảnh khắc đầu tiên tỉnh dậy trong cơ thể nhỏ bé và lạ lẫm này.
 
 Một nơi mà những câu hỏi của tôi cuối cùng cũng được coi trọng.
 
