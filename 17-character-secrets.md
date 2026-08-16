@@ -36,7 +36,7 @@ Her choice to become The Ark's core is fully voluntary.
 
 ### Secret
 
-She has loved the Architect since she was old enough for it to matter, and never once said so.
+She has loved the Architect since she was old enough for it to matter, and never once said so. She only expresses it indirectly—through cooking for him, caring for him, offering advice, and checking in on him—especially during the Architect in Darkest time.
 **Reveal:** implied throughout Season 1; stated outright, if ever, only much later and gently (e.g., a single Movie 1 scene where the Son realizes it on his own).
 
 ## Seraphine

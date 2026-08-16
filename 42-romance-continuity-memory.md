@@ -1,4 +1,4 @@
-# Romance Continuity Memory (v7, World Calendar canon)
+# Romance Continuity Memory (v8, World Calendar canon)
 
 ## Purpose
 
@@ -65,7 +65,7 @@ Track: private jokes; nicknames or titles that are actually permitted; favorite 
 Seed entries to track from the outset:
 
 - Elena's jealousy of Seraphine (WC33) — must be referenced again, at least once, after Elena's death (e.g., Seraphine acknowledging it to the grown Son).
-- Iris's self-withdrawal at the wedding (WC24) — must never be silently reversed into a later confession.
+- Iris's restrained emotional disclosure around WC22 and self-withdrawal at the wedding (WC24) — the WC22 moment is nonverbal and indirect (e.g. actions, attention, expression, or a change in distance), not a spoken confession. The Architect may recognize what she is feeling and deliberately avoid encouraging it, but Iris must never explicitly confess her love. Her WC24 withdrawal is the conscious continuation of that restraint, and must never be silently reversed into a later confession.
 - Isolde's "relief, not offense" at being refused — must be referenced again when Elena consents to a second marriage and the Architect still refuses.
 - Seraphine's request to be called "Sera" (post-WC35) — a granted concession (a name) paired with a refusal (everything else); do not let the nickname read as the Architect softening toward romance.
 - Seraphine's genuine, unspoken love and the resulting loss of her demonic combat power — the causal link (love → power loss) should stay implicit/dramatic-irony for most of the story; do not have her state it outright to the Architect unless a specific chapter is built around that reveal.
@@ -97,6 +97,29 @@ Especially track: first meeting (WC15); the WC18 major argument during the Archi
 - **Relationship State After:** Their relationship is restored, without erasing the disagreement that preceded it.
 - **Emotional Meaning:** Their bond survives a serious ideological and emotional conflict. Reconciliation is part of their relationship continuity, not a reset that makes the WC18 argument irrelevant.
 - **Must Be Remembered Later:** Later chapters may show further disagreements, but must not imply that WC18 permanently separated them or that WC18 never happened.
+
+## Iris Memory
+
+### WC22 — Indirect Emotional Disclosure
+
+- **WC Year:** 22
+- **Characters:** Iris, Architect
+- **Relationship State Before:** Iris has developed romantic feelings for the Architect but remains self-restrained. She does not intend to confess them directly.
+- **Interaction:** The World Calendar's phrase "Iris bày tỏ tình cảm" is to be interpreted as an **indirect, nonverbal disclosure**, not a spoken confession. Iris may let her feelings become perceptible through actions, attention, body language, an unusual degree of care, a meaningful pause, or a moment of visible vulnerability. The Architect can notice or infer what is happening and choose to avoid encouraging it.
+- **Relationship State After:** Nothing is formally confessed or accepted. Iris remains emotionally restrained and the Architect does not reciprocate or invite a romantic relationship.
+- **Emotional Meaning:** This is the point where Iris's feelings become sufficiently visible that the Architect may understand them, while both characters preserve the unspoken nature of the relationship. The emotional tension comes from what is understood without being said.
+- **Character Interpretation:** Iris never decides to "tell him" in the conventional sense. If she reveals anything, it is through behavior rather than words, and she retains enough self-control to step back rather than force an answer.
+- **Must Be Remembered Later:** Never rewrite WC22 as Iris explicitly confessing, asking for a romantic relationship, or receiving a direct rejection. Later scenes may acknowledge that the Architect understood her feelings, but the relationship must remain fundamentally unspoken until her conscious withdrawal at WC24.
+
+### WC24 — Wedding Withdrawal
+
+- **WC Year:** 24
+- **Characters:** Iris, Architect, Elena
+- **Relationship State Before:** The emotional tension from WC22 remains understood but unspoken.
+- **Interaction:** Iris consciously steps back when the Architect and Elena marry. This is not a reversal of her feelings; it is the mature decision to respect their marriage and remain part of their trusted circle rather than become a rival.
+- **Relationship State After:** Iris continues as a loyal friend and trusted family member without pursuing the Architect romantically.
+- **Emotional Meaning:** WC24 confirms the direction established at WC22: Iris's love is real, but self-restrained and without a demand for reciprocation.
+- **Must Be Remembered Later:** Do not write any later scene as though Iris's withdrawal at the wedding erased her feelings, and do not reinterpret the WC22 moment as a confession that was later rejected.
 
 ## Iris / Seraphine / Isolde Memory
 

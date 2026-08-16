@@ -116,11 +116,11 @@ Human. Born WC3 (age = WC−3). Ages at the same rate as the Architect.
 
 ### Traits
 
-direct · loyal · physically capable · quietly perceptive · self-restrained about her own feelings
+direct · loyal · physically capable · quietly perceptive · She didn't confess her own feelings.
 
 ### Relationship
 
-Introduced at WC15 as a close platonic friend of both Elena and the Architect (Iris is 12 at this point — strictly platonic; see Character Age Rule). Her romantic feelings for the Architect form later, once she is an adult (~WC21–24). She never confesses; she consciously steps back when the Architect and Elena marry, choosing to remain as trusted family rather than a rival. After Elena's death she becomes a central caretaker for the Son, and his primary sword instructor.
+Introduced at WC15 as a close platonic friend of both Elena and the Architect (Iris is 12 at this point — strictly platonic; see Character Age Rule). Her romantic feelings for the Architect form later, once she is an adult (~WC21–24). She never confesses; She only expresses it indirectly—through; Then she consciously steps back when the Architect and Elena marry, choosing to remain as trusted family rather than a rival. After Elena's death she becomes a central caretaker for the Son, and his primary sword instructor.
 
 ### Arc
 

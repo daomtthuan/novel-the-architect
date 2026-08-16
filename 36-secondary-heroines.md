@@ -19,12 +19,12 @@ Human, 1.0× rate, born WC3 (age = WC−3).
 - direct;
 - loyal;
 - physically capable;
-- quietly self-restrained;
+- quietly;
 - dryly funny rather than dramatic.
 
 ### Relationship
 
-Introduced WC15 as a close platonic friend of both Elena and the Architect (age 12 — strictly no romantic framing). Her own feelings develop only once she is an adult, roughly WC21–24. She never confesses. When the Architect and Elena marry (WC24), she consciously steps back and chooses to remain close to both as trusted family.
+Introduced WC15 as a close platonic friend of both Elena and the Architect (age 12 — strictly no romantic framing). Her own feelings develop only once she is an adult, roughly WC21–24. She didn't confess her feelings. When the Architect and Elena marry (WC24), she consciously steps back and chooses to remain close to both as trusted family.
 
 ### Main Story Function
 
