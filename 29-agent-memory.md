@@ -14,27 +14,28 @@ After every accepted chapter, update this file.
 
 ---
 
-## WORKING STATE — AFTER CHAPTER 8
+## WORKING STATE — AFTER CHAPTER 9
 
 CURRENT INSTALLMENT: Season 1 — The Architect
 CURRENT ARC: Era 2 — Elena, First Major Loss, and the Darkest Point (foundation-building phase)
-CURRENT CHAPTER: Chapter 8 — A Name to Grow Into
-CURRENT WC YEAR: WC15
-CURRENT LOCATION: Village square / inn steps; nearby lake; village gate
+CURRENT CHAPTER: Chapter 9 — Old Names, New Signs
+CURRENT WC YEAR: WC15–16 (bridge; ends just before departure for the field operation)
+CURRENT LOCATION: Guild headquarters / en route to the eastern forest
 CURRENT POV: The Architect (first-person)
 
 ### Canonical chapter sequence so far
 
-| Chapter                              |      WC | Location                                      | Key state at chapter end                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------ | ------: | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chapter 1 — Awaken                   |     WC0 | House of Father and Mother                    | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                                                                                                                                                                                                                           |
-| Chapter 2 — Learning to See          |  ~WC2–4 | Family home / village outskirts               | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                                                                                                                                                                                                                          |
-| Chapter 3 — First Light              | WC0–WC8 | Home village                                  | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar                                                                                                                                                                                                        |
-| Chapter 4 — Teacher's Test           |     WC9 | The Teacher's house/study                     | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                                                                                                                                                                                                                          |
-| Chapter 5 — First Lessons            |    WC10 | The Teacher's house/study                     | Formal apprenticeship begins; The Teacher's core teaching method established (patience/observation before technique; theory bound to consequence); first successful spell (warming a stone via ambient Mana) after a real failure (drawing Mana from his own body); foreshadowing of "overconfidence about one's own limits" planted                                                                      |
-| Chapter 6 — The Shape of Confidence  | WC11–14 | The Teacher's house/study; family village     | Architect advances rapidly, outperforms older Academy students in a "reality check" test; first independent research (mana-lit stone lifespan vs. temperature fluctuation) recognized by The Teacher as genuine research; reputation begins spreading among Mages; The Teacher delivers his most direct warning yet about untested limits; Mother echoes it — direct foreshadowing for WC16/Darkest Point |
-| Chapter 7 — Two Signals in the Noise |    WC15 | Village square, harvest fair                  | The Architect formally meets Elena and Iris for the first time, triggered by a runaway lantern-golem cart; ACQUAINTANCE established with both, strictly platonic with Iris (12); The Teacher shows unexplained sharp attentiveness toward Elena; Elena plans to remain in the area a few more days                                                                                                        |
-| Chapter 8 — A Name to Grow Into      |    WC15 | Village square/inn; nearby lake; village gate | Over Elena's remaining days in the area, the Architect deepens genuine, non-romantic friendship with both Elena and Iris; Elena declines to give him a casual nickname, framing a name/title as something to grow into (direct seed for the WC35 "Architect" title); Iris's indirect caretaking pattern surfaces for the first time; Elena departs, promising the paths will cross again                  |
+| Chapter                              |      WC | Location                                               | Key state at chapter end                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------ | ------: | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chapter 1 — Awaken                   |     WC0 | House of Father and Mother                             | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                                                                                                                                                                                                                                                                                                                         |
+| Chapter 2 — Learning to See          |  ~WC2–4 | Family home / village outskirts                        | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                                                                                                                                                                                                                                                                                                                        |
+| Chapter 3 — First Light              | WC0–WC8 | Home village                                           | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar                                                                                                                                                                                                                                                                                                      |
+| Chapter 4 — Teacher's Test           |     WC9 | The Teacher's house/study                              | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                                                                                                                                                                                                                                                                                                                        |
+| Chapter 5 — First Lessons            |    WC10 | The Teacher's house/study                              | Formal apprenticeship begins; The Teacher's core teaching method established (patience/observation before technique; theory bound to consequence); first successful spell (warming a stone via ambient Mana) after a real failure (drawing Mana from his own body); foreshadowing of "overconfidence about one's own limits" planted                                                                                                                                                                    |
+| Chapter 6 — The Shape of Confidence  | WC11–14 | The Teacher's house/study; family village              | Architect advances rapidly, outperforms older Academy students in a "reality check" test; first independent research (mana-lit stone lifespan vs. temperature fluctuation) recognized by The Teacher as genuine research; reputation begins spreading among Mages; The Teacher delivers his most direct warning yet about untested limits; Mother echoes it — direct foreshadowing for WC16/Darkest Point                                                                                               |
+| Chapter 7 — Two Signals in the Noise |    WC15 | Village square, harvest fair                           | The Architect formally meets Elena and Iris for the first time, triggered by a runaway lantern-golem cart; ACQUAINTANCE established with both, strictly platonic with Iris (12); The Teacher shows unexplained sharp attentiveness toward Elena; Elena plans to remain in the area a few more days                                                                                                                                                                                                      |
+| Chapter 8 — A Name to Grow Into      |    WC15 | Village square/inn; nearby lake; village gate          | Over Elena's remaining days in the area, the Architect deepens genuine, non-romantic friendship with both Elena and Iris; Elena declines to give him a casual nickname, framing a name/title as something to grow into (direct seed for the WC35 "Architect" title); Iris's indirect caretaking pattern surfaces for the first time; Elena departs, promising the paths will cross again                                                                                                                |
+| Chapter 9 — Old Names, New Signs     | WC15–16 | Teacher's house / family home / Iris's yard / Guild HQ | The Architect's overconfidence escalates into an active persuasive act to join the coming operation as an observer; Scout reports unusual, organized Demon activity; the old adventuring party (minus the now-Guild-Master tanker) decides to reunite; Guild Master introduced, providing support while staying behind; Father extracts a strict "observe only, retreat immediately" promise; Iris gives a directly foreshadowing farewell line; group departs for the eastern forest at chapter's end. |
 
 **Continuity note:** Chapter 3 spans childhood material across WC0–WC8 and overlaps the broader period covered by Chapters 1–2. Treat its metadata as a chapter coverage range, not as a single chronological point. Chapter 6 similarly spans WC11–14 as a coverage range, ending at WC14. Chapter 7 and Chapter 8 both occur within WC15, with Chapter 8 immediately following Chapter 7 across the span of Elena's stated multi-day stay. Chapter 8 is the current chronological endpoint, still at WC15.
 
@@ -137,7 +138,7 @@ Never update memory from a draft that has not been accepted.
 
 ## CURRENT STORY STATE
 
-Era 2 (Elena, First Major Loss, and the Darkest Point) continues its foundation-building phase. Elena and Iris were formally introduced at WC15 (Chapter 7), and Chapter 8 deepened both relationships across the remaining days of Elena's stay in the area, still entirely within WC15. WC16 — First Major Loss — remains the next major canonical milestone and must not be triggered without further deliberate structural buildup; the owner has explicitly asked that this and the surrounding chapters serve as foundation for the Architect–Elena bond before rushing toward the Demon battle.
+The WC16 "First Major Loss" lead-up sequence is now formally underway. The reunited party (Father, Mother, The Teacher, Scout, plus the Architect as a strictly-observer-only addition) has departed for the eastern forest to investigate unusual Demon activity. The Guild Master, introduced this chapter, remains behind coordinating support. This is now the immediate setup for WC16 itself — the next chapter is the natural point for the battle to occur, pending explicit confirmation this is what the owner wants next.
 
 ---
 
@@ -149,13 +150,16 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) continues its foundation-
 - **The Teacher:** dry, guarded, weathered mage; not present in Chapter 8; his unexplained sharp attentiveness toward Elena (Chapter 7) remains unresolved and untouched.
 - **Father:** retired A-rank swordsman; not present in Chapter 8, remains a stable emotional anchor.
 - **Mother:** retired A-rank healer/enchantress; not present in Chapter 8.
+- **The Scout/Investigator:** newly introduced on-page; female, scarred jaw, cautious and direct; discovered the unusual Demon activity that triggers the reunion.
+- **The Guild Master:** newly introduced on-page; large, weathered, former tanker of the original five-person party; stays behind to coordinate Guild support; shows a guarded, evaluating attitude toward the Architect.
 
 ## CURRENT RELATIONSHIPS
 
-- **Architect ↔ Father/Mother:** warm, attentive family bond; unchanged this chapter.
+- **Architect ↔ Father:** Father sides with the Architect's request to join the mission, but only under a strict, explicit condition (observe only, retreat at first danger) — a promise now structurally primed to be broken.
+- **Architect ↔ Mother:** Mother's fear about her son's unusual nature is now openly stated for the first time, not merely implied.
 - **Architect ↔ The Teacher:** mentorship continues in background; not directly advanced this chapter.
 - **Architect ↔ Elena:** ACQUAINTANCE, moving toward FRIEND (`37-relationship-state-machine.md`) — deepened through several days of unstructured shared time; still no romantic framing. Elena has departed but explicitly signaled intent to return.
-- **Architect ↔ Iris:** ACQUAINTANCE, strictly platonic — deepened through Iris's first visible indirect caretaking gestures.
+- **Architect ↔ Iris:** deepened through a brief platonic farewell scene; Iris's warning line is now active, direct foreshadowing.
 - **Elena ↔ Iris:** confirmed, established close friendship; unchanged this chapter.
 - **Architect ↔ wider Mage community:** unchanged from Chapter 6/7's growing regional reputation.
 
@@ -197,6 +201,9 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) continues its foundation-
 - The Teacher's remark about the Eterna experiencing time differently (Chapter 7) — gentle, early groundwork for the eventual emotional weight of Elena's long lifespan relative to the Architect's own. Do not over-explain; let it recede until it becomes relevant much later.
 - (New, Chapter 8) Elena's "a name to grow into" motif — direct, deliberate thematic seed for the WC35 "Architect" title. Use sparingly; do not resolve before WC35.
 - (New, Chapter 8) Elena's reflection on being seen only as "a walking history book" — plants groundwork for her later insistence on being treated as a full person, relevant again at WC23 and after her death.
+- Iris's WC16-adjacent line — "Người ta thường hay không cần mang theo vũ khí vì họ nghĩ việc quan sát sẽ không thể trở nên nguy hiểm..." — direct foreshadowing for the Architect breaking his "observe only" promise at WC16.
+- The Architect's promise to his father (observe only, retreat immediately) — must be referenced again, and broken, when WC16 occurs.
+- Guild Master's passing remark about "what you all used to do back then" — light, unexplained; agent's discretion on future development.
 
 ## UNRESOLVED THREADS
 
@@ -362,13 +369,9 @@ Any romantic/attraction framing involving Iris before ~WC21. Any premature roman
 
 ## NEXT CHAPTER INTENT
 
-- Continue from the Chapter 8 handoff, still within or shortly after WC15.
-- Continue deepening the Architect's bonds with Elena (now traveling, expected to return per her own promise) and Iris, per the owner's explicit request that these chapters serve as foundation-building before the WC16 battle.
-- Iris remains 12 at this point: strictly platonic framing only, per Character Age Rule (`01-canon-rules.md`, `34-romance-harem-fanservice.md`).
-- Elena is already an adult (~23.75+ as WC advances); continue establishing her as a full person per `33-reader-immersion.md`.
-- Preserve The Teacher's established teaching style, his still-unexplained attentiveness toward Elena, and Elena's own brief cautious reaction — do not resolve any of these prematurely.
-- Do not rush toward WC16. The First Major Loss requires deliberate structural buildup and must not be triggered casually — this has now been explicitly reinforced by the project owner.
-- Do not reveal the WC16 tragedy, Builder terminology, or the Unburied One.
+- The group has now departed for the eastern forest. WC16 — First Major Loss — is the natural next event and should not be delayed further without explicit owner instruction, since the deliberate buildup requested earlier has now been substantially completed across Chapters 6–9.
+- Do not reveal the Unburied One's identity or its WC16→WC33–35 connection.
+- Preserve Iris's strictly platonic framing (age 12–13) throughout any further Chapter 9-adjacent material.
 
 ## CONTINUITY WARNINGS
 

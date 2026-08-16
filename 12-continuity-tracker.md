@@ -220,6 +220,27 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Unresolved questions:** None new; all existing threads (nature of reincarnation, The Teacher's unfinished remark from Chapter 4, his uncharacteristic sorrow from Chapter 6, his sharp attentiveness toward Elena from Chapter 7) remain open and untouched.
 - **Handoff to Chapter 9:** Elena has departed the area, promising to return; the Architect resumes ordinary life with The Teacher, Iris, and his parents. Default next chronological point continues foundation-building within Era 2 — further training under The Teacher, continued (if intermittent) contact with Iris, and eventually Elena's return — before any structural movement toward WC16, per the owner's explicit direction that this run of chapters should deepen the Architect–Elena bond first. WC16 (First Major Loss) remains the next major required permanent scene and must not be triggered without deliberate buildup.
 
+### Chapter 9 — Old Names, New Signs
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC15–16 (bridge chapter; ends immediately before departure for the field operation)
+- **POV:** The Architect, first-person
+- **Location:** The Teacher's house; family home; ground behind Iris's house; Guild headquarters in the neighboring town
+- **Characters:** The Architect (15–16), Father, Mother, The Teacher, the Scout/Investigator (first full appearance, unnamed), the Guild Master (first full appearance, unnamed), Iris (12–13)
+- **Core conflict:** Architect's growing overconfidence after outpacing The Teacher's expectations; external — Scout's discovery of unusual Demon activity forces the old adventuring party to consider reuniting
+- **Emotional objective:** Escalate the Architect's arrogance into an active, consequential choice (talking his way into the operation); establish Mother's open fear for the first time; deepen the sense of dread ahead of WC16
+- **Plot objective:** Formally open the WC16 lead-up sequence — Scout's discovery, the old party's reunion decision, first full appearance of the Guild Master, Architect's conditional inclusion as an observer only
+- **New facts:** The Teacher confirms the Architect has surpassed projected learning pace; the Scout (female, scar along her jaw) is introduced, reporting unusual, organized Demon activity in the eastern forest; the Guild Master (male, large build, former tanker) is introduced at Guild headquarters, providing supplies and remote coordination while remaining behind; Iris is confirmed to be training independently in swordsmanship with the village blacksmith.
+- **Character changes:** The Architect's overconfidence escalates from private pride (Chapter 6) to an active persuasive act — arguing his way into a dangerous mission over his mother's objection.
+- **Relationship changes:** Mother voices open fear about her son's unusual nature for the first time; Father sides with the Architect but imposes a strict, explicit promise (observe only, no combat, retreat at the first sign of danger) — a promise structurally set up to be broken at WC16. Architect↔Iris deepens through a brief, platonic farewell scene containing a directly foreshadowing line from Iris.
+- **World changes:** The Guild is formally shown as an active organization; the Guild Master appears on-page for the first time.
+- **New objects:** Emergency Guild supplies (healing items, ward charms, high-grade enchanted items) — background detail, non-registry unless reused.
+- **New locations:** Guild headquarters in the neighboring town — candidate for `22-location-registry.md` if it recurs.
+- **Foreshadowing:** Iris's line about not needing a weapon to make observation dangerous — direct foreshadowing for WC16. The Architect's "observe only, retreat if danger" promise to his father — set up to be broken, raising WC16's emotional stakes. The Guild Master's passing remark about "what you all used to do back then" — a light, unexplained gesture toward untold past history; not a formal mystery-board entry.
+- **Secrets revealed:** None; the Unburied One connection remains fully backstage, consistent with reveal discipline.
+- **Unresolved questions:** The true nature of what is directing the Demon activity remains unconfirmed on-page (resolved in canon but withheld); Scout's and Guild Master's personal names remain unassigned (owner's discretion).
+- **Handoff to Chapter 10:** The reunited group (Father, Mother, The Teacher, Scout, and the Architect as observer) departs for the eastern forest. WC16 — First Major Loss — is now the immediate next canonical milestone and should be approached with full deliberate buildup; this is the chapter where it may finally occur, at the owner's discretion.
+
 ---
 
 ## Required Chapter Record
