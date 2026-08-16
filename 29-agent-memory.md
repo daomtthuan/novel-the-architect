@@ -1,4 +1,4 @@
-# Agent Memory (v12, World Calendar canon)
+# Agent Memory (v13, World Calendar canon)
 
 ## Purpose
 
@@ -14,28 +14,29 @@ After every accepted chapter, update this file.
 
 ---
 
-## WORKING STATE — AFTER CHAPTER 7
+## WORKING STATE — AFTER CHAPTER 8
 
 CURRENT INSTALLMENT: Season 1 — The Architect
-CURRENT ARC: Era 2 — Elena, First Major Loss, and the Darkest Point (opening)
-CURRENT CHAPTER: Chapter 7 — Two Signals in the Noise
+CURRENT ARC: Era 2 — Elena, First Major Loss, and the Darkest Point (foundation-building phase)
+CURRENT CHAPTER: Chapter 8 — A Name to Grow Into
 CURRENT WC YEAR: WC15
-CURRENT LOCATION: Village square (harvest fair), near the family's home village
+CURRENT LOCATION: Village square / inn steps; nearby lake; village gate
 CURRENT POV: The Architect (first-person)
 
 ### Canonical chapter sequence so far
 
-| Chapter                              |      WC | Location                                  | Key state at chapter end                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------ | ------: | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chapter 1 — Awaken                   |     WC0 | House of Father and Mother                | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                                                                                                                                                                                                                           |
-| Chapter 2 — Learning to See          |  ~WC2–4 | Family home / village outskirts           | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                                                                                                                                                                                                                          |
-| Chapter 3 — First Light              | WC0–WC8 | Home village                              | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar                                                                                                                                                                                                        |
-| Chapter 4 — Teacher's Test           |     WC9 | The Teacher's house/study                 | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                                                                                                                                                                                                                          |
-| Chapter 5 — First Lessons            |    WC10 | The Teacher's house/study                 | Formal apprenticeship begins; The Teacher's core teaching method established (patience/observation before technique; theory bound to consequence); first successful spell (warming a stone via ambient Mana) after a real failure (drawing Mana from his own body); foreshadowing of "overconfidence about one's own limits" planted                                                                      |
-| Chapter 6 — The Shape of Confidence  | WC11–14 | The Teacher's house/study; family village | Architect advances rapidly, outperforms older Academy students in a "reality check" test; first independent research (mana-lit stone lifespan vs. temperature fluctuation) recognized by The Teacher as genuine research; reputation begins spreading among Mages; The Teacher delivers his most direct warning yet about untested limits; Mother echoes it — direct foreshadowing for WC16/Darkest Point |
-| Chapter 7 — Two Signals in the Noise |    WC15 | Village square, harvest fair              | The Architect formally meets Elena and Iris for the first time, triggered by a runaway lantern-golem cart; ACQUAINTANCE established with both, strictly platonic with Iris (12); The Teacher shows unexplained sharp attentiveness toward Elena; Elena plans to remain in the area a few more days                                                                                                        |
+| Chapter                              |      WC | Location                                      | Key state at chapter end                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------ | ------: | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chapter 1 — Awaken                   |     WC0 | House of Father and Mother                    | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                                                                                                                                                                                                                           |
+| Chapter 2 — Learning to See          |  ~WC2–4 | Family home / village outskirts               | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                                                                                                                                                                                                                          |
+| Chapter 3 — First Light              | WC0–WC8 | Home village                                  | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar                                                                                                                                                                                                        |
+| Chapter 4 — Teacher's Test           |     WC9 | The Teacher's house/study                     | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                                                                                                                                                                                                                          |
+| Chapter 5 — First Lessons            |    WC10 | The Teacher's house/study                     | Formal apprenticeship begins; The Teacher's core teaching method established (patience/observation before technique; theory bound to consequence); first successful spell (warming a stone via ambient Mana) after a real failure (drawing Mana from his own body); foreshadowing of "overconfidence about one's own limits" planted                                                                      |
+| Chapter 6 — The Shape of Confidence  | WC11–14 | The Teacher's house/study; family village     | Architect advances rapidly, outperforms older Academy students in a "reality check" test; first independent research (mana-lit stone lifespan vs. temperature fluctuation) recognized by The Teacher as genuine research; reputation begins spreading among Mages; The Teacher delivers his most direct warning yet about untested limits; Mother echoes it — direct foreshadowing for WC16/Darkest Point |
+| Chapter 7 — Two Signals in the Noise |    WC15 | Village square, harvest fair                  | The Architect formally meets Elena and Iris for the first time, triggered by a runaway lantern-golem cart; ACQUAINTANCE established with both, strictly platonic with Iris (12); The Teacher shows unexplained sharp attentiveness toward Elena; Elena plans to remain in the area a few more days                                                                                                        |
+| Chapter 8 — A Name to Grow Into      |    WC15 | Village square/inn; nearby lake; village gate | Over Elena's remaining days in the area, the Architect deepens genuine, non-romantic friendship with both Elena and Iris; Elena declines to give him a casual nickname, framing a name/title as something to grow into (direct seed for the WC35 "Architect" title); Iris's indirect caretaking pattern surfaces for the first time; Elena departs, promising the paths will cross again                  |
 
-**Continuity note:** Chapter 3 spans childhood material across WC0–WC8 and overlaps the broader period covered by Chapters 1–2. Treat its metadata as a chapter coverage range, not as a single chronological point. Chapter 6 similarly spans WC11–14 as a coverage range, ending at WC14. Chapter 7 is the current chronological endpoint, at WC15.
+**Continuity note:** Chapter 3 spans childhood material across WC0–WC8 and overlaps the broader period covered by Chapters 1–2. Treat its metadata as a chapter coverage range, not as a single chronological point. Chapter 6 similarly spans WC11–14 as a coverage range, ending at WC14. Chapter 7 and Chapter 8 both occur within WC15, with Chapter 8 immediately following Chapter 7 across the span of Elena's stated multi-day stay. Chapter 8 is the current chronological endpoint, still at WC15.
 
 ---
 
@@ -136,27 +137,27 @@ Never update memory from a draft that has not been accepted.
 
 ## CURRENT STORY STATE
 
-Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iris have both been formally introduced at WC15, per `world_calendar.md` / `02-timeline.md`. WC16 — First Major Loss — is the next major canonical milestone and must not be triggered without deliberate structural buildup; the story should spend meaningful time deepening the Architect's bonds with Elena, Iris, his parents, and The Teacher before that event.
+Era 2 (Elena, First Major Loss, and the Darkest Point) continues its foundation-building phase. Elena and Iris were formally introduced at WC15 (Chapter 7), and Chapter 8 deepened both relationships across the remaining days of Elena's stay in the area, still entirely within WC15. WC16 — First Major Loss — remains the next major canonical milestone and must not be triggered without further deliberate structural buildup; the owner has explicitly asked that this and the surrounding chapters serve as foundation for the Architect–Elena bond before rushing toward the Demon battle.
 
 ---
 
 ## ACTIVE CHARACTERS
 
-- **The Architect (15):** analytical, curious, pragmatic; has just experienced, for the first time on-page, being seen as a person rather than a phenomenon — a new emotional register distinct from the pride/overconfidence built up through Chapter 6.
-- **Elena (23.75):** newly introduced; warm, direct, perceptive, playfully teasing; Eterna, longtime family friend of Iris's household; currently traveling, planning to remain in the area a few more days.
-- **Iris (12):** newly formally introduced (beyond the Chapter 2 infant cameo); plainspoken, dry, practical, quietly observant; shows approval through short questions and attentive silence rather than open admiration. Strictly platonic — no attraction framing until she is textually an adult (~WC21+).
-- **The Teacher:** dry, guarded, weathered mage; displays unusually sharp, unexplained attentiveness toward Elena upon seeing her — left deliberately open, not yet a formal mystery-board entry.
-- **Father:** retired A-rank swordsman; not present in Chapter 7, remains a stable emotional anchor.
-- **Mother:** retired A-rank healer/enchantress; not present in Chapter 7.
+- **The Architect (15):** analytical, curious, pragmatic; has now experienced sustained, ordinary friendship valued for himself rather than his ability — a new emotional register built directly on top of Chapter 7's first taste of being seen as a person.
+- **Elena (23.75):** established as warm, direct, perceptive, playfully teasing; keeps personal observation notes; can perceive Mana visually under strong disturbance; has shared a personal reflection on the loneliness of being seen only as "history" rather than a person; has departed the area, promising the paths will cross again.
+- **Iris (12):** plainspoken, dry, practical, quietly observant; now shown exhibiting her first on-page indirect caretaking gestures (sharing food, offering to handle errands, a single dry vote of confidence in the Architect's character). Strictly platonic — no attraction framing until she is textually an adult (~WC21+).
+- **The Teacher:** dry, guarded, weathered mage; not present in Chapter 8; his unexplained sharp attentiveness toward Elena (Chapter 7) remains unresolved and untouched.
+- **Father:** retired A-rank swordsman; not present in Chapter 8, remains a stable emotional anchor.
+- **Mother:** retired A-rank healer/enchantress; not present in Chapter 8.
 
 ## CURRENT RELATIONSHIPS
 
 - **Architect ↔ Father/Mother:** warm, attentive family bond; unchanged this chapter.
-- **Architect ↔ The Teacher:** mentorship continues; Teacher's guarded attentiveness toward Elena is a new, unexplained beat layered onto the existing relationship.
-- **Architect ↔ Elena:** newly established at ACQUAINTANCE (`37-relationship-state-machine.md`); Elena has expressed intent to remain in the area and see him again.
-- **Architect ↔ Iris:** newly established at ACQUAINTANCE, strictly platonic; Iris shows quiet approval rather than overt admiration.
-- **Elena ↔ Iris:** confirmed as an established, long-standing close friendship predating this chapter.
-- **Architect ↔ wider Mage community:** unchanged from Chapter 6's growing regional reputation.
+- **Architect ↔ The Teacher:** mentorship continues in background; not directly advanced this chapter.
+- **Architect ↔ Elena:** ACQUAINTANCE, moving toward FRIEND (`37-relationship-state-machine.md`) — deepened through several days of unstructured shared time; still no romantic framing. Elena has departed but explicitly signaled intent to return.
+- **Architect ↔ Iris:** ACQUAINTANCE, strictly platonic — deepened through Iris's first visible indirect caretaking gestures.
+- **Elena ↔ Iris:** confirmed, established close friendship; unchanged this chapter.
+- **Architect ↔ wider Mage community:** unchanged from Chapter 6/7's growing regional reputation.
 
 ## CURRENT POLITICAL STATE
 
@@ -164,26 +165,28 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iri
 
 ## CURRENT WORLD STATE
 
-- Era 2 (Elena, First Major Loss, and the Darkest Point) has opened.
+- Era 2 (Elena, First Major Loss, and the Darkest Point) continues its foundation-building phase.
 - Magic remains established as rule-governed, costly, and dangerous if misused.
-- A harvest fair in the family's home village is established as a one-time, non-registry backdrop.
+- A small lake outside the village is newly established as a recurring, non-registry backdrop tied to Iris and Elena's shared childhood.
 
 ## RECENT EVENTS
 
-- **WC15:** A runaway lantern-golem cart at the village harvest fair brings the Architect into direct, immediate contact with Elena (who saves a frightened child) and Iris (who observes and questions him afterward). The Architect disables the cart by cutting its enchanted power tether. Elena and the Architect formally introduce themselves; Iris is introduced as Elena's close friend. The Teacher arrives, shows unusual sharp attentiveness toward Elena, and gives the Architect a brief, unexplained warning about how the Eterna experience time differently. Elena states she will remain in the area a few more days.
+- **WC15 (Chapter 8):** Over the several days Elena remains in the area, she and the Architect spend unstructured time together — sitting at the inn steps, walking to a nearby lake, and sharing a final evening meal before her departure. Elena shares a personal reflection about being treated as "a walking history book" rather than a person; the Architect privately recognizes a resonance with his own hidden burden without disclosing it. Elena deliberately refuses to invent a casual nickname for him, instead framing a real name/title as something to be grown into. Iris participates with small, indirect caretaking gestures (sharing food, offering to accompany him on errands, a dry vote of confidence in his character) and one flat, non-jealous observation about Elena talking to the Architect more than to her. Elena departs the following morning, promising the paths will cross again.
 
 ## RECENT EMOTIONAL EVENTS
 
-- The Architect experiences, for the first time on-page, the sensation of being regarded as a person rather than a phenomenon — a direct emotional counterweight to the pride/overconfidence established in Chapter 6.
-- A small, private embarrassment when the Architect slips and refers to himself as "con" in front of Elena — his first visible moment of being caught off guard by a new relationship rather than by magic or theory.
-- The Teacher's unusually sharp, wordless attentiveness toward Elena, followed by his brief remark about Eterna time-perception, lands as a quiet, deliberately unexplained beat.
+- The Architect experiences, for the first sustained stretch on-page, friendship valued for himself rather than his competence — building directly on Chapter 7's first glimpse of being seen as a person.
+- A quiet moment of private resonance when Elena describes the loneliness of being treated as history rather than a person — the Architect recognizes a parallel to his own hidden burden but does not disclose it.
+- Elena's refusal to assign him a casual nickname, reframed instead as "a name to grow into," lands as a small but weighty moment the Architect does not yet fully understand.
+- Iris's dry, unprompted vote of confidence in his character — his first experience of being defended, however lightly, by someone his own general age group.
 
 ## ACTIVE MYSTERIES
 
 - Who/what was the WC16 Demon ("The Unburied One") — see `26-mystery-board.md`. Keep backstage in Season 1.
 - The Teacher's unfinished remark from Chapter 4 about "someone who thought this way" remains open and unaddressed.
 - The Teacher's uncharacteristic sorrow from Chapter 6 remains open and unaddressed.
-- (New, minor) The Teacher's unusually sharp attentiveness toward Elena in Chapter 7 is left deliberately unexplained — not a formal mystery-board entry, just an open character beat the agent may develop later.
+- The Teacher's unusually sharp attentiveness toward Elena in Chapter 7 remains open and unaddressed — not a formal mystery-board entry.
+- (New, minor) Elena's brief cautious reaction upon hearing the Architect describe The Teacher's isolated, guarded teaching style — left deliberately unexplained, a very light gesture toward the still-open Teacher/Elena beat; not a formal mystery-board entry.
 
 ## PENDING FORESHADOWING
 
@@ -191,14 +194,17 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iri
 - The Teacher's WC10 line — "overconfidence about one's own limits is the real danger" — remains active foreshadowing for WC16 and the Darkest Point.
 - The Teacher's WC14 line — "con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự" — remains the clearest direct foreshadowing planted so far for WC16's First Major Loss. Do not resolve or call back explicitly before WC16.
 - Mother's WC14 line — "có những thứ trên đời không có quy luật để tìm ra... chỉ có thể được cảm nhận, được chấp nhận, hoặc được mất đi" — direct, conscious thematic seed for Elena's WC23 "people are not variables" breakthrough. Do not resolve before WC23.
-- (New, Chapter 7) The Teacher's remark about the Eterna experiencing time differently — gentle, early groundwork for the eventual emotional weight of Elena's long lifespan relative to the Architect's own. Do not over-explain; let it recede until it becomes relevant much later.
+- The Teacher's remark about the Eterna experiencing time differently (Chapter 7) — gentle, early groundwork for the eventual emotional weight of Elena's long lifespan relative to the Architect's own. Do not over-explain; let it recede until it becomes relevant much later.
+- (New, Chapter 8) Elena's "a name to grow into" motif — direct, deliberate thematic seed for the WC35 "Architect" title. Use sparingly; do not resolve before WC35.
+- (New, Chapter 8) Elena's reflection on being seen only as "a walking history book" — plants groundwork for her later insistence on being treated as a full person, relevant again at WC23 and after her death.
 
 ## UNRESOLVED THREADS
 
 - Unburied One's confirmed/unconfirmed destruction at WC40 — owner's discretion on whether this is ever settled on-page.
 - Why The Teacher stopped taking students before the Architect (raised Chapter 4) — remains open.
 - Whether the visiting Mage professor or any of the three unnamed Academy students from Chapter 6 recur later — currently one-time background characters; agent's discretion.
-- (New, minor, non-canon-critical) Why The Teacher reacted with unusual sharpness upon seeing Elena — currently unexplained; agent's discretion on whether and when to develop this further.
+- Why The Teacher reacted with unusual sharpness upon seeing Elena (Chapter 7) — currently unexplained; agent's discretion on whether and when to develop this further.
+- (New, minor, non-canon-critical) Elena's brief cautious reaction to hearing about The Teacher's teaching style — currently unexplained; agent's discretion.
 
 ## THINGS THE READER KNOWS
 
@@ -206,21 +212,21 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iri
 - He instinctively analyzes magic as a system with rules, and has completed his first genuinely successful piece of independent magical research.
 - His parents are retired A-rank adventurers: Father is a swordsman; Mother is a healer/enchantress.
 - The Teacher is connected to the parents' former five-person adventuring party.
-- The Architect has now formally met Elena and Iris; Elena is Eterna and ages far more slowly than he does.
-- The Teacher reacted to Elena with an attentiveness the reader does not yet have an explanation for.
+- The Architect has now formally met Elena and Iris and spent several additional days building genuine friendship with both; Elena is Eterna and ages far more slowly than he does.
+- The Teacher reacted to Elena with an attentiveness the reader does not yet have an explanation for; Elena, in turn, reacted with brief caution upon hearing about The Teacher's style — the reader does not yet have an explanation for this either.
 
 ## THINGS THE CHARACTERS KNOW
 
-- **The Architect:** knows his own reincarnation and Earth-origin memories; has now met Elena and Iris and been told, briefly, that the Eterna experience time differently; does not know why The Teacher reacted to Elena the way he did.
+- **The Architect:** knows his own reincarnation and Earth-origin memories; has now spent several days building real friendship with Elena and Iris; does not know why The Teacher reacted to Elena the way he did, nor why Elena reacted cautiously to hearing about The Teacher.
 - **Father/Mother:** know the Teacher from their former adventuring life; unchanged this chapter (not present).
-- **The Teacher:** has shown an unusual, unexplained level of attentiveness toward Elena; has not stated why.
-- **Elena:** knows she is Eterna, a longtime friend of Iris's family, and has just met the Architect for the first time; has expressed intent to stay in the area.
-- **Iris:** knows Elena as her closest friend; has just met the Architect and formed a quiet, approving impression of him, entirely platonic.
+- **The Teacher:** has shown an unusual, unexplained level of attentiveness toward Elena; has not stated why; not present this chapter.
+- **Elena:** knows she is Eterna, a longtime friend of Iris's family; has now spent several days with the Architect, sharing a personal reflection about being seen only as history; has departed, intending to return.
+- **Iris:** knows Elena as her closest friend; has spent several more days with the Architect, deepening a purely platonic bond through small caretaking gestures.
 
 ## THINGS ONLY THE AUTHOR KNOWS
 
 - The Unburied One's role as a hidden influence on Seraphine's faction (WC16–35) — not known to Seraphine, her faction leadership, the Architect, or the reader in Season 1.
-- The specific reason behind The Teacher's uncharacteristic sorrow in Chapter 6, and his sharp attentiveness toward Elena in Chapter 7, are left open for the agent to develop later without being obligated to resolve them before WC16.
+- The specific reason behind The Teacher's uncharacteristic sorrow in Chapter 6, his sharp attentiveness toward Elena in Chapter 7, and Elena's own cautious reaction in Chapter 8 are left open for the agent to develop later without being obligated to resolve them before WC16.
 
 ## DO NOT REVEAL YET
 
@@ -232,7 +238,7 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iri
 - The Architect is born WC0 as an infant with full adult memory; he does not "awaken" as an already-grown adult.
 - Elena ages at 0.25×, is already an adult (Eterna) when they meet at WC15.
 - HARD RULE: all romantic/sexual content requires 18+ actual age (computed via each race's Aging Rate System, never apparent/soul age). Before 18, affection is written only as admiration/hero-worship — never romantic or sexual framing. This applies to every character, with no setting-based exception.
-- Iris's romantic feelings never appear before she is 18 (~WC21+); before that, her attachment is written as childhood admiration only. Her WC15 introduction (age 12) is strictly platonic, characterized through plainspoken, practical dialogue and quiet approval — never attraction.
+- Iris's romantic feelings never appear before she is 18 (~WC21+); before that, her attachment is written as childhood admiration only. Her WC15 introduction (age 12) is strictly platonic, characterized through plainspoken, practical dialogue and quiet approval — never attraction. Chapter 8's caretaking gestures remain within this same strictly platonic register.
 - Seraphine is ageless and is always refused, never accepted, as a romantic partner. She is nicknamed "Sera" by the Architect post-WC35, at her own request, as acknowledgment she's no longer an enemy — not as romantic reciprocation. She is genuinely in love with him; once a Succubus truly falls in love she permanently loses her demonic combat power (ordinary magic only) — this is why she stops fighting and becomes the Son's magic teacher.
 - The Princess is named Isolde Veyrand, princess of the Empire of Veyrand. The Architect refuses her even after Elena consents to a second marriage — this is his own principle, from his Earth-origin values, not merely deference to Elena or in-world custom.
 - Elena's death and the Son's birth happen the same day (WC35).
@@ -252,18 +258,18 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iri
 
 ### The Architect
 
-- Has just formed his first meaningful acquaintance-level relationships outside his immediate family and mentor — a structural turning point marking the start of Era 2.
-- Continues carrying two independent, serious, unresolved warnings (Teacher, Mother) about untested confidence.
-- Primary immediate goal: continue training under The Teacher while beginning to spend time with Elena and Iris; next canonical milestones are the deepening of these friendships and, eventually, WC16's First Major Loss (must not be rushed).
+- Has now spent multiple days building real, ordinary friendship with Elena and Iris beyond their first meeting — a structural deepening of Era 2's opening.
+- Continues carrying two independent, serious, unresolved warnings (Teacher, Mother) about untested confidence, entirely undisturbed by the events of this chapter.
+- Primary immediate goal: continue training under The Teacher while maintaining the newly deepened friendships with Elena (now traveling) and Iris; next canonical milestones are further deepening toward FRIEND/TRUST state and, eventually, WC16's First Major Loss (must not be rushed).
 
 ### Elena
 
-- Just introduced (WC15). Established as warm, direct, perceptive, teasing; Eterna; longtime friend of Iris's family; currently traveling and intends to remain in the area.
-- Next steps: deepen the ACQUAINTANCE-stage friendship with the Architect and Iris before Era 2 progresses toward WC16 and beyond.
+- Deepened from ACQUAINTANCE toward FRIEND across Chapters 7–8. Established as warm, direct, perceptive, teasing, and now shown as reflective and occasionally guarded about her own long life. Has departed the area but signaled clear intent to return.
+- Next steps: further deepen the friendship with the Architect and Iris in subsequent chapters, working the relationship state machine toward FRIEND and eventually TRUST, well ahead of the WC23 breakthrough.
 
 ### Iris
 
-- Just formally introduced beyond her Chapter 2 infant cameo (WC15, age 12). Established as plainspoken, dry, practical, quietly observant. No romantic/attraction framing before adulthood (~WC21+).
+- Deepened within ACQUAINTANCE (WC15, age 12) through her first on-page indirect caretaking gestures. Still strictly platonic — no romantic/attraction framing before adulthood (~WC21+).
 
 ### Seraphine
 
@@ -292,7 +298,7 @@ Era 2 (Elena, First Major Loss, and the Darkest Point) has opened. Elena and Iri
 ## CURRENT ROMANCE STATE
 
 PRIMARY:
-The Architect ↔ Elena — ACQUAINTANCE (just met, WC15)
+The Architect ↔ Elena — ACQUAINTANCE moving toward FRIEND (WC15, deepened across Chapters 7–8)
 
 SECONDARY ATTRACTIONS:
 
@@ -302,22 +308,22 @@ SECONDARY ATTRACTIONS:
 
 ## ELENA STATUS:
 
-Formally introduced at WC15, per `world_calendar.md` / `02-timeline.md`. Currently at ACQUAINTANCE stage with the Architect; has expressed intent to remain in the area a few more days.
+Formally introduced at WC15, per `world_calendar.md` / `02-timeline.md`. Currently at ACQUAINTANCE-moving-toward-FRIEND stage with the Architect; has departed the area after several days, with a stated intent to return.
 
 ---
 
 ## CURRENT FAN-SERVICE LEVEL
 
 Installment baseline: Season 1, highest of the saga overall.
-CURRENT LEVEL: None/minimal — Elena and Iris have just been introduced at ACQUAINTANCE level; no fanservice framing is appropriate yet.
+CURRENT LEVEL: None/minimal — Elena and Iris remain at ACQUAINTANCE/early-FRIEND level; no fanservice framing is appropriate yet.
 
 ## Allowed:
 
-N/A yet — relationships are at ACQUAINTANCE stage only.
+N/A yet — relationships are at ACQUAINTANCE/early-FRIEND stage only.
 
 ## Avoid:
 
-Any romantic/attraction framing involving Iris before ~WC21. Any premature romantic escalation with Elena beyond ACQUAINTANCE.
+Any romantic/attraction framing involving Iris before ~WC21. Any premature romantic escalation with Elena beyond ACQUAINTANCE/early-FRIEND.
 
 ---
 
@@ -330,7 +336,7 @@ Any romantic/attraction framing involving Iris before ~WC21. Any premature roman
 
 - Ambient magic and basic enchantment are established.
 - The Architect has advanced from single-action spellcraft (warming a stone) to sustained-effect constructs ("khung ý chí") and has demonstrated clear superiority over older, formally-trained Academy students in a controlled test.
-- Elena has demonstrated Light-affinity magic used for calming/soothing distress, consistent with the Eterna's Light/Time affinity (`00-story-bible.md`).
+- Elena has demonstrated Light-affinity magic used for calming/soothing distress, consistent with the Eterna's Light/Time affinity (`00-story-bible.md`), and has shown she can perceive Mana visually under strong disturbance.
 
 ## CURRENT FACTION STATE
 
@@ -341,37 +347,39 @@ Any romantic/attraction framing involving Iris before ~WC21. Any premature roman
 ## CURRENT LOCATION STATE
 
 - City name: resolved as plain "Elena" (post-WC35 rebuild). Pre-WC35, informally "the Architect's City" (disliked, never adopted). Not yet founded — City Project begins WC28.
+- A small lake outside the village is newly established as a recurring, non-registry backdrop tied to Iris and Elena's shared childhood.
 
 ## CURRENT ARTIFACT STATE
 
 - The Architect's early research notes (mana-lit stone lifespan study) are a non-registry precursor to the "Architect's Notebooks" described generically in `24-artifact-registry.md`; no new registry entry required yet.
+- Elena's personal observation notebook is newly established as a minor, non-registry personal object; may recur.
 
 ---
 
 ## LAST CHAPTER SUMMARY
 
-**Chapter 7 — Two Signals in the Noise (WC15):** At the village's harvest fair, a runaway lantern-golem cart brings the Architect into direct contact with Elena, who saves a frightened child using Light magic, and Iris, Elena's close friend. The Architect disables the cart by cutting its power tether, and the three formally meet afterward. Elena is warm, direct, and teasing; Iris is plainspoken and quietly observant, entirely platonic given her age (12). The Teacher arrives, shows unusual sharp attentiveness toward Elena, and gives the Architect a brief, unexplained remark about how the Eterna experience time differently. Elena states she will remain in the area a few more days. The chapter closes on the Architect reflecting, for the first time, on being seen as a person rather than a phenomenon.
+**Chapter 8 — A Name to Grow Into (WC15):** Over the several days Elena remains in the area following Chapter 7, she and the Architect deepen a genuine, entirely non-romantic friendship — sitting together at the inn steps, walking to a nearby lake, and sharing a final evening meal. Elena reflects on the loneliness of being seen only as history rather than a person, a sentiment the Architect privately recognizes without disclosing his own hidden burden. She deliberately declines to invent a casual nickname for him, framing a real name/title as something to be grown into — a direct thematic seed for the "Architect" title at WC35. Iris shows her first on-page indirect caretaking gestures (sharing food, offering to accompany him on errands, a dry vote of confidence in his character) while remaining strictly platonic. Elena departs the following morning, promising their paths will cross again.
 
 ## NEXT CHAPTER INTENT
 
-- Continue from the Chapter 7 handoff, at or shortly after WC15.
-- Deepen the newly-established ACQUAINTANCE-level friendships with Elena and Iris — per `world_calendar.md`'s WC15 note that "cả ba người luôn đồng hành với nhau trong các cuộc phiêu lưu nhỏ và trận chiến nhỏ," small shared adventures/mild skirmishes are canonically appropriate territory for upcoming chapters.
+- Continue from the Chapter 8 handoff, still within or shortly after WC15.
+- Continue deepening the Architect's bonds with Elena (now traveling, expected to return per her own promise) and Iris, per the owner's explicit request that these chapters serve as foundation-building before the WC16 battle.
 - Iris remains 12 at this point: strictly platonic framing only, per Character Age Rule (`01-canon-rules.md`, `34-romance-harem-fanservice.md`).
 - Elena is already an adult (~23.75+ as WC advances); continue establishing her as a full person per `33-reader-immersion.md`.
-- Preserve The Teacher's established teaching style and the still-unexplained attentiveness he showed toward Elena — do not resolve it prematurely.
-- Do not rush toward WC16. The First Major Loss requires deliberate structural buildup and must not be triggered casually.
+- Preserve The Teacher's established teaching style, his still-unexplained attentiveness toward Elena, and Elena's own brief cautious reaction — do not resolve any of these prematurely.
+- Do not rush toward WC16. The First Major Loss requires deliberate structural buildup and must not be triggered casually — this has now been explicitly reinforced by the project owner.
 - Do not reveal the WC16 tragedy, Builder terminology, or the Unburied One.
 
 ## CONTINUITY WARNINGS
 
 - Chapter 3's metadata covers WC0–WC8 and overlaps Chapters 1–2; do not interpret it as a single event occurring after Chapter 2.
-- Chapter 6's metadata covers WC11–14 as a coverage range; Chapter 7 begins at WC15, immediately following.
-- Chapter 7 is the current chronological endpoint at WC15.
+- Chapter 6's metadata covers WC11–14 as a coverage range; Chapter 7 and Chapter 8 both occur within WC15, with Chapter 8 following directly after Chapter 7.
+- Chapter 8 is the current chronological endpoint, still at WC15.
 - Do not reveal the WC16 tragedy, the full former-party history, Builder terminology, or the Unburied One early.
 - The Architect's Earth-origin knowledge must remain selectively concealed in-world.
-- Iris is not a romantic interest during childhood; attraction begins only at adulthood (~WC21+). Her WC15 introduction is strictly platonic (age 12).
+- Iris is not a romantic interest during childhood; attraction begins only at adulthood (~WC21+). Her Chapter 7–8 scenes are strictly platonic (age 12).
 - Never give The Architect a personal name.
-- Elena's introduction at WC15 must not be rushed into romance; the relationship state machine (`37-relationship-state-machine.md`) requires FRIEND → TRUST → the WC23 breakthrough before LOVE.
+- Elena's introduction and subsequent bonding at WC15 must not be rushed into romance; the relationship state machine (`37-relationship-state-machine.md`) requires FRIEND → TRUST → the WC23 breakthrough before LOVE.
 
 ## MEMORY UPDATE RULE
 

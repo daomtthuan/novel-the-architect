@@ -199,6 +199,27 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Unresolved questions:** None new; existing threads (nature of reincarnation, The Teacher's unfinished remark from Chapter 4, his uncharacteristic sorrow from Chapter 6) remain open.
 - **Handoff to Chapter 8:** Default next chronological point continues Era 2 forward from WC15 — further time spent with Elena and Iris, deepening the newly-established acquaintance toward friendship, per `world_calendar.md`'s WC15–16 entries — unless the owner specifies otherwise. WC16 (First Major Loss) looms as the next major required permanent scene and must not be triggered without explicit structural buildup.
 
+### Chapter 8 — A Name to Grow Into
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC15 (immediately following Chapter 7, across Elena's stated multi-day stay)
+- **POV:** The Architect, first-person
+- **Location:** Village square / inn steps; a small lake outside the village; the village gate
+- **Characters:** The Architect (15), Elena (23.75), Iris (12)
+- **Core conflict:** Internal — the unfamiliar comfort of being valued as a person rather than for ability; a light, undeveloped undertone of Iris noticing the growing closeness between the Architect and Elena, explicitly framed as observation rather than jealousy
+- **Emotional objective:** Move Architect↔Elena from ACQUAINTANCE toward FRIEND through ordinary, non-romantic shared time (`37-relationship-state-machine.md`); deepen Architect↔Iris within strict platonic bounds via her first on-page indirect caretaking gestures (`17-character-secrets.md`); plant the "a name to grow into" motif as a deliberate, sparing seed for the WC35 "Architect" title
+- **Plot objective:** Fulfill the owner's explicit request for a foundation-building chapter between the Architect and Elena, deliberately deferring any movement toward WC16; dramatize the "several more days" Elena announced she would remain in the area at the end of Chapter 7
+- **New facts:** Elena keeps a personal observation notebook and can perceive Mana visually under strong disturbance; a small lake outside the village is established as tied to Iris and Elena's shared childhood; Elena reflects personally on the isolating experience of being seen only as "history" rather than a person; Elena declines to invent a nickname for the Architect, framing a true name/title as something to be earned/grown into.
+- **Character changes:** The Architect experiences sustained, ordinary friendship valued for himself — the first extended counterweight to the pride/overconfidence built up through Chapter 6.
+- **Relationship changes:** Architect↔Elena advances from ACQUAINTANCE toward FRIEND (not yet fully reached); Architect↔Iris deepens within ACQUAINTANCE via her first visible indirect caretaking gestures (sharing food, offering to handle errands, a dry vote of confidence in his character) and one flat, explicitly non-jealous observation about Elena's attention.
+- **World changes:** None significant; the small lake is a new, non-registry recurring backdrop.
+- **New objects:** Elena's personal observation notebook — minor, non-registry, may recur.
+- **New locations:** Small lake outside the village — non-registry, may recur.
+- **Foreshadowing:** Elena's "a name to grow into" line — direct, deliberate seed for the WC35 "Architect" title; use sparingly. Elena's reflection on being seen only as history — groundwork for her insistence on being treated as a full person, relevant again at WC23 and after her death. Elena's brief cautious reaction to hearing about The Teacher's style — a very light, undeveloped gesture toward the still-open Teacher/Elena beat from Chapter 7.
+- **Secrets revealed:** None.
+- **Unresolved questions:** None new; all existing threads (nature of reincarnation, The Teacher's unfinished remark from Chapter 4, his uncharacteristic sorrow from Chapter 6, his sharp attentiveness toward Elena from Chapter 7) remain open and untouched.
+- **Handoff to Chapter 9:** Elena has departed the area, promising to return; the Architect resumes ordinary life with The Teacher, Iris, and his parents. Default next chronological point continues foundation-building within Era 2 — further training under The Teacher, continued (if intermittent) contact with Iris, and eventually Elena's return — before any structural movement toward WC16, per the owner's explicit direction that this run of chapters should deepen the Architect–Elena bond first. WC16 (First Major Loss) remains the next major required permanent scene and must not be triggered without deliberate buildup.
+
 ---
 
 ## Required Chapter Record

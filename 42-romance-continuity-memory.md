@@ -69,6 +69,7 @@ Seed entries to track from the outset:
 - Isolde's "relief, not offense" at being refused — must be referenced again when Elena consents to a second marriage and the Architect still refuses.
 - Seraphine's request to be called "Sera" (post-WC35) — a granted concession (a name) paired with a refusal (everything else); do not let the nickname read as the Architect softening toward romance.
 - Seraphine's genuine, unspoken love and the resulting loss of her demonic combat power — the causal link (love → power loss) should stay implicit/dramatic-irony for most of the story; do not have her state it outright to the Architect unless a specific chapter is built around that reveal.
+- (New, Chapter 8) Elena's "temporary name" motif — she deliberately refuses to invent a nickname for the Architect, instead framing his eventual name/title as something to be grown into rather than assigned casually. This is a direct thematic seed for the WC35 "Architect" title and should be echoed sparingly, not overused.
 
 ## Rule
 
@@ -93,6 +94,22 @@ Especially track: first meeting (WC15); the WC18 major argument during the Archi
 - **Reader Interpretation:** A warm, low-stakes "meet cute" that reads as the true beginning of Era 2, distinct in tone from the Architect's mentorship-focused Era 1 chapters.
 - **Character Interpretation:** Neither character reads this as romantic; Elena's warmth here is characteristic of her personality broadly (see `15-character-voice.md`), not an attraction cue. The Architect's own reaction is curiosity and mild self-consciousness, not attraction.
 - **Must Be Remembered Later:** Do not retroactively write this meeting as instantly romantic. The relationship must progress through FRIEND and TRUST stages (`37-relationship-state-machine.md`) well before any romantic framing is appropriate, culminating only at the WC23 ideological breakthrough.
+
+### WC15 — Continued Days / Foundation of Trust (new, Chapter 8)
+
+- **Event ID:** ROM-S01-C008-01
+- **WC Year:** 15
+- **Characters:** Architect, Elena, Iris
+- **Character Ages (computed):** Architect 15; Elena 23.75; Iris 12
+- **Relationship State Before:** ACQUAINTANCE (Architect↔Elena); ACQUAINTANCE, platonic (Architect↔Iris).
+- **Interaction:** Over the several days Elena stays in the area, she and the Architect share small, unstructured time — sitting together at the inn steps, a walk to a nearby lake, and a final evening meal before her departure. Elena shares a personal reflection on what it is like to be treated as "a walking history book" rather than a person, and the Architect recognizes a private resonance with his own hidden burden without disclosing it. Elena deliberately declines to invent a permanent nickname for him, framing a real name/title as something one must grow into rather than be assigned. Iris participates throughout with small, indirect gestures of care (sharing dried apples, offering to accompany him on errands so he isn't overcharged) and one dry, unprompted vote of confidence in his character.
+- **Relationship State After:** Architect↔Elena moves toward FRIEND (not yet formally reached — still building trust, no romantic framing). Architect↔Iris deepens within ACQUAINTANCE, still strictly platonic, with Iris's caretaking pattern (per `17-character-secrets.md`) beginning to visibly recur.
+- **Emotional Meaning:** Establishes the Architect's first experience of friendship valued for himself rather than his competence — the emotional foundation that later makes Elena's presence during the Darkest Point (WC16–23) earned rather than convenient.
+- **Joke / Running Motif:** Elena's refusal to assign a casual nickname, reframed as "a name to grow into" — direct thematic seed for the WC35 "Architect" title (`00-story-bible.md`, `08-multiverse-and-quantum-lore.md`). Use sparingly; do not resolve or over-reference before WC35.
+- **Foreshadowing:** Elena's line about being seen only as "a walking history book" plants early groundwork for her later insistence on being treated as a full person, not a symbol — relevant again at the WC23 breakthrough and after her death. Her cautious reaction to hearing about The Teacher's teaching style is a very light, undeveloped gesture toward the still-unexplained Teacher/Elena attentiveness from Chapter 7 — not yet a formal mystery-board entry.
+- **Reader Interpretation:** A quiet, warm interlude confirming that the Architect's bond with Elena and Iris is built on genuine mutual regard, not proximity or convenience.
+- **Character Interpretation:** Still no romantic framing on either side. Elena's warmth remains characteristic of her general personality; the Architect's feelings are gratitude and a new, unfamiliar sense of belonging, not attraction. Iris's gestures remain entirely age-appropriate and platonic.
+- **Must Be Remembered Later:** Do not skip ahead to FRIEND or TRUST states without further chapters showing continued contact. Do not let the "name to grow into" motif be resolved before WC35. Do not reinterpret Iris's caretaking gestures here as anything beyond a 12-year-old's genuine, practical friendliness.
 
 ### WC18 — Major Argument
 
@@ -129,26 +146,18 @@ Especially track: first meeting (WC15); the WC18 major argument during the Archi
 - **Character Interpretation:** No attraction, no admiration beyond a child's practical respect for competence. This must remain strictly platonic per the Character Age Rule (`01-canon-rules.md`, `34-romance-harem-fanservice.md`) until she is textually an adult (~WC21+).
 - **Must Be Remembered Later:** Do not write this meeting, or any Iris scene before ~WC21, with romantic or attraction-coded framing. Her eventual quiet, unspoken feelings (established generally in `17-character-secrets.md`, `42-romance-continuity-memory.md`) begin developing only much later, around WC21–24.
 
-### WC22 — Indirect Emotional Disclosure
+### WC15 — Early Caretaking Pattern (new, Chapter 8)
 
-- **WC Year:** 22
-- **Characters:** Iris, Architect
-- **Relationship State Before:** Iris has developed romantic feelings for the Architect but remains self-restrained. She does not intend to confess them directly.
-- **Interaction:** The World Calendar's phrase "Iris bày tỏ tình cảm" is to be interpreted as an **indirect, nonverbal disclosure**, not a spoken confession. Iris may let her feelings become perceptible through actions, attention, body language, an unusual degree of care, a meaningful pause, or a moment of visible vulnerability. The Architect can notice or infer what is happening and choose to avoid encouraging it.
-- **Relationship State After:** Nothing is formally confessed or accepted. Iris remains emotionally restrained and the Architect does not reciprocate or invite a romantic relationship.
-- **Emotional Meaning:** This is the point where Iris's feelings become sufficiently visible that the Architect may understand them, while both characters preserve the unspoken nature of the relationship. The emotional tension comes from what is understood without being said.
-- **Character Interpretation:** Iris never decides to "tell him" in the conventional sense. If she reveals anything, it is through behavior rather than words, and she retains enough self-control to step back rather than force an answer.
-- **Must Be Remembered Later:** Never rewrite WC22 as Iris explicitly confessing, asking for a romantic relationship, or receiving a direct rejection. Later scenes may acknowledge that the Architect understood her feelings, but the relationship must remain fundamentally unspoken until her conscious withdrawal at WC24.
-
-### WC24 — Wedding Withdrawal
-
-- **WC Year:** 24
+- **Event ID:** ROM-S01-C008-02
+- **WC Year:** 15
 - **Characters:** Iris, Architect, Elena
-- **Relationship State Before:** The emotional tension from WC22 remains understood but unspoken.
-- **Interaction:** Iris consciously steps back when the Architect and Elena marry. This is not a reversal of her feelings; it is the mature decision to respect their marriage and remain part of their trusted circle rather than become a rival.
-- **Relationship State After:** Iris continues as a loyal friend and trusted family member without pursuing the Architect romantically.
-- **Emotional Meaning:** WC24 confirms the direction established at WC22: Iris's love is real, but self-restrained and without a demand for reciprocation.
-- **Must Be Remembered Later:** Do not write any later scene as though Iris's withdrawal at the wedding erased her feelings, and do not reinterpret the WC22 moment as a confession that was later rejected.
+- **Character Ages (computed):** Iris 12 (STRICTLY PLATONIC); Architect 15
+- **Relationship State Before:** ACQUAINTANCE, platonic.
+- **Interaction:** During Elena's stay, Iris shows small, practical caretaking gestures toward the Architect — sharing food without being asked, offering to accompany him on errands so he isn't overcharged, and a single unprompted, confident remark vouching for his character ("anh ấy hỏi tại sao thứ gì đó hoạt động, trước khi hỏi làm sao để nó hoạt động cho mình... người như vậy thường ổn"). She also makes one small, dry observation noting that Elena is talking to the Architect more than to her — delivered flatly, explicitly framed as "just an observation," not jealousy.
+- **Relationship State After:** ACQUAINTANCE, platonic — deepened but unchanged in kind.
+- **Emotional Meaning:** First on-page instance of the caretaking pattern described generically in `17-character-secrets.md` ("she only expresses it indirectly—through cooking for him, caring for him, offering advice"), appearing here in its earliest, entirely age-appropriate form — practical friendliness, not romantic feeling.
+- **Character Interpretation:** Iris's remark about Elena talking to the Architect more is a plain observation, not jealousy; she explicitly disclaims it as such. No attraction is present or implied.
+- **Must Be Remembered Later:** This early caretaking pattern should feel, in retrospect (post-~WC21), like the earliest visible root of Iris's later feelings — but must never be written or read as attraction at this age. Do not accelerate her emotional arc.
 
 ## Iris / Seraphine / Isolde Memory
 
