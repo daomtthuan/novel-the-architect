@@ -1,4 +1,4 @@
-# Agent Memory (v9, World Calendar canon)
+# Agent Memory (v10, World Calendar canon)
 
 ## Purpose
 
@@ -14,25 +14,26 @@ After every accepted chapter, update this file.
 
 ---
 
-## WORKING STATE — AFTER CHAPTER 4
+## WORKING STATE — AFTER CHAPTER 5
 
 CURRENT INSTALLMENT: Season 1 — The Architect
 CURRENT ARC: Era 1 — Childhood / Foundations
-CURRENT CHAPTER: Chapter 4 — The Test
-CURRENT WC YEAR: WC9
-CURRENT LOCATION: The Teacher's house/study, at the edge of the family's village
+CURRENT CHAPTER: Chapter 5 — First Lessons
+CURRENT WC YEAR: WC10
+CURRENT LOCATION: The Teacher's house/study; family village
 CURRENT POV: The Architect (first-person)
 
 ### Canonical chapter sequence so far
 
-| Chapter                     |      WC | Location                        | Key state at chapter end                                                                                                                                                                           |
-| --------------------------- | ------: | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chapter 1 — Awaken          |     WC0 | House of Father and Mother      | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                    |
-| Chapter 2 — Learning to See |  ~WC2–4 | Family home / village outskirts | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                   |
-| Chapter 3 — The First Light | WC0–WC8 | Home village                    | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar |
-| Chapter 4 — The Test        |     WC9 | The Teacher's house/study       | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                   |
+| Chapter                     |      WC | Location                        | Key state at chapter end                                                                                                                                                                                                                                                                                                             |
+| --------------------------- | ------: | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chapter 1 — Awaken          |     WC0 | House of Father and Mother      | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                                                                                                                                                      |
+| Chapter 2 — Learning to See |  ~WC2–4 | Family home / village outskirts | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                                                                                                                                                     |
+| Chapter 3 — First Light     | WC0–WC8 | Home village                    | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar                                                                                                                                   |
+| Chapter 4 — Teacher's Test  |     WC9 | The Teacher's house/study       | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                                                                                                                                                     |
+| Chapter 5 — First Lessons   |    WC10 | The Teacher's house/study       | Formal apprenticeship begins; The Teacher's core teaching method established (patience/observation before technique; theory bound to consequence); first successful spell (warming a stone via ambient Mana) after a real failure (drawing Mana from his own body); foreshadowing of "overconfidence about one's own limits" planted |
 
-**Continuity note:** Chapter 3 spans childhood material across WC0–WC8 and overlaps the broader period covered by Chapters 1–2. Treat its metadata as a chapter coverage range, not as a single chronological point. Chapter 4 is the current chronological endpoint.
+**Continuity note:** Chapter 3 spans childhood material across WC0–WC8 and overlaps the broader period covered by Chapters 1–2. Treat its metadata as a chapter coverage range, not as a single chronological point. Chapter 5 is the current chronological endpoint.
 
 ---
 
@@ -137,78 +138,81 @@ Never update memory from a draft that has not been accepted.
 
 ## ACTIVE CHARACTERS
 
-- **The Architect (9):** analytical, curious, pragmatic; deliberately self-censors Earth-origin reasoning when it could expose him as abnormal; wants to understand why magic works.
-- **The Teacher:** dry, guarded, weathered mage; former mage of the parents' disbanded five-person party; has accepted the Architect as an exception and will begin formal apprenticeship at WC10.
-- **Father:** retired A-rank swordsman; warm and protective; old friend/former party member of The Teacher.
-- **Mother:** retired A-rank healer/enchantress; warm and attentive; established early source of the Architect's understanding that magic has cost and structure.
-- **Iris:** only an unnamed/brief childhood cameo so far; no romantic framing; no attraction before adulthood (~WC21).
+- **The Architect (10):** analytical, curious, pragmatic; now actively fighting his own impatience and instinct to "force" results; beginning to internalize that magic has a real cost and real limits, not just interesting rules to catalogue.
+- **The Teacher:** dry, guarded, weathered mage; teaching method now established on-page (patience/observation before technique; theory bound to consequence, not memorization); shows a flash of real personal weight when warning the Architect about overconfidence.
+- **Father:** retired A-rank swordsman; warm and protective; reinforces the Teacher's caution with his own plain warning about understanding what you do before it hurts someone.
+- **Mother:** retired A-rank healer/enchantress; not present on-page in Chapter 5, but remains the established early source of the Architect's understanding that magic has cost and structure.
+- **Iris:** only an unnamed/brief childhood cameo so far (Chapter 2); no romantic framing; no attraction before adulthood (~WC21).
 
 ## CURRENT RELATIONSHIPS
 
 - **Architect ↔ Father/Mother:** warm, attentive family bond; parents are central emotional foundation before WC16.
-- **Architect ↔ The Teacher:** newly established at WC9; Teacher has accepted him as an exceptional prospective student; formal apprenticeship begins WC10.
-- **Father ↔ The Teacher:** old, complicated friends/former party members; their shared history is intentionally not fully revealed yet.
+- **Architect ↔ The Teacher:** actively functioning mentorship as of WC10; established teaching method (patience, observation, cost-bound theory); first real correction/failure moment has occurred and been resolved constructively.
+- **Father ↔ The Teacher:** old, complicated friends/former party members; their shared history remains intentionally unrevealed.
 - **Architect ↔ Iris:** no active relationship yet; only an unnamed childhood cameo/early family acquaintance established in Chapter 2.
 
 ## CURRENT POLITICAL STATE
 
-- No significant political changes established through WC9.
+- No significant political changes established through WC10.
 
 ## CURRENT WORLD STATE
 
 - Era 1 / childhood foundation period.
-- Magic is established as rule-governed rather than arbitrary.
+- Magic is established as rule-governed, costly, and dangerous if misused (reinforced this chapter via the Architect's near-mistake drawing Mana from his own body).
 - Household/ambient magical infrastructure exists at an early stage.
-- The Architect is beginning to conceptualize magic as systems, inputs, outputs, limits, and reusable structures.
+- The Architect has taken his first concrete step from pure observation into actual, correctly-executed magical practice (warming a stone using ambient Mana).
 - No major war or political transformation has begun in the current story period.
-- **Current magic-learning transition:** observation at home → formal apprenticeship with The Teacher beginning WC10.
+- **Current magic-learning transition:** formal apprenticeship under The Teacher is now underway (began WC10, per this chapter).
 
 ## RECENT EVENTS
 
-- **WC9:** The Architect met The Teacher for the first time at the Teacher's house/study.
-- The Teacher tested the Architect's reasoning rather than his ability to cast spells.
-- The Teacher accepted an exception: formal apprenticeship will begin at WC10.
-- The Teacher's vague statement about having known "someone" who thought similarly remains unresolved and intentionally deniable.
+- **WC10:** Formal apprenticeship with The Teacher begins.
+- The Teacher's first lesson is deliberately non-technical: sitting still and observing a shallow pool of water, to teach patience over technique.
+- The Teacher uses an unconventional method (tearing a page from a theory book) to bind lesson to consequence rather than memorization.
+- The Architect attempts to warm a stone, initially fails by drawing Mana from his own body (a real, if mild, risk), and is corrected by The Teacher.
+- The Architect succeeds, slowly and imperfectly, at warming the stone using properly-sourced ambient Mana.
+- The Teacher delivers a direct warning: "overconfidence about one's own limits is the real danger" — this is planted as foreshadowing, not yet connected to WC16 in-text.
+- Father delivers a matching warning about understanding what one is doing before it can hurt someone.
 
 ## RECENT EMOTIONAL EVENTS
 
-- The Architect feels relief and excitement at finally finding someone who takes his questions seriously.
-- The family baseline remains warm and secure; this must remain emotionally meaningful before WC16.
-- The Architect is increasingly aware that his Earth-origin reasoning must be concealed selectively.
-- The Teacher's guardedness creates curiosity rather than immediate trust.
+- The Architect experiences real frustration and mild shame at his own impatience during the "watch the still water" exercise — a genuine collision between his adult-mind habits and a child's magical education.
+- The Architect experiences his first true magical mistake and the resulting minor physical consequence (fatigue/headache from self-drawn Mana), followed by relief and quiet pride at his first real success.
+- The family/mentor emotional baseline remains warm and secure; this must remain emotionally meaningful before WC16.
+- The Teacher shows a flash of unexplained personal weight when warning about overconfidence — left deliberately unresolved, consistent with his guarded characterization.
 
 ## ACTIVE MYSTERIES
 
 - Who/what was the WC16 Demon ("The Unburied One") — see `26-mystery-board.md`. Keep backstage in Season 1.
--
+- The Teacher's unfinished remark from Chapter 4 about "someone who thought this way" remains open and unaddressed in Chapter 5.
 -
 
 ## PENDING FORESHADOWING
 
 - "The Architect's City" nickname (~WC28–31) pays off at the WC35+ renaming to "Elena."
--
+- The Teacher's WC10 line — "overconfidence about one's own limits is the real danger" — and Father's matching WC10 line — "understand what you're doing before it hurts someone" — are now planted as direct foreshadowing for WC16 and the Darkest Point. Do not resolve or call back explicitly before WC16.
 -
 
 ## UNRESOLVED THREADS
 
 - Unburied One's confirmed/unconfirmed destruction at WC40 — owner's discretion on whether this is ever settled on-page.
--
+- Why The Teacher stopped taking students before the Architect (raised Chapter 4) — remains open.
 - ***
 
 ## THINGS THE READER KNOWS
 
 - The Architect was reincarnated into an infant body with adult memories.
-- He instinctively analyzes magic as a system with rules.
+- He instinctively analyzes magic as a system with rules, but has now been shown directly that this instinct can be dangerous if it overrides patience and humility.
 - His parents are retired A-rank adventurers: Father is a swordsman; Mother is a healer/enchantress.
 - The Teacher is connected to the parents' former five-person adventuring party.
 - The Teacher has theories about "someone" who thought similarly to the Architect, but the meaning is not yet known.
-- The Teacher will formally teach the Architect from WC10.
+- The Teacher is now formally teaching the Architect, using a method built on patience and cost-bound theory rather than direct instruction.
 
 ## THINGS THE CHARACTERS KNOW
 
-- **The Architect:** knows his own reincarnation and Earth-origin memories; knows magic appears rule-governed; does not know the full truth of the Teacher's past.
+- **The Architect:** knows his own reincarnation and Earth-origin memories; knows magic appears rule-governed and now understands, from direct (mildly painful) experience, that it also has real cost and real danger; does not know the full truth of the Teacher's past.
 - **Father/Mother:** know the Teacher from their former adventuring life; know enough to trust him with their son, but the full WC16 history remains unspoken.
-- **The Teacher:** recognizes unusual reasoning in the Architect and suspects it may resemble someone/something from his own past; does not state a conclusion.
+- **The Teacher:** recognizes unusual reasoning and unusual impatience in the Architect; has begun actively correcting the impatience rather than merely observing it; does not state a conclusion about what the Architect actually is.
 
 ## THINGS ONLY THE AUTHOR KNOWS
 
@@ -246,9 +250,9 @@ Never update memory from a draft that has not been accepted.
 
 ### The Architect
 
-- Moving from solitary observation toward structured learning.
-- Increasingly recognizes that not every Earth-origin principle can be safely exposed.
-- Primary immediate goal: understand magic under The Teacher.
+- Moving from solitary observation into structured, disciplined learning under real correction.
+- Has now directly experienced (rather than merely theorized about) the cost and danger of magic — an experiential seed for the Darkest Point's later blind spot.
+- Primary immediate goal: continue formal training under The Teacher; begin forming an early classification framework for magic (upcoming chapters).
 
 ### Elena
 
@@ -316,8 +320,8 @@ CURRENT LEVEL:
 ## CURRENT MAGIC LEVEL
 
 - Ambient magic and basic enchantment are established.
-- Magic has observable rules, costs, inputs/outputs, and limits.
-- The Architect is moving from observation toward formal magical theory under The Teacher.
+- Magic has observable rules, costs, inputs/outputs, and limits — now directly experienced by the Architect, not merely observed.
+- The Architect has completed his first correctly-executed piece of magical practice (warming a stone via ambient Mana) after an initial failure drawing from his own body.
 
 ## CURRENT FACTION STATE
 
@@ -334,21 +338,22 @@ CURRENT LEVEL:
 
 ## LAST CHAPTER SUMMARY
 
-**Chapter 4 — The Test (WC9):** The Architect visits The Teacher with Father. The Teacher tests his reasoning, notices his unusual ability to derive principles, and accepts him as an exception. The Architect leaves with the feeling that a long-sought door has opened. Formal apprenticeship begins at WC10.
+**Chapter 5 — First Lessons (WC10):** Formal apprenticeship with The Teacher begins. The Teacher's method proves unconventional — patience and observation before technique, theory deliberately bound to consequence. The Architect fails once, dangerously, by drawing Mana from his own body while trying to force a result, and is corrected. He then succeeds, slowly, at warming a stone using properly-sourced ambient Mana. The Teacher and Father each deliver a warning, in their own voice, about the danger of overconfidence and of acting without understanding — quiet foreshadowing for WC16.
 
 ## NEXT CHAPTER INTENT
 
-- Continue from the Chapter 4 handoff.
-- Default chronological starting point: **WC10**, unless the owner explicitly requests a different time jump.
-- Show the beginning of formal apprenticeship with The Teacher.
-- Preserve the Teacher's dry, guarded teaching style.
-- Build the Architect's analytical framework without turning him into an instantly omniscient prodigy.
+- Continue from the Chapter 5 handoff.
+- Default chronological starting point: **WC11–14** (Era 1 continuation), showing accelerating progress, surpassing older students, and the beginnings of a personal magic classification system — unless the owner explicitly requests a different time jump.
+- Preserve the Teacher's dry, guarded teaching style and his established method (patience/observation, cost-bound theory).
+- Continue building the Architect's analytical framework without turning him into an instantly omniscient prodigy.
 - Keep the Teacher's deeper past and Builder-adjacent implications deliberately vague.
+- Do not resolve or explicitly connect the WC10 foreshadowing ("overconfidence about limits") to WC16 yet.
 
 ## CONTINUITY WARNINGS
 
 - Chapter 3's metadata covers WC0–WC8 and overlaps Chapters 1–2; do not interpret it as a single event occurring after Chapter 2.
 - Chapter 4 ends at WC9 and explicitly sets formal apprenticeship for WC10.
+- Chapter 5 ends at WC10, with formal apprenticeship now actively underway; do not restart or re-establish the apprenticeship in Chapter 6.
 - Do not reveal the WC16 tragedy, the full former-party history, Builder terminology, or the Unburied One early.
 - The Architect's Earth-origin knowledge must remain selectively concealed in-world.
 - Iris is not a romantic interest during childhood; attraction begins only at adulthood (~WC21+).

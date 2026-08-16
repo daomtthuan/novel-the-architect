@@ -94,7 +94,7 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Secrets revealed:** None
 - **Unresolved questions:** No new canon-critical thread
 
-### Chapter 3 — The First Light
+### Chapter 3 — First Light
 
 - **Installment:** Season 1 — The Architect
 - **WC:** WC0–WC8 (childhood, pre-Teacher)
@@ -115,7 +115,7 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Unresolved questions:** Fire-globe rhythm remains deliberately unexplained/non-critical
 - **Chronology note:** This chapter's WC0–WC8 metadata is a coverage range and overlaps the periods represented by Chapters 1–2. Do not force it into a sequential single-point position after Chapter 2.
 
-### Chapter 4 — The Test
+### Chapter 4 — Teacher's Test
 
 - **Installment:** Season 1 — The Architect
 - **WC:** WC9
@@ -135,6 +135,27 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Secrets revealed:** No full WC16 party/tragedy details; no Builder terminology
 - **Unresolved questions:** Why Teacher stopped taking students; who the similarly-minded person was; full meaning of Teacher's unfinished theories
 - **Handoff to Chapter 5:** Formal apprenticeship begins at WC10.
+
+### Chapter 5 — First Lessons
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC10
+- **POV:** The Architect, first-person
+- **Location:** The Teacher's house/study; family village
+- **Characters:** The Architect (10), The Teacher, Father (brief, framing scenes only)
+- **Core conflict:** Adult systems-thinking colliding with a teaching method built on patience, limits, and humility; first real magical mistake (drawing Mana from his own body)
+- **Emotional objective:** Establish the real rhythm of the master-student relationship; plant "overconfidence about one's own limits is the real danger" as direct foreshadowing for WC16 and the Darkest Point; reinforce father-son bond
+- **Plot objective:** Dramatize WC10 "Chính thức trở thành học trò" per `world_calendar.md`; establish The Teacher's core teaching method; lay the first stone of the magic classification system developed in later chapters
+- **New facts:** "Watch the still water" as the first lesson (patience over technique); "tearing the page" teaching method (binding theory to feeling, not memorization); reinforced core magic principle — draw from ambient Mana, not bodily Mana; first successful spell: warming a raw stone using ambient Mana
+- **Character changes:** First genuine magical failure and its correction — early seed of the "control when afraid" flaw that will bloom into the Darkest Point
+- **Relationship changes:** Architect ↔ Teacher shifts from "accepted as a student" (Chapter 4) to an actively functioning mentorship with an established teaching method. Father remains a stable emotional anchor.
+- **World changes:** None significant.
+- **New objects:** Practice stone (minor, non-registry).
+- **New locations:** The Teacher's back-yard training pool — minor extension of the existing "The Teacher's Old Study / Training Ground" entry in `22-location-registry.md`.
+- **Foreshadowing:** The Teacher's line — "overconfidence about one's own limits is the real danger" — direct foreshadowing for WC16 (the Architect's tactical misjudgment against the high-tier Demon) and the entire Darkest Point. Father's line — "understand what you're doing before it hurts someone" — direct echo of the WC16 tragedy.
+- **Secrets revealed:** None.
+- **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way" from Chapter 4) remain open.
+- **Handoff to Chapter 6:** Formal training under The Teacher continues; default next chronological point is later in Era 1 (WC11–14), showing rapid progress and the beginnings of a magic classification system, unless the owner specifies otherwise.
 
 ---
 
