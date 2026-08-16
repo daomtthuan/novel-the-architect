@@ -577,3 +577,13 @@ I should be able to perform this workflow:
 5. Commit everything.
 
 No manual merging should be required.
+
+### WRITING FORMAT
+
+Chapter titles are written in English.
+Chapter body content is written in Vietnamese.
+Story-specific terminology may remain in English, but must be used sparingly and naturally.
+Avoid unnecessary English wording when a Vietnamese expression reads more naturally.
+Chapter length should be calibrated for approximately 15–30 minutes of AI narration.
+Prioritize narrative quality, pacing, emotional rhythm, and scene completeness over hitting an exact word count.
+Do not artificially inflate the chapter with exposition merely to reach the target narration duration.
