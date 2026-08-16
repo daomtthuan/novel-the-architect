@@ -1,4 +1,4 @@
-# Scene Memory (v7, World Calendar canon)
+# Scene Memory (v8, World Calendar canon)
 
 ## Required Permanent Scenes
 
@@ -13,6 +13,7 @@
 - Proposal / marriage (WC24).
 - Isolde's proposal (from the Empire of Veyrand) and refusal (WC26).
 - First city light.
+- **"The Architect's City" (~WC28–31, new v8):** as the city's reputation spreads, someone — a foreign dignitary is a good candidate — calls it "the Architect's City" in his presence. He visibly dislikes it and deflects, redirecting to what the city is *for* rather than who built it, without ever formally correcting the name. Plant this quietly; do not over-explain it. Pays off directly at the WC35+ renaming beat below.
 - First major political confrontation.
 - Seraphine's arrival and provocation (WC33).
 - Great War begins (WC35).
@@ -23,7 +24,7 @@
 - The city is heavily destroyed (WC35).
 - He returns home. Empty house.
 - Seraphine begins visiting; asks to be called "Sera"; he agrees to the name and refuses everything else (early Movie-1-adjacent epilogue beat, may be told as a Season 1 coda or a Movie 1 flashback).
-- The city is rebuilt and renamed "Elena" (post-war, exact WC within reconstruction era; stylization of the name is OPEN).
+- **The city is rebuilt and renamed "Elena" (post-war; final stylization RESOLVED, v8 — plain "Elena").** This should read as a deliberate double payoff: memorial to Elena, and his final refusal of the "Architect's City" framing planted earlier.
 
 ### Movie 1
 - Opening: The Architect's death (framing device, WC82), then flashback structure begins.

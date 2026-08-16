@@ -1,4 +1,4 @@
-# Unresolved Threads (v7, World Calendar canon)
+# Unresolved Threads (v8, World Calendar canon)
 
 ## Season 1 Threads
 - true nature of the protagonist's reincarnation (the Builder phenomenon);
@@ -7,8 +7,8 @@
 - ancient records hinting at prior transmigrated figures;
 - political consequences of magic infrastructure;
 - The Teacher's own half-finished theories about "others like" the Architect;
-- **the high-tier Demon's fate after WC16 (new, v7) — status: OPEN.** Three options were proposed by the project owner, undecided as of `45-session-update-wc16-revision-and-worldbuilding.md`: (a) dies/is critically wounded in the WC16 fight, no longer a direct threat; (b) escapes and becomes a slow-burn threat, possibly resurfacing at or before the Great War (WC35); (c) tied directly to Seraphine's domination-seeking faction, creating a WC16 → WC33–35 throughline. Do not silently resolve this — flag for owner decision before it becomes load-bearing in a chapter.
-- **exact stylization of the city name "Elena" (new, v7) — status: OPEN.** See `05-world.md`, `22-location-registry.md`.
+- **the high-tier Demon's fate after WC16 — status: PARTIALLY RESOLVED (v8).** Identity and WC16–40 arc resolved this session (see `26-mystery-board.md` new entry and the session update "City Name Resolution & WC16 Demon Fate"): critically wounded rather than killed at WC16; dormant WC16–32, secretly influencing the domination-seeking Demon faction from the shadows without Seraphine's or the faction leadership's knowledge of the connection; presumed (not confirmed) destroyed when Demon territories collapse at WC40. **Remaining open sub-item:** whether its destruction is ever confirmed on-page, or left INTENTIONALLY UNANSWERED — owner's discretion, to be decided if/when it becomes chapter-relevant.
+- ~~exact stylization of the city name "Elena"~~ — **RESOLVED, v8.** Plain "Elena." See `05-world.md`, `22-location-registry.md`.
 
 ## Movie 1 Threads
 - hidden Ark records;
@@ -16,7 +16,8 @@
 - Observatory references;
 - father's private notes / Final Archive;
 - Iris's and Seraphine's untold histories;
-- whether/how the Son ever learns the fuller WC16 backstory (parents, Guild Master, Scout) — not yet blocked out.
+- whether/how the Son ever learns the fuller WC16 backstory (parents, Guild Master, Scout) — not yet blocked out;
+- whether the Son (or Mira, later) ever connects the WC16 Demon to the WC33–35 war — not yet blocked out; reveal discipline says no earlier than Movie 1 if it happens at all.
 
 ## Movie 2 Threads
 - Quantum Anchor;

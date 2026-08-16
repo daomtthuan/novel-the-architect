@@ -1,4 +1,4 @@
-# World Bible (v7, World Calendar canon)
+# World Bible (v8, World Calendar canon)
 
 ## World Identity
 
@@ -20,19 +20,19 @@ Age at 0.5× the Human rate. The Son is the setting's clearest example.
 ### Demon / Succubus
 Varies by subtype; Succubi such as Seraphine are effectively ageless.
 
-### Beastkin (new, v7)
+### Beastkin (v7)
 Sovereign nation(s) of their own.
 
-### Dwarf (new, v7)
+### Dwarf (v7)
 Sovereign nation, mountain-dwelling, tied to magical/engineering infrastructure.
 
-### Elf-adjacent / Sylvan (new, v7)
+### Elf-adjacent / Sylvan (v7)
 Stateless, reclusive, deep forests, distrustful of otherworlders.
 
-### Undead / Revenant (new, v7)
+### Undead / Revenant (v7)
 Very rare, tied to Ark/Quantum-adjacent magic.
 
-### Giant / Titan-kin (new, v7)
+### Giant / Titan-kin (v7)
 Ancient, near-extinct; a potential hook for "Other Builders across history" lore (see `08-multiverse-and-quantum-lore.md`).
 
 ## Civilization Stages
@@ -49,13 +49,17 @@ Magic and science merge.
 ### Mira Era (Movie 2–3, WC ≈182–192)
 Civilization can manipulate space-time and observe timeline branches; the truth of the Builders becomes accessible to a rare few.
 
-## The Architect's City — renamed "Elena" (updated v7)
+## The Architect's City — renamed "Elena" (RESOLVED, v8)
 
-Birthplace and childhood home of The Architect; also where he first meets Elena (WC15). Pre-rename, the city's leader was a close personal friend of the Architect's father — which is why the Architect's early inventions were permitted for civic use ahead of formal recognition. City Project formally begins WC28. Heavily destroyed during the Great War (WC35); rebuilt by the Architect afterward. He personally renames it **"Elena"** after her death — the city itself becomes a monument to her, reinforcing the saga's "Home" motif (see `43-ost-reference.md` Tracks 07/08).
+Birthplace and childhood home of The Architect; also where he first meets Elena (WC15). Pre-rename, the city's leader was a close personal friend of the Architect's father — which is why the Architect's early inventions were permitted for civic use ahead of formal recognition. City Project formally begins WC28.
+
+**The "Architect's City" nickname (new, v8).** As the city's reputation spreads during the nation-building era (~WC28–31), citizens, nobles, and foreign visitors begin informally calling it "the Architect's City." He privately dislikes this — it runs directly against his own stated principle, *"I don't want to become a god"* (`21-dialogue-memory.md`), and against his refusal to let his influence calcify into a personality cult. He never issues a formal correction; he simply never uses the nickname himself and quietly redirects it when others do. This should be shown through behavior, not stated outright (see `10-light-novel-writing-guide.md`).
+
+Heavily destroyed during the Great War (WC35); rebuilt by the Architect afterward. He personally renames it **"Elena"** after her death — the city itself becomes a monument to her, reinforcing the saga's "Home" motif (see `43-ost-reference.md` Tracks 07/08). This is not only memorial: it is also his final, deliberate refusal of the "Architect's City" framing people kept trying to hand him — at the one moment everyone expects him to finally accept a title built on his own name, he gives the name to her instead.
 
 Political form: an independent city-state, not a monarchy — the Architect never claims rulership; his influence is technological/economic (consistent with "I don't want to become a god," `21-dialogue-memory.md`).
 
-**OPEN:** exact stylization of the final name ("Elena" plain vs. a derived form) — not yet finalized by the project owner. Use plain "Elena" as a working placeholder until resolved; do not treat the stylization as settled canon.
+**Final stylization (RESOLVED, v8): plain "Elena."** No derived or stylized form. This was previously OPEN; it is now settled canon. Do not reintroduce an alternate stylization without explicit owner instruction.
 
 Growth comes from reliable infrastructure, safe trade, accessible magic, improved food production, migration, stable institutions.
 

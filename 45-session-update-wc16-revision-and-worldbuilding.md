@@ -1,6 +1,6 @@
-# Session Update — WC16 Revision & Expanded Worldbuilding (v1, PENDING MERGE)
+# Session Update — WC16 Revision & Expanded Worldbuilding (v1, MERGED)
 
-Status: everything below was explicitly confirmed by the project owner in this session, EXCEPT items marked **OPEN**. Nothing here should silently overwrite the numbered canon files — merge manually, resolving OPEN items first.
+Status: **MERGED.** All non-OPEN items below have been confirmed and propagated into `00-story-bible.md`, `01-canon-rules.md`, `02-timeline.md`, `03-characters.md`, `04-relationships.md`, `05-world.md`, `06-factions-and-politics.md`, `14-character-psychology.md`, `15-character-voice.md`, `18-event-consequence-map.md`, `19-emotional-memory.md`, `20-scene-memory.md`, `22-location-registry.md`, `23-organization-registry.md`, `27-conflict-and-antagonist-board.md`, `28-unresolved-threads.md`, `29-agent-memory.md`. This file is retained as a historical record of the decision, not as a live pending-merge instruction. Items still marked **OPEN** below remain genuinely open — see `28-unresolved-threads.md` for current status (the high-tier Demon's fate has since been resolved; see the newer session update on that topic).
 
 ---
 
@@ -28,7 +28,7 @@ Status: everything below was explicitly confirmed by the project owner in this s
 - Political form unchanged from the earlier session decision: independent city-state, not a monarchy — the Architect never claims rulership; his influence is technological/economic (consistent with "I don't want to become a god," `21-dialogue-memory.md`).
 - Pre-rename, the city's leader was a close personal friend of the Architect's father, which is why the Architect's early inventions were permitted for civic use ahead of formal recognition.
 
-**OPEN:** exact stylization of the final name ("Elena" plain vs. a derived form) — owner has not finalized.
+**RESOLVED (later session):** exact stylization of the final name is plain **"Elena"** — no derived form. See the newer session update on city name resolution & WC16 Demon fate for the confirmed motivation (his dislike of the informal "Architect's City" nickname).
 
 ## 4. MAJOR REVISION — WC16 "First Major Loss"
 
@@ -56,10 +56,7 @@ The Architect's biological parents in this world were both members of a 5-person
 
 **Psychological continuity note:** this does not contradict existing Darkest Point psychology — it grounds it. The Architect's established flaw "over-optimization / arrogance during success" (`03-characters.md`) is now the literal cause of the ambush: he found a real-seeming tactical solution and was deceived. The existing signature line "If I had modeled one more variable, he would still be alive" (`15-character-voice.md`) now has a concrete mechanism behind it.
 
-**OPEN:** the high-tier Demon's fate/role after WC16. Three options were proposed, undecided:
-(a) dies/is critically wounded in the fight, no longer a direct threat;
-(b) escapes and becomes a slow-burn threat, possibly resurfacing at or before the Great War (WC35);
-(c) tied directly to Seraphine's domination-seeking faction, creating a WC16 → WC33–35 throughline.
+**RESOLVED (later session):** the high-tier Demon's fate/role after WC16. Three options were originally proposed and left undecided; the owner authorized the agent to resolve it creatively. See the newer session update ("City Name Resolution & WC16 Demon Fate") for the confirmed answer — a version combining options (a) and (c): critically wounded and forced dormant, not killed; secretly influences the domination-seeking Demon faction from WC16–35; presumed (not confirmed) destroyed at WC40.
 
 ## 5. New Characters to formalize (add to `03-characters.md`, cross-ref `15-character-voice.md`, `17-character-secrets.md`)
 
@@ -77,13 +74,13 @@ The Architect's biological parents in this world were both members of a 5-person
 
 ---
 
-## Merge Checklist (for whoever applies this to the numbered files)
+## Merge Checklist (historical — completed)
 
-- [ ] `05-world.md` — add 5 new races + political status; add city rename "Elena"
-- [ ] `06-factions-and-politics.md` / `23-organization-registry.md` — fix Veyrand to "Empire"; add multi-power political baseline; add The Guild
-- [ ] `22-location-registry.md` — update Architect's Original Home / City entry with rename, destruction, rebuild
-- [ ] `00-story-bible.md`, `01-canon-rules.md`, `02-timeline.md` — rewrite WC16 event per §4
-- [ ] `03-characters.md` — add Father, Mother, Guild Master, Scout; update Teacher cross-reference
-- [ ] `04-relationships.md`, `14-character-psychology.md`, `18-event-consequence-map.md`, `19-emotional-memory.md`, `20-scene-memory.md` — propagate WC16 revision
-- [ ] `29-agent-memory.md` — update DO NOT CONTRADICT section with new WC16 facts and city rename
-- [ ] `28-unresolved-threads.md` — log the high-tier Demon's fate as an OPEN thread pending owner decision
+- [x] `05-world.md` — add 5 new races + political status; add city rename "Elena"
+- [x] `06-factions-and-politics.md` / `23-organization-registry.md` — fix Veyrand to "Empire"; add multi-power political baseline; add The Guild
+- [x] `22-location-registry.md` — update Architect's Original Home / City entry with rename, destruction, rebuild
+- [x] `00-story-bible.md`, `01-canon-rules.md`, `02-timeline.md` — rewrite WC16 event per §4
+- [x] `03-characters.md` — add Father, Mother, Guild Master, Scout; update Teacher cross-reference
+- [x] `04-relationships.md`, `14-character-psychology.md`, `18-event-consequence-map.md`, `19-emotional-memory.md`, `20-scene-memory.md` — propagate WC16 revision
+- [x] `29-agent-memory.md` — update DO NOT CONTRADICT section with new WC16 facts and city rename
+- [x] `28-unresolved-threads.md` — log the high-tier Demon's fate as an OPEN thread pending owner decision (superseded — see resolution above)

@@ -1,6 +1,6 @@
 # The Architect — AI Write Agent Knowledge Base
 
-Version: 7
+Version: 8
 
 This directory is the complete knowledge base and asset library for **The Architect**.
 
@@ -242,21 +242,23 @@ Use `43` for semantic/emotional meaning and `44` for usage continuity.
 
 OST information is internal writing guidance and should not appear as metadata in prose unless the user explicitly asks for it.
 
+**Note (v8):** `43-ost-reference.md` previously contained two stray "Season 3" references (Track 04, Track 09); these have been corrected to "Movie 2." The saga has no "Season 3" — it is Season 1 + Movies 1–4 only.
+
 ---
 
 # 12. CANON REVISION
 
 `45-session-update-wc16-revision-and-worldbuilding.md`
 
-This is a **revision/update record**.
+Status: **MERGED.** Introduced the WC16 "First Major Loss" revision (parents/Teacher/Guild Master/Scout backstory), the Empire of Veyrand correction, the five new races, and the city-rename-to-"Elena" premise. Fully reflected in the numbered canon files.
 
-Use it when a task touches:
+`47-session-update-conflict-review-city-name-and-wc16-demon-fate.md`
 
-- WC16
-- facts explicitly revised in this document
-- worldbuilding introduced/changed by this document
+Status: **MERGED.** A full knowledge-base conflict pass (found and fixed the stray "Season 3" labels in `43-ost-reference.md`), plus two new confirmed canon decisions:
+- The city's final name is resolved as plain **"Elena"** (no derived stylization), with a new motivation layer — the Architect's dislike of the informal "Architect's City" nickname (~WC28–31).
+- The WC16 high-tier Demon's fate is resolved (continuity name **"The Unburied One"**): critically wounded rather than killed, dormant WC16–32, secretly influencing Seraphine's domination-seeking faction from the shadows, presumed-but-unconfirmed destroyed at WC40. See `26-mystery-board.md`, `27-conflict-and-antagonist-board.md`, `28-unresolved-threads.md` for full detail and reveal-discipline notes (backstage only until at least Movie 1).
 
-It does not automatically override unrelated canon.
+Both revision/session files are retained as historical decision records. They do not need to be re-applied — their content already lives in the relevant numbered canon files above. Future sessions should add a new numbered `NN-session-update-...md` file for new canon decisions rather than editing these two.
 
 ---
 
@@ -316,6 +318,7 @@ Then cross-check:
 00-story-bible.md
 12-continuity-tracker.md
 45-session-update-wc16-revision-and-worldbuilding.md
+47-session-update-conflict-review-city-name-and-wc16-demon-fate.md
 ```
 
 when relevant.
@@ -356,7 +359,7 @@ Use:
 17-character-secrets.md
 ```
 
-Do not reveal a mystery earlier than its intended reveal state.
+Do not reveal a mystery earlier than its intended reveal state. This applies specifically to "The Unburied One" (`26-mystery-board.md`) — its connection to WC33–35 must stay backstage until at least Movie 1.
 
 ---
 
@@ -496,7 +499,7 @@ For a new chapter:
 4. Establish installment + WC + POV + location + characters
 5. Check world_calendar.md
 6. Retrieve only relevant domain files
-7. Check revision file when applicable
+7. Check revision file(s) when applicable (45, 47)
 8. Write using the writing procedures
 9. Validate continuity
 10. Update only affected state files
@@ -509,8 +512,8 @@ Do not load all project files blindly.
 # 24. IMPORTANT CANON REMINDERS
 
 - The protagonist has no personal name.
-- “The Architect” is a title earned at WC35.
-- “Builder” and “Architect” are not synonymous.
+- "The Architect" is a title earned at WC35.
+- "Builder" and "Architect" are not synonymous.
 - Season 1 is first-person Architect POV.
 - Elena is the primary heroine and emotional center.
 - Iris, Seraphine and Isolde are secondary heroines.
@@ -520,3 +523,6 @@ Do not load all project files blindly.
 - `29-agent-memory.md` is mutable state.
 - OST is internal writing guidance unless explicitly requested otherwise.
 - Established visual designs must remain consistent.
+- The saga is **Season 1 + Movies 1–4** only — there is no "Season 3" (corrected in `43-ost-reference.md`, v8).
+- The Architect's city is renamed **"Elena"** (plain stylization, resolved v8) after her death — see `05-world.md`.
+- The WC16 Demon ("The Unburied One") is resolved but its full WC16→WC35 connection must stay backstage until at least Movie 1 — see `26-mystery-board.md`.

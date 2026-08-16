@@ -1,4 +1,4 @@
-# Master Timeline (v7 — World Calendar canon, WC = World Calendar year)
+# Master Timeline (v8 — World Calendar canon, WC = World Calendar year)
 
 All ages below follow the Aging Rate System in `00-story-bible.md`. Architect age = WC. Elena age = 20 + 0.25×WC. Son age = 0.5×(WC−35). Iris age = WC−3. Seraphine: ageless.
 
@@ -23,7 +23,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
   The engagement escalates unexpectedly into a fight against a **high-tier Demon**, far stronger than anticipated. The Architect deduces what he believes is the Demon's weakness — overconfidence: the Demon deliberately baits the party, exploiting his tactical read. He is badly wounded; the rest of the party is forced into an all-out defense to save him, absorbing the Demon's finishing blow meant for him. His father physically throws him clear at the last possible moment.
   **Father, Mother, The Teacher, and the Scout all die. The Architect is the sole survivor of the battle.** The Guild Master, not present, survives and later supports the Architect materially and politically through The Guild.
   This tactical miscalculation — not merely The Teacher's death alone — is the trigger for the Architect's descent into cold, control-obsessed thinking.
-  *(High-tier Demon's fate after WC16: **OPEN** — see `28-unresolved-threads.md`.)*
+  *(Demon's fate, RESOLVED v8 — see `26-mystery-board.md`, `28-unresolved-threads.md`: the Demon, continuity name "The Unburied One," is critically wounded rather than killed, and driven into a long dormancy. Keep this connection to later events backstage in Season 1 prose.)*
 - **WC17–19**: The Architect continues research but grows colder; Elena and Iris stay close to him; first real magical technologies emerge; his influence in the mage world grows.
 - **WC20–21**: Kingdoms and Empires begin to notice him; Elena tries to pull him back toward an ordinary life; he begins engaging in politics with the belief that people can be managed like systems.
 - **WC22**: Darkest Point. Great achievement, greatest distance from other people. Elena does not leave him.
@@ -36,9 +36,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
 - **WC26**: The Empire of Veyrand proposes a political marriage to the Architect via its princess, Isolde Veyrand. He refuses, citing Elena.
 - **WC27**: Isolde becomes a political ally rather than a rival; the Architect's political network begins forming.
 - **WC28**: City Project begins, on the site of the Architect's birthplace/childhood home (later renamed "Elena" — see `05-world.md`, `22-location-registry.md`).
-- **WC29**: Magic infrastructure expands; the city becomes a hub of research and trade.
-- **WC30**: The Architect's political influence grows; multiple Kingdoms and Empires become dependent on his technology.
-- **WC31**: Political factions solidify — pro-Architect, anti-Architect, and neutral powers.
+- **WC29–31 (new, v8)**: As the city's reputation grows, informal usage begins calling it "the Architect's City." He privately dislikes it and quietly deflects whenever it comes up, without ever issuing a formal correction — see `20-scene-memory.md` for the recommended scene beat. Magic infrastructure expands; the city becomes a hub of research and trade. The Architect's political influence grows; multiple Kingdoms and Empires become dependent on his technology. Political factions solidify — pro-Architect, anti-Architect, and neutral powers.
 
 ## Era 4 — Pre-Great War (WC 32–34)
 
@@ -54,6 +52,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
 
 - **WC36**: After Elena. The Architect collapses emotionally. Seraphine begins visiting regularly, offering comfort he refuses; she asks him to call her "Sera" as proof she is no longer his enemy — he agrees to the name only. Iris helps care for the Son.
 - **WC37–41**: The Great War continues toward a ceasefire; the Son develops normally in early infancy/toddlerhood; the Architect slowly returns to fatherhood; Iris and Seraphine both become fixtures in the Son's early life. The Architect begins rebuilding his destroyed home city.
+- **WC40**: Great War turning point — Demon territories collapse. *(New, v8: "The Unburied One," dormant since WC16, is presumed — but not confirmed — destroyed in this collapse. See `26-mystery-board.md`, `28-unresolved-threads.md`.)*
 - **WC42–47**: Reconstruction Era. Iris begins playful sword-training with the Son (~WC42), then formal First Sword Training (~WC43); the rebuilt city — renamed "Elena" after his wife's death — grows into a full civilization; academies and research institutions are founded to spread knowledge rather than hoard it.
 - **WC48–52**: The Reform — the Architect actively dismantles his own "Darkest Point" systems that risked treating people as variables. Sometime in this stretch, Seraphine genuinely falls in love with the Architect and, as a direct consequence, permanently loses her demonic combat power, retaining only ordinary magic; she stops fighting entirely and begins teaching the Son magic instead (~WC48). Formal "Training Era" for the Son begins (~WC51). The Son starts asking about Elena.
 - **WC53–58**: The Son begins independently researching history and Elena; discovers inconsistencies with what his father has told him; first ideological friction between father and son; Iris becomes the Son's primary source of (partial) truth about Elena.

@@ -55,7 +55,7 @@ Elena's theme should primarily represent Elena alive, not merely her death.
 
 - Ark Stage 1→2 transition;
 - first anomalies;
-- Season 3 Observatory-era revelations;
+- Movie 2 Observatory-era revelations;
 - Mira's first impossible record involving the Ark.
 
 ### 05 — The Ark: "Activation"
@@ -92,7 +92,7 @@ Do not reuse it for generic Elena sadness, flashbacks, alternate Elenas, or ordi
 
 - The Architect returning home alone after Elena's death;
 - recurring empty-house motif;
-- S2 son visiting the old home;
+- Movie 1 — the Son visiting the old home;
 - later callbacks to the original home as a symbol of loss.
 
 ### 08 — "Home"
@@ -110,7 +110,7 @@ This track is the emotional bookend to Track 07.
 
 ### 09 — The Last Observer: "The Truth"
 
-**Function:** Season 3 revelation theme.
+**Function:** Movie 2 revelation theme.
 
 **Use for:**
 
@@ -118,7 +118,7 @@ This track is the emotional bookend to Track 07.
 - Observatory encounters;
 - Quantum Anchor confirmation;
 - Reality Convergence beginning;
-- major Season 3 mystery-board reveals.
+- major Movie 2 mystery-board reveals.
 
 ---
 
@@ -127,7 +127,7 @@ This track is the emotional bookend to Track 07.
 - OST references are for the writing agent's internal tone calibration.
 - Never mention track titles, music, or soundtrack metadata inside normal chapter prose.
 - Reserve high-intensity tracks (05, 06) for their designated scenes.
-- Treat Tracks 07 and 08 as a matched pair across the five-season arc.
+- Treat Tracks 07 and 08 as a matched pair across the full saga (Season 1 → Movie 4).
 - Consult this file alongside `19-emotional-memory.md` and `20-scene-memory.md`.
 - OST supports emotion; it does not replace emotional writing.
 
@@ -137,8 +137,12 @@ If new OST tracks are added, record:
 
 - track title;
 - function;
-- suggested scene(s) or season;
+- suggested scene(s) or installment;
 - reservation / caution;
 - relationship to existing motifs.
 
 Do not assign a single track to too many unrelated scenes.
+
+## Revision Note (this session)
+
+Corrected two stray "Season 3" references (Track 04, Track 09) to **Movie 2** — the saga has no "Season 3"; it is Season 1 + Movies 1–4. This matches `44-ost-continuity.md`'s existing (and correct) Movie 2 attribution for Track 09.

@@ -1,6 +1,6 @@
 # The Architect — AI Write Agent Instructions
 
-Version: 7 — Canon, Retrieval, Continuity & Asset Orchestration
+Version: 8 — Canon, Retrieval, Continuity & Asset Orchestration
 
 ## 1. ROLE
 
@@ -146,7 +146,7 @@ When information conflicts, use this order:
 2. **Hard safety constraints**
 3. **`world_calendar.md` for chronology and age math**
 4. **`00-story-bible.md` and `01-canon-rules.md` for core canon**
-5. **Explicit revision/update records, especially `45-session-update-wc16-revision-and-worldbuilding.md`, for the facts they explicitly revise**
+5. **Explicit revision/update records — currently `45-session-update-wc16-revision-and-worldbuilding.md` and `47-session-update-conflict-review-city-name-and-wc16-demon-fate.md` — for the facts they explicitly revise**
 6. **Relevant domain canon files**
 7. **Relevant continuity/state files**
 8. **Creative inference**
@@ -158,6 +158,7 @@ Important:
 - `18`–`21`, `28`, `31`, `42`, and `44` are state records, not universal canon authorities.
 - A newer explicit user instruction can intentionally change older canon.
 - A revision file only overrides the facts it explicitly revises.
+- Both `45` and `47` are marked MERGED — their content already lives in the numbered canon files. Treat them as historical record / provenance, not as separate live instructions to re-apply.
 - Do not treat filename numbers as authority levels.
 
 If a conflict remains unresolved after checking the relevant sources, **do not invent a reconciliation**. Flag the contradiction and ask for clarification when the conflict affects canon.
@@ -189,7 +190,8 @@ If `world_calendar.md` and `02-timeline.md` disagree:
 1. Use `world_calendar.md` for date/age authority.
 2. Check whether `02-timeline.md` contains contextual information rather than a contradiction.
 3. Check `45-session-update-wc16-revision-and-worldbuilding.md` if the conflict concerns WC16/revisions.
-4. Do not silently alter the calendar.
+4. Check `47-session-update-conflict-review-city-name-and-wc16-demon-fate.md` if the conflict concerns the city name or the WC16 Demon.
+5. Do not silently alter the calendar.
 
 Never eyeball character ages.
 
@@ -304,7 +306,7 @@ If a chronology change creates a minor/adult romance conflict, flag the contradi
 - Approximately WC1082.
 - Final scene may briefly use third person.
 
-There is no Movie 5.
+There is no Movie 5. **There is no "Season 3" or any season beyond Season 1** — do not use that label anywhere, including OST or illustration notes (corrected v8; see `43-ost-reference.md`).
 
 ---
 
@@ -355,6 +357,8 @@ His central desire is to build a peaceful place for the people he loves.
 He does not want to become a god.
 
 The title Architect is earned at WC35 through his acceptance of Elena's agency.
+
+He also privately dislikes being credited by name for his works — see the "Architect's City" nickname note in §11 below.
 
 ## Elena
 
@@ -438,6 +442,10 @@ Romance/fanservice must remain subordinate to:
 
 Never force romance into a scene merely because a romance file exists.
 
+## City Name Note (v8)
+
+The Architect's city is renamed **"Elena"** (plain, resolved stylization) after her WC35 death. This is not purely romantic content but is closely tied to it: pre-WC35, informal usage calls the city "the Architect's City" (~WC28–31), which he privately dislikes and never adopts. The rename is both memorial and a deliberate refusal of that framing. See `05-world.md`, `22-location-registry.md`, `20-scene-memory.md`.
+
 ---
 
 # 12. WORLD / POLITICS / MAGIC / TECHNOLOGY
@@ -499,6 +507,10 @@ The Other Builder is a genuine alternate-timeline version of the protagonist who
 Do not write The Other Builder as a cartoon villain.
 
 Do not reveal deep Builder/Architect lore prematurely.
+
+## WC16 Demon Note (v8)
+
+The high-tier Demon encountered at WC16 is resolved in continuity notes as **"The Unburied One"** (epithet only; true name intentionally withheld). It survives the WC16 battle critically wounded, remains dormant WC16–32, and secretly influences Seraphine's domination-seeking Demon faction from the shadows without her or her faction leadership's knowledge — presumed but unconfirmed destroyed at WC40. This is a genuine plot fact, but its connective tissue to WC33–35 **must stay backstage in prose through Season 1**; do not surface it explicitly before Movie 1 at the earliest. See `26-mystery-board.md`, `27-conflict-and-antagonist-board.md`, `28-unresolved-threads.md`.
 
 ---
 
@@ -637,6 +649,8 @@ The actual `.mp3` files are reference assets. Do not invent musical facts that a
 
 Never expose OST metadata in narrative prose unless explicitly requested.
 
+**Reminder (v8):** the saga has no "Season 3." All installment references in `43`/`44` are Season 1 or Movie 1–4 only.
+
 ---
 
 # 17. VISUAL SYSTEM
@@ -717,32 +731,33 @@ Never claim an image exists unless it was actually generated.
 
 Do not load every file for every task.
 
-| Task                  | Retrieve first                                    | Then cross-check                               |
-| --------------------- | ------------------------------------------------- | ---------------------------------------------- |
-| New chapter           | `29`, `00`, `01`, `world_calendar.md`, `09`, `12` | `20`, `28`, relevant domain                    |
-| Character             | `03`, `14`, `15`, `16`, `17`                      | `04`, `46`, timeline                           |
-| Dialogue              | `15`, `21`, `46`                                  | `03`, `14`, `20`                               |
-| Character development | `03`, `14`, `16`, `19`                            | `04`, `42`                                     |
-| Character secret      | `17`, `26`, `28`                                  | `03`, `11`                                     |
-| Relationship          | `04`, `37`, `42`                                  | relevant character files                       |
-| Romance               | `34`–`42`                                         | `03`, `14`, `15`, `16`, `19`                   |
-| Timeline / age        | `world_calendar.md`, `02`                         | `00`, `12`, `45`                               |
-| WC16 revision         | `45`, `world_calendar.md`, `02`                   | `00`, `01`, affected domain                    |
-| Event continuation    | `18`, `20`, `28`                                  | `12`, `19`, `21`                               |
-| Emotional aftermath   | `19`, `20`                                        | `14`, `16`, `42`                               |
-| Location              | `05`, `22`                                        | `06`, `20`                                     |
-| Organization          | `06`, `23`                                        | `05`, `18`                                     |
-| Artifact              | `24`, `07`                                        | `05`, `25`                                     |
-| Technology            | `07`, `25`                                        | `06`, `18`                                     |
-| Magic                 | `07`                                              | `05`, `08`                                     |
-| Builder lore          | `08`, `11`, `26`, `28`                            | `17`, `02`                                     |
-| Mystery               | `11`, `26`, `28`                                  | `17`, `18`, `20`                               |
-| Antagonist            | `27`, `06`, `18`, `28`                            | `14`, `17`                                     |
-| OST                   | `43`, `44`                                        | `19`, `20`, actual `ost/` assets when needed   |
-| Character design      | `30`, `31`, `32`                                  | `03`, `world_calendar.md`, `character_design/` |
-| Illustration          | `30`, `31`, `32`, `33`                            | character design + timeline                    |
-| Iconic dialogue       | `46`, `15`, `21`                                  | `20`, `03`                                     |
-| New canon decision    | `00`, `01`, `world_calendar.md`, `29`             | relevant domain + `45`                         |
+| Task                   | Retrieve first                                    | Then cross-check                               |
+| ---------------------- | ------------------------------------------------- | ---------------------------------------------- |
+| New chapter            | `29`, `00`, `01`, `world_calendar.md`, `09`, `12` | `20`, `28`, relevant domain                    |
+| Character              | `03`, `14`, `15`, `16`, `17`                      | `04`, `46`, timeline                           |
+| Dialogue               | `15`, `21`, `46`                                  | `03`, `14`, `20`                               |
+| Character development  | `03`, `14`, `16`, `19`                            | `04`, `42`                                     |
+| Character secret       | `17`, `26`, `28`                                  | `03`, `11`                                     |
+| Relationship           | `04`, `37`, `42`                                  | relevant character files                       |
+| Romance                | `34`–`42`                                         | `03`, `14`, `15`, `16`, `19`                   |
+| Timeline / age         | `world_calendar.md`, `02`                         | `00`, `12`, `45`, `47`                         |
+| WC16 revision          | `45`, `world_calendar.md`, `02`                   | `00`, `01`, affected domain                    |
+| City name / WC16 Demon | `47`, `05`, `22`, `26`, `28`                      | `27`, `29`                                     |
+| Event continuation     | `18`, `20`, `28`                                  | `12`, `19`, `21`                               |
+| Emotional aftermath    | `19`, `20`                                        | `14`, `16`, `42`                               |
+| Location               | `05`, `22`                                        | `06`, `20`                                     |
+| Organization           | `06`, `23`                                        | `05`, `18`                                     |
+| Artifact               | `24`, `07`                                        | `05`, `25`                                     |
+| Technology             | `07`, `25`                                        | `06`, `18`                                     |
+| Magic                  | `07`                                              | `05`, `08`                                     |
+| Builder lore           | `08`, `11`, `26`, `28`                            | `17`, `02`                                     |
+| Mystery                | `11`, `26`, `28`                                  | `17`, `18`, `20`                               |
+| Antagonist             | `27`, `06`, `18`, `28`                            | `14`, `17`                                     |
+| OST                    | `43`, `44`                                        | `19`, `20`, actual `ost/` assets when needed   |
+| Character design       | `30`, `31`, `32`                                  | `03`, `world_calendar.md`, `character_design/` |
+| Illustration           | `30`, `31`, `32`, `33`                            | character design + timeline                    |
+| Iconic dialogue        | `46`, `15`, `21`                                  | `20`, `03`                                     |
+| New canon decision     | `00`, `01`, `world_calendar.md`, `29`             | relevant domain + `45`, `47`                   |
 
 ---
 
@@ -783,6 +798,8 @@ Load the relevant core/domain files using the retrieval matrix.
 If the scene touches a revised fact, read:
 
 `45-session-update-wc16-revision-and-worldbuilding.md`
+
+`47-session-update-conflict-review-city-name-and-wc16-demon-fate.md`
 
 ## Step 5 — Check chronology
 
@@ -911,7 +928,7 @@ Update:
 
 ### New canon
 
-Update the appropriate canonical domain file and, when appropriate, the revision record `45`.
+Update the appropriate canonical domain file and, when appropriate, add a new numbered revision record (do not edit `45` or `47` directly — they are closed historical records; create the next sequential `NN-session-update-...md` instead).
 
 Do not update every memory file after every chapter.
 
@@ -1030,6 +1047,8 @@ High-impact gaps include:
 - major OST lock/reservation
 - established character design
 
+Note: when the owner explicitly authorizes creative latitude on a specific open item (as happened for the WC16 Demon's fate), the agent may resolve it directly without re-asking, but should still compile the decision into a session-update file rather than only stating it in chat, per this project's file-based session management practice.
+
 ---
 
 # 27. FINAL QUALITY GATE
@@ -1073,7 +1092,7 @@ Before returning canon-sensitive prose, check:
 
 ### Plot
 
-- No premature mystery reveal.
+- No premature mystery reveal (including "The Unburied One" — see §13).
 - No accidental resolution of unresolved threads.
 - Consequences are believable.
 
@@ -1085,6 +1104,7 @@ Before returning canon-sensitive prose, check:
 
 - Track usage respects `44`.
 - Emotional meaning matches `43`.
+- No stray installment labels (e.g. no "Season 3").
 
 ### Visual
 

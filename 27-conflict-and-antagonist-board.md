@@ -1,18 +1,19 @@
-# Conflict and Antagonist Board (v7, World Calendar canon)
+# Conflict and Antagonist Board (v8, World Calendar canon)
 
 ## Season 1 — Political Powers
 Motivations: fear, greed, security, control, competition. Not all are evil. **The Empire of Veyrand** is initially adversarial-by-negotiation, not hostile. (Corrected v7 — previously "Isolde's Kingdom"; Veyrand is an Empire, see `06-factions-and-politics.md`.)
 
 ## Season 1 — Demon Threat
-Major external threat. Two distinct Demon threads exist across the saga:
-1. The high-tier Demon encountered at WC16 (see `45-session-update-wc16-revision-and-worldbuilding.md` §4) — fate after WC16 is OPEN (see `28-unresolved-threads.md`).
-2. Seraphine's original faction, whose domination-seeking leadership specifically drives the WC33–35 arc; not all Demon factions share that agenda. The Demon King (or equivalent leadership) is not the ultimate antagonist of the entire saga.
+Major external threat. Two distinct Demon threads exist across the saga, now confirmed to be quietly connected (v8):
+
+1. **The high-tier Demon encountered at WC16** — continuity name **"The Unburied One"** (an epithet; true name intentionally withheld). Critically wounded, not killed, at WC16; dormant WC16–32; during dormancy it secretly influences the domination-seeking Demon faction (see item 2) from the shadows, as a hidden patron rather than a commander. Presumed (not confirmed) destroyed when Demon territories collapse at WC40. See `26-mystery-board.md` and `28-unresolved-threads.md`. **This connection must stay backstage in Season 1 prose** — reader-facing reveal, if any, belongs no earlier than Movie 1.
+2. **Seraphine's original faction**, whose domination-seeking leadership specifically drives the WC33–35 arc; not all Demon factions share that agenda. The Demon King (or equivalent leadership) is not the ultimate antagonist of the entire saga. The faction leadership remains self-directed and is not aware of the Unburied One's influence; Seraphine herself never learns of it.
 
 ## Season 1 — Internal Antagonist
 The Architect's own need for control — the Darkest Point (WC16–23) — is the true central conflict of the installment, more than any external war. Its origin is now grounded in a concrete tactical failure at WC16 that cost him his parents, The Teacher, and the Scout (see `02-timeline.md`).
 
 ## Movie 1 — Historical / Ideological Conflict
-The primary conflict is emotional and ideological: the Son vs. his father's secrecy, converging with the father's death.
+The primary conflict is emotional and ideological: the Son vs. his father's secrecy, converging with the father's death. (Possible optional thread: whether the Son ever uncovers the Unburied One's WC16→WC35 connection — not yet blocked out.)
 
 ## Movie 2 — Observatory / Aion
 Aion believes control is necessary for reality stability.

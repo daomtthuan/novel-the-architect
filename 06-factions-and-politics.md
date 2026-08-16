@@ -1,4 +1,4 @@
-# Factions and Political Forces (v7, World Calendar canon)
+# Factions and Political Forces (v8, World Calendar canon)
 
 ## Political Baseline (added v7, per session update 45 §1)
 
@@ -29,7 +29,9 @@ Seek knowledge, magical technology, research, access to the Architect's systems.
 
 ## Demon Civilization
 
-Not every demon is evil. Includes internal factions, political motives, cultural differences, competing ideologies. Seraphine originates from a faction whose leadership (as she discovers WC33–34) actually seeks domination rather than mere survival — this is what triggers her defection. See also the high-tier Demon encountered at WC16 (`28-unresolved-threads.md` — fate OPEN).
+Not every demon is evil. Includes internal factions, political motives, cultural differences, competing ideologies. Seraphine originates from a faction whose leadership (as she discovers WC33–34) actually seeks domination rather than mere survival — this is what triggers her defection.
+
+**The Unburied One (new, v8).** The high-tier Demon encountered at WC16 (`28-unresolved-threads.md`) survives, critically wounded, and spends WC16–32 dormant. During dormancy it secretly and indirectly influences Seraphine's domination-seeking faction from the shadows — a hidden patron, not a commander, and unknown to both the faction's own leadership and to Seraphine. Presumed (not confirmed) destroyed at WC40. This connection should remain backstage in Season 1 prose; see `26-mystery-board.md` and `27-conflict-and-antagonist-board.md` for reveal discipline.
 
 ## The Observatory
 
