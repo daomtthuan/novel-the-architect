@@ -1,4 +1,4 @@
-# Continuity Tracker (v8, World Calendar canon)
+# Continuity Tracker (v9, World Calendar canon)
 
 Updated after every accepted chapter/scene.
 
@@ -152,7 +152,7 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** None significant.
 - **New objects:** Practice stone (minor, non-registry).
 - **New locations:** The Teacher's back-yard training pool — minor extension of the existing "The Teacher's Old Study / Training Ground" entry in `22-location-registry.md`.
-- **Foreshadowing:** The Teacher's line — "overconfidence about one's own limits is the real danger" — direct foreshadowing for WC16 (the Architect's tactical misjudgment against the high-tier Demon) and the entire Darkest Point. Father's line — "understand what you're doing before it hurts someone" — direct echo of the WC16 tragedy.
+- **Foreshadowing:** The Teacher's line — "overconfidence about one's own limits is the real danger" — direct foreshadowing for WC16 (the Architect's tactical misjudgment against the high-tier Demon) and the entire Darkest Point. **This foreshadowing has now been fully paid off in Chapter 11 — the Architect's WC16 self-inflicted arm loss is the direct, literal consequence of ignoring this exact rule.** Father's line — "understand what you're doing before it hurts someone" — direct echo of the WC16 tragedy.
 - **Secrets revealed:** None.
 - **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way" from Chapter 4) remain open.
 - **Handoff to Chapter 6:** Formal training under The Teacher continues; default next chronological point is later in Era 1 (WC11–14), showing rapid progress and the beginnings of a magic classification system, unless the owner specifies otherwise.
@@ -173,10 +173,10 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** None significant; light establishment of a regional Mage "reputation network."
 - **New objects:** None registry-level; the Architect's research notes are a non-canon-critical precursor to the "Architect's Notebooks" already generically established in `24-artifact-registry.md`.
 - **New locations:** None registry-level; testing occurs at the Teacher's existing training ground.
-- **Foreshadowing:** The Teacher's line — "con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự" — the clearest direct foreshadowing yet for WC16's First Major Loss. Mother's line — "có những thứ trên đời không có quy luật để tìm ra... chỉ có thể được cảm nhận, được chấp nhận, hoặc được mất đi" — direct thematic seed for Elena's WC23 "people are not variables" breakthrough.
+- **Foreshadowing:** The Teacher's line — "con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự" — **now fully paid off in Chapter 11: WC16's First Major Loss is exactly the failure this line warned of.** Mother's line — "có những thứ trên đời không có quy luật để tìm ra... chỉ có thể được cảm nhận, được chấp nhận, hoặc được mất đi" — direct thematic seed for Elena's WC23 "people are not variables" breakthrough; still unresolved, intentionally, until WC23.
 - **Secrets revealed:** None.
-- **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way," why the Teacher stopped taking students) remain open. The Teacher's uncharacteristic sorrow when delivering his WC14 warning is left open as a minor, non-mystery-board character beat.
-- **Handoff to Chapter 7:** Default next chronological point is **WC15** — the canonical meeting of Elena and Iris (per `world_calendar.md`, `02-timeline.md`, `20-scene-memory.md`), unless the owner specifies an intermediate chapter. Iris is 12 at this point — strictly platonic framing only.
+- **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way," why the Teacher stopped taking students) remain open. The Teacher's uncharacteristic sorrow when delivering his WC14 warning is left open as a minor, non-mystery-board character beat — **now permanently unresolvable from The Teacher himself, following his death in Chapter 11.**
+- **Handoff to Chapter 7:** Default next chronological point is **WC15** — the canonical meeting of Elena and Iris.
 
 ### Chapter 7 — Two Signals in the Noise
 
@@ -187,17 +187,17 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Characters:** The Architect (15), Elena (23.75), Iris (12), The Teacher (brief)
 - **Core conflict:** A runaway lantern-golem cart at a harvest fair; internally, the Architect's first real experience of being seen as a person rather than a phenomenon
 - **Emotional objective:** Dramatize the required WC15 permanent scene (meeting Elena and Iris) with full, distinct characterization for both from their very first appearance; keep Iris's framing strictly platonic and age-appropriate
-- **Plot objective:** Establish ACQUAINTANCE-state relationships for Architect↔Elena and Architect↔Iris per `37-relationship-state-machine.md`; seed the "small adventures and small battles" the three will share in the following years, per `world_calendar.md` WC15 entry
-- **New facts:** First formal meeting between the Architect, Elena, and Iris, triggered by a malfunctioning lantern-golem cart at the village harvest fair; Elena is established as Eterna, a longtime family friend of Iris's household, currently traveling and planning to remain in the area a few more days; The Teacher displays an unusually sharp, unexplained attentiveness toward Elena.
-- **Character changes:** The Architect experiences, for the first time on-page, being regarded as a person rather than a phenomenon — a contrast to the pride/overconfidence established in Chapter 6.
-- **Relationship changes:** Architect ↔ Elena begins at ACQUAINTANCE; Architect ↔ Iris begins, entirely platonic, characterized through Iris's established plainspoken/dry voice and quiet approval rather than open admiration; Elena ↔ Iris confirmed as an established prior friendship.
-- **World changes:** None significant; the harvest fair is a one-time backdrop, not a registry-level location.
+- **Plot objective:** Establish ACQUAINTANCE-state relationships for Architect↔Elena and Architect↔Iris per `37-relationship-state-machine.md`; seed the "small adventures and small battles" the three will share in the following years
+- **New facts:** First formal meeting between the Architect, Elena, and Iris, triggered by a malfunctioning lantern-golem cart; Elena is established as Eterna, a longtime family friend of Iris's household; The Teacher displays an unusually sharp, unexplained attentiveness toward Elena.
+- **Character changes:** The Architect experiences, for the first time on-page, being regarded as a person rather than a phenomenon.
+- **Relationship changes:** Architect ↔ Elena begins at ACQUAINTANCE; Architect ↔ Iris begins, entirely platonic; Elena ↔ Iris confirmed as an established prior friendship.
+- **World changes:** None significant.
 - **New objects:** The fair's lantern-golem cart — background detail, non-registry.
 - **New locations:** Village square during the harvest fair — one-time backdrop, non-registry.
-- **Foreshadowing:** The Teacher's warning about how the Eterna experience time differently plants early, gentle groundwork for the eventual weight of Elena's long lifespan relative to the Architect's; The Teacher's unusually sharp attention toward Elena is left open and unexplained — a minor character beat, not a formal mystery-board entry.
+- **Foreshadowing:** The Teacher's warning about how the Eterna experience time differently; The Teacher's unusually sharp attention toward Elena remains open and unexplained — **now permanently unresolvable from The Teacher's own mouth, following his death in Chapter 11.**
 - **Secrets revealed:** None.
-- **Unresolved questions:** None new; existing threads (nature of reincarnation, The Teacher's unfinished remark from Chapter 4, his uncharacteristic sorrow from Chapter 6) remain open.
-- **Handoff to Chapter 8:** Default next chronological point continues Era 2 forward from WC15 — further time spent with Elena and Iris, deepening the newly-established acquaintance toward friendship, per `world_calendar.md`'s WC15–16 entries — unless the owner specifies otherwise. WC16 (First Major Loss) looms as the next major required permanent scene and must not be triggered without explicit structural buildup.
+- **Unresolved questions:** None new.
+- **Handoff to Chapter 8:** Default next chronological point continues Era 2 forward from WC15.
 
 ### Chapter 8 — A Name to Grow Into
 
@@ -207,18 +207,18 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Location:** Village square / inn steps; a small lake outside the village; the village gate
 - **Characters:** The Architect (15), Elena (23.75), Iris (12)
 - **Core conflict:** Internal — the unfamiliar comfort of being valued as a person rather than for ability; a light, undeveloped undertone of Iris noticing the growing closeness between the Architect and Elena, explicitly framed as observation rather than jealousy
-- **Emotional objective:** Move Architect↔Elena from ACQUAINTANCE toward FRIEND through ordinary, non-romantic shared time (`37-relationship-state-machine.md`); deepen Architect↔Iris within strict platonic bounds via her first on-page indirect caretaking gestures (`17-character-secrets.md`); plant the "a name to grow into" motif as a deliberate, sparing seed for the WC35 "Architect" title
-- **Plot objective:** Fulfill the owner's explicit request for a foundation-building chapter between the Architect and Elena, deliberately deferring any movement toward WC16; dramatize the "several more days" Elena announced she would remain in the area at the end of Chapter 7
-- **New facts:** Elena keeps a personal observation notebook and can perceive Mana visually under strong disturbance; a small lake outside the village is established as tied to Iris and Elena's shared childhood; Elena reflects personally on the isolating experience of being seen only as "history" rather than a person; Elena declines to invent a nickname for the Architect, framing a true name/title as something to be earned/grown into.
-- **Character changes:** The Architect experiences sustained, ordinary friendship valued for himself — the first extended counterweight to the pride/overconfidence built up through Chapter 6.
-- **Relationship changes:** Architect↔Elena advances from ACQUAINTANCE toward FRIEND (not yet fully reached); Architect↔Iris deepens within ACQUAINTANCE via her first visible indirect caretaking gestures (sharing food, offering to handle errands, a dry vote of confidence in his character) and one flat, explicitly non-jealous observation about Elena's attention.
+- **Emotional objective:** Move Architect↔Elena from ACQUAINTANCE toward FRIEND; deepen Architect↔Iris within strict platonic bounds; plant the "a name to grow into" motif as a deliberate, sparing seed for the WC35 "Architect" title
+- **Plot objective:** Fulfill the owner's explicit request for a foundation-building chapter between the Architect and Elena, deliberately deferring any movement toward WC16
+- **New facts:** Elena keeps a personal observation notebook and can perceive Mana visually under strong disturbance; a small lake outside the village is established as tied to Iris and Elena's shared childhood; Elena declines to invent a nickname for the Architect, framing a true name/title as something to be earned/grown into.
+- **Character changes:** The Architect experiences sustained, ordinary friendship valued for himself.
+- **Relationship changes:** Architect↔Elena advances from ACQUAINTANCE toward FRIEND; Architect↔Iris deepens within ACQUAINTANCE via her first visible indirect caretaking gestures.
 - **World changes:** None significant; the small lake is a new, non-registry recurring backdrop.
-- **New objects:** Elena's personal observation notebook — minor, non-registry, may recur.
+- **New objects:** Elena's personal observation notebook — minor, non-registry.
 - **New locations:** Small lake outside the village — non-registry, may recur.
-- **Foreshadowing:** Elena's "a name to grow into" line — direct, deliberate seed for the WC35 "Architect" title; use sparingly. Elena's reflection on being seen only as history — groundwork for her insistence on being treated as a full person, relevant again at WC23 and after her death. Elena's brief cautious reaction to hearing about The Teacher's style — a very light, undeveloped gesture toward the still-open Teacher/Elena beat from Chapter 7.
+- **Foreshadowing:** Elena's "a name to grow into" line — direct, deliberate seed for the WC35 "Architect" title; use sparingly. Elena's reflection on being seen only as history.
 - **Secrets revealed:** None.
-- **Unresolved questions:** None new; all existing threads (nature of reincarnation, The Teacher's unfinished remark from Chapter 4, his uncharacteristic sorrow from Chapter 6, his sharp attentiveness toward Elena from Chapter 7) remain open and untouched.
-- **Handoff to Chapter 9:** Elena has departed the area, promising to return; the Architect resumes ordinary life with The Teacher, Iris, and his parents. Default next chronological point continues foundation-building within Era 2 — further training under The Teacher, continued (if intermittent) contact with Iris, and eventually Elena's return — before any structural movement toward WC16, per the owner's explicit direction that this run of chapters should deepen the Architect–Elena bond first. WC16 (First Major Loss) remains the next major required permanent scene and must not be triggered without deliberate buildup.
+- **Unresolved questions:** None new.
+- **Handoff to Chapter 9:** Elena has departed the area, promising to return.
 
 ### Chapter 9 — Old Names, New Signs
 
@@ -228,39 +228,60 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **Location:** The Teacher's house; family home; ground behind Iris's house; Guild headquarters in the neighboring town
 - **Characters:** The Architect (15–16), Father, Mother, The Teacher, the Scout/Investigator (first full appearance, unnamed), the Guild Master (first full appearance, unnamed), Iris (12–13)
 - **Core conflict:** Architect's growing overconfidence after outpacing The Teacher's expectations; external — Scout's discovery of unusual Demon activity forces the old adventuring party to consider reuniting
-- **Emotional objective:** Escalate the Architect's arrogance into an active, consequential choice (talking his way into the operation); establish Mother's open fear for the first time; deepen the sense of dread ahead of WC16
-- **Plot objective:** Formally open the WC16 lead-up sequence — Scout's discovery, the old party's reunion decision, first full appearance of the Guild Master, Architect's conditional inclusion as an observer only
-- **New facts:** The Teacher confirms the Architect has surpassed projected learning pace; the Scout (female, scar along her jaw) is introduced, reporting unusual, organized Demon activity in the eastern forest; the Guild Master (male, large build, former tanker) is introduced at Guild headquarters, providing supplies and remote coordination while remaining behind; Iris is confirmed to be training independently in swordsmanship with the village blacksmith.
-- **Character changes:** The Architect's overconfidence escalates from private pride (Chapter 6) to an active persuasive act — arguing his way into a dangerous mission over his mother's objection.
-- **Relationship changes:** Mother voices open fear about her son's unusual nature for the first time; Father sides with the Architect but imposes a strict, explicit promise (observe only, no combat, retreat at the first sign of danger) — a promise structurally set up to be broken at WC16. Architect↔Iris deepens through a brief, platonic farewell scene containing a directly foreshadowing line from Iris.
-- **World changes:** The Guild is formally shown as an active organization; the Guild Master appears on-page for the first time.
-- **New objects:** Emergency Guild supplies (healing items, ward charms, high-grade enchanted items) — background detail, non-registry unless reused.
-- **New locations:** Guild headquarters in the neighboring town — candidate for `22-location-registry.md` if it recurs.
-- **Foreshadowing:** Iris's line about not needing a weapon to make observation dangerous — direct foreshadowing for WC16. The Architect's "observe only, retreat if danger" promise to his father — set up to be broken, raising WC16's emotional stakes. The Guild Master's passing remark about "what you all used to do back then" — a light, unexplained gesture toward untold past history; not a formal mystery-board entry.
-- **Secrets revealed:** None; the Unburied One connection remains fully backstage, consistent with reveal discipline.
-- **Unresolved questions:** The true nature of what is directing the Demon activity remains unconfirmed on-page (resolved in canon but withheld); Scout's and Guild Master's personal names remain unassigned (owner's discretion).
-- **Handoff to Chapter 10:** The reunited group (Father, Mother, The Teacher, Scout, and the Architect as observer) departs for the eastern forest. WC16 — First Major Loss — is now the immediate next canonical milestone and should be approached with full deliberate buildup; this is the chapter where it may finally occur, at the owner's discretion.
+- **Emotional objective:** Escalate the Architect's arrogance into an active, consequential choice; establish Mother's open fear for the first time; deepen the sense of dread ahead of WC16
+- **Plot objective:** Formally open the WC16 lead-up sequence
+- **New facts:** The Teacher confirms the Architect has surpassed projected learning pace; the Scout is introduced, reporting unusual, organized Demon activity; the Guild Master is introduced; Iris is confirmed to be training independently in swordsmanship.
+- **Character changes:** The Architect's overconfidence escalates from private pride to an active persuasive act.
+- **Relationship changes:** Mother voices open fear for the first time; Father imposes a strict "observe only, retreat" promise — set up to be broken at WC16. Architect↔Iris deepens through a brief, platonic farewell scene.
+- **World changes:** The Guild is formally shown as an active organization.
+- **New objects:** Emergency Guild supplies — background detail.
+- **New locations:** Guild headquarters — candidate for `22-location-registry.md`.
+- **Foreshadowing:** Iris's line about not needing a weapon to make observation dangerous — **paid off in Chapter 10 (self-defense) and again, fully, in Chapter 11.** The Architect's "observe only, retreat if danger" promise — **broken decisively and fatally in Chapter 11.**
+- **Secrets revealed:** None; reveal discipline preserved.
+- **Unresolved questions:** Scout's and Guild Master's personal names remain unassigned (owner's discretion). **The Scout's identity/name is now permanently owner's discretion post-mortem, following her death in Chapter 11.**
+- **Handoff to Chapter 10:** The reunited group departs for the eastern forest.
 
 ### Chapter 10 — What the Wind Carries
 
 - **Installment:** Season 1 — The Architect
 - **WC:** WC16 (immediately preceding First Major Loss)
-- **POV:** The Architect, first-person (village-side scenes with Elena and Iris narrated within the same first-person retrospective voice, as recollected/reconstructed knowledge)
+- **POV:** The Architect, first-person (village-side scenes with Elena and Iris narrated within the same first-person retrospective voice)
 - **Location:** Eastern forest (field operation party); home village (Elena, Iris)
 - **Characters:** The Architect (16), Father, Mother, The Teacher, the Scout/Investigator, Elena (24), Iris (13)
-- **Core conflict:** External — an ambush by unnaturally empowered fire wolves in the forest; internal — the Architect's overconfidence is reinforced rather than tempered after he breaks his "observe only" promise to save himself with a self-taught magical trap; parallel — Elena senses the same Mana disturbance from a distance, returns to the village to find the Architect already departed, and both she and Iris choose to suppress their own fear rather than add to his burden
-- **Emotional objective:** Build dramatic irony — the reader senses danger closing in while the Architect is busy reinforcing exactly the flaw that will cost him everything; establish a quiet, mature solidarity between Elena and Iris as two people independently choosing restraint out of love, foreshadowing their shared role as his emotional anchors through the coming Darkest Point
-- **Plot objective:** Directly set up WC16's First Major Loss for the next chapter — confirm the abnormal Mana disturbance in the forest, break the Architect's "observe only" promise (with sympathetic justification), escalate his dangerous self-confidence to its final pre-tragedy peak, and establish Elena's and Iris's parallel emotional throughline in the village
-- **New facts:** Elena, using Eterna-specific Mana sensitivity, detects an unnatural disturbance roughly half a day's travel south of the forest and returns to the village, only to learn the Architect departed three or four days earlier; the field party encounters a pack of unnaturally empowered fire wolves (glowing red eyes, coordinated tactics inconsistent with the species) — the first on-page manifestation of the still-unnamed influence later identified in continuity notes as "The Unburied One," kept entirely backstage; the Architect improvises and successfully deploys a self-designed binding-trap spell he had never shown The Teacher, breaking his promise to observe only but in unambiguous self-defense; the party decides to advance "just a short distance further" to confirm the source before retreating — the proximate decision that leads directly into WC16.
-- **Character changes:** The Architect breaks his "observe only, retreat immediately" promise for the first time, and his dominant internal reaction is quiet pride rather than fear or guilt — the clearest, most immediate psychological escalation yet before the Darkest Point. Elena and Iris both independently choose to suppress and manage their own fear rather than let it show, established as a deliberate, shared behavioral pattern.
-- **Relationship changes:** Elena ↔ Iris deepens into an explicit, named emotional partnership — two people quietly protecting the Architect from the weight of their own worry, a pattern that will recur through the Darkest Point (WC16–23). Father ↔ Architect and Mother ↔ Architect are both directly tested by the broken promise; Mother's fear from Chapter 9 is visibly confirmed rather than eased. The Teacher registers the Architect's self-made trap with a mixture of professional admiration and renewed concern.
-- **World changes:** None significant; further on-page (but still unnamed/unexplained) confirmation that something is deliberately empowering and organizing Demon-adjacent wildlife in the eastern forest, consistent with existing RESOLVED canon on "The Unburied One" (`26-mystery-board.md`, `27-conflict-and-antagonist-board.md`, `28-unresolved-threads.md`) — reveal discipline fully preserved; no name or explicit connection surfaces in prose.
-- **New objects:** The Architect's self-designed lure-binding trap spell — a notable personal technique, not a physical artifact; not added to `24-artifact-registry.md` (technique, not item), but flagged as a candidate detail for `03-characters.md`/`14-character-psychology.md` if it recurs in future chapters as a signature ability.
-- **New locations:** None registry-level; the eastern forest and Guild headquarters continue from Chapter 9.
-- **Foreshadowing:** The abnormal coordination and empowerment of the fire wolves is a direct, HINTED-level clue toward the high-tier Demon per `11-foreshadowing-and-revelations.md` and `26-mystery-board.md` — no naming, no explicit connection made. The party's decision to "advance just a short distance further" is direct, deliberate foreshadowing for the fatal decision that triggers WC16. The Architect's pride after breaking his promise is the final and most explicit pre-WC16 escalation of the arrogance seeded across Chapters 5–9.
-- **Revealed secrets:** None; the Unburied One's identity and connection remain fully backstage, per reveal discipline.
-- **Unresolved questions:** None new; all existing threads (nature of reincarnation, The Teacher's unexplained reactions to Elena, Elena's cautious reaction to hearing of The Teacher's style, why The Teacher stopped taking students) remain open and untouched. The true source of the forest's Mana disturbance remains unconfirmed on-page.
-- **Handoff to Chapter 11:** The field party advances further into the forest at the owner's authorized pace, with the Architect's promise already broken and his confidence at its highest point yet. WC16 — First Major Loss — is now the mandatory next event and must occur, with full narrative weight, in Chapter 11 unless the owner explicitly redirects. Elena and Iris remain in the village, unaware of what is about to happen, having chosen to wait and prepare rather than pursue.
+- **Core conflict:** External — an ambush by unnaturally empowered fire wolves; internal — the Architect's overconfidence is reinforced rather than tempered; parallel — Elena and Iris choose restraint over panic
+- **Emotional objective:** Build dramatic irony; establish a quiet, mature solidarity between Elena and Iris
+- **Plot objective:** Directly set up WC16's First Major Loss
+- **New facts:** Elena detects an unnatural Mana disturbance and returns to the village too late; the field party encounters unnaturally empowered fire wolves — first on-page manifestation of the still-unnamed influence; the Architect improvises and successfully deploys a self-designed binding-trap spell, breaking his "observe only" promise in unambiguous self-defense; the party decides to advance "just a short distance further."
+- **Character changes:** The Architect breaks his promise for the first time, reacting with pride rather than fear.
+- **Relationship changes:** Elena ↔ Iris deepens into an explicit emotional partnership.
+- **World changes:** Further unnamed confirmation of abnormal influence in the eastern forest.
+- **New objects:** The Architect's self-designed lure-binding trap spell — a notable personal technique.
+- **New locations:** None registry-level.
+- **Foreshadowing:** The abnormal coordination of the fire wolves; the party's decision to "advance just a short distance further" — **directly and fatally realized in Chapter 11.** The Architect's pride after breaking his promise — **the final pre-WC16 escalation, now paid off in Chapter 11.**
+- **Revealed secrets:** None.
+- **Unresolved questions:** None new.
+- **Handoff to Chapter 11:** The field party advances further into the forest. WC16 — First Major Loss — is now the mandatory next event.
+
+### Chapter 11 — The Cost of Certainty
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC16 (First Major Loss — DRAMATIZED IN FULL)
+- **POV:** The Architect, first-person; brief village-side cutaway (Elena, Iris, rescue party) narrated within the same first-person retrospective voice, as reconstructed/relayed knowledge
+- **Location:** Site of First Major Loss (deep clearing in the eastern forest); home village (rescue mobilization)
+- **Characters:** The Architect (16), Father (†), Mother (†), The Teacher (†), the Scout/Investigator (†), Elena (24), Iris (13)
+- **Core conflict:** External — a brutal battle against a high-tier Demon after the field party easily clears minor/mid-tier Demons first; internal — total collapse of the Architect's belief in his own analytical certainty, since the very tactical read he was proudest of is what the Demon used to kill his family
+- **Emotional objective:** Deliver the full, earned weight of WC16's First Major Loss — the direct, catastrophic payoff of every overconfidence beat built across Chapters 5–10; establish the concrete origin of the Darkest Point
+- **Plot objective:** Fully dramatize the required permanent scene "First Major Loss" (`20-scene-memory.md`); establish a new permanent physical fact (loss of the Architect's left arm) as the direct consequence of breaking The Teacher's WC10 rule against bodily Mana-channeling; confirm the high-tier Demon is gravely wounded and flees rather than dies, consistent with RESOLVED canon
+- **New facts:** The field party defeats minor/mid-tier Demons easily, creating false confidence. A high-tier Demon appears. The Architect identifies what he believes is a tactical weakness (a hesitation in the Demon's right shoulder before left-arm strikes); this is a deliberate bait. The Scout, repositioning to exploit it alongside Father, is killed by the Demon's previously-unused right arm. In the ensuing chaos, the Architect begins casting an untested, self-designed high-tier spell; the Demon rushes him during the vulnerable casting window. Mother shields him with the strongest light-magic barrier of her life; The Teacher layers a binding/barrier spell on top of it; both fail simultaneously. Father shoves the Architect clear at the last possible instant; Mother, The Teacher, and Father are killed together, absorbing the Demon's finishing blow. Father's body is thrown into the Architect, revealing a fatal wound to the abdomen. In desperation and grief, the Architect channels raw, uncontrolled Mana directly through his own body — breaking the core rule taught since WC10 (Chapter 5) — to unleash a self-designed spell fusing Earth-origin physics concepts (nuclear/quantum energy density) with local Mana structure. The Demon loses an arm and flees, gravely wounded but alive. The spell's backlash permanently destroys the Architect's left arm. He collapses. Meanwhile, Elena and Iris mobilize a rescue party through the village elder and the Guild Master; they arrive too late to save anyone else, finding only the Architect alive amid the wreckage and a lingering spatial rift.
+- **Character changes:** **PERMANENT:** The Architect loses his left arm, WC16 onward. Father, Mother, The Teacher, and the Scout/Investigator are confirmed dead on-page, completing the revised WC16 canon (`45-session-update-wc16-revision-and-worldbuilding.md`). The Architect's core psychological rupture — believing his analysis was correct and still losing everyone — is now the concrete, dramatized origin of the Darkest Point.
+- **Relationship changes:** All four of the Architect's core Era 1–2 relationships (Father, Mother, The Teacher, Scout) end in death. Elena and Iris are the first to find him alive, establishing a new, wordless emotional touchstone that predates any romantic framing and will resonate through the coming Darkest Point.
+- **World changes:** A lingering spatial rift/scar remains at the battle site — candidate detail for `22-location-registry.md`'s existing "Site of First Major Loss" entry. The high-tier Demon flees the region, gravely wounded, beginning its WC16–32 dormancy per RESOLVED canon (never named or connected on-page).
+- **New objects:** The Architect's self-designed energy-compression spell — a significant personal technique/proto-technology, direct precursor to later Ark development; not yet a registry-level artifact.
+- **New locations:** None registry-level beyond the specific detail added to the existing Site of First Major Loss entry.
+- **Foreshadowing:** The Architect's closing interior question ("I found its weakness. I was right. So why did all of them die?") is the direct, unresolved seed of the LOCKED line "If I had modeled one more variable, he would still be alive" (`46-iconic-dialogue-registry.md` §1.3) — deliberately withheld in full for a future chapter. The self-designed energy-compression spell is a direct technical seed for the Ark (`07-magic-and-technology.md`).
+- **Revealed secrets:** None; the high-tier Demon's identity/name/connection to WC33–35 remains entirely unstated, per reveal discipline.
+- **Unresolved questions:** The Teacher's unresolved mysteries (Chapters 4, 6, 7, 8) are now permanently unresolvable from The Teacher himself, following his death — agent's discretion on any alternate resolution path in future chapters, if ever. How the Architect's arm loss is processed emotionally by Elena, Iris, and the wider community is newly open for the next chapter.
+- **Handoff to Chapter 12:** The Architect is unconscious, gravely injured, sole survivor. The next chapter must handle the immediate aftermath — regaining consciousness, confirming the full scope of loss, physical recovery, funeral/memorial rites, the Guild Master's reaction, and the earliest visible tremors of Darkest Point ideology. WC16's First Major Loss is now fully resolved on-page and must not be re-staged or contradicted.
 
 ---
 
@@ -273,6 +294,8 @@ chapter number · installment · WC year/range · location · POV · characters 
 ## Character State
 
 Track: age (computed via the Aging Rate System, not raw WC — see `00-story-bible.md`); physical condition; emotional state; current goal; current belief; relationship state.
+
+**Post-Chapter-11 note:** The Architect's physical condition now includes a permanent hard-canon fact — missing left arm, WC16 onward — that must be tracked in every future Character State entry for him.
 
 ## World State
 

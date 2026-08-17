@@ -1,4 +1,4 @@
-# Character Bible (v7, World Calendar canon)
+# Character Bible (v8, World Calendar canon)
 
 ## The Architect
 
@@ -18,6 +18,10 @@ systems thinking · engineering · infrastructure · strategy · leadership · l
 
 control · over-optimization · difficulty expressing grief · arrogance during success · tendency to treat social (and after WC16, human) problems as engineering problems
 
+### Physical Continuity (NEW, v8 — hard canon)
+
+At WC16 (First Major Loss), the Architect permanently loses his **left arm**, destroyed as backlash from channeling raw, uncontrolled Mana directly through his own body to power a self-designed, untested high-tier energy-compression spell — a direct violation of the "never draw Mana from your own body" principle taught by The Teacher since WC10 (see Chapter 5). This injury is **permanent** from WC16 onward and must be preserved consistently in all future prose, dialogue, and visual work (see `30-visual-bible.md`). It is not restored by off-page healing magic without an explicit, flagged owner decision — healing magic in this setting has established limits (see Elena's WC2 statement that "magic always has its price" and cannot fix everything, Chapter 3).
+
 ### Arc
 
 "I can solve problems." → "I can control systems." → **First Major Loss (WC16): "I failed and the people I love paid for it."** → "I can control systems so this never happens again" (Darkest Point) → Elena: "People are not variables" (WC23) → "I cannot save everyone" (WC35) → "I must respect choices" → "I must build something that no longer needs me."
@@ -26,7 +30,7 @@ control · over-optimization · difficulty expressing grief · arrogance during 
 
 "The Architect" is earned specifically by his choice at WC35: accepting Elena's agency instead of overriding it. This distinguishes him from a mere "Builder" (see `08-multiverse-and-quantum-lore.md`).
 
-## The Architect's Father (new, v7)
+## The Architect's Father (deceased, WC16)
 
 ### Role
 
@@ -34,13 +38,13 @@ Retired A-rank swordsman; one of five members of the adventuring party that incl
 
 ### Function
 
-Retires from adventuring upon marrying the Mother; requests The Teacher take his son on as a student (WC9). Rejoins the reunited party at WC16 for what was meant to be a defensive operation; dies protecting the Architect from the high-tier Demon's finishing blow, physically throwing him clear at the last possible moment.
+Retires from adventuring upon marrying the Mother; requests The Teacher take his son on as a student (WC9). Rejoins the reunited party at WC16 for what was meant to be a defensive operation. **Confirmed on-page (Chapter 11):** dies protecting the Architect from the high-tier Demon's finishing blow, physically shoving him clear at the last possible instant before being killed alongside the Mother and The Teacher. His body strikes the Architect immediately after, revealing a fatal wound.
 
 ### Name
 
 Owner's discretion — not yet assigned.
 
-## The Architect's Mother (new, v7)
+## The Architect's Mother (deceased, WC16)
 
 ### Role
 
@@ -48,7 +52,7 @@ Retired A-rank healer/enchantress; one of the same five-person party.
 
 ### Function
 
-Retires from adventuring upon marrying the Father. Dies at WC16 alongside her husband, The Teacher, and the Scout, in the all-out defense that saves the Architect.
+Retires from adventuring upon marrying the Father. **Confirmed on-page (Chapter 11):** dies at WC16 shielding the Architect with a light-magic barrier (which fails), alongside the Father and The Teacher, in the same finishing blow from the high-tier Demon.
 
 ### Name
 
@@ -62,13 +66,13 @@ Former tanker of the same five-person party; sole adult survivor of the original
 
 ### Function
 
-Rises to Guild Master after the party disbands. Absent from the WC16 battle, coordinating the guild's response instead. Becomes a recurring political and material support figure for the Architect from WC16 onward, through The Guild (see `23-organization-registry.md`).
+Rises to Guild Master after the party disbands. Absent from the WC16 battle, coordinating the guild's response instead; authorized the rescue party dispatched to the battle site (Chapter 11), though not yet shown on-page reacting to its outcome. Becomes a recurring political and material support figure for the Architect from WC16 onward, through The Guild (see `23-organization-registry.md`).
 
 ### Name
 
 Owner's discretion — not yet assigned.
 
-## The Scout / Investigator (new, v7)
+## The Scout / Investigator (deceased, WC16)
 
 ### Role
 
@@ -76,7 +80,7 @@ Investigator-assassin of the same five-person party.
 
 ### Function
 
-Continues as an investigative adventurer after the party disbands. At WC16, uncovers the earliest signs of unusual Demon activity — the seed of what eventually escalates into the Great War — and brings the reunited party into the operation that costs him his life alongside the Father, Mother, and The Teacher.
+Continues as an investigative adventurer after the party disbands. At WC16, uncovers the earliest signs of unusual Demon activity — the seed of what eventually escalates into the Great War. **Confirmed on-page (Chapter 11):** dies first in the battle, exploiting a false "weakness" the Architect identified in the high-tier Demon's combat pattern — the Demon deliberately baited this misread, killing her with its previously-unused right arm.
 
 ### Name
 
@@ -98,7 +102,7 @@ warm · intelligent · perceptive · courageous · compassionate · independent 
 
 ### Arc
 
-Companion → friend → the one who breaks his ideology → lover → wife → mother → voluntary sacrifice → enduring legacy.
+Companion → friend → the one who breaks his ideology → lover → wife → mother → voluntary sacrifice → enduring legacy. **New beat (Chapter 11):** among the first to reach the Architect's side after WC16's First Major Loss, having organized the rescue party alongside Iris.
 
 ### Rule
 
@@ -120,7 +124,7 @@ direct · loyal · physically capable · quietly perceptive · She didn't confes
 
 ### Relationship
 
-Introduced at WC15 as a close platonic friend of both Elena and the Architect (Iris is 12 at this point — strictly platonic; see Character Age Rule). Her romantic feelings for the Architect form later, once she is an adult (~WC21–24). She never confesses; She only expresses it indirectly—through; Then she consciously steps back when the Architect and Elena marry, choosing to remain as trusted family rather than a rival. After Elena's death she becomes a central caretaker for the Son, and his primary sword instructor.
+Introduced at WC15 as a close platonic friend of both Elena and the Architect (Iris is 12 at this point — strictly platonic; see Character Age Rule). Her romantic feelings for the Architect form later, once she is an adult (~WC21–24). **New beat (Chapter 11, age 13):** directly helps mobilize the rescue party after WC16's First Major Loss, alongside Elena.
 
 ### Arc
 
@@ -128,119 +132,29 @@ Friend → quiet unspoken attraction → deliberate self-withdrawal → chosen f
 
 ## Seraphine
 
-### Role
-
-Succubus, originally sent by the Demon side to investigate and destabilize the Architect; secondary heroine.
-
-### Race
-
-Succubus (Demon). Ageless — no numeric age is tracked; her appearance never changes across the entire multi-generational saga.
-
-### Traits
-
-playful · perceptive · confident · mischievous · unusually honest about attraction · ultimately guilt-driven
-
-### Relationship
-
-Arrives WC33 to seduce and provoke the Architect (deliberately making Elena jealous). By WC34–35 she recognizes the Demon leadership's true agenda and defects to the Architect's side at the moment of Elena's sacrifice. After Elena's death she visits frequently, offering physical and emotional comfort out of guilt for her role in the war that killed Elena — the Architect always refuses; he remains devoted to Elena. At some point after these visits begin, she asks him to call her **"Sera"** — not as a term of romantic endearment from his side, but as her own request, a way of marking that she is no longer his enemy. He agrees to the name; he does not agree to anything else. Privately, she is in love with him and wants nothing more than to stay close — a feeling he never reciprocates.
-
-**Succubus Rule:** the moment a Succubus genuinely falls in love, she permanently loses her demonic combat power and retains only ordinary magic. This happens to Seraphine sometime after WC35. It is why she stops fighting entirely and instead retreats into a purely domestic/mentoring role, teaching the Son magic.
-
-### Arc
-
-Infiltrator/temptress → witness → defector → guilt-driven caretaker → permanently, gently unrequited.
+(unchanged from v7 — not yet active in current story period)
 
 ## Isolde
 
-### Role
-
-Political love interest; secondary heroine.
-
-### Race / Polity
-
-Princess of the **Empire of Veyrand** (not a Kingdom — see `06-factions-and-politics.md`).
-
-### Relationship
-
-Proposes political marriage (WC26); refused. Becomes a political ally and, later, a critical wartime ally (WC32+). Even when Elena herself later consents to the idea of a second political wife, the Architect refuses — this is his own principle, not merely deference to Elena.
+(unchanged from v7 — not yet active)
 
 ## The Son
 
-### Role
-
-Movie 1 protagonist.
-
-### Race
-
-Half-blood (Human × Eterna). Ages at 0.5× the Human rate. Born WC35, the same day Elena dies.
-
-### Conflict
-
-Everyone sees him as The Architect's son. He wants an identity separate from the legend, and grows up torn between three shaping adults: his grieving father, Iris (sword), and Seraphine (magic).
-
-### Emotional State
-
-Loves his father, misses a mother he never knew, and comes to resent his father's secrecy about Elena and the Ark before eventually understanding it.
+(unchanged from v7 — not yet born)
 
 ## Mira
 
-### Role
-
-Movie 2–3 protagonist.
-
-### Important Fact
-
-Not a blood descendant. Investigates the Architect roughly 100 years after his death and becomes The Last Observer.
-
-### Traits
-
-intellectual · skeptical · curious · persistent · morally independent · historically rigorous
-
-### Arc
-
-Historian → investigator → Observer → Last Observer.
+(unchanged from v7 — not yet active)
 
 ## The Other Builder
 
-### Role
-
-Movie 3 antagonist / protagonist counterpart.
-
-### Important Fact
-
-A genuine alternate version of the protagonist, from a timeline where — at his own version of the Ark choice — he refused to let his own Elena decide for herself, and forced a different outcome to save her. Because he overrode her agency, he never became "an Architect"; he remains a **Builder** who curdled into control and optimization. See `08-multiverse-and-quantum-lore.md` for the Builder/Architect distinction.
-
-### Philosophy
-
-Freedom produces unacceptable suffering; a saved Elena was worth any cost.
-
-### Motivation
-
-His unresolved grief-that-never-happened calcified into a belief that uncertainty itself must be eliminated.
-
-### Arc
-
-Grief avoided → control → optimization → confrontation with Mira → release.
+(unchanged from v7 — not yet active)
 
 ## Noah
 
-### Role
+(unchanged from v7 — not yet active)
 
-Movie 4 protagonist.
-
-### Important Fact
-
-No blood connection to The Architect, and not a Builder.
-
-### Traits
-
-ordinary · observant · empathetic · skeptical · adaptable · quietly courageous
-
-### Arc
-
-Citizen → investigator → defender of plural futures → chooses freedom.
-
-## The Teacher
+## The Teacher (deceased, WC16)
 
 ### Role
 
@@ -248,11 +162,11 @@ The Architect's mentor, Era 1–2.
 
 ### Function
 
-Formerly the mage of the same five-person A-rank party as the Architect's Father and Mother. After the party disbands, teaches independently; at the Father's request, takes on the Architect as a student (WC9–10). At WC16, rejoins the reunited party for a defensive operation and dies alongside the Father, Mother, and the Scout, in the all-out defense that saves the Architect from the high-tier Demon.
+Formerly the mage of the same five-person A-rank party as the Architect's Father and Mother. After the party disbands, teaches independently; at the Father's request, takes on the Architect as a student (WC9–10). **Confirmed on-page (Chapter 11):** at WC16, rejoins the reunited party for a defensive operation and dies alongside the Father, Mother, and the Scout, layering a barrier spell (which fails) in the final, unsuccessful attempt to protect the Architect.
 
 ### Rule
 
-Do not let his death read as a cheap fridging beat — it must land as the Architect's own first serious failure (see `45-session-update-wc16-revision-and-worldbuilding.md` §4), not an external tragedy that merely happens to him, and not a loss isolated from the deaths of his parents and the Scout in the same battle.
+His death must not read as a cheap fridging beat — it lands as the Architect's own first serious failure, not an external tragedy that merely happens to him, and not a loss isolated from the deaths of his parents and the Scout in the same battle. **This has now been fully dramatized (Chapter 11), fulfilling this rule.**
 
 ## Protagonist Naming Rule
 
@@ -260,11 +174,11 @@ The protagonist has NO canonical personal name. "The Architect" is a title/epith
 
 ### Reader Projection
 
-The protagonist is intentionally written as a self-insert-compatible first-person character, with a mature interior voice from birth (an adult mind, retained from his prior life). Do not describe him as if he were an unrelated named anime character.
+The protagonist is intentionally written as a self-insert-compatible first-person character, with a mature interior voice from birth. Do not describe him as if he were an unrelated named anime character.
 
 ### Visual Identity
 
-Unchanged from prior canon — keep the protagonist visually projectable; see `30-visual-bible.md` and `33-reader-immersion.md`.
+Unchanged in general structure from prior canon — see `30-visual-bible.md` and `33-reader-immersion.md`. **Exception, new hard rule (v8):** from WC16 onward, visual identity must include the missing left arm.
 
 ## Elena, Iris, Seraphine, Isolde
 

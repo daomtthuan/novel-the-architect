@@ -1,75 +1,79 @@
-# Emotional Memory (v8, World Calendar canon)
+# Emotional Memory (v9, World Calendar canon)
 
 These moments should echo later.
 
-## First Major Loss (WC16, revised v7)
+## First Major Loss (WC16, now fully dramatized — Chapter 11)
 
-The origin point of the Darkest Point. Not merely The Teacher's death — the Architect's tactical miscalculation against a high-tier Demon costs him his Father, Mother, The Teacher, and the Scout in one battle; his father throws him clear at the last moment. Later referenced as the first time the Architect learned that being right about the plan isn't the same as protecting the people he loves.
+The origin point of the Darkest Point, now shown on-page in full. Not merely The Teacher's death — the Architect's tactical miscalculation against a high-tier Demon (misreading a deliberately-baited "weakness") costs him the Scout first, then his Father, Mother, and The Teacher together, all three dying to shield him from the Demon's finishing blow after his own layered defenses (a barrier, a shield) both fail. His father throws him clear at the last moment; his father's body then strikes him, revealing the fatal wound. In desperation, the Architect breaks The Teacher's core rule (never draw Mana from your own body) to unleash a self-designed spell that gravely wounds the Demon — at the cost of his own left arm, permanently lost. Later referenced as the first time the Architect learned that being right about the plan isn't the same as protecting the people he loves. His missing arm should recur, sparingly, as a physical echo of this event across future chapters — not over-explained, but present.
 
 ## Elena and Architect's Major Argument (WC18)
 
-A major emotional rupture during the Architect's Darkest Point. His successful early Magic research and growing obsession with optimization push him further toward treating people and situations as problems to solve. Elena tries to pull him away from that path, but fails, and the two have a major argument. This must be remembered as an earlier fracture in their relationship, not their first or final ideological conflict.
+(unchanged)
 
 ## Elena and Architect's Reconciliation (WC19)
 
-The relationship does not remain broken after the WC18 argument. As Architect's Magic technology begins to emerge and his influence among Mages grows, he and Elena reconcile. Their reconciliation should not erase the WC18 conflict; it establishes that Elena continues choosing to remain beside him and that their bond can survive serious disagreement.
+(unchanged)
 
 ## Elena's "People Are Not Variables" (WC23)
 
-Later referenced as proof that the Architect once needed saving from himself before he could save anyone else.
+(unchanged)
 
 ## Elena's First Genuine Trust
 
-Later referenced as proof that the Architect once lived without control.
+(unchanged)
 
 ## Their First Home
 
-Later becomes symbol of everything lost.
+(unchanged)
 
 ## Wedding (WC24)
 
-Used as emotional contrast against Elena's death. Iris's quiet withdrawal at this event is its own small, permanent emotional beat.
+(unchanged)
 
 ## Isolde's Refused Proposal (WC26)
 
-Establishes, early and cleanly, that the Architect's devotion to Elena is a chosen principle, not just circumstance — this pays off again when he refuses her a second time even with Elena's blessing.
+(unchanged)
 
 ## Seraphine's First Provocation (WC33)
 
-Plays as comedy/jealousy in the moment; recontextualized later as the first thread of her guilt.
+(unchanged)
 
 ## Birth of Son / Elena's Final Choice (WC35)
 
-Must be remembered repeatedly but not overused. The simultaneity of birth and sacrifice is the single most important image in the entire saga — do not separate them into two distinct beats when adapting.
+(unchanged)
 
 ## Empty House
 
-One of the central recurring images.
+(unchanged)
 
 ## Iris and Seraphine Raising the Son Together
 
-A quiet, warm counterweight to the Architect's private grief — should recur as a found-family motif through Movie 1's first half.
+(unchanged)
 
 ## Son Asking Whether Father Would Do It Again
 
-Major Movie 1 emotional landmark.
+(unchanged)
 
 ## Architect's Death (WC82)
 
-The son should remember the physical details rather than only the historical meaning — and this scene must land as the SAME beat as full reconciliation, not a separate later event.
+(unchanged)
 
 ## Mira Seeing Elena's Records
 
-Transforms historical research into personal grief.
+(unchanged)
 
 ## The Other Builder Seeing His Elena
 
-Shows that alternate timelines do not erase primary Elena — and shows what the primary Architect's path did NOT become.
+(unchanged)
 
 ## Noah Seeing Elena's Image
 
-Creates the final cross-generational emotional resonance.
+(unchanged)
 
 ## Final Home
 
-All previous home imagery should converge here.
+(unchanged)
+
+## Elena and Iris's Rescue (WC16, new, Chapter 11)
+
+Elena, sensing an abnormal Mana disturbance from a distance, and Iris, choosing preparation over panic, together organize the rescue party that ultimately finds the Architect — the sole survivor — alive amid the wreckage of First Major Loss. This moment predates any romantic framing but should be understood, in retrospect, as an early proof of how deeply both women's care for him runs. Use sparingly as a callback once the Darkest Point begins to test that care directly.

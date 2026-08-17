@@ -1,4 +1,4 @@
-# Scene Memory (v8, World Calendar canon)
+# Scene Memory (v9, World Calendar canon)
 
 ## Required Permanent Scenes
 
@@ -8,13 +8,13 @@
 - First evidence of unusual aptitude (early childhood).
 - Meeting The Teacher (WC9, at the Father's request) and becoming his student (WC10).
 - Meeting Elena and Iris (WC15).
-- **First Major Loss (WC16, revised v7):** the reunited five-person party's defensive operation against a high-tier Demon; the Architect's tactical misjudgment; Father, Mother, The Teacher, and the Scout all die defending him; his father throws him clear at the last moment; the Guild Master, absent, survives.
+- **First Major Loss (WC16, DRAMATIZED — Chapter 11):** the reunited five-person party defeats minor/mid-tier Demons easily, then a high-tier Demon appears. The Architect misreads a deliberately-baited "weakness" in the Demon's combat pattern; the Scout dies first, exploiting the false opening. Attempting an untested high-tier spell, the Architect is rushed by the Demon; Mother's light-magic shield and the Teacher's layered barrier both fail; the Father shoves the Architect clear at the last instant, and all three — Mother, Father, The Teacher — die together absorbing the Demon's finishing blow. The Father's body strikes the Architect, revealing the fatal wound. In desperation, the Architect channels raw Mana directly through his own body (breaking the WC10 rule against bodily Mana-draining) to unleash a self-designed, Earth-physics-derived energy-compression spell, gravely wounding the Demon (which loses an arm and flees) at the cost of the Architect's own left arm, permanently destroyed by the backlash. He collapses. Elena and Iris, having organized a rescue party via the village elder and the Guild Master, arrive too late to save anyone else, finding only the Architect alive amid the wreckage and a lingering spatial rift.
 - The Darkest Point's low point (~WC22).
 - Elena's "people are not variables" breakthrough (WC23).
 - Proposal / marriage (WC24).
 - Isolde's proposal (from the Empire of Veyrand) and refusal (WC26).
 - First city light.
-- **"The Architect's City" (~WC28–31, new v8):** as the city's reputation spreads, someone — a foreign dignitary is a good candidate — calls it "the Architect's City" in his presence. He visibly dislikes it and deflects, redirecting to what the city is _for_ rather than who built it, without ever formally correcting the name. Plant this quietly; do not over-explain it. Pays off directly at the WC35+ renaming beat below.
+- **"The Architect's City" (~WC28–31):** as before.
 - First major political confrontation.
 - Seraphine's arrival and provocation (WC33).
 - Great War begins (WC35).
@@ -24,53 +24,25 @@
 - Seraphine's defection (WC35).
 - The city is heavily destroyed (WC35).
 - He returns home. Empty house.
-- Seraphine begins visiting; asks to be called "Sera"; he agrees to the name and refuses everything else (early Movie-1-adjacent epilogue beat, may be told as a Season 1 coda or a Movie 1 flashback).
-- **The city is rebuilt and renamed "Elena" (post-war; final stylization RESOLVED, v8 — plain "Elena").** This should read as a deliberate double payoff: memorial to Elena, and his final refusal of the "Architect's City" framing planted earlier.
+- Seraphine begins visiting; asks to be called "Sera"; he agrees to the name and refuses everything else.
+- **The city is rebuilt and renamed "Elena" (post-war; final stylization RESOLVED, v8 — plain "Elena").**
 
 ### Movie 1
 
-- Opening: The Architect's death (framing device, WC82), then flashback structure begins.
-- The Son's early childhood with Iris and Seraphine.
-- First sword lesson with Iris (~WC43).
-- First magic lesson with Seraphine (~WC48).
-- Father-son first ideological friction (~WC56).
-- The Break (WC67).
-- The Son leaves.
-- The Son finds the first Ark records.
-- Elena's Truth revealed to the Son (WC75).
-- Reconciliation (WC79).
-- A short real family period (WC80).
-- Closing: The Architect's death (WC82), converging with full reconciliation — mirrors the opening.
+(unchanged)
 
 ### Movie 2
 
-- Mira enters ancient archive.
-- First impossible record.
-- First evidence of the Quantum Anchor.
-- First explicit mention of "Builders."
-- Observatory encounter.
-- Reality Convergence begins.
+(unchanged)
 
 ### Movie 3
 
-- The Other Builder introduction.
-- First proof he is an alternate self.
-- Alternate Elena encounter.
-- Reveal: he never became "an Architect" because he overrode her choice.
-- Philosophical confrontation with Mira.
-- Final release.
+(unchanged)
 
 ### Movie 4
 
-- Noah's ordinary life.
-- Returnist revelation.
-- Original Timeline discovery.
-- Earth.
-- Ordinary alternate Builder.
-- Elena image.
-- Noah chooses freedom.
-- Final Home.
+(unchanged)
 
 ## Rule
 
-Permanent scenes should not be casually rewritten or contradicted.
+Permanent scenes should not be casually rewritten or contradicted. **First Major Loss is now dramatized and locked as described above — future chapters must remain consistent with these specific details (order of death, cause of the Architect's arm loss, the Demon fleeing rather than dying).**
