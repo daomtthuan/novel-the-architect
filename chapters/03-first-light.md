@@ -14,7 +14,7 @@ Tôi học cách chấp nhận điều đó. Không phải vì tôi muốn, mà 
 
 Mẹ tôi có một cách bế tôi rất đặc trưng — luôn đỡ đầu tôi bằng lòng bàn tay trái, như thể đó là phản xạ đã ăn sâu vào cơ, chứ không phải điều bà học được từ sách vở. Sau này tôi mới biết tại sao: một người từng là healer và enchantress hạng A, người đã đỡ không biết bao nhiêu đứa trẻ sơ sinh trong những chuyến phiêu lưu, trong những ngôi làng nhỏ dọc biên giới, trước khi bà giải nghệ để lấy cha tôi. Bàn tay bà mang mùi thảo dược nhẹ, một thứ mùi tôi sẽ còn nhớ đến tận nhiều thập kỷ sau, ngay cả khi tôi không còn nhớ nổi khuôn mặt bà rõ ràng nữa.
 
-Cha tôi thì khác. Ông ít khi bế tôi lâu — không phải vì ông không muốn, mà vì bàn tay ông, những bàn tay từng cầm kiếm hạng A trong mười mấy năm, dường như luôn sợ mình sẽ làm tôi đau chỉ bằng cách siết chặt hơn cần thiết. Ông thường ngồi cạnh, quan sát tôi từ một khoảng cách vừa đủ, như một người lính canh gác một vật gì đó quý giá hơn cả tính mạng của chính mình.
+Cha tôi thì khác. Ông ít khi bế tôi lâu — không phải vì ông không muốn, mà vì bàn tay ông, những bàn tay từng cầm kiếm hạng A trong mười mấy năm, dường như luôn sợ mình sẽ làm tôi đau chỉ bằng cách siết chặt hơn cần thiết. Ông thường ngồi cạnh, quan sát tôi từ một khoảng cách vừa đủ, như một người chiến binh bảo vệ một vật gì đó quý giá hơn cả tính mạng của chính mình.
 
 Tôi không biết lúc đó liệu cha mẹ tôi có nhận ra điều gì bất thường ở tôi hay không — một đứa bé quá yên lặng, quá... quan sát. Không khóc nhè vô cớ. Ánh mắt dừng lại quá lâu trên những vật thể chuyển động — một ngọn nến, một chiếc lá rơi qua khung cửa sổ, bàn tay của chính mình khi tôi cố học cách điều khiển nó.
 

@@ -40,7 +40,7 @@ Trong bóng tối, một hình hài kì dị bước ra từ trong khoảng tr�
 
 Tôi không có từ ngữ nào chính xác để mô tả nó khi lần đầu nhìn thấy, và ngay cả bây giờ, sau tất cả những năm tháng đã qua, tôi vẫn không chắc chắn rằng mình có thể diễn đạt một cách trọn vẹn được. Nó cao hơn chúng tôi gần gấp đôi, hình dáng gần giống như con người. Nhưng không, cơ thể như bị kéo dài, bị bẻ cong một cách sai lệch ở những nơi mà khớp xương không nên bị bẻ cong theo hướng đó. Da nó đen tuyền, nhưng không phải một màu đen bình thường — đó là một màu đen như nuốt chửng lấy ánh sáng xung quanh, khiến cho không khí xung quanh nó trông rất mờ đục. Không có mắt trên khuôn mặt nó. Chỉ có một đường nứt phát sáng đỏ sẫm, ngang qua nơi lẽ ra phải là đôi mắt, nhấp nháy chậm rãi như một nhịp thở. Thật kinh dị.
 
-Nó không gầm gừ. Nó không hét lên một lời thách thức nào. Nó chỉ đứng đó, nhìn — nếu có thể gọi đó là nhìn — về phía chúng tôi, và tôi cảm thấy có một sự áp lực rất nặng đè lên lồng ngực mình. Áp lực đấy nặng nề đến mức gần như bóp tôi nghẹt thở, dù cho nó còn cách chúng tôi hơn hai mươi mét.
+Nó không gầm gừ. Nó không hét lên một lời thách thức nào. Nó chỉ đứng đó, nhìn — nếu có thể gọi đó là nhìn — về phía chúng tôi, và tôi cảm thấy có một sự áp lực rất nặng đè lên lòng ngực mình. Áp lực đấy nặng nề đến mức gần như bóp tôi nghẹt thở, dù cho nó còn cách chúng tôi hơn hai mươi mét.
 
 "Rút lui," cha tôi nói, giọng ông không còn chút do dự nào của một người đã từng cân nhắc cho việc tiến thêm một đoạn ngắn nữa. "Ngay bây giờ."
 

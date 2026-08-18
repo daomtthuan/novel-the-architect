@@ -66,7 +66,7 @@ Tôi bắt đầu học cách quan sát thay vì hành động. Đó là điều
 
 Tôi quan sát cách ánh sáng trong căn phòng không đến từ nến hay đèn dầu, mà từ những viên đá nhỏ gắn trên tường, phát ra một thứ ánh sáng vàng nhạt, ổn định, không hề nhấp nháy. Sau này tôi mới biết đó là một dạng ứng dụng magic rất sơ khai — ánh sáng được lưu trữ trong đá bằng một loại enchantment đơn giản. Nhưng ngay từ lúc đó, nằm trong nôi, tôi đã tự hỏi: ai đã tạo ra nó? Bằng cách nào? Có quy tắc nào chi phối việc bao nhiêu Mana thì tạo ra bao nhiêu ánh sáng, và ánh sáng đó tồn tại được trong bao lâu?
 
-Tôi quan sát cách Mẹ đôi khi đặt tay lên ngực mình, nhắm mắt, và một luồng năng lượng rất nhỏ lan tỏa quanh bà — một thói quen kiểm tra sức khỏe bản thân, một phản xạ nghề nghiệp còn sót lại từ những năm tháng chiến đấu. Tôi quan sát cách Cha, dù đã "nghỉ hưu", vẫn giữ thanh kiếm treo ngay cạnh cửa, luôn trong tầm với, như một người lính chưa bao giờ thực sự rời khỏi cuộc chiến.
+Tôi quan sát cách Mẹ đôi khi đặt tay lên ngực mình, nhắm mắt, và một luồng năng lượng rất nhỏ lan tỏa quanh bà — một thói quen kiểm tra sức khỏe bản thân, một phản xạ nghề nghiệp còn sót lại từ những năm tháng chiến đấu. Tôi quan sát cách Cha, dù đã "nghỉ hưu", vẫn giữ thanh kiếm treo ngay cạnh cửa, luôn trong tầm với, như một chiến binh chưa bao giờ thực sự rời khỏi cuộc chiến.
 
 Và tôi bắt đầu, chậm rãi, xây dựng lại trong đầu mình một thứ giống như bản đồ.
 
