@@ -77,3 +77,27 @@ End: chooses a future without destiny, and without needing to become a Builder.
 ## The Architect's Father (deceased, WC16)
 
 WC0–15: retired A-rank swordsman, loving father, quiet guardian.
+**WC16 (Chapter 11): dies protecting the Architect — physically shoves him clear of the Demon's finishing blow at the last possible instant, then is killed alongside Mother and The Teacher absorbing that same blow. His body strikes the Architect immediately after, revealing the fatal wound.**
+
+## The Architect's Mother (deceased, WC16)
+
+WC0–15: retired A-rank healer/enchantress, loving mother, quiet guardian; carries the emotional intelligence in the household, the one who first taught the Architect that magic "always has its price."
+**WC16 (Chapter 11): dies shielding the Architect with the strongest light-magic barrier of her life, layered together with The Teacher's barrier — both fail against the Demon's finishing blow. Dies alongside Father and The Teacher in the same instant, absorbing the attack meant for her son.**
+
+## The Teacher (deceased, WC16)
+
+WC9: discovers and accepts the Architect as an exceptional, guarded exception to his refusal to take students.
+WC10–15: formal mentor; establishes the core teaching principle — draw Mana from the environment, never from your own body — and repeatedly warns against untested confidence.
+**WC16 (Chapter 11): rejoins the reunited five-person party for the defensive operation; in the final battle, layers a binding/barrier spell over Mother's shield in a last attempt to protect the Architect. The combined barrier fails. Dies alongside Father and Mother, absorbing the Demon's finishing blow.**
+His own unresolved mysteries — the interrupted remark about "someone who thought this way" (Chapter 4), his sharp, unexplained attentiveness toward Elena (Chapter 7) — are now permanently unresolvable from his own mouth, closed information channels unless another character is later shown to have known something (agent's discretion, not to be invented casually).
+
+## The Scout / Investigator (deceased, WC16)
+
+WC16 (Chapter 9): uncovers the earliest signs of unusual Demon activity in the eastern forest, the discovery that reunites the old party.
+**WC16 (Chapter 11): dies first in the final battle, exploiting a false "weakness" the Architect identified in the Demon's combat pattern — a deliberate bait. Killed by the Demon's previously unused right arm. Her death is the first, direct, undeniable cost of the Architect's overconfidence, occurring before any of the other three deaths.**
+
+## The Guild Master
+
+WC16 (Chapter 9): introduced at Guild headquarters; absent from the WC16 battle by design, remaining behind to coordinate the guild's response.
+**WC16 (Chapter 11): authorizes and dispatches the rescue party that ultimately finds the Architect alive, though not yet shown on-page reacting to the outcome — his direct response to the deaths of his three former party-mates is open for a future chapter.**
+Sole adult survivor of the original five-person party; becomes a recurring political and material support figure for the Architect from WC16 onward, through The Guild.
