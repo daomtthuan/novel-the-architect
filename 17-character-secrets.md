@@ -1,4 +1,4 @@
-# Character Secrets (v6, World Calendar canon)
+# Character Secrets (v7, World Calendar canon)
 
 ## The Architect
 
@@ -11,7 +11,7 @@ He is not simply reincarnated — he is a "Builder," one of many transmigrated c
 ### Secret 2
 
 He blames himself, privately and permanently, for The Teacher's death — and the Darkest Point is the direct result.
-**Known by:** protagonist fully; Elena partially (WC23 onward); the Son eventually (WC75–79).
+**Known by:** protagonist fully; Elena partially (WC23 onward, though she begins to sense something is wrong as early as WC16, Chapter 12); the Son eventually (WC75–79).
 **Reveal:** Season 1 (reader knows in real time); Movie 1 (Son learns).
 
 ### Secret 3
@@ -36,7 +36,7 @@ Her choice to become The Ark's core is fully voluntary.
 
 ### Secret
 
-She has loved the Architect since she was old enough for it to matter, and never once said so. She only expresses it indirectly—through cooking for him, caring for him, offering advice, and checking in on him—especially during the Architect in Darkest time.
+She has loved the Architect since she was old enough for it to matter, and never once said so. She only expresses it indirectly—through cooking for him, caring for him, offering advice, and checking in on him—especially during the Architect in Darkest time. Her caretaking pattern is already visible in its entirely age-appropriate, platonic form as early as WC15–16 (Chapters 8, 11, 12) — mending, sharing food, practical errands, and, at WC16, a rare direct admission that she is deferring her own grief until she is "no longer needed."
 **Reveal:** implied throughout Season 1; stated outright, if ever, only much later and gently (e.g., a single Movie 1 scene where the Son realizes it on his own).
 
 ## Seraphine
@@ -85,3 +85,11 @@ He is not a random alternate villain. He is a genuine version of the same person
 
 He has no predetermined cosmic destiny, and no Builder aptitude at all. This becomes thematically important.
 **Reveal:** progressively in Movie 4.
+
+## The Teacher (deceased, WC16)
+
+### Secret
+
+He had private, personal reasons for refusing to take on new students for years before accepting the Architect (WC9) — reasons connected to "someone who thought this way" (Chapter 4's unfinished remark) and possibly to his sharp, unexplained attentiveness toward Elena (Chapter 7–8).
+**Known by:** The Teacher himself (deceased, WC16); confirmed, but not detailed, to be known by the Guild Master (Chapter 12 — "that is not my story to tell").
+**Reveal:** UNRESOLVED. Permanently unresolvable from The Teacher's own mouth following his death. Whether the Guild Master ever reveals what he knows is entirely open and must not be decided without explicit owner direction. Do not have another character casually explain this away.

@@ -1,4 +1,4 @@
-# Continuity Tracker (v9, World Calendar canon)
+# Continuity Tracker (v10, World Calendar canon)
 
 Updated after every accepted chapter/scene.
 
@@ -152,7 +152,7 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** None significant.
 - **New objects:** Practice stone (minor, non-registry).
 - **New locations:** The Teacher's back-yard training pool — minor extension of the existing "The Teacher's Old Study / Training Ground" entry in `22-location-registry.md`.
-- **Foreshadowing:** The Teacher's line — "overconfidence about one's own limits is the real danger" — direct foreshadowing for WC16 (the Architect's tactical misjudgment against the high-tier Demon) and the entire Darkest Point. **This foreshadowing has now been fully paid off in Chapter 11 — the Architect's WC16 self-inflicted arm loss is the direct, literal consequence of ignoring this exact rule.** Father's line — "understand what you're doing before it hurts someone" — direct echo of the WC16 tragedy.
+- **Foreshadowing:** The Teacher's line — "overconfidence about one's own limits is the real danger" — direct foreshadowing for WC16 (the Architect's tactical misjudgment against the high-tier Demon) and the entire Darkest Point. **This foreshadowing has been fully paid off in Chapter 11 — the Architect's WC16 self-inflicted arm loss is the direct, literal consequence of ignoring this exact rule; Chapter 12 confirms the ongoing practical consequence (one-handed spellcasting no longer works).** Father's line — "understand what you're doing before it hurts someone" — direct echo of the WC16 tragedy.
 - **Secrets revealed:** None.
 - **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way" from Chapter 4) remain open.
 - **Handoff to Chapter 6:** Formal training under The Teacher continues; default next chronological point is later in Era 1 (WC11–14), showing rapid progress and the beginnings of a magic classification system, unless the owner specifies otherwise.
@@ -173,9 +173,9 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** None significant; light establishment of a regional Mage "reputation network."
 - **New objects:** None registry-level; the Architect's research notes are a non-canon-critical precursor to the "Architect's Notebooks" already generically established in `24-artifact-registry.md`.
 - **New locations:** None registry-level; testing occurs at the Teacher's existing training ground.
-- **Foreshadowing:** The Teacher's line — "con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự" — **now fully paid off in Chapter 11: WC16's First Major Loss is exactly the failure this line warned of.** Mother's line — "có những thứ trên đời không có quy luật để tìm ra... chỉ có thể được cảm nhận, được chấp nhận, hoặc được mất đi" — direct thematic seed for Elena's WC23 "people are not variables" breakthrough; still unresolved, intentionally, until WC23.
+- **Foreshadowing:** The Teacher's line — "con chưa từng thực sự thất bại theo cách khiến con phải trả giá thật sự" — **now fully paid off in Chapter 11.** Mother's line — "có những thứ trên đời không có quy luật để tìm ra... chỉ có thể được cảm nhận, được chấp nhận, hoặc được mất đi" — direct thematic seed for Elena's WC23 "people are not variables" breakthrough; still unresolved, intentionally, until WC23.
 - **Secrets revealed:** None.
-- **Unresolved questions:** None new; existing threads (nature of reincarnation, "someone who thought this way," why the Teacher stopped taking students) remain open. The Teacher's uncharacteristic sorrow when delivering his WC14 warning is left open as a minor, non-mystery-board character beat — **now permanently unresolvable from The Teacher himself, following his death in Chapter 11.**
+- **Unresolved questions:** None new; existing threads remain open. The Teacher's uncharacteristic sorrow when delivering his WC14 warning is left open — permanently unresolvable from The Teacher himself, following his death in Chapter 11.
 - **Handoff to Chapter 7:** Default next chronological point is **WC15** — the canonical meeting of Elena and Iris.
 
 ### Chapter 7 — Two Signals in the Noise
@@ -194,7 +194,7 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** None significant.
 - **New objects:** The fair's lantern-golem cart — background detail, non-registry.
 - **New locations:** Village square during the harvest fair — one-time backdrop, non-registry.
-- **Foreshadowing:** The Teacher's warning about how the Eterna experience time differently; The Teacher's unusually sharp attention toward Elena remains open and unexplained — **now permanently unresolvable from The Teacher's own mouth, following his death in Chapter 11.**
+- **Foreshadowing:** The Teacher's warning about how the Eterna experience time differently; The Teacher's unusually sharp attention toward Elena remains open and unexplained — permanently unresolvable from The Teacher's own mouth, following his death in Chapter 11.
 - **Secrets revealed:** None.
 - **Unresolved questions:** None new.
 - **Handoff to Chapter 8:** Default next chronological point continues Era 2 forward from WC15.
@@ -236,9 +236,9 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** The Guild is formally shown as an active organization.
 - **New objects:** Emergency Guild supplies — background detail.
 - **New locations:** Guild headquarters — candidate for `22-location-registry.md`.
-- **Foreshadowing:** Iris's line about not needing a weapon to make observation dangerous — **paid off in Chapter 10 (self-defense) and again, fully, in Chapter 11.** The Architect's "observe only, retreat if danger" promise — **broken decisively and fatally in Chapter 11.**
+- **Foreshadowing:** Iris's line about not needing a weapon to make observation dangerous — paid off in Chapter 10 and again, fully, in Chapter 11. The Architect's "observe only, retreat if danger" promise — broken decisively and fatally in Chapter 11.
 - **Secrets revealed:** None; reveal discipline preserved.
-- **Unresolved questions:** Scout's and Guild Master's personal names remain unassigned (owner's discretion). **The Scout's identity/name is now permanently owner's discretion post-mortem, following her death in Chapter 11.**
+- **Unresolved questions:** Scout's and Guild Master's personal names remain unassigned (owner's discretion). The Scout's identity/name is now permanently owner's discretion post-mortem, following her death in Chapter 11.
 - **Handoff to Chapter 10:** The reunited group departs for the eastern forest.
 
 ### Chapter 10 — What the Wind Carries
@@ -257,7 +257,7 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **World changes:** Further unnamed confirmation of abnormal influence in the eastern forest.
 - **New objects:** The Architect's self-designed lure-binding trap spell — a notable personal technique.
 - **New locations:** None registry-level.
-- **Foreshadowing:** The abnormal coordination of the fire wolves; the party's decision to "advance just a short distance further" — **directly and fatally realized in Chapter 11.** The Architect's pride after breaking his promise — **the final pre-WC16 escalation, now paid off in Chapter 11.**
+- **Foreshadowing:** The abnormal coordination of the fire wolves; the party's decision to "advance just a short distance further" — directly and fatally realized in Chapter 11. The Architect's pride after breaking his promise — the final pre-WC16 escalation, paid off in Chapter 11.
 - **Revealed secrets:** None.
 - **Unresolved questions:** None new.
 - **Handoff to Chapter 11:** The field party advances further into the forest. WC16 — First Major Loss — is now the mandatory next event.
@@ -269,19 +269,40 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 - **POV:** The Architect, first-person; brief village-side cutaway (Elena, Iris, rescue party) narrated within the same first-person retrospective voice, as reconstructed/relayed knowledge
 - **Location:** Site of First Major Loss (deep clearing in the eastern forest); home village (rescue mobilization)
 - **Characters:** The Architect (16), Father (†), Mother (†), The Teacher (†), the Scout/Investigator (†), Elena (24), Iris (13)
-- **Core conflict:** External — a brutal battle against a high-tier Demon after the field party easily clears minor/mid-tier Demons first; internal — total collapse of the Architect's belief in his own analytical certainty, since the very tactical read he was proudest of is what the Demon used to kill his family
-- **Emotional objective:** Deliver the full, earned weight of WC16's First Major Loss — the direct, catastrophic payoff of every overconfidence beat built across Chapters 5–10; establish the concrete origin of the Darkest Point
-- **Plot objective:** Fully dramatize the required permanent scene "First Major Loss" (`20-scene-memory.md`); establish a new permanent physical fact (loss of the Architect's left arm) as the direct consequence of breaking The Teacher's WC10 rule against bodily Mana-channeling; confirm the high-tier Demon is gravely wounded and flees rather than dies, consistent with RESOLVED canon
-- **New facts:** The field party defeats minor/mid-tier Demons easily, creating false confidence. A high-tier Demon appears. The Architect identifies what he believes is a tactical weakness (a hesitation in the Demon's right shoulder before left-arm strikes); this is a deliberate bait. The Scout, repositioning to exploit it alongside Father, is killed by the Demon's previously-unused right arm. In the ensuing chaos, the Architect begins casting an untested, self-designed high-tier spell; the Demon rushes him during the vulnerable casting window. Mother shields him with the strongest light-magic barrier of her life; The Teacher layers a binding/barrier spell on top of it; both fail simultaneously. Father shoves the Architect clear at the last possible instant; Mother, The Teacher, and Father are killed together, absorbing the Demon's finishing blow. Father's body is thrown into the Architect, revealing a fatal wound to the abdomen. In desperation and grief, the Architect channels raw, uncontrolled Mana directly through his own body — breaking the core rule taught since WC10 (Chapter 5) — to unleash a self-designed spell fusing Earth-origin physics concepts (nuclear/quantum energy density) with local Mana structure. The Demon loses an arm and flees, gravely wounded but alive. The spell's backlash permanently destroys the Architect's left arm. He collapses. Meanwhile, Elena and Iris mobilize a rescue party through the village elder and the Guild Master; they arrive too late to save anyone else, finding only the Architect alive amid the wreckage and a lingering spatial rift.
-- **Character changes:** **PERMANENT:** The Architect loses his left arm, WC16 onward. Father, Mother, The Teacher, and the Scout/Investigator are confirmed dead on-page, completing the revised WC16 canon (`45-session-update-wc16-revision-and-worldbuilding.md`). The Architect's core psychological rupture — believing his analysis was correct and still losing everyone — is now the concrete, dramatized origin of the Darkest Point.
-- **Relationship changes:** All four of the Architect's core Era 1–2 relationships (Father, Mother, The Teacher, Scout) end in death. Elena and Iris are the first to find him alive, establishing a new, wordless emotional touchstone that predates any romantic framing and will resonate through the coming Darkest Point.
-- **World changes:** A lingering spatial rift/scar remains at the battle site — candidate detail for `22-location-registry.md`'s existing "Site of First Major Loss" entry. The high-tier Demon flees the region, gravely wounded, beginning its WC16–32 dormancy per RESOLVED canon (never named or connected on-page).
-- **New objects:** The Architect's self-designed energy-compression spell — a significant personal technique/proto-technology, direct precursor to later Ark development; not yet a registry-level artifact.
-- **New locations:** None registry-level beyond the specific detail added to the existing Site of First Major Loss entry.
-- **Foreshadowing:** The Architect's closing interior question ("I found its weakness. I was right. So why did all of them die?") is the direct, unresolved seed of the LOCKED line "If I had modeled one more variable, he would still be alive" (`46-iconic-dialogue-registry.md` §1.3) — deliberately withheld in full for a future chapter. The self-designed energy-compression spell is a direct technical seed for the Ark (`07-magic-and-technology.md`).
-- **Revealed secrets:** None; the high-tier Demon's identity/name/connection to WC33–35 remains entirely unstated, per reveal discipline.
-- **Unresolved questions:** The Teacher's unresolved mysteries (Chapters 4, 6, 7, 8) are now permanently unresolvable from The Teacher himself, following his death — agent's discretion on any alternate resolution path in future chapters, if ever. How the Architect's arm loss is processed emotionally by Elena, Iris, and the wider community is newly open for the next chapter.
-- **Handoff to Chapter 12:** The Architect is unconscious, gravely injured, sole survivor. The next chapter must handle the immediate aftermath — regaining consciousness, confirming the full scope of loss, physical recovery, funeral/memorial rites, the Guild Master's reaction, and the earliest visible tremors of Darkest Point ideology. WC16's First Major Loss is now fully resolved on-page and must not be re-staged or contradicted.
+- **Core conflict:** External — a brutal battle against a high-tier Demon after the field party easily clears minor/mid-tier Demons first; internal — total collapse of the Architect's belief in his own analytical certainty
+- **Emotional objective:** Deliver the full, earned weight of WC16's First Major Loss; establish the concrete origin of the Darkest Point
+- **Plot objective:** Fully dramatize the required permanent scene "First Major Loss" (`20-scene-memory.md`); establish a new permanent physical fact (loss of the Architect's left arm); confirm the high-tier Demon is gravely wounded and flees rather than dies
+- **New facts:** The field party defeats minor/mid-tier Demons easily, creating false confidence. A high-tier Demon appears. The Architect identifies what he believes is a tactical weakness; this is a deliberate bait. The Scout is killed exploiting it. In the ensuing chaos, the Architect begins casting an untested spell; the Demon rushes him. Mother's barrier and The Teacher's layered barrier both fail. Father shoves the Architect clear at the last possible instant; Mother, The Teacher, and Father are killed together. In desperation, the Architect channels raw Mana directly through his own body, permanently destroying his left arm, and gravely wounds the Demon, which flees. Elena and Iris's rescue party arrives too late to save anyone else, finding only the Architect alive.
+- **Character changes:** **PERMANENT:** The Architect loses his left arm, WC16 onward. Father, Mother, The Teacher, and the Scout/Investigator are confirmed dead on-page.
+- **Relationship changes:** All four of the Architect's core Era 1–2 relationships (Father, Mother, The Teacher, Scout) end in death. Elena and Iris are the first to find him alive.
+- **World changes:** A lingering spatial rift/scar remains at the battle site. The high-tier Demon flees the region, gravely wounded, beginning its WC16–32 dormancy.
+- **New objects:** The Architect's self-designed energy-compression spell — direct precursor to later Ark development.
+- **New locations:** None registry-level beyond the existing Site of First Major Loss entry.
+- **Foreshadowing:** The Architect's closing interior question is the direct seed of the LOCKED line "If I had modeled one more variable, he would still be alive" — deliberately withheld.
+- **Revealed secrets:** None; the high-tier Demon's identity remains entirely unstated.
+- **Unresolved questions:** The Teacher's unresolved mysteries are now permanently unresolvable from The Teacher himself. How the Architect's arm loss is processed emotionally by Elena, Iris, and the wider community is newly open.
+- **Handoff to Chapter 12:** The Architect is unconscious, gravely injured, sole survivor. The next chapter must handle the immediate aftermath.
+
+### Chapter 12 — What Remains
+
+- **Installment:** Season 1 — The Architect
+- **WC:** WC16 (immediate aftermath of First Major Loss — waking, funeral, first days)
+- **POV:** The Architect, first-person
+- **Location:** Family home; village cemetery (under an old oak tree); The Teacher's abandoned house
+- **Characters:** The Architect (16), Elena (24), Iris (13), The Guild Master
+- **Core conflict:** Internal — physical loss (missing arm) arriving before emotional loss can be processed, and then the emotional loss being processed through calculation rather than grief; external — the community's collective mourning, and the practical adjustments of daily life with one arm
+- **Emotional objective:** Dramatize the direct emotional aftermath of Chapter 11 in full — waking, the funeral, the quiet caretaking of Elena and Iris — while planting a clear, deliberate seed for the Darkest Point via the Architect's shift toward calculation instead of grief
+- **Plot objective:** Cover: waking after six days unconscious; first meeting with Elena (who has been caring for him and moves into his home); the funeral of Father, Mother, and The Teacher (three graves; the Scout buried separately in her hometown) with village/community attendance; a conversation with the Guild Master (light-touch — future support + memories of the old party + confirmation, without revelation, of The Teacher's reasons for refusing students); Iris's indirect caretaking and brief admission of grief; recovery of Father's sword and The Teacher's unfinished notebook; the Architect's first attempt at one-handed spellcasting; and the closing seed of the Darkest Point via his private internal vow
+- **New facts:** Elena cared for the unconscious Architect for six days and then moved temporarily into his home; the Scout is buried in her own hometown, not among the three village graves; the Guild Master reveals he was the only one of the original five who continued adventuring after the others retired, and confirms (without detailing) that The Teacher had private reasons for refusing students for years; the Architect's established two-handed Mana-channeling technique no longer functions with one arm; Father's sword and The Teacher's unfinished research notebook are recovered.
+- **Character changes:** The Architect exhibits, for the first time on-page, the defense mechanism (calculation instead of grief) that becomes the Darkest Point; this is directly named and challenged by Elena.
+- **Relationship changes:** Elena moves temporarily into the Architect's home — a major, explicitly non-romantic caretaking milestone. Iris deepens her established indirect-caretaking pattern and, for the first time, briefly voices her own grief. The Guild Master becomes an ongoing support figure and partial (deliberately incomplete) source of information about the old party and The Teacher.
+- **World changes:** The village cemetery, under an old oak tree, is newly established as the burial site of Father, Mother, and The Teacher.
+- **New objects:** Father's sword; The Teacher's unfinished research notebook.
+- **New locations:** Village cemetery (under an old oak tree) — new, candidate for future registry entry.
+- **Foreshadowing:** The Architect's closing private vow ("if I understand enough, I will never lose anyone again") is the direct, explicit seed of the Darkest Point ideology. Elena's line "not everything can be calculated away" is a direct thematic precursor to her later LOCKED line "You can't fix everything." Phantom-limb pain is introduced as a recurring motif tied to emotional rather than purely physical significance.
+- **Revealed secrets:** None; the Guild Master explicitly withholds The Teacher's private reasons for refusing students.
+- **Unresolved questions:** The Teacher's reasons for refusing students remain unresolved, now confirmed to be known by the Guild Master but deliberately withheld. The contents/significance of The Teacher's unfinished notebook remain unexplored. The duration of Elena's stay in the Architect's home is open.
+- **Handoff to Chapter 13:** The Architect begins the earliest phase of the Darkest Point — likely showing his first attempts to return to research/magic as a coping mechanism, and the beginning of emotional distance from those around him, even as Elena continues living in his home and Iris continues her quiet caretaking.
 
 ---
 
@@ -295,7 +316,7 @@ chapter number · installment · WC year/range · location · POV · characters 
 
 Track: age (computed via the Aging Rate System, not raw WC — see `00-story-bible.md`); physical condition; emotional state; current goal; current belief; relationship state.
 
-**Post-Chapter-11 note:** The Architect's physical condition now includes a permanent hard-canon fact — missing left arm, WC16 onward — that must be tracked in every future Character State entry for him.
+**Post-Chapter-12 note:** The Architect's emotional state now includes the first tracked instance of "calculation instead of grief" as an active coping pattern — this should be tracked and referenced in future Character State entries as it escalates toward the full Darkest Point.
 
 ## World State
 

@@ -1,4 +1,4 @@
-# Artifact Registry (v6, World Calendar canon)
+# Artifact Registry (v7, World Calendar canon)
 
 ## The Ark
 
@@ -20,7 +20,15 @@ Objects retained by family — jewelry, letters, clothing, magical images, house
 
 ## The Teacher's Relic
 
-A personal item of The Teacher's, kept by the Architect after WC16 — new artifact, first mention. Functions as a private reminder of his first great failure. Not to be confused with any Elena-associated object.
+A personal item of The Teacher's, kept by the Architect after WC16 — new artifact, first mention. Functions as a private reminder of his first great failure. Not to be confused with any Elena-associated object, and distinct from The Teacher's Unfinished Research Notebook below.
+
+## Father's Sword (new, v9)
+
+A plain, well-kept blade the Architect's Father kept within reach by the door out of old soldier's habit, even years after retirement. Recovered by the Architect after WC16 (Chapter 12). No magical properties established; purely an emotional artifact tied to Father's quiet, watchful nature. Use sparingly as a grief anchor in future chapters; do not turn it into a plot-solving weapon without establishing new origin/function/cost.
+
+## The Teacher's Unfinished Research Notebook (new, v9)
+
+Dense, heavily corrected handwritten research notes belonging to The Teacher, found by the Architect at The Teacher's abandoned house (Chapter 12), cut off mid-sentence at the final entry — implying it was interrupted by his departure for the WC16 battle. Distinct from "The Teacher's Relic" above (a personal item kept as a private reminder, not a research document). This notebook's exact contents remain unread/unexplored on-page as of Chapter 12; it is a strong candidate for future development — potentially connected to The Teacher's own half-finished theories about "others like" the Architect (`11-foreshadowing-and-revelations.md`) or to his unresolved personal secrets (`17-character-secrets.md`). Do not resolve its contents without deliberate narrative planning; premature resolution risks collapsing multiple open mysteries at once.
 
 ## Observatory Artifacts
 
