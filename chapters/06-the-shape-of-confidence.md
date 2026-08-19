@@ -24,7 +24,7 @@ Ba đứa trẻ kia nhìn tôi với những ánh mắt tôi sẽ còn gặp l�
 
 Vị giáo sư không trả lời ngay. Ông nhìn tôi một lúc lâu, rồi nhìn Người Thầy, và tôi thấy giữa hai người họ trao đổi một ánh mắt mà tôi không hiểu hết ý nghĩa vào lúc đó.
 
-"Thiên phú không công bằng," vị giáo sư nói cuối cùng, không phải với tôi, mà như thể đang nói với chính học viên của mình. "Nhưng nó cũng không phải là tất cả. Hãy nhớ điều đó."
+"Thiên phú không công bằng," cuối cùng thì vị giáo sư cũng nói, không phải với tôi, mà như thể đang nói với chính học viên của mình. "Nhưng nó cũng không phải là tất cả. Hãy nhớ điều đó."
 
 Tôi không nói gì. Tôi đã học được, từ rất sớm, rằng có những chiến thắng tốt hơn nên giữ im lặng.
 
@@ -62,7 +62,7 @@ Tôi mang phát hiện đó đến Người Thầy, hào hứng đến mức qu�
 
 Ông đọc những ghi chú của tôi rất lâu, im lặng, khuôn mặt không biểu lộ gì.
 
-"Đây là nghiên cứu thật," ông nói cuối cùng — không phải một câu khen, mà một sự thừa nhận, điều mà với ông có trọng lượng hơn nhiều so với lời khen. "Không hoàn hảo. Con thiếu công cụ đo lường chính xác, và một số kết luận của con đi hơi quá xa so với dữ liệu con thực sự có. Nhưng đây là cách nghiên cứu thật sự vận hành."
+"Đây là nghiên cứu thật," rồi ông nói — không phải một câu khen, mà một sự thừa nhận, điều mà với ông có trọng lượng hơn nhiều so với lời khen. "Không hoàn hảo. Con thiếu công cụ đo lường chính xác, và một số kết luận của con đi hơi quá xa so với dữ liệu con thực sự có. Nhưng đây là cách nghiên cứu thật sự vận hành."
 
 Ông đưa những trang giấy lại cho tôi, rồi nói thêm, gần như là một lời cảnh báo được cài giấu trong một câu khen: "Hãy nhớ cảm giác này. Cảm giác tìm ra một điều gì đó thật, bằng chính công sức của con. Đó là cảm giác con nên tin tưởng. Không phải cảm giác con giỏi hơn người khác."
 

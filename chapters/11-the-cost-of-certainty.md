@@ -20,7 +20,7 @@ Nhưng mà... trong khoảnh khắc đó, tôi cảm thấy một điều gì đ
 
 _Chỉ có vậy thôi sao?_
 
-Cha tôi và người trinh sát xử lý ba con đầu tiên trong chưa đầy mười giây — những nhát chém và những mũi dao chính xác, sản phẩm của hàng chục năm kinh nghiệm không hề bị mai một dù cho đã rời xa chiến trường. Mẹ tôi dựng một vòng khiên ánh sáng quanh mình và Người Thầy, chặn đứng một đợt tấn công phối hợp từ hai hướng. Người Thầy, đứng cạnh tôi, dệt một cấu trúc băng giá đóng băng chân hai con Demon còn lại tại chỗ, đủ lâu để cha tôi quay lại kết liễu chúng.
+Cha tôi và người trinh sát xử lý ba con đầu tiên trong chưa đầy mười giây — những nhát chém và những mũi dao chính xác, sản phẩm của hàng chục năm kinh nghiệm không hề bị mai một dù cho đã rời xa chiến trường. Mẹ tôi dựng một vòng khiên ánh sáng quanh mình và Người Thầy, chặn đứng một đợt tấn công phối hợp từ hai hướng. Người Thầy, đứng cạnh tôi, dựng một cấu trúc băng giá đóng băng chân hai con Demon còn lại tại chỗ, đủ lâu để cha tôi quay lại kết liễu chúng.
 
 Toàn bộ trận chiến — nếu có thể gọi nó là một trận chiến — kết thúc trong chưa đầy một phút.
 
@@ -96,7 +96,7 @@ Mọi thứ sau đó, vụn vỡ và hỗn loạn.
 
 Cha tôi, thấy đồng đội ngã xuống, không hề do dự — ông lao thẳng vào, gầm lên một tiếng tôi chưa từng nghe thấy bao giờ, một âm thanh không còn là sự kỷ luật trong chiến trận nữa mà là đau đớn thuần túy được chuyển hóa thành bạo lực. Lưỡi kiếm ông chém liên tiếp, nhanh đến mức tôi khó lòng theo kịp bằng mắt thường, nhưng con quái vật né tránh, đỡ từng đường kiếm với một sự thản nhiên gần như khinh thường.
 
-Người Thầy bỏ tôi lại phía sau gốc cây — dù chỉ trong tích tắc, tôi nhìn thấy sự giằng xé trên khuôn mặt ông, theo lệnh của cha tôi bảo ông phải giữ cho tôi an toàn, và bản năng của một người không thể đứng nhìn đồng đội mình chết mà không hành động gì. Và rồi ông đã chọn hành động. Ông dệt một cấu trúc phong ấn phức tạp hơn bất cứ thứ gì tôi từng thấy ông làm, cố gắng trói chặt con quái vật tại chỗ.
+Người Thầy bỏ tôi lại phía sau gốc cây — dù chỉ trong tích tắc, tôi nhìn thấy sự giằng xé trên khuôn mặt ông, theo lệnh của cha tôi bảo ông phải giữ cho tôi an toàn, và bản năng của một người không thể đứng nhìn đồng đội mình chết mà không hành động gì. Và rồi ông đã chọn hành động. Ông dựng một cấu trúc phong ấn phức tạp hơn bất cứ thứ gì tôi từng thấy ông làm, cố gắng trói chặt con quái vật tại chỗ.
 
 Nó giữ được, nhưng chỉ trong ba giây.
 
@@ -130,9 +130,9 @@ Tôi không nên tin điều đó. Nhưng tôi đã tin.
 
 "KHÔNG!" Người Thầy hét lên, cố gắng lết về phía tôi dù cơ thể ông vẫn còn choáng váng vì cú va đập. "Con chưa từng thử nó! Con không biết cái giá của nó sẽ là gì!"
 
-Nhưng tôi đã bắt đầu. Và một phép thuật ở cấp độ này, một khi đã bắt đầu dệt cấu trúc, không thể dừng lại giữa chừng mà không để lại hậu quả mà nguy hiểm hơn cả việc hoàn thành nó.
+Nhưng tôi đã bắt đầu. Và một phép thuật ở cấp độ này, một khi đã bắt đầu dựng cấu trúc, không thể dừng lại giữa chừng mà không để lại hậu quả mà nguy hiểm hơn cả việc hoàn thành nó.
 
-Tôi đứng đó, cả cơ thể căng cứng, với tập trung tuyệt đối vào việc dệt từng lớp Mana chồng lên nhau, tôi hoàn toàn sơ hở, hoàn toàn dễ bị tổn thương.
+Tôi đứng đó, cả cơ thể căng cứng, với tập trung tuyệt đối vào việc dựng từng lớp Mana chồng lên nhau, tôi hoàn toàn sơ hở, hoàn toàn dễ bị tổn thương.
 
 Con quái vật đó quay đầu lại nhìn tôi.
 
@@ -200,7 +200,7 @@ Tôi không còn tính toán nữa. Tôi không còn cố gắng tìm kiếm quy
 
 Trong tôi, chỉ còn lại một khoảng trống lớn, và bên trong khoảng trống đó, một thứ gì đó đang gào thét nhưng không thành tiếng.
 
-Cấu trúc phép thuật tôi đã bắt đầu dệt — cái cấu trúc dang dở đã khiến cho cha mẹ tôi và Người Thầy phải hy sinh để bảo vệ — vẫn còn đó, sắp hoàn thành, treo lơ lửng trong không khí quanh tôi như một lời hứa bắt buộc tôi phải giữ.
+Cấu trúc phép thuật tôi dựng lên vẫn còn đó — cái cấu trúc dang dở đấy đã khiến cho cha mẹ tôi và Người Thầy phải hy sinh để bảo vệ tôi — nó vẫn còn đó, sắp hoàn thành, treo lơ lửng trong không khí quanh tôi như một lời hứa bắt buộc tôi phải giữ.
 
 Nhưng nó không đủ. Tôi biết thừa nó không đủ. Nó chưa bao giờ thật sự là đủ để đối phó với một sinh vật như thế này.
 

@@ -86,7 +86,7 @@ Tôi khựng lại. Đó là một khái niệm từ cuộc đời trước củ
 
 Người Thầy im lặng nhìn tôi một lúc lâu, đôi mắt ông hẹp lại theo một cách khiến tôi cảm thấy như bị lột trần trước một chiếc máy dò dối trá vô hình nào đó.
 
-"Đó không phải là một kết luận một đứa trẻ chín tuổi tự nghĩ ra bằng trực giác," ông nói cuối cùng, giọng chậm rãi. "Đó là một kết luận người ta đi đến sau khi đã kiểm chứng nó hàng trăm lần, hoặc..."
+"Đó không phải là một kết luận một đứa trẻ chín tuổi tự nghĩ ra bằng trực giác," ông nói, giọng chậm rãi. "Đó là một kết luận người ta đi đến sau khi đã kiểm chứng nó hàng trăm lần, hoặc..."
 
 Ông không nói hết câu.
 
@@ -122,7 +122,7 @@ Tôi gật đầu, dù tôi không hoàn toàn hiểu ông đang ám chỉ đi�
 
 Trên đường về, cha tôi im lặng phần lớn thời gian, tay ông đặt trên vai tôi theo một cách chắc chắn, ổn định, như thể ông đang cố truyền một điều gì đó qua cái chạm ấy mà lời nói không thể diễn tả được.
 
-"Ông ấy là người tốt," cha tôi nói cuối cùng, khi ngôi làng đã hiện ra phía trước, những đốm sáng vàng nhạt của các viên đá mana bắt đầu thắp lên trong bóng tối chạng vạng. "Dù ông ấy không thể hiện điều đó dễ dàng."
+"Ông ấy là người tốt," một lúc lâu cha tôi nói, khi ngôi làng đã hiện ra phía trước, những đốm sáng vàng nhạt của các viên đá mana bắt đầu thắp lên trong bóng tối chạng vạng. "Dù ông ấy không thể hiện điều đó dễ dàng."
 
 "Cha quen ông ấy lâu chưa?" tôi hỏi.
 

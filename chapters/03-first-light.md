@@ -174,7 +174,7 @@ Cuối năm đó, khi tôi tám tuổi, có một buổi chiều cha tôi dẫn 
 
 Chúng tôi không vào trong. Cha tôi chỉ đứng đó, nhìn về phía căn nhà một lúc lâu, như đang cân nhắc điều gì đó.
 
-"Đây là nhà của người cha vừa kể cho con nghe," ông nói cuối cùng, giọng nhẹ nhàng nhưng nghiêm túc theo một cách tôi ít khi thấy ở ông. "Cha chưa quyết định. Nhưng cha muốn con nhìn thấy nó trước."
+"Đây là nhà của người cha vừa kể cho con nghe," cuối cùng ông cũng nói, giọng nhẹ nhàng nhưng nghiêm túc theo một cách tôi ít khi thấy ở ông. "Cha chưa quyết định. Nhưng cha muốn con nhìn thấy nó trước."
 
 Tôi đứng đó, một đứa trẻ tám tuổi, nhìn về phía căn nhà nhỏ giữa những rặng cây, và tôi cảm thấy một điều gì đó mà tôi không có từ ngữ chính xác để mô tả vào lúc ấy — một cảm giác vừa hồi hộp, vừa như thể mình đang đứng trước ngưỡng cửa của một điều gì đó sẽ định hình toàn bộ phần đời còn lại.
 

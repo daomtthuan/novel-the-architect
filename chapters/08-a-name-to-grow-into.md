@@ -82,7 +82,7 @@ Có một buổi chiều, Elena dẫn tôi và Iris ra một cái hồ nhỏ ngo
 
 Elena im lặng một lúc, và trong khoảnh khắc đó tôi nhận ra đây không phải một câu hỏi cô coi nhẹ, dù tôi hỏi nó một cách khá tình cờ.
 
-"Những người thực sự nhìn thấy tôi, thay vì chỉ nhìn thấy tuổi tác của tôi," cô nói cuối cùng. "Người ta hay đối xử với người Eterna như thể chúng tôi là một cuốn sách lịch sử biết đi — hỏi chúng tôi đã thấy gì, đã sống qua những gì, thay vì hỏi chúng tôi đang nghĩ gì và cảm thấy gì ngay lúc này. Và sau một khoảng thời gian, điều đó khiến cho tôi cảm thấy mình chỉ còn là quá khứ của chính mình."
+"Những người thực sự nhìn thấy tôi, thay vì chỉ nhìn thấy tuổi tác của tôi," cô nói. "Người ta hay đối xử với người Eterna như thể chúng tôi là một cuốn sách lịch sử biết đi — hỏi chúng tôi đã thấy gì, đã sống qua những gì, thay vì hỏi chúng tôi đang nghĩ gì và cảm thấy gì ngay lúc này. Và sau một khoảng thời gian, điều đó khiến cho tôi cảm thấy mình chỉ còn là quá khứ của chính mình."
 
 Tôi nghĩ về điều đó lâu hơn tôi tưởng mình sẽ nghĩ. Có một sự cộng hưởng rất kỳ lạ trong câu nói của cô — tôi, theo một cách khác, cũng mang một quá khứ mà không ai xung quanh biết đến, một quá khứ khiến tôi luôn cảm thấy mình đang diễn một vai không hoàn toàn khớp với cơ thể mình đang mang.
 

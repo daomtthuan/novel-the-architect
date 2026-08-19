@@ -156,7 +156,7 @@ Nhưng nó không trào ra. Nó chỉ ở đó, nặng nề, không tìm đượ
 
 Buổi tối muộn hôm đó, tôi thử niệm một phép thuật đơn giản — chỉ là làm ấm một viên đá nhỏ, một bài tập tôi đã học từ Người Thầy từ những năm đầu tiên.
 
-Tôi ngồi ở bàn ăn, viên đá đặt trước mặt, và bắt đầu, theo phản xạ đã ăn sâu qua nhiều năm, đưa cả hai tay lên để dệt cấu trúc dẫn hướng Mana.
+Tôi ngồi ở bàn ăn, viên đá đặt trước mặt, và bắt đầu, theo phản xạ đã ăn sâu qua nhiều năm, đưa cả hai tay lên để dựng một cấu trúc dẫn hướng Mana.
 
 Nhưng chỉ một tay nhấc lên khỏi mặt bàn.
 
@@ -170,7 +170,7 @@ Nó thành công. Nhưng nó không giống như trước nữa. Và tôi ngồi
 
 Elena tìm thấy tôi ở đó, ngồi một mình trong bóng tối cùng viên đá. Cô không nói gì lúc đầu. Cô chỉ kéo một chiếc ghế lại, ngồi xuống đối diện tôi, và chờ đợi — một sự kiên nhẫn mà tôi sau nhiều năm sau mới học được cách trân trọng nó, khi mà tôi hiểu rằng, sẽ có bao nhiêu người sẽ cố lấp đầy sự im lặng bằng những lời an ủi sáo rỗng, và sẽ có bao nhiêu người thực sự biết cách chỉ đơn giản là ở đó.
 
-"Chị không thể chữa được nó," cô nói cuối cùng, giọng cô nhẹ nhàng, không hề giả tạo. "Cánh tay em, chị ước gì chị có thể. Nhưng chị không thể."
+"Chị không thể chữa được nó," cô im lặng một lúc lâu rồi cất tiếng, giọng cô nhẹ nhàng, không hề giả tạo. "Cánh tay em, chị ước gì chị có thể. Nhưng chị không thể."
 
 "Con biết," tôi đáp, và lần đầu tiên, tôi nghe thấy chính mình sử dụng từ "con" một cách vô thức, không sửa lại như mọi khi — một dấu hiệu nhỏ, có lẽ chỉ mình tôi nhận ra, việc tôi đang dần nhận ra trong tâm trí mình đang thu mình lại thành một đứa trẻ cần được che chở hơn là một người tự tin về khả năng phân tích của chính mình.
 
