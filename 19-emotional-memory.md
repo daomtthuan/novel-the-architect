@@ -1,14 +1,14 @@
-# Emotional Memory (v10, World Calendar canon)
+# Emotional Memory (v11, World Calendar canon)
 
 These moments should echo later.
 
 ## First Major Loss (WC16, now fully dramatized — Chapter 11)
 
-The origin point of the Darkest Point, now shown on-page in full. Not merely The Teacher's death — the Architect's tactical miscalculation against a high-tier Demon (misreading a deliberately-baited "weakness") costs him the Scout first, then his Father, Mother, and The Teacher together, all three dying to shield him from the Demon's finishing blow after his own layered defenses (a barrier, a shield) both fail. His father throws him clear at the last moment; his father's body then strikes him, revealing the fatal wound. In desperation, the Architect breaks The Teacher's core rule (never draw Mana from your own body) to unleash a self-designed spell that gravely wounds the Demon — at the cost of his own left arm, permanently lost. Later referenced as the first time the Architect learned that being right about the plan isn't the same as protecting the people he loves. His missing arm should recur, sparingly, as a physical echo of this event across future chapters — not over-explained, but present.
+The origin point of the Darkest Point, now shown on-page in full. Not merely The Teacher's death — the Architect's tactical miscalculation against a high-tier Demon costs him the Scout first, then his Father, Mother, and The Teacher together, all three dying to shield him from the Demon's finishing blow after his own layered defenses both fail. His father throws him clear at the last moment; his father's body then strikes him, revealing the fatal wound. In desperation, the Architect breaks The Teacher's core rule to unleash a self-designed spell that gravely wounds the Demon — at the cost of his own left arm, permanently lost. His missing arm should recur, sparingly, as a physical echo of this event across future chapters — not over-explained, but present.
 
 ## Elena and Architect's Major Argument (WC18)
 
-(unchanged)
+(unchanged — see `42-romance-continuity-memory.md` for the seed already established in Chapter 13's direct confrontation)
 
 ## Elena and Architect's Reconciliation (WC19)
 
@@ -76,18 +76,24 @@ The origin point of the Darkest Point, now shown on-page in full. Not merely The
 
 ## Elena and Iris's Rescue (WC16, Chapter 11)
 
-Elena, sensing an abnormal Mana disturbance from a distance, and Iris, choosing preparation over panic, together organize the rescue party that ultimately finds the Architect — the sole survivor — alive amid the wreckage of First Major Loss. This moment predates any romantic framing but should be understood, in retrospect, as an early proof of how deeply both women's care for him runs. Use sparingly as a callback once the Darkest Point begins to test that care directly.
+(unchanged)
 
-## Funeral and First Crack (WC16, new, Chapter 12)
+## Funeral and First Crack (WC16, Chapter 12)
 
-Three graves — Father, Mother, The Teacher — under an old oak at the village edge (the Scout is buried in her hometown, per her own prior wishes). The Architect does not cry; instead, standing before the graves, he privately begins calculating what he could have done differently — the first visible sign of the defense mechanism that will define the Darkest Point. Elena directly names this shift ("cậu chỉ... tính toán") and warns him, gently, that "not everything can be calculated away" — a direct thematic precursor to her later LOCKED line "You can't fix everything." Use this scene as an early, quiet counterpoint when that line is eventually spoken in full at its designated moment; do not let the echo feel repetitive by over-referencing it in the intervening chapters.
+(unchanged)
 
-Phantom-limb pain is introduced here as a recurring motif — physical pain from the missing arm that consistently surfaces alongside or just before emotional pain, never purely medical in framing. Use sparingly across future chapters as an involuntary trigger for grief he can't otherwise access directly. Do not turn it into a mechanical device that fires in every chapter; reserve it for moments of genuine emotional significance.
+## Elena Moves In (WC16, Chapter 12)
 
-## Elena Moves In (WC16, new, Chapter 12)
+(unchanged)
 
-After caring for the unconscious Architect for six days, Elena moves temporarily into his home to continue his recovery — a decision she makes firmly, over his protest. This is explicitly non-romantic caretaking, grounded in the WC15 friendship foundation (Chapter 8) and her growing concern (Chapter 10). It should be remembered later as the earliest concrete instance of Elena choosing to stay close to him through his worst period — directly relevant once the Darkest Point (WC16–23) tests that closeness far more severely.
+## Iris's Deferred Grief (WC16, Chapter 12)
 
-## Iris's Deferred Grief (WC16, new, Chapter 12)
+(unchanged)
 
-When directly asked whether she is also grieving, Iris admits it briefly and plainly — "họ tốt với em" — before stating she will allow herself to grieve only "sau, khi anh không cần em nữa." This establishes a durable emotional pattern: Iris consistently defers her own needs behind the Architect's, expressed through action rather than words. Should recur, sparingly, as her arc develops toward WC21+.
+## The Systematized Withdrawal (WC17, new, Chapter 13)
+
+One year after First Major Loss, the "first crack" from Chapter 12 has become a sustained pattern: the Architect skips meals, gives curt answers, and isolates himself in his research space for long stretches, channeling grief almost entirely into technical work — the development of a near-instant-cast spellcasting technique and the earliest conceptual seed of an externalized Mana pathway (unnamed Ark-precursor). Elena directly confronts him about this, explicitly distinguishing between "a moment" and "a pattern," and referencing her own Chapter 12 warning. This scene is the direct emotional bridge to the WC18 major argument. Iris, separately, quietly registers the same withdrawal through her own caretaking routine (bringing food that goes untouched, noticing his self-isolation) without directly confronting him about it — establishing a contrast between Elena's growing willingness to challenge him openly and Iris's continued preference for indirect, action-based care. Use this scene as an early escalation beat; do not let it resolve the Darkest Point prematurely — it should read as tension building, not tension released.
+
+## Registering Alone (WC17, new, Chapter 13)
+
+The Architect formally registers as an independent Guild adventurer specifically so that no one else will ever again be positioned to die protecting him. The Guild Master accepts this without argument but voices quiet, unresolved concern. This moment should be remembered later as an early expression of the same impulse — controlling risk by eliminating dependence on others — that fully calcifies into the Darkest Point's "people as variables" thinking by WC22.
