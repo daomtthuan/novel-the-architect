@@ -1,4 +1,4 @@
-# Agent Memory (v19, World Calendar canon)
+# Agent Memory (v20, World Calendar canon)
 
 ## Purpose
 
@@ -14,13 +14,13 @@ After every accepted chapter, update this file.
 
 ---
 
-## WORKING STATE — AFTER CHAPTER 15
+## WORKING STATE — AFTER CHAPTER 16
 
 CURRENT INSTALLMENT: Season 1 — The Architect
-CURRENT ARC: Era 2 — The Darkest Point (early recovery phase; reconciliation in progress)
-CURRENT CHAPTER: Chapter 15 — Keeping Time
+CURRENT ARC: Era 2 — The Darkest Point (early recovery phase; reconciliation deepening but not complete)
+CURRENT CHAPTER: Chapter 16 — Where I Want to Stay
 CURRENT WC YEAR: WC19
-CURRENT LOCATION: Architect's family home; Guild HQ; village market; The Teacher's abandoned house; village cemetery; Elena's temporary lodging
+CURRENT LOCATION: Village market; roadside food stall; hillside overlooking the valley; Elena's temporary lodging
 CURRENT POV: The Architect (first-person)
 
 ### Canonical chapter sequence so far
@@ -29,9 +29,10 @@ CURRENT POV: The Architect (first-person)
 |---|---:|---|---|
 | Chapters 1–13 | WC0–17 | (various) | See prior memory versions |
 | Chapter 14 — What Cannot Be Optimized | WC18 | Southwestern ravine; family home; front porch | Elena moves out following major argument; Architect's first uncontrolled Mana outburst against a political delegation; Iris commits to undisclosed protective shadowing with a real sword |
-| **Chapter 15 — Keeping Time** | **WC19** | **Family home; Guild HQ; market; The Teacher's house; cemetery; Elena's lodging** | **Guild Master suspends the Architect's independent adventurer status for one year over the WC18 mission deception. During the suspension, the Architect builds a regional calendar/time-keeping system, has a small but meaningful renewal-of-purpose moment with a curious market child, proactively takes Iris on a platonic outing (she advises him to seek out Elena), reads The Teacher's notebook in full and learns the true reason The Teacher stopped taking students — a previous, unnamed student who grew arrogant and had to be killed by The Teacher himself (HINTED-level Builder-adjacent lore, no terminology used). The Architect visits his family's graves, then apologizes to Elena without deflection; she forgives him conditionally on a full-day outing together the next day. He successfully builds and tests a working externalized Mana-pathway prototype (a carved rod), enabling instant, structure-free spellcasting. A minor rumor of his WC14 Mana outburst reaches Isolde at the Veyrand court — background only.** |
+| Chapter 15 — Keeping Time | WC19 | Family home; Guild HQ; market; The Teacher's house; cemetery; Elena's lodging | Guild Master suspends the Architect's independent adventurer status for one year. During the suspension, the Architect builds a regional calendar/time-keeping system, has a renewal-of-purpose moment with a market child, proactively takes Iris on a platonic outing, reads The Teacher's notebook in full (learns the true reason he stopped taking students), apologizes to Elena, and receives conditional forgiveness pending a shared outing. Builds and tests a working externalized Mana-pathway prototype. |
+| **Chapter 16 — Where I Want to Stay** | **WC19** | **Village market; food stall; hillside overlooking the valley; Elena's lodging** | **The Architect and Elena spend the full conditional outing together — no research, no problem-solving. Elena proposes shifting address from "chị/con" to "anh/em," marking adult footing in the relationship. They haggle at the market (badly, on his end), eat at the same stall from Chapter 8, then climb a hillside Elena used to visit alone. Watching the sunset and then the stars, the Architect spontaneously says this world's night sky is more beautiful than Earth's, and that he wants to protect it — and the people he loves — by building "a place to stay." Elena doesn't promise outright but says she'd want to be there if it's ever built. The day ends with a light kiss on the cheek.** |
 
-**Continuity note:** Chapter 15 closes the Guild Master reaction thread left open since Chapter 14, resolves The Teacher's long-standing "why he stopped taking students" secret at HINTED level, and opens the WC19 reconciliation beat already anticipated by `world_calendar.md` — but leaves it explicitly incomplete, pending the outing/date in the next chapter.
+**Continuity note:** Chapter 16 fully discharges the "must be remembered later" obligation from Chapter 15's pending outing (see `42-romance-continuity-memory.md`). It deepens RECONCILIATION and plants the first explicit, on-page seed of the future City Project / "Elena" city naming, but does **not** complete the relationship arc — Elena explicitly frames the day as provisional, and the WC23 "People are not variables" breakthrough remains the next required major milestone, still ahead.
 
 ---
 
@@ -43,106 +44,107 @@ CURRENT POV: The Architect (first-person)
 
 ## CURRENT STORY STATE
 
-The Architect is one year into a Guild suspension following his WC18 mission deception. Rather than deepening his isolation, this enforced downtime has produced the first genuine signs of psychological recovery since WC16: constructive community engagement, a renewed personal motivation (sparked by a curious child at the market), and active repair of both his relationship with Iris and, tentatively, with Elena. He has also confronted a piece of his own history he did not previously understand — The Teacher's true reason for refusing students for years, involving an earlier student who turned dangerous and was killed by The Teacher's own hand. This has deepened the Architect's private fear of his own potential trajectory, reinforcing (rather than contradicting) Elena's WC18 warning. Elena has extended conditional forgiveness, pending a shared outing the next day — the relationship remains formally unresolved until that scene occurs. Technologically, the Architect has achieved his first working externalized Mana-pathway device.
+Following his Guild suspension and the psychological groundwork laid in Chapter 15 (renewed purpose, The Teacher's confession, apology to Elena), the Architect has now completed the full day Elena required as a condition of her forgiveness. The chapter was deliberately free of technical/research content — a rare, sustained instance of the Architect simply being present, culminating in him spontaneously articulating a wish to build "a place to stay" purely out of love for the world and the people in it, not out of fear or control. Elena and the Architect have shifted their address terms from "chị/con" to "anh/em," marking the relationship's move onto adult footing. However, Elena is careful not to treat the day as a guarantee of full reconciliation — the relationship remains in RECONCILIATION, not yet LOVE/COMMITTED, and the WC23 ideological breakthrough ("People are not variables") remains the true resolution point still ahead. The Darkest Point's underlying control-oriented patterns (Chapters 12–14) have not been erased by this one good day and should resurface before WC22's low point.
 
 ---
 
 ## ACTIVE CHARACTERS
 
-- **The Architect (19):** Missing left arm (permanent). Suspended from independent Guild adventuring for one year. Built a regional time-keeping system. Reconnected with Iris and apologized to Elena. Learned the truth behind The Teacher's reluctance to take students. Built and tested a working externalized Mana-pathway rod — can now cast powerful, wordless, structure-free spells.
-- **Elena (24.75):** Living temporarily apart from the Architect. Accepted his apology but made forgiveness conditional on a full shared outing the next day — reconciliation is initiated but not yet complete.
-- **Iris (16):** Went on a proactive, platonic outing with the Architect (haggling, a meal); gave him direct advice to seek out Elena. Still strictly platonic; continues her undisclosed protective role from Chapter 14 in the background (not directly dramatized this chapter).
-- **The Guild Master:** Formally suspended the Architect's independent adventurer status for one year as consequence for the WC18 mission deception — this thread, open since Chapter 14, is now closed.
-- **Unnamed market child (new, minor):** A young child encountered at the market, fascinated by a broken mana stone; sparks a renewal of the Architect's own sense of curiosity and purpose. Non-recurring unless the owner wants to develop this further.
+- **The Architect (19):** Missing left arm (permanent). Still suspended from independent Guild adventuring (through WC20). Successfully completed a full day with Elena free of research/problem-solving. Now addresses Elena as "em," addressed by her as "anh." Has, for the first time on-page, wanted something purely for its own sake (the night sky) rather than for utility, and has spoken aloud a wish to build "a place to stay."
+- **Elena (24.75):** Extended full-day companionship as promised, and proposed the anh/em address shift herself, citing the Architect's adulthood. Explicitly frames the day as one data point, not a completed reconciliation. Expressed a non-binding wish to "be there" if the Architect's imagined future home is ever built.
+- **Iris (16):** Not present this chapter (referenced only in passing — the running joke about her haggling skills). Continues her undisclosed protective shadowing role from Chapter 14 in the background, not dramatized here.
+- **The Guild Master:** Not present this chapter; suspension from Chapter 15 remains in effect, unreferenced directly.
+- **Unnamed vendors/villagers (minor):** A fruit seller humors the Architect's poor haggling attempt; a bread vendor gives him a free loaf as an unprompted gesture of goodwill — both reinforce the softening community sentiment established in Chapter 15.
 
 ## CURRENT RELATIONSHIPS
 
-- **Architect ↔ Elena:** Moving from CONFLICT toward RECONCILIATION. Forgiveness has been extended but is explicitly conditional on the following day's shared outing — treat the relationship as still unresolved until that scene is dramatized in a future chapter. Do not silently skip past or resolve it off-page.
-- **Architect ↔ Iris:** Still strictly platonic (age 16). Deepened through a mutual, proactive outing initiated by the Architect — the first time he has reached out to her rather than the reverse. Consistent with `36-secondary-heroines.md`'s "quiet, unspoken, permanently unresolved" romance function; no attraction depicted or implied.
-- **Architect ↔ Guild Master:** Disciplinary thread resolved — one-year suspension formally imposed and accepted.
+- **Architect ↔ Elena:** RECONCILIATION, meaningfully deepened. The conditional outing from Chapter 15 has now been fully dramatized and honored. Address terms shifted from "chị/con" to "anh/em" — a deliberate adult-footing milestone. Do NOT treat this as full romantic resolution or as equivalent to the WC23 breakthrough; Elena explicitly keeps the day framed as provisional ("hôm nay chỉ là một ngày... anh còn rất nhiều ngày khác để chứng minh").
+- **Architect ↔ Iris:** Unchanged from Chapter 15 — still strictly platonic (age 16), referenced only in passing this chapter.
+- **Architect ↔ Guild Master:** Unchanged — disciplinary thread remains closed; suspension still in effect.
 
 ## CURRENT POLITICAL STATE
 
-- The coercive coalition thread from Chapter 14 (two Kingdoms + a northern Empire) remains unresolved and dormant this chapter — not referenced directly.
-- **NEW, minor:** Rumor of the Architect's WC14 Mana outburst has reached the Veyrand court and specifically Isolde, who finds it "interesting" rather than alarming. Kept intentionally as background flavor only — no direct interaction has occurred.
+- Unchanged from Chapter 15. The coercive coalition thread (Chapter 14) remains dormant. The Veyrand/Isolde rumor thread remains background-only, unreferenced this chapter.
 
 ## CURRENT WORLD STATE
 
-- A new, regionally-spreading standardized calendar/time-keeping system exists, developed by the Architect during his Guild suspension — improves his community standing and goodwill.
-- The village's earlier awe/distance toward the Architect (Chapter 13) is beginning to soften into something closer to respect, via this visible, non-combat contribution.
+- The regional calendar/time-keeping system (Chapter 15) is now confirmed in active daily use by villagers and merchants — not merely installed, but genuinely relied upon.
+- Village goodwill toward the Architect continues to grow through small, unprompted gestures (free bread, patient humoring of his market haggling).
+- **New (Chapter 16):** A hillside overlooking the valley, west of the village, is established as a location personally significant to Elena (she used to visit it alone before the Architect's birth) and now shared with him — see updated `22-location-registry.md`.
 
 ## RECENT EVENTS
 
-- **WC19 (Chapter 15):** Guild suspension imposed (one year); calendar/time-keeping system developed and spread; market-child encounter reignites personal motivation; proactive outing with Iris; The Teacher's notebook read in full, revealing his true reason for refusing students; cemetery visit; apology to and conditional forgiveness from Elena; successful first working Mana-pathway rod prototype; minor Veyrand/Isolde rumor thread opened.
+- **WC19 (Chapter 16):** The Architect and Elena complete a full, technically-idle day together: market haggling, a meal at the Chapter 8 food stall, a hillside sunset-then-stargazing scene. Address terms shift to anh/em. The Architect articulates, for the first time, a wish to build "a place to stay" to protect the people and world he loves. Elena expresses a non-binding wish to be part of that future. The day ends with a kiss on the cheek from Elena.
 
 ## RECENT EMOTIONAL EVENTS
 
-- The Architect's first sustained period of constructive, non-avoidant coping since WC16 — a genuine (if fragile) upward turn.
-- The Teacher's posthumous confession, read from his notebook — reframes the Architect's fear of his own potential trajectory in concrete, personal terms rather than abstract warning.
-- The one-sided cemetery conversation — the Architect's first on-page moment of direct emotional address to his dead family since the funeral (Chapter 12).
-- Elena's conditional forgiveness — warmth returning, but explicitly incomplete; must not be treated as full resolution.
+- The Architect's first sustained, on-page instance of un-instrumentalized desire — wanting something (the night sky, the day itself) purely because it is beautiful, not because it is useful or protective in a fear-driven sense. This is a meaningful precursor to, but explicitly NOT YET, the WC23 "People are not variables" breakthrough.
+- The anh/em address shift — a quiet but real marker of the relationship moving onto adult, mutual footing, distinct from (and gentler than) the Chapter 15 apology/forgiveness scene.
+- Elena's careful refusal to over-promise ("chỉ là một ngày") — consistent with her established pattern of real boundaries (Chapter 14) rather than easy reassurance.
 
 ## ACTIVE MYSTERIES
 
 - Who/what was the WC16 Demon ("The Unburied One") — unchanged, entirely backstage.
-- **(Resolved this chapter)** Why The Teacher stopped taking students — now answered on-page: an earlier student who grew arrogant and dangerous, killed by The Teacher himself. The student's deeper nature (i.e., that he may have been a Builder) remains HINTED only, not confirmed to reader or to the Architect.
-- The Teacher's remaining unresolved mystery: his sharp, unexplained attentiveness toward Elena (Chapter 7–8) — unchanged, still open.
+- Why The Teacher stopped taking students — resolved as of Chapter 15; the former student's deeper nature/identity remains HINTED only, unchanged this chapter.
+- The Teacher's remaining unresolved mystery: his sharp, unexplained attentiveness toward Elena (Chapter 7–8) — unchanged, still open, not referenced in Chapter 16.
 - Identity of the two Kingdoms and the northern Empire from the WC18 coercion attempt — unchanged, still open.
-- **(New, low-priority)** The former student's name, fate details, and any connection to later Builder lore — intentionally left open; do not resolve further without explicit owner direction.
+- The former student's name, fate details, and any connection to later Builder lore — unchanged, low priority, open.
 
 ## PENDING FORESHADOWING
 
-- The Teacher's former-student revelation is a new HINTED-level seed toward the broader Builder concept (`11-foreshadowing-and-revelations.md`'s "ancient records/prior transmigrated figures" clue category) — must not use "Builder" terminology and must not be connected to The Other Builder specifically.
-- The Architect's new Mana-pathway rod is a further, more concrete step toward the eventual unnamed Ark precursor technology — still must not be called "the Ark."
-- The Veyrand/Isolde rumor thread is a light political seed for a future chapter, intentionally minor for now.
-- Elena's conditional forgiveness (the outing) is the direct, unresolved bridge to the WC23 "People are not variables" breakthrough — must not be skipped or resolved off-page.
+- The Teacher's former-student revelation remains a HINTED-level Builder-adjacent seed (unchanged from Chapter 15).
+- The Architect's Mana-pathway rod remains the unnamed Ark precursor (unchanged; not referenced this chapter).
+- The Veyrand/Isolde rumor thread remains a light, undeveloped political seed (unchanged; not referenced this chapter).
+- **New (Chapter 16):** The Architect's spoken wish to build "a place to stay" is now a direct, on-page foreshadowing seed for the City Project (WC28) and the city's eventual renaming to "Elena" post-WC35 (per `05-world.md`, `22-location-registry.md`, and the "Home" motif in `43-ost-reference.md`). This should be echoed subtly in future chapters as the City Project approaches, without over-explaining the connection prematurely.
+- Elena's WC19 forgiveness/outing arc is now discharged, but the relationship's next required beat is the WC23 "People are not variables" breakthrough — must not be skipped, rushed, or treated as already achieved by the warmth of Chapter 16.
 
 ## UNRESOLVED THREADS
 
 - Unburied One's confirmed/unconfirmed destruction at WC40 — unchanged.
-- **(Resolved, Chapter 15)** Why The Teacher stopped taking students.
+- Why The Teacher stopped taking students — resolved (Chapter 15), unchanged this chapter.
 - The Teacher's sharp attentiveness toward Elena (Chapter 7) — unchanged, still open.
-- The Teacher's unfinished research notebook — now read in full by the Architect as of Chapter 15; its technical contents have been partially applied (Mana-pathway rod), but any further un-mined content is open for future development.
-- Where Elena is staying, and the full content of the WC19 reconciliation outing — open, to be developed in the next chapter.
+- The Teacher's unfinished research notebook — unchanged from Chapter 15 (read in full; further un-mined content open for future development).
 - Identity/faction affiliation of the WC18 political delegation — unchanged, open.
 - Whether the Architect ever learns Iris witnessed the full WC18 ravine fight without intervening — unchanged, open.
-- **(New)** The former student's identity and fate — open, low priority.
-- **(New)** Isolde's reaction to and any future interest in the Architect — open, low priority.
+- The former student's identity and fate — unchanged, open, low priority.
+- Isolde's reaction to and any future interest in the Architect — unchanged, open, low priority.
+- **(New, low priority)** Whether/how the Architect's "place to stay" wish evolves into the concrete City Project — open, to be developed as the story approaches WC28.
 
 ## THINGS THE READER KNOWS
 
 - All prior "Things the Reader Knows" remain true.
-- The reader now knows The Teacher once had an earlier student who turned dangerous and was killed by The Teacher himself — presented as a HINTED clue toward deeper Builder lore, without explicit confirmation.
-- The reader knows the Architect has a working Mana-pathway prototype.
-- The reader knows Elena's forgiveness is conditional and incomplete.
+- The reader now knows the Architect and Elena address each other as "anh/em."
+- The reader knows the Architect has explicitly articulated a wish to build a protective "home" — a direct seed for the eventual city.
+- The reader knows Elena's day-long companionship was genuine and warm, but that she deliberately did not treat it as a full guarantee of reconciliation.
 
 ## THINGS THE CHARACTERS KNOW
 
-- **The Architect:** Knows the true reason The Teacher stopped taking students. Does not know the former student's full identity or eventual fate beyond what The Teacher's notebook states. Does not yet know whether Elena's forgiveness will hold past the outing.
-- **Elena:** Knows the Architect has been suspended from the Guild; has extended conditional forgiveness pending the shared outing.
-- **Iris:** Advised the Architect directly to seek out Elena; unaware of the full content of The Teacher's notebook reveal.
-- **The Guild Master:** Has formally imposed and closed the disciplinary matter from Chapter 14.
+- **The Architect:** Knows Elena wants the relationship to continue being earned, not assumed. Has voiced, for the first time, a concrete emotional motivation (protecting a place and the people in it) distinct from his earlier fear-driven control patterns.
+- **Elena:** Knows the Architect had a full day of genuine presence and warmth; chooses to remain cautiously hopeful rather than fully reassured.
+- **Iris:** Unaware of the specific content of the outing (not present); her earlier advice to the Architect (Chapter 15) has evidently been followed.
+- **The Guild Master:** Unchanged; no new knowledge this chapter.
 
 ## THINGS ONLY THE AUTHOR KNOWS
 
-- The Unburied One's full WC16–40 arc — unchanged, still entirely backstage.
-- The former student's true nature as a Builder (not yet named as such anywhere in the text) and his ultimate connection, if any, to later multiverse lore — open for future creative development, owner's discretion.
-- The identity of the WC18 political delegation and whether/how this thread escalates — open.
+- The Unburied One's full WC16–40 arc — unchanged, entirely backstage.
+- The former student's true nature as a Builder and his connection (if any) to later multiverse lore — unchanged, open for future development.
+- The identity of the WC18 political delegation — unchanged, open.
+- The full future shape of the City Project and its eventual renaming — unchanged as established canon (`05-world.md`, `22-location-registry.md`), but Chapter 16 is its first direct on-page emotional seed.
 
 ## DO NOT REVEAL YET
 
 - Any explicit WC16 ↔ WC33–35 Demon connection — no earlier than Movie 1.
 - The name/identity of "The Unburied One."
 - The term "the Ark" itself.
-- The word "Builder" or any explicit multiverse/Builder mechanics — the Teacher's former student must remain a HINTED clue, never an explicit reveal.
+- The word "Builder" or any explicit multiverse/Builder mechanics.
+- Explicit confirmation that the future city will be called "Elena" — this remains dramatic irony for the reader/author, not something the Architect consciously plans yet.
 
 ## DO NOT CONTRADICT
 
-- All prior DO NOT CONTRADICT items from Chapter 14's memory file remain in force (Architect born WC0, Elena's aging rate, hard 18+ romance rule, Iris's platonic status through ~WC21, Seraphine/Isolde not yet directly active in-scene, Elena's WC35 death, "Builder" ≠ "Architect," WC16 First Major Loss fully dramatized, missing left arm permanent, WC16 Demon resolution, Empire of Veyrand status, city renamed "Elena," World Peoples list, OST "no Season 3," Elena's WC18 move-out and the political delegation thread, Iris's real sword and protective commitment).
-- **NEW, Chapter 15, permanent:** The Architect's independent Guild adventurer status is suspended for one year (WC19–WC20) — do not silently restore it early without narrative cause.
-- **NEW, Chapter 15, permanent:** The Teacher's reason for refusing students is now resolved — do not silently re-open this as a mystery in future chapters; only the former student's deeper identity/fate remains open.
-- **NEW, Chapter 15, permanent:** The Architect possesses a working externalized Mana-pathway rod prototype — do not silently revert his casting method to WC17-era limitations without cause.
-- **NEW, Chapter 15, permanent:** Elena's forgiveness is conditional on a shared outing the next day — do not silently treat the relationship as fully reconciled until that scene occurs on-page.
+- All prior DO NOT CONTRADICT items from Chapter 15's memory file remain in force (Architect born WC0, Elena's aging rate, hard 18+ romance rule, Iris's platonic status through ~WC21, Seraphine/Isolde not yet directly active in-scene, Elena's WC35 death, "Builder" ≠ "Architect," WC16 First Major Loss fully dramatized, missing left arm permanent, WC16 Demon resolution, Empire of Veyrand status, city renamed "Elena," World Peoples list, OST "no Season 3," Guild suspension WC19–WC20, The Teacher's resolved secret, the Mana-pathway rod, Elena's conditional forgiveness).
+- **NEW, Chapter 16, permanent:** The Architect and Elena now address each other as "anh" and "em" — do not silently revert to "chị/con" in future chapters without explicit narrative cause (e.g., a deliberate emotional regression scene).
+- **NEW, Chapter 16, permanent:** The Architect has explicitly, on-page, articulated a desire to build "a place to stay" — this is now an established emotional throughline and direct seed for the City Project; do not contradict or silently omit it when WC28 is eventually dramatized.
+- **NEW, Chapter 16, permanent:** Elena explicitly declined to make the outing a guarantee of full reconciliation — future chapters must not silently treat Architect ↔ Elena as fully, unconditionally reconciled before the WC23 breakthrough.
 
 ---
 
@@ -150,92 +152,86 @@ The Architect is one year into a Guild suspension following his WC18 mission dec
 
 ### The Architect
 
-- Shows the first genuine upward turn since WC16 — constructive use of enforced downtime, renewed personal motivation, active relational repair. This must not be read as the WC23 breakthrough itself; the Darkest Point continues, and a further low point (WC22) is still expected per canon. Next canonical milestone: the WC19 reconciliation outing with Elena (now directly set up) — should not be rushed or resolved off-page.
+- Continues the upward turn begun in Chapter 15, now reinforced by a full day of genuine, un-instrumentalized presence with Elena. This must still not be read as the WC23 breakthrough itself — the underlying Darkest Point patterns (control, calculation-as-avoidance) are not erased and should resurface before the WC22 low point. Next canonical milestone: continued incremental relationship-building toward WC23, alongside the Darkest Point's continuing escalation.
 
 ### Elena
 
-- Extends conditional forgiveness rather than immediate, full reconciliation — consistent with her established pattern of real boundaries (Chapter 14) rather than easy accommodation. Sets up the outing as the next necessary beat before any deeper trust is restored.
+- Follows through fully on her Chapter 15 condition, initiates the anh/em shift herself, and voices a genuine (if non-binding) wish for a shared future — while carefully avoiding over-promising. Continues her established pattern of real boundaries paired with real warmth.
 
 ### Iris
 
-- Continues her established "action over words" voice; takes the first initiative-adjacent role by giving the Architect direct advice, though the outing itself was Architect-initiated — a small but meaningful shift in the dynamic. Still strictly platonic (age 16).
+- Not directly active this chapter; referenced only via the market-haggling callback. Her Chapter 14–15 trajectory (undisclosed protection, advice-giving) continues unchanged in the background.
 
 ### The Guild Master
 
-- Disciplinary arc from Chapter 14 formally resolved via the one-year suspension. No further open thread on this specific matter unless the owner wants to revisit it.
+- No change this chapter.
 
 ### Seraphine, Isolde, Son, Mira, The Other Builder, Noah
 
-- Not yet directly active on-page. Isolde now has a minor, indirect presence via rumor only — still not yet active as a scene participant.
+- Not yet directly active on-page. No change from Chapter 15's status.
 
 ## CURRENT ROMANCE STATE
 
 PRIMARY:
-The Architect ↔ Elena — moving from RUPTURED (Chapter 14) toward RECONCILIATION. Conditional forgiveness granted; full reconciliation pending the next-day outing. Do not resolve this off-page or treat it as complete until dramatized.
+The Architect ↔ Elena — RECONCILIATION, meaningfully deepened via the completed WC19 outing and the anh/em address shift. Still short of LOVE/COMMITTED. The WC23 "People are not variables" breakthrough remains the next required major milestone and must not be skipped or treated as already achieved.
 
 SECONDARY ATTRACTIONS:
 
-- Iris — ACQUAINTANCE, strictly platonic (age 16), deepened through a mutual, Architect-initiated outing.
+- Iris — ACQUAINTANCE, strictly platonic (age 16), unchanged this chapter.
 - Seraphine (not yet active)
 - Isolde (indirect, rumor-only presence; not yet active as a scene participant)
 
 ## ELENA STATUS:
 
-As of WC19, Elena remains in temporary lodging, separate from the Architect's home. The outing/date the next day is the next expected step toward her possibly returning — not yet decided on-page.
+As of WC19 (end of Chapter 16), Elena remains in temporary lodging, separate from the Architect's home. No decision about her returning to live with him has been made on-page — this remains open for a future chapter.
 
 ---
 
 ## CURRENT FAN-SERVICE LEVEL
 
-CURRENT LEVEL: None/minimal. Chapter 15 is a recovery-and-reconciliation-setup chapter — no fanservice framing is present or appropriate. The Iris outing is written strictly as platonic community/caretaking interaction consistent with `39-fanservice-scene-library.md`'s restraint principle for her character.
+CURRENT LEVEL: Moderate — Chapter 16 is an explicitly romance/slice-of-life-focused chapter (per owner instruction), centered entirely on the Architect × Elena outing. This is consistent with Season 1's "highest fan-service of the whole saga" guidance (`34-romance-harem-fanservice.md`) and with the core Architect × Elena romance per `10-light-novel-writing-guide.md`. All content remains tasteful (market haggling, a meal, sunset/stargazing, a cheek kiss) — no content beyond this project's established restraint norms. Iris is not present and receives no romantic/fanservice framing.
 
 ## Avoid:
 
-Any romantic/fanservice framing involving Iris (age 16). Treating Elena's conditional forgiveness as full resolution. Softening or skipping the WC19 outing itself in a future chapter. Explicit "Builder" terminology in connection with The Teacher's former student.
+Treating Chapter 16 as completing the Architect ↔ Elena arc (WC23 breakthrough must still occur later). Silently reverting the anh/em address shift. Any romantic/fanservice framing involving Iris. Explicit confirmation of the future city name "Elena" in-prose. Explicit "Builder" terminology.
 
 ---
 
 ## CURRENT TECHNOLOGY LEVEL
 
-- **Updated (Chapter 15):** the externalized Mana-pathway concept has progressed from notebook sketch (WC17) and small-scale nighttime testing (WC18) to a **working, tested prototype** — a carved hollow rod enabling instant, wordless, structure-free spell release without drawing Mana through the body. This remains a personal device, not yet a formalized or reproducible technology; still the direct, unnamed precursor to Ark Stage 1. Do not name it "the Ark."
-- **New (Chapter 15):** a standardized regional calendar/time-keeping system (sundial + night-marker mana stones), spreading informally through the region as community infrastructure — Stage 1–2 per `25-technology-evolution.md`.
+- Unchanged from Chapter 15. The externalized Mana-pathway rod and the regional calendar system remain at their Chapter 15 status; neither is referenced or advanced in Chapter 16 (deliberately — the chapter is technology-free by design, per Elena's request in-story).
 
 ## CURRENT MAGIC LEVEL
 
-- Confirmed: the near-instant-cast baseline (WC17) remains available.
-- **New (Chapter 15):** with the Mana-pathway rod, the Architect can now release significantly more powerful spells instantly, without verbal incantation or visible structure-building — a major capability increase, but limited to whatever the rod itself can physically channel; not unlimited power.
+- Unchanged from Chapter 15.
 
 ## CURRENT FACTION STATE
 
-- The WC18 political coalition thread (two Kingdoms + northern Empire) remains dormant, unreferenced this chapter.
-- **New, minor:** a background rumor connects the Architect to the Veyrand court via Isolde — no direct interaction yet.
+- Unchanged from Chapter 15. No political content in Chapter 16.
 
 ## CURRENT LOCATION STATE
 
-- The Teacher's abandoned house — revisited on-page for the first time since Chapter 12; his notebook has now been read in full.
-- Village cemetery — revisited; the Architect's first direct internal address to his dead family since the funeral.
-- Elena's temporary lodging — new minor, non-registry location.
-- Architect's family home — Architect still living alone as of chapter's end.
+- **New (Chapter 16):** A hillside overlooking the valley, west of the village — a location personally significant to Elena, now shared with the Architect for the first time. See updated `22-location-registry.md`.
+- Village market and the Chapter 8 food stall — revisited, both confirmed as recurring, low-registry locations.
+- Elena's temporary lodging — unchanged; Elena still living apart from the Architect's home as of chapter's end.
 
 ## CURRENT ARTIFACT STATE
 
-- **New (Chapter 15):** the externalized Mana-pathway rod (first working prototype) — see updated `24-artifact-registry.md`.
-- **New (Chapter 15):** the regional calendar/sundial system — see updated `24-artifact-registry.md`.
-- Iris's real steel sword (Chapter 14), Father's sword, The Teacher's now-fully-read research notebook remain unchanged in status otherwise.
+- Unchanged from Chapter 15. No new artifacts introduced in Chapter 16.
 
 ---
 
 ## LAST CHAPTER SUMMARY
 
-**Chapter 15 — Keeping Time (WC19):** The Guild Master suspends the Architect's independent adventurer status for one year over the WC18 mission deception. During the suspension, the Architect develops a standardized regional calendar/time-keeping system, is reinvigorated by a chance encounter with a curious child at the market, and proactively takes Iris on a platonic outing — she advises him to seek out Elena. Returning to The Teacher's house, he reads the unfinished research notebook in full and learns the true reason The Teacher stopped taking students: an earlier, unusually gifted student who grew arrogant and dangerous, whom The Teacher was forced to kill himself. After visiting his family's graves, the Architect apologizes to Elena without deflection; she forgives him conditionally, requiring a full shared outing the next day. That night, drawing on The Teacher's dormant theories combined with his own research, the Architect successfully builds and tests a working externalized Mana-pathway rod, achieving instant, structure-free spellcasting for the first time. A minor rumor of his earlier Mana outburst reaches Isolde at the Veyrand court, in the background.
+**Chapter 16 — Where I Want to Stay (WC19):** The Architect and Elena spend the full day Elena required as a condition of her forgiveness, deliberately free of research or problem-solving. Elena proposes shifting their address terms from "chị/con" to "anh/em," citing the Architect's adulthood. They haggle (badly, on his part) at the market, eat at the same roadside stall from Chapter 8, then climb a hillside Elena used to visit alone before the Architect's birth. Watching the sunset and then the stars, the Architect spontaneously says this world's night sky is more beautiful than Earth's, and that he wants to protect it — and the people he loves — by building "a place to stay," not through control but through the plain meaning of home. Elena does not promise outright but says she would want to be there if such a place is ever built. The day ends with a light kiss on the cheek. Elena is careful to frame the day as one data point, not a guarantee of full reconciliation.
 
 ## NEXT CHAPTER INTENT
 
-- Dramatize the WC19 outing/date with Elena directly — this is the necessary next beat and should not be skipped or resolved off-page.
-- Continue developing the Architect's psychological recovery as fragile and ongoing, not complete — the Darkest Point continues toward its WC22 low point.
-- Preserve reveal discipline on the Demon's identity and on any explicit "Builder" terminology absolutely.
-- Preserve Iris's strictly platonic framing (age 16).
-- The Veyrand/Isolde rumor thread and the WC18 political coalition thread may resurface later but do not need immediate development.
+- Resume the story's forward momentum toward WC20–23 — the Guild suspension, the still-unresolved underlying Darkest Point patterns, and eventually the WC22 low point and WC23 breakthrough should not be indefinitely deferred by Chapter 16's warmth.
+- Continue treating Architect ↔ Elena as RECONCILIATION, not yet LOVE/COMMITTED — the WC23 breakthrough must be earned, not skipped.
+- Preserve reveal discipline on the Demon's identity and any explicit "Builder" terminology absolutely.
+- Preserve Iris's strictly platonic framing (age 16) — she was not present in Chapter 16 and should return to more active involvement in coming chapters per her established protective-shadowing thread.
+- The "place to stay" wish should be allowed to recede into the background for now (per `10-light-novel-writing-guide.md`'s guidance against overusing a gimmick/motif) rather than being restated every chapter — its power lies in its eventual payoff at WC28/WC35, not repetition.
 
 ## CONTINUITY WARNINGS
 
@@ -244,9 +240,10 @@ Any romantic/fanservice framing involving Iris (age 16). Treating Elena's condit
 - Do not reveal the Unburied One's identity, name, or WC16↔WC33–35 connection early.
 - Do not name "the Ark" explicitly until its canonical introduction point.
 - Never give The Architect a personal name.
-- Do not treat Elena's forgiveness as complete until the outing is dramatized.
-- Do not add romantic framing to Iris at age 16.
-- Do not use the word "Builder" explicitly anywhere in prose regarding The Teacher's former student.
+- Do not treat Chapter 16 as completing the Architect ↔ Elena reconciliation arc — WC23 remains ahead.
+- Do not add romantic framing to Iris at any point before ~WC21.
+- Do not use the word "Builder" explicitly anywhere in prose.
+- Do not silently revert the anh/em address shift established in Chapter 16.
 
 ## MEMORY UPDATE RULE
 
@@ -261,7 +258,7 @@ IN-WORLD TITLE:
 The Architect (earned WC35; distinct from the broader category "Builder")
 
 NARRATIVE IDENTITY:
-Reader-projectable first-person protagonist, adult mind from birth (WC0) — permanently missing his left arm from WC16 onward, in the early stages of psychological recovery within the ongoing Darkest Point, now equipped with a working Mana-pathway device and pursuing reconciliation with Elena.
+Reader-projectable first-person protagonist, adult mind from birth (WC0) — permanently missing his left arm from WC16 onward, in the early stages of psychological recovery within the ongoing Darkest Point, now equipped with a working Mana-pathway device, on warmer adult footing with Elena, and having voiced for the first time a genuine, non-fear-driven wish to build a home for the people he loves.
 
 PHYSICAL SPECIFICITY:
 Keep intentionally moderate unless scene requires detail. The missing left arm must be preserved consistently in all future prose and visual work.
@@ -273,20 +270,22 @@ Back / side / silhouette / over-the-shoulder / partially obscured face.
 
 ## ACTIVE CHARACTER DESIGNS:
 
-- The Architect (WC16 onward): missing left arm — see `30-visual-bible.md`. New candidate visual element: a carved hollow rod he now carries as a casting tool.
-- Iris (WC18 onward): carries a real steel sword rather than a wooden training sword — unchanged from Chapter 14.
+- The Architect (WC16 onward): missing left arm — see `30-visual-bible.md`. Carries a carved hollow rod as a casting tool (unchanged from Chapter 15; not used or referenced in Chapter 16).
+- Elena (WC19, Chapter 16): a new pale blue dress noted in-chapter, not previously described — candidate minor visual update if illustrated.
+- Iris (WC18 onward): carries a real steel sword rather than a wooden training sword — unchanged; not present in Chapter 16.
 
 ## ACTIVE LOCATION DESIGNS:
 
-- Village cemetery (under an old oak tree) — unchanged.
-- Southwestern ravine — unchanged, no formal design sheet.
-- Village market/central square — new, minor, no formal design sheet.
+- Village cemetery (under an old oak tree) — unchanged, not visited this chapter.
+- Southwestern ravine — unchanged, not visited this chapter.
+- Village market/central square — unchanged, revisited this chapter.
+- **New:** hillside overlooking the valley, west of the village — no formal design sheet yet; strong future illustration candidate (sunset + starfield scene).
 
 ## ACTIVE ARTIFACT DESIGNS:
 
-- Father's sword; The Teacher's now-fully-read research notebook — no formal design sheets yet.
-- Iris's real steel sword — unchanged.
-- **New:** the Mana-pathway rod — no formal design sheet yet; strong future illustration candidate.
+- Father's sword; The Teacher's now-fully-read research notebook — no formal design sheets yet; not referenced this chapter.
+- Iris's real steel sword — unchanged; not present this chapter.
+- The Mana-pathway rod — no formal design sheet yet; not referenced this chapter.
 
 ## LAST CANONICAL ILLUSTRATIONS:
 
@@ -299,8 +298,9 @@ Back / side / silhouette / over-the-shoulder / partially obscured face.
 - Candidate (Chapter 13): the Architect carving spell structures onto Father's sword — still available.
 - Candidate (Chapter 14): the ravine battle against eight Demons — still available.
 - Candidate (Chapter 14): the Mana outburst before the political delegation — still available.
-- **New candidate (Chapter 15):** the Architect reading The Teacher's notebook by lamplight, the revealing passage visible — strong emotional-beat candidate.
-- **New candidate (Chapter 15):** the first successful test of the Mana-pathway rod — strong P1 action/concept candidate.
+- Candidate (Chapter 15): the Architect reading The Teacher's notebook by lamplight — still available.
+- Candidate (Chapter 15): the first successful test of the Mana-pathway rod — still available.
+- **New candidate (Chapter 16):** the Architect and Elena on the hillside, sunset transitioning to a full starfield — strong P1 emotional/concept candidate, directly tied to the "Home" motif.
 
 ## IMAGE CONTINUITY WARNINGS
 

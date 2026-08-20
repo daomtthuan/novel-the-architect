@@ -1,4 +1,4 @@
-# Emotional Memory (v13, World Calendar canon)
+# Emotional Memory (v14, World Calendar canon)
 
 These moments should echo later.
 
@@ -10,13 +10,15 @@ These moments should echo later.
 
 (unchanged — see prior version)
 
-## Elena and Architect's Reconciliation (WC19, in progress — Chapter 15)
+## Elena and Architect's Reconciliation (WC19, Chapters 15–16)
 
-**Updated (Chapter 15):** The Architect apologizes to Elena directly, without deflecting into logic or self-justification — a marked change from his behavior in Chapters 13–14. Elena forgives him, but explicitly conditionally: he must take her on a full shared outing the next day, with no research, no problem-solving, nothing but simply being together. This must be treated as the **beginning**, not the completion, of the WC19 reconciliation — the outing itself is the next required beat and must be dramatized directly, not skipped or resolved off-page. Must reference and honor the WC18 rupture (Chapter 14) rather than pretending it did not happen.
+**Updated (Chapter 15):** The Architect apologizes to Elena directly, without deflecting into logic or self-justification — a marked change from his behavior in Chapters 13–14. Elena forgives him, but explicitly conditionally: he must take her on a full shared outing the next day, with no research, no problem-solving, nothing but simply being together.
+
+**Updated (Chapter 16):** The conditional outing is now fully dramatized. The day is entirely free of research or problem-solving, exactly as Elena required — market haggling, a meal, a hillside sunset and starfield. Elena proposes shifting address from "chị/con" to "anh/em." The Architect, for the first time on-page, wants something (the night sky, the day itself) purely for its own sake, and voices a spontaneous wish to build "a place to stay" to protect the people and world he loves. Elena responds with a genuine but explicitly non-binding wish to be part of that future, and frames the day as one data point, not a completed reconciliation ("hôm nay chỉ là một ngày"). **This must be treated as a meaningful deepening of RECONCILIATION, not its completion** — the WC23 "People are not variables" breakthrough remains the true resolution point and must still be dramatized in full later, without being skipped or rendered redundant by this chapter's warmth.
 
 ## Elena's "People Are Not Variables" (WC23)
 
-(unchanged)
+(unchanged — still ahead; must not be conflated with or replaced by the Chapter 16 outing.)
 
 ## Elena's First Genuine Trust
 
@@ -110,18 +112,26 @@ These moments should echo later.
 
 (unchanged — see prior version)
 
-## The Guild Suspension (WC19, new, Chapter 15)
+## The Guild Suspension (WC19, Chapter 15)
 
-Following the WC18 mission deception, the Guild Master suspends the Architect's independent adventurer status for one year. Unlike the Architect's earlier defense mechanisms, this consequence is externally imposed rather than self-chosen — and, notably, it produces the first genuinely constructive response of his post-WC16 life: rather than deepening isolation, the enforced downtime becomes the space in which real recovery begins. Should be remembered as the practical catalyst that made the rest of this chapter's recovery possible — future chapters should not undo or bypass this suspension without narrative cause.
+(unchanged — see prior version)
 
-## The Market Child (WC19, new, Chapter 15)
+## The Market Child (WC19, Chapter 15)
 
-A brief, unplanned encounter with a curious young child at the market — fascinated by a broken mana stone, asking questions without self-consciousness — reminds the Architect of his own early curiosity, before grief and control became entangled with it. A small moment, but functions as the emotional turning point that reopens the Architect's capacity for constructive motivation. Should be referenced sparingly, if at all, in future chapters — its power lies in its smallness, not in becoming a recurring device.
+(unchanged — see prior version)
 
-## The Teacher's Confession (WC19, new, Chapter 15)
+## The Teacher's Confession (WC19, Chapter 15)
 
-Reading The Teacher's unfinished research notebook in full for the first time, the Architect discovers a passage addressed directly to him: The Teacher once had an earlier student, similarly gifted and similarly marked by knowledge "not of this world," who grew arrogant, sought to reshape the world through power, and had to be killed by The Teacher's own hand. This retroactively explains The Teacher's guardedness and his years-long refusal to take new students before the Architect. This moment should be remembered as the direct, personal seed of the Architect's private fear of his own potential trajectory — reinforcing, not replacing, Elena's WC18 warning. Do not resolve the former student's deeper nature or connect him explicitly to "Builder" terminology in future Season 1 chapters.
+(unchanged — see prior version)
 
-## The Cemetery Address (WC19, new, Chapter 15)
+## The Cemetery Address (WC19, Chapter 15)
 
-For the first time since the WC16 funeral (Chapter 12), the Architect visits his family's graves and holds a direct, one-sided internal conversation with his parents and The Teacher — acknowledging how close he came to becoming what they feared, and renewing a genuine (not merely defensive) promise to himself. This should be treated as a quiet but significant marker of emotional processing, distinct from and more mature than the calculation-based coping established in Chapters 12–13.
+(unchanged — see prior version)
+
+## The Hillside — Wanting Something for Its Own Sake (WC19, new, Chapter 16)
+
+For the first time on-page, the Architect experiences and voices a desire that is not instrumental — he wants to protect the night sky, the village, and the people he loves simply because they are worth protecting, not because failing to control them might cost him someone else's life. This is distinct from, and gentler than, the fear-driven control patterns established across Chapters 12–14. It should be remembered as an early, genuine counter-current within the Darkest Point — proof that the era does not consume every part of him — without being mistaken for the era's resolution. The WC23 breakthrough is the fuller, harder-won version of this same realization and must still occur on its own terms.
+
+## The Anh/Em Shift (WC19, new, Chapter 16)
+
+Elena initiates a change in how she and the Architect address each other, moving from "chị/con" to "anh/em," explicitly because he is now an adult. A quiet, non-dramatic moment, but a permanent one — future chapters should preserve this address consistently unless a deliberate regression scene is written for specific narrative cause. Should not be treated as equivalent to a confession or to the WC23/WC24 romantic milestones; it is a footing change, not a commitment.

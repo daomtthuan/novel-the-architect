@@ -1,4 +1,4 @@
-# Location Registry (v8, World Calendar canon)
+# Location Registry (v9, World Calendar canon)
 
 ## Architect's Original Home
 
@@ -14,6 +14,7 @@ Political form: independent city-state, not a monarchy — the Architect never c
 Features: magical lights, transportation, infrastructure, public institutions.
 Symbolism: human-scale civilization; the "Home" motif's central physical anchor.
 **Final stylization: plain "Elena."** RESOLVED, v8 — previously OPEN. Do not reintroduce an alternate stylization without explicit owner instruction.
+**New emotional origin note (v9, Chapter 16):** the underlying wish to build this kind of place is now directly, on-page seeded at WC19, when the Architect tells Elena on a hillside overlooking the valley that he wants to build "a place to stay" to protect the people and world he loves — see the new hillside entry below and `42-romance-continuity-memory.md` (ROM-S01-C016-01). This should be treated as thematic/emotional origin, not a literal planning scene; the Architect does not yet consciously connect this wish to a concrete city project.
 
 ## The Teacher's Old Study / Training Ground
 
@@ -35,6 +36,15 @@ Major historical location; includes the site of The Teacher's death (WC16) and t
 
 Function: site of the reunited five-person party's defensive operation against the high-tier Demon; where the Father, Mother, The Teacher, and the Scout die saving the Architect. May be geographically/thematically linked to the Great War Battlefield per the entry above — agent's discretion, cross-check before conflating them outright.
 **Deep-lore note (v8):** this is the site where the Demon later identified in continuity notes as "The Unburied One" was critically wounded and driven into dormancy rather than killed. See `26-mystery-board.md` and `28-unresolved-threads.md` for its resolved-but-open fate. Keep this connection backstage in Season 1 prose — see reveal-discipline notes in the relevant session update.
+
+## Hillside Overlooking the Valley (new, v9, Chapter 16)
+
+Function: a quiet vantage point west of the village, offering a wide view of the valley, the village below, the harvested fields, and, in the distance, the eastern forest (Site of First Major Loss).
+History: a private place Elena used to visit alone, predating the Architect's birth, used "when she needed somewhere to think without being disturbed" (her own words). At WC19 (Chapter 16), she brings the Architect here for the first time, during their reconciliation outing — they watch the sunset together, then the full night sky. This is the location where the Architect first voices his wish to build "a place to stay," directly seeding the eventual City Project (WC28) and the city's post-WC35 renaming to "Elena."
+Symbolism: threshold between Elena's private inner life (pre-Architect) and the shared future the two of them begin, however tentatively, to imagine together; visually and thematically linked to the "Home" motif (`43-ost-reference.md`, Tracks 07/08).
+Political form: not a settlement; unowned, informal.
+Features: no magical infrastructure; natural terrain only — a large flat rock suitable for sitting, a dirt path with one difficult scramble near the top.
+**Status:** candidate for reuse in future romance/reflective chapters (e.g., possible future proposal or pre-wedding scene, WC23–24, owner's discretion); no formal visual design sheet yet — see `30-visual-bible.md` "Open Items" for tracking when illustrated.
 
 ## Ark Chamber
 
