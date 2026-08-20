@@ -8,7 +8,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
 
 ## Era 1 — Childhood & Discovery (WC 0–14)
 
-- **WC0**: Birth of The Architect. A Human consciousness is reborn as a newborn in the new world, retaining full adult memory and reasoning. _(Background, v7: his biological parents in this world are both retired A-rank adventurers — a swordsman father and a healer/enchantress mother — who married and retired from adventuring shortly before his birth, disbanding a five-person A-rank party. See `45-session-update-wc16-revision-and-worldbuilding.md` §4 and `03-characters.md`.)_
+- **WC0**: Birth of The Architect. A Human consciousness is reborn as a newborn in the new world, retaining full adult memory and reasoning. _(Background, v7: his biological parents in this world are both retired A-rank adventurers — a swordsman father and a healer/enchantress mother — who married and retired from adventuring shortly before his birth, disbanding a five-person A-rank party. See `95-canon-revisions-archive.md` §4 and `03-characters.md`.)_
 - **WC1–8**: Childhood. Unusually fast development of cause-and-effect thinking, systematic experimentation, and early exposure to magic. Recognizes magic has observable rules.
 - **WC3**: Iris is born.
 - **WC9**: Meets The Teacher — at the Father's request, since the Teacher was formerly the mage of the same disbanded adventuring party — who recognizes his prodigious aptitude.
@@ -18,7 +18,7 @@ Not a lived era inside the story's own chronology — surfaces only as the Archi
 ## Era 2 — Elena, First Major Loss, and the Darkest Point (WC 15–23)
 
 - **WC15**: Meets Elena (Architect 15, Elena 23.75). Iris — Elena's best friend — is introduced as a close platonic friend to both. (Iris is 12 at this point; per the Character Age Rule, no romantic framing occurs at this stage.)
-- **WC16 — First Major Loss (revised v7, see `45-session-update-wc16-revision-and-worldbuilding.md` §4).**
+- **WC16 — First Major Loss (revised v7, see `95-canon-revisions-archive.md` §4).**
   Ten years after disbanding, the old five-person A-rank party — Father (swordsman), Mother (healer/enchantress), The Teacher (mage), the Guild Master (tanker), and the Scout/Investigator — reunites for a defensive operation, after the Scout uncovers signs of unusual Demon activity (the earliest seed of what will eventually escalate into the Great War). The Guild Master stays back, coordinating the guild's response. The 16-year-old Architect is brought along for his first real combat experience.
   The engagement escalates unexpectedly into a fight against a **high-tier Demon**, far stronger than anticipated. The Architect deduces what he believes is the Demon's weakness — overconfidence: the Demon deliberately baits the party, exploiting his tactical read. He is badly wounded; the rest of the party is forced into an all-out defense to save him, absorbing the Demon's finishing blow meant for him. His father physically throws him clear at the last possible moment.
   **Father, Mother, The Teacher, and the Scout all die. The Architect is the sole survivor of the battle.** The Guild Master, not present, survives and later supports the Architect materially and politically through The Guild.

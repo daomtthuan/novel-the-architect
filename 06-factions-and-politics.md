@@ -18,7 +18,7 @@ Interests: strategic technology, resources, magical infrastructure, geopolitical
 
 ### Empire of Veyrand
 
-A confirmed Empire (not a Kingdom — corrected v7; see `45-session-update-wc16-revision-and-worldbuilding.md`). Home polity of Isolde Veyrand. **The Empire of Veyrand sponsors Isolde's WC26 marriage proposal** to the Architect. Refused; becomes a durable political ally, then a critical wartime ally from WC32.
+A confirmed Empire (not a Kingdom — corrected v7; see `95-canon-revisions-archive.md`). Home polity of Isolde Veyrand. **The Empire of Veyrand sponsors Isolde's WC26 marriage proposal** to the Architect. Refused; becomes a durable political ally, then a critical wartime ally from WC32.
 
 ## Churches
 

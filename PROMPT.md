@@ -394,7 +394,7 @@ The authority hierarchy is:
 3. `world_calendar.md` for chronology and age math
 4. `00-story-bible.md`
 5. `01-canon-rules.md`
-6. Explicit revision/update records
+6. Explicit revision/update records `95-canon-revisions-archive.md`
 7. Relevant domain canon files
 8. Relevant continuity/state files
 9. Creative inference
