@@ -1,4 +1,4 @@
-# The Architect. Chapter 1 — Awaken
+# Chapter 1 — Awaken
 
 ---
 

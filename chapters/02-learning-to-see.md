@@ -1,4 +1,4 @@
-# The Architect. Chapter 2 — Learning to See
+# Chapter 2 — Learning to See
 
 ---
 
