@@ -1,4 +1,4 @@
-# Artifact Registry (v8, World Calendar canon)
+# Artifact Registry (v9, World Calendar canon)
 
 ## The Ark
 
@@ -12,7 +12,7 @@ Elena and the Architect's wedding rings (WC24). Formally established as **Eterna
 
 ## Architect's Notebooks
 
-Contain inventions, observations, personal thoughts, unresolved problems — including, in the earliest volumes, half-formed notes from childhood that already show adult-level reasoning. **Updated (v8, Chapter 13):** the WC17 volume contains the Architect's first sketches of an externalized Mana pathway concept (unnamed Ark precursor) and detailed notes on his near-instant-cast technique — important because these technical notes carry direct emotional subtext (avoidance of grief dressed as productivity).
+Contain inventions, observations, personal thoughts, unresolved problems — including, in the earliest volumes, half-formed notes from childhood that already show adult-level reasoning. The WC17 volume contains the Architect's first sketches of an externalized Mana pathway concept (unnamed Ark precursor) and detailed notes on his near-instant-cast technique. **Updated (v9, Chapter 14):** this same notebook is the object Elena discovers and confronts him about at WC18, having found evidence of continued solo nighttime testing — the notebook now carries direct narrative weight as physical evidence of his avoidance pattern, not merely a private research log.
 
 ## Elena's Personal Objects
 
@@ -22,13 +22,17 @@ Objects retained by family — jewelry, letters, clothing, magical images, house
 
 A personal item of The Teacher's, kept by the Architect after WC16. Functions as a private reminder of his first great failure. Distinct from The Teacher's Unfinished Research Notebook below.
 
-## Father's Sword (updated, v8)
+## Father's Sword (unchanged from v8)
 
-A plain, well-kept blade the Architect's Father kept within reach by the door out of old soldier's habit. Recovered by the Architect after WC16 (Chapter 12). **Updated (Chapter 13, WC17):** the Architect has begun carving simplified, pre-woven spell structures directly onto the blade as a makeshift storage/release method — a crude precursor to automated enchantment technology (see `07-magic-and-technology.md`). This modification is a personal, evolving project, not a finished magical weapon; do not describe it as fully enchanted or reliably functional without a future scene establishing its completion. No pre-existing magical properties are established beyond this; purely an emotional artifact tied to Father's quiet, watchful nature, now also a canvas for the Architect's grief-driven research. Use sparingly as a grief anchor in future chapters; do not turn it into a plot-solving weapon without establishing further origin/function/cost.
+A plain, well-kept blade the Architect's Father kept within reach by the door out of old soldier's habit. Recovered by the Architect after WC16 (Chapter 12). The Architect has carved simplified, pre-woven spell structures directly onto the blade (Chapter 13) as a makeshift storage/release method — a crude precursor to automated enchantment technology. This modification is a personal, evolving project, not a finished magical weapon. No pre-existing magical properties are established beyond this; purely an emotional artifact tied to Father's quiet, watchful nature, now also a canvas for the Architect's grief-driven research. Use sparingly as a grief anchor in future chapters.
 
 ## The Teacher's Unfinished Research Notebook
 
-Dense, heavily corrected handwritten research notes belonging to The Teacher, found by the Architect at The Teacher's abandoned house (Chapter 12), cut off mid-sentence at the final entry. Distinct from "The Teacher's Relic" above. Contents remain unread/unexplored on-page as of Chapter 13; a strong candidate for future development. Do not resolve its contents without deliberate narrative planning.
+Dense, heavily corrected handwritten research notes belonging to The Teacher, found by the Architect at The Teacher's abandoned house (Chapter 12), cut off mid-sentence at the final entry. Contents remain unread/unexplored on-page as of Chapter 14; a strong candidate for future development. Do not resolve its contents without deliberate narrative planning.
+
+## Iris's Real Sword (new, v9, Chapter 14)
+
+A plain, well-made steel longsword, entrusted to Iris by the village blacksmith at WC18, replacing the wooden training sword she had used since Chapter 9. The blacksmith, having trained her personally over several years, judges her skilled enough for a real weapon, but explicitly warns her to remain cautious — a Demon is not a sparring partner. No magical properties are established; this is a practical, non-enchanted weapon. Function: marks Iris's formal transition from training to active combat capability, directly enabling her Chapter 14 decision to secretly shadow and protect the Architect. Use as a recurring visual/practical marker of her protective role going forward — do not silently revert her to the wooden sword or drop the sword from future scenes without narrative cause.
 
 ## Observatory Artifacts
 

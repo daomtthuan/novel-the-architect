@@ -1,4 +1,4 @@
-# Agent Memory (v17, World Calendar canon)
+# Agent Memory (v18, World Calendar canon)
 
 ## Purpose
 
@@ -14,175 +14,126 @@ After every accepted chapter, update this file.
 
 ---
 
-## WORKING STATE — AFTER CHAPTER 13
+## WORKING STATE — AFTER CHAPTER 14
 
 CURRENT INSTALLMENT: Season 1 — The Architect
-CURRENT ARC: Era 2 — Elena, First Major Loss, and the Darkest Point (early escalation, pre-WC18 argument)
-CURRENT CHAPTER: Chapter 13 — Learning to Aim
-CURRENT WC YEAR: WC17 (approximately one year after First Major Loss)
-CURRENT LOCATION: Architect's family home (research space); village; Guild headquarters
+CURRENT ARC: Era 2 — The Darkest Point (major rupture with Elena; first external political pressure)
+CURRENT CHAPTER: Chapter 14 — What Cannot Be Optimized
+CURRENT WC YEAR: WC18
+CURRENT LOCATION: Architect's family home; southwestern ravine (Guild mission site); front porch
 CURRENT POV: The Architect (first-person)
 
 ### Canonical chapter sequence so far
 
-| Chapter                              |       WC | Location                                                                      | Key state at chapter end                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------- | -------: | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chapter 1 — Awaken                   |      WC0 | House of Father and Mother                                                    | Reborn as an infant with adult mind; parents established; magic has rules; silent vow to build a peaceful place                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Chapter 2 — Learning to See          |   ~WC2–4 | Family home / village outskirts                                               | Systematic observation and testing deepen; mana-lit stone and ambient magic established; unnamed Iris cameo establishes the two families already know each other                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Chapter 3 — First Light              |  WC0–WC8 | Home village                                                                  | Household fire-globe observation establishes early magical pattern-testing; parents begin moving toward finding someone who can answer the Architect's questions; Teacher's home is seen from afar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Chapter 4 — Teacher's Test           |      WC9 | The Teacher's house/study                                                     | The Teacher meets and accepts the Architect as an exceptional prospective student; formal apprenticeship is set to begin at WC10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Chapter 5 — First Lessons            |     WC10 | The Teacher's house/study                                                     | Formal apprenticeship begins; core teaching method established (ambient Mana only, never bodily Mana); first successful spell after real failure; overconfidence-about-limits foreshadowing planted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Chapter 6 — The Shape of Confidence  |  WC11–14 | The Teacher's house/study; family village                                     | Rapid advancement; first independent research recognized; reputation spreads; Teacher and Mother deliver direct warnings about untested limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Chapter 7 — Two Signals in the Noise |     WC15 | Village square, harvest fair                                                  | Formally meets Elena and Iris; ACQUAINTANCE established with both, strictly platonic with Iris (12)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Chapter 8 — A Name to Grow Into      |     WC15 | Village square/inn; nearby lake; village gate                                 | Deepens genuine friendship with Elena and Iris; "a name to grow into" motif seeded; Elena departs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Chapter 9 — Old Names, New Signs     |  WC15–16 | Teacher's house / family home / Iris's yard / Guild HQ                        | Scout reports unusual Demon activity; old party reunites; Guild Master introduced; Father extracts "observe only" promise; group departs for eastern forest                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Chapter 10 — What the Wind Carries   |     WC16 | Eastern forest; home village                                                  | Elena senses disturbance, returns to village too late; party ambushed by unnaturally empowered fire wolves; Architect breaks his promise in self-defense, reacts with pride; party decides to advance further before retreating                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Chapter 11 — The Cost of Certainty   |     WC16 | Site of First Major Loss (eastern forest); home village (rescue mobilization) | FIRST MAJOR LOSS DRAMATIZED. Party defeats minor/mid Demons easily, then a high-tier Demon appears. The Architect reads a false "weakness" the Demon deliberately baits him with. The Scout dies first, exploiting that false opening. In panic, the Architect begins casting an untested high-tier spell; the Demon rushes him. Mother shields him with light magic, the Teacher layers a barrier — both fail. Father shoves the Architect clear at the last instant; Mother, the Teacher, and Father are all killed together absorbing the Demon's finishing blow. In desperation, the Architect breaks the "never draw Mana from your own body" rule, channeling raw Mana through himself to unleash a self-designed energy-compression spell. The Demon is gravely wounded (loses an arm) and flees. The spell's backlash destroys the Architect's left arm. He collapses. Elena and Iris mobilize a rescue party too late; they find only the Architect alive amid the wreckage and a lingering spatial rift.                                                                                                                                                                                                                                                                                  |
-| Chapter 12 — What Remains            |     WC16 | Family home; village cemetery; The Teacher's abandoned house                 | Architect wakes after six days unconscious. Elena has been caring for him throughout and has moved temporarily into his home. Funeral for Father, Mother, and The Teacher is held (three graves under an old oak; the Scout is buried in her own hometown). Guild Master speaks with the Architect afterward. Iris cares for the Architect indirectly and briefly admits her own grief. Architect finds Father's sword and The Teacher's unfinished research notebook. He attempts one-handed spellcasting for the first time and confronts the concrete technical loss of his old two-handed Mana-channeling habits. The chapter closes on the first visible psychological crack: the Architect begins calculating what he could have done differently — Elena directly names this and warns him gently. The chapter ends with his private, dangerous internal vow: "if I understand enough, I will never lose anyone again."                                                                                                                                                                                                                                                                                                                                                                |
-| **Chapter 13 — Learning to Aim**     | **WC17** | **Family home (research space); village; Guild headquarters**                | **One year after First Major Loss. The Architect's research vow has calcified into a systematic coping pattern: he develops a near-instant-cast technique for basic spells by compressing the first three steps of spellcasting into reflex, drawing on Earth-origin physics/chemistry/biology concepts. He realizes his lost arm was destroyed by his own body acting as an inadequate Mana conduit, not by the spell's backlash itself — the first conceptual seed of an externalized "pathway" for Mana, inspired by gun barrels and rocket engines from his old life (Ark technology's true origin, never named as such). He begins carving pre-woven spell structures onto Father's sword as a makeshift storage method. He skips meals, gives curt answers, and isolates himself in his research space — Iris notices and quietly tries to counter it with small caretaking gestures; Elena directly names the pattern as systemic rather than momentary, referencing her Chapter 12 warning. The village begins regarding him with more awe than closeness. He registers as an independent adventurer through the Guild, taking low-tier solo missions, and begins collecting fragmentary, HINTED-level rumors of unusual Demon activity far from the settlement.** |
+| Chapter | WC | Location | Key state at chapter end |
+|---|---:|---|---|
+| Chapters 1–12 | WC0–16 | (various) | See prior memory versions; First Major Loss fully dramatized (Ch11), aftermath processed (Ch12) |
+| Chapter 13 — Learning to Aim | WC17 | Family home; village; Guild HQ | Systematized withdrawal established; near-instant-cast + unnamed Ark-precursor pathway concept conceived; registers as independent Guild adventurer; Elena's direct confrontation; Iris's quiet caretaking |
+| **Chapter 14 — What Cannot Be Optimized** | **WC18** | **Southwestern ravine; family home; front porch** | **Architect takes an unauthorized hazard-B Guild mission, faces eight (not three) mid-tier Demons in a ravine, nearly dies, self-rescues via a wide-area sealing structure rather than repeating the WC16 body-conduit mistake. Iris secretly shadows him with a real steel sword (given by the blacksmith, who now trusts her skill), watches the entire fight from a cliff, and deliberately does not intervene, trusting him to survive it himself. Elena discovers both the reckless mission and the Architect's continued solo nighttime testing of the externalized Mana-pathway concept. The WC18 major argument occurs in full: Elena's anger is genuine and unguarded for the first time; she tells him he is becoming exactly the kind of thing that killed his parents — something that only calculates, no longer feels. Architect has no rebuttal. Elena announces she is moving out of the house. Three days later, envoys from two Kingdoms and a northern Empire arrive, attempting to recruit/coerce the Architect into weaponizing his research; when a guard threatens Elena and Iris directly, the Architect loses control and releases an overwhelming, undirected surge of Mana pressure that terrifies the delegation; he delivers a cold, explicit warning and they retreat. That night, Iris tells him she will no longer just "happen to pass by" — she will shadow and protect him from now on, without warning him each time, having been formally entrusted with a real sword by the blacksmith.** |
 
-**Continuity note:** Chapter 13 explicitly covers "one year after WC16," landing within the existing WC17–19 window described in `02-timeline.md` ("The Architect continues research but grows colder; Elena and Iris stay close to him; first real magical technologies emerge"). It sets up the WC18 major argument already logged in `42-romance-continuity-memory.md`.
+**Continuity note:** Chapter 14 fulfills the WC18 "major argument" entry already referenced (but left as placeholder) in `42-romance-continuity-memory.md` and `19-emotional-memory.md` from earlier chapter sets. It also opens a new political-threat thread not previously dramatized on-page: multiple Kingdoms/an Empire attempting to coerce/recruit the Architect, escalating to a direct threat against Elena and Iris.
 
 ---
 
 ## PRE-WRITING CONTINUITY PROTOCOL — MANDATORY
 
-(unchanged from v14 — see full protocol text preserved below)
-
-Before writing ANY new chapter, the agent MUST establish the immediate narrative handoff from the previous accepted chapter.
-
-### Step 1 — Identify the previous accepted chapter
-
-1. Read `29-agent-memory.md` first.
-2. Read `12-continuity-tracker.md`.
-3. Identify `CURRENT CHAPTER` and `CURRENT WC YEAR`.
-4. Locate the corresponding previous chapter file from the chapter sequence.
-5. If the previous chapter filename is not known, search the available chapter files by **chapter number/title**, not by guessing.
-
-### Step 2 — Read the previous chapter's metadata FIRST
-
-Before drafting prose, locate and read that chapter's `## Chapter Metadata` and `## Continuity Update`.
-
-### Step 3 — Determine the starting state of the new chapter
-
-Explicitly establish where the story starts, how much time has passed, computed ages, location, POV, characters present, relationships, active unresolved threads, foreshadowing, and secrets.
-
-### Step 4 — Check the broader continuity chain
-
-Priority: `29-agent-memory.md` → `12-continuity-tracker.md` → immediate previous chapter metadata → earlier chapter metadata → immutable canon / `world_calendar.md` → relevant supporting files.
-
-### Step 5 — Perform a pre-write continuity check
-
-Verify WC chronology, ages, secrets, relationship states, objects/promises, first-person voice, protagonist naming, and age-safety rules.
-
-### Step 6 — After the chapter is accepted
-
-Update BOTH `29-agent-memory.md` and `12-continuity-tracker.md`.
+(unchanged — see `12-continuity-tracker.md` for full protocol text)
 
 ---
 
 ## CURRENT STORY STATE
 
-One year has passed since First Major Loss. The Architect has channeled his grief almost entirely into technical research, developing a near-instant-cast spellcasting method and beginning to conceptualize an externalized Mana pathway (a direct, unnamed precursor to Ark technology) after realizing his own body — not the spell's backlash — was the true cause of his lost arm. He has begun carving pre-woven spell structures onto his Father's sword. His coping pattern from Chapter 12 (calculation instead of grief) has calcified into a systematic behavioral pattern: skipping meals, curt answers, self-isolation. Elena directly names this as a pattern rather than a moment, referencing her Chapter 12 warning; Iris continues quiet, indirect caretaking while sensing him "closing off." The wider village now regards him with more awe than warmth. He has formally registered as an independent adventurer through The Guild, taking low-tier solo missions to test his techniques in real combat, and has begun compiling fragmentary, HINTED-level rumors of unusual Demon activity far from the settlement — laying groundwork toward the Great War without any explicit connection to "The Unburied One."
+The Darkest Point has entered a visible rupture phase. Elena has moved out of the Architect's home following the WC18 argument — the first time their relationship has actually broken rather than merely strained. The Architect's coping pattern (calculation instead of feeling) has now produced two dangerous externalities in quick succession: a near-fatal solo Guild mission, and an uncontrolled release of Mana pressure against a political delegation after they threatened Elena and Iris. Iris has shifted from indirect, action-based caretaking to active, undisclosed physical protection — she now carries a real sword, given by the blacksmith who trusts her skill, and has resolved to shadow the Architect without telling him each time. A new external threat has emerged: multiple Kingdoms and a northern Empire are attempting to coerce the Architect into weaponizing his research, and have shown willingness to threaten his loved ones to do so.
 
 ---
 
 ## ACTIVE CHARACTERS
 
-- **The Architect (17):** Missing left arm (permanent). Coping mechanism (calculation instead of grief) has become systematic across a full year — research as escape, not passion. Developing near-instant-cast technique and the earliest unnamed conceptual seed of Ark-precursor technology (externalized Mana pathway). Registered as an independent Guild adventurer; takes solo, low-tier missions. Beginning to compile fragmentary intelligence on Demon activity.
-- **Elena (24.25):** Still living in/close to the Architect's home. Directly names his behavioral pattern as systemic for the first time, escalating her Chapter 12 concern into explicit confrontation — direct precursor to the WC18 major argument.
-- **Iris (14):** Continues indirect caretaking (bringing food, small gestures); begins to consciously register that the Architect is "closing off," not just grieving.
-- **The Guild Master:** Accepts the Architect's registration as an independent adventurer, assigns him low-tier missions, and voices quiet concern about his desire to fight alone.
+- **The Architect (18):** Missing left arm (permanent). Took an unauthorized hazard-B mission, nearly died, self-rescued via an improvised wide-area sealing structure (did not repeat the WC16 body-conduit mistake). Continued solo nighttime pathway-concept testing, discovered by Elena. Had the WC18 major argument with Elena; she moved out. Later lost control of his Mana in front of a hostile political delegation after they threatened Elena and Iris — first on-page loss of emotional control, distinct from his usual calculation-based coping.
+- **Elena (24.5):** Confronted the Architect directly and angrily for the first time (not gently, as in Chapters 12–13) about both the reckless mission and the solo pathway testing. Delivered the line comparing him to the monster that killed his parents. Has moved out of the Architect's home as of chapter's end — first real physical/emotional rupture in the relationship.
+- **Iris (15):** Secretly followed the Architect to the ravine mission carrying a real steel sword (newly entrusted to her by the blacksmith), watched the near-fatal fight without intervening, trusting the Architect to survive it. Formally declares to the Architect that she will now shadow and protect him without prior warning each time.
+- **The Guild Master:** Reluctantly approved the hazard-B mission under condition of an emergency signal and a promise to retreat if outnumbered — a promise the Architect broke by omission (misreported the threat as "three" when it was actually eight).
+- **Unnamed political delegation (new):** Envoys representing two Kingdoms and a northern Empire; attempted to coerce/recruit the Architect, escalated to a direct threat against Elena and Iris, retreated after the Architect's uncontrolled Mana display and explicit warning.
 
 ## CURRENT RELATIONSHIPS
 
-- **Architect ↔ Elena:** Tension escalating from ACQUAINTANCE-moving-toward-FRIEND into an active point of concern; Elena's direct confrontation in this chapter is the explicit bridge toward the WC18 major argument already logged in `42-romance-continuity-memory.md`.
-- **Architect ↔ Iris:** Still strictly platonic (age 14). Iris's caretaking pattern deepens; she begins noticing the Architect's withdrawal as a pattern, not an isolated symptom.
-- **Architect ↔ Guild Master:** Formalized into a working relationship — the Architect is now a registered independent adventurer under the Guild's support structure established in Chapter 12.
+- **Architect ↔ Elena:** RUPTURED. Elena has moved out of the shared home following the WC18 major argument — the first genuine relationship break in the saga, not yet resolved. Per `37-relationship-state-machine.md`'s Confession Rule, this argument must change something and must not be resolved quickly; WC19 reconciliation (already logged) remains the next canonical beat but should not be rushed.
+- **Architect ↔ Iris:** Still strictly platonic (age 15). Deepens significantly through her shift from indirect caretaking to active, undisclosed protection — a new phase in her established arc, still fully consistent with `36-secondary-heroines.md`'s "quiet, unspoken, permanently unresolved" romance function, since no attraction is depicted or implied at this age.
+- **Architect ↔ political delegation:** New, hostile. First on-page political antagonist thread involving direct coercion and a threat against the Architect's loved ones.
 
 ## CURRENT POLITICAL STATE
 
-- No major new political developments. Fragmentary rumors of unusual Demon activity are noted but not yet treated as urgent by the Guild — early, low-visibility groundwork toward the Great War.
+- **NEW:** Two Kingdoms and a northern Empire have attempted to coerce the Architect into weaponizing his research for their military benefit, escalating to an explicit threat against Elena and Iris. The Architect refused and, after the threat, responded with an uncontrolled, intimidating display of Mana and an explicit warning. This delegation retreated but the underlying political pressure is unresolved and should be expected to resurface, likely with more organized political consequences (possible early seed for the "pro-Architect / anti-Architect / neutral" factions described at WC31 in `world_calendar.md`).
 
 ## CURRENT WORLD STATE
 
-- The village's collective attitude toward the Architect has shifted subtly toward awe/distance rather than familiarity — a new, minor but real social consequence of WC16.
-- The Architect is now a registered independent adventurer with The Guild.
+- The village's awe/distance toward the Architect (established Chapter 13) continues.
+- A new precedent exists: the Architect has now demonstrated, publicly, an overwhelming and uncontrolled Mana capability when his loved ones are threatened — this is now known to at least one political delegation and will likely spread by rumor.
 
 ## RECENT EVENTS
 
-- **WC17 (Chapter 13):** One year after First Major Loss, the Architect has systematized his research-as-coping-mechanism. He develops a near-instant-cast technique for basic spells and conceives the earliest unnamed precursor idea for externalized Mana pathways (Ark-precursor). He carves pre-woven spell structures onto Father's sword. Elena directly confronts him about the systemic nature of his withdrawal; Iris continues quiet caretaking while noticing the same pattern. He registers as an independent Guild adventurer and begins collecting fragmentary Demon-activity rumors.
+- **WC18 (Chapter 14):** Unauthorized hazard-B Guild mission (eight Demons, near-fatal); Iris's hidden vigil with a real sword; Elena discovers the reckless mission and continued solo pathway testing; WC18 major argument occurs in full, Elena moves out; political delegation from two Kingdoms and a northern Empire threatens Elena and Iris; Architect's uncontrolled Mana outburst and warning; Iris formally commits to undisclosed protective shadowing.
 
 ## RECENT EMOTIONAL EVENTS
 
-- Elena's escalation from a gentle Chapter 12 warning to an explicit, direct confrontation about a systemic pattern — the immediate emotional precursor to the WC18 argument.
-- Iris's caretaking gestures (bringing food, small remarks) now carry an undertone of quiet worry rather than simple routine.
-- The Architect privately finds isolation and technical focus "comforting" — a warning sign the reader should register even as the Architect himself does not yet fully see it.
+- Elena's anger, unguarded and genuine for the first time — a clear escalation from her Chapter 12–13 gentle/direct-but-controlled concern.
+- The Architect's line-less silence when confronted with the "you're becoming the monster" comparison — he has no rebuttal, a significant psychological beat.
+- The Architect's first on-page loss of emotional control (the Mana outburst) — distinct from and possibly more concerning than his usual calculation-based coping, since it shows the suppressed emotion finding a dangerous outlet.
+- Iris's silent vigil at the ravine — established as a defining beat of her character: she trusts him enough not to intervene, even at the cost of watching him nearly die.
 
 ## ACTIVE MYSTERIES
 
-- Who/what was the WC16 Demon ("The Unburied One") — unchanged, entirely backstage. New fragmentary rumors gathered by the Architect in Chapter 13 remain at HINTED level only and must not be connected explicitly to this mystery in prose.
-- The Teacher's remaining unresolved mysteries — unchanged from Chapter 12.
+- Who/what was the WC16 Demon ("The Unburied One") — unchanged, entirely backstage.
+- The Teacher's remaining unresolved mysteries — unchanged.
+- **(New, low-priority)** Identity of the two Kingdoms and the northern Empire involved in the WC18 coercion attempt — left unnamed, open for future development.
 
 ## PENDING FORESHADOWING
 
-- The Architect's conceptual seed for an externalized Mana pathway (Chapter 13) is now the direct, explicit technical precursor to later Ark technology — must not be named "the Ark" until its formal canonical introduction point.
-- Elena's Chapter 13 confrontation is a direct escalation toward the WC18 major argument already logged in `19-emotional-memory.md` and `42-romance-continuity-memory.md`.
-- Fragmentary Demon-activity rumors collected in Chapter 13 are HINTED-level clues feeding the eventual Great War buildup — no explicit link to WC16's Demon is permitted at this stage.
-- Phantom-limb pain motif (established Chapter 12) was not directly used in Chapter 13; still available, sparingly, for future chapters.
+- The Architect's uncontrolled Mana outburst against the political delegation is a new foreshadowing seed for the kind of controlling, intimidation-based systems he will build during the Darkest Point and later dismantle in The Reform (~WC48–52).
+- The political delegation's attempted coercion is an early seed for the "pro-Architect / anti-Architect / neutral" political factions that solidify around WC31 (`world_calendar.md`).
+- Elena's move-out is the direct, unresolved bridge toward the WC19 reconciliation already logged in prior continuity files — must not be resolved quickly or off-page.
+- Iris's shift to active, undisclosed protection is a new through-line that should recur in future chapters (her presence or absence during future dangerous missions).
 
 ## UNRESOLVED THREADS
 
 - Unburied One's confirmed/unconfirmed destruction at WC40 — unchanged.
-- Why The Teacher stopped taking students — unchanged, still withheld by the Guild Master.
-- The Teacher's sharp attentiveness toward Elena (Chapter 7) and Elena's cautious reaction (Chapter 8) — unchanged.
-- The exact contents and significance of The Teacher's unfinished research notebook — still unread/unexplored as of Chapter 13.
-- **(New)** How the Architect's externalized-Mana-pathway concept develops technically over the coming chapters — open for future development.
-- **(New)** The exact content of the fragmentary Demon-activity rumors the Architect is compiling — open, to be developed as the Great War buildup approaches.
+- Why The Teacher stopped taking students — unchanged.
+- The Teacher's sharp attentiveness toward Elena (Chapter 7) — unchanged.
+- The Teacher's unfinished research notebook — still unread as of Chapter 14.
+- **(New)** Where does Elena go after moving out, and what does WC19 reconciliation actually look like on-page — open, to be developed in a future chapter.
+- **(New)** Identity/faction affiliation of the political delegation — open.
+- **(New)** Whether the Architect ever learns that Iris witnessed the ravine fight without intervening — open.
 
 ## THINGS THE READER KNOWS
 
-- All prior "Things the Reader Knows" from Chapter 12 remain true.
-- The reader has now witnessed the Architect's coping pattern calcify into a full year of systematic behavior, explicitly flagged as concerning by Elena.
-- The reader sees the technical seed of Ark technology forming, though the term itself is never used.
+- All prior "Things the Reader Knows" remain true.
+- The reader has now witnessed the actual WC18 argument in full, including Elena's unguarded anger and the "monster" comparison line.
+- The reader knows Iris now carries a real sword and has committed to undisclosed protective shadowing — information the Architect does not fully register at chapter's end.
 
 ## THINGS THE CHARACTERS KNOW
 
-- **The Architect:** Understands, at least partially, that his body — not the spell's backlash — destroyed his own arm; does not yet fully accept Elena's warning about his coping pattern.
-- **Elena/Iris:** Both directly perceive the Architect's withdrawal as a sustained pattern now, not an isolated post-tragedy symptom.
-- **The Guild Master:** Aware the Architect wants to fight alone specifically to avoid further loss; does not yet know the full extent of the Architect's research direction.
+- **The Architect:** Knows Elena has moved out; does not yet know the full extent of Iris's vigil during the ravine fight (he registers her presence but not that she watched the entire battle from the cliff).
+- **Elena:** Knows about both the reckless mission and the solo pathway testing; has stated her reasoning plainly (WC18 argument) and left.
+- **Iris:** Knows she watched the Architect nearly die and chose not to intervene; has now committed, aloud, to shadowing him — but not to warning him each time.
+- **The Guild Master:** Knows the Architect misreported the threat level of the ravine mission (said "three," found eight); has not yet had an on-page reaction to this specific fact beyond what's implied.
 
 ## THINGS ONLY THE AUTHOR KNOWS
 
 - The Unburied One's full WC16–40 arc — unchanged, still entirely backstage.
-- The exact eventual technical form of the Architect's Ark-precursor pathway concept — open for future creative development.
+- The identity of the political delegation and whether/how this thread escalates — open for future creative development.
 
 ## DO NOT REVEAL YET
 
 - Any explicit WC16 ↔ WC33–35 Demon connection — no earlier than Movie 1.
-- The name/identity of "The Unburied One" — must never appear in prose during Season 1.
-- The term "the Ark" itself — the Architect's WC17 pathway concept must remain unnamed as such until its formal canonical introduction point in the timeline.
+- The name/identity of "The Unburied One."
+- The term "the Ark" itself.
 
 ## DO NOT CONTRADICT
 
-- The Architect is born WC0 as an infant with full adult memory.
-- Elena ages at 0.25×, already adult when they meet at WC15.
-- HARD RULE: all romantic/sexual content requires 18+ actual age (computed). Iris's romantic feelings never appear before ~WC21+; her Chapter 13 involvement remains strictly platonic (age 14).
-- Seraphine is ageless, always refused, nicknamed "Sera" post-WC35 at her own request; not yet active in the story.
-- Isolde Veyrand, princess of the Empire of Veyrand; not yet active.
-- Elena's death and the Son's birth happen the same day (WC35) — unaffected by this chapter.
-- The Architect's death by old age is told inside Movie 1.
-- "Builder" ≠ "Architect."
-- WC16 "First Major Loss" is fully dramatized on-page (Chapter 11); the Architect's missing left arm remains permanent — unaffected by this chapter.
-- Burial arrangement (Father/Mother/Teacher in the village cemetery; Scout in her hometown) — unchanged, permanent.
-- Elena's temporary cohabitation with the Architect continues into WC17 — unchanged, still explicitly non-romantic.
-- **RESOLVED, v8 (unchanged):** the WC16 Demon — continuity name "The Unburied One" — remains dormant and entirely backstage.
-- The Empire of Veyrand is an Empire, not a Kingdom.
-- **RESOLVED, v8 (unchanged):** the Architect's city is renamed "Elena" after her death.
-- World Peoples include Human/Eterna/Half-blood/Demon/Beastkin/Dwarf/Sylvan/Undead/Giant-Titan-kin.
-- `43-ost-reference.md` has no "Season 3" — corrected to "Movie 2" (v8).
-- **NEW, Chapter 13, permanent:** the Architect is now a registered independent adventurer with The Guild, taking solo missions — do not silently reverse this without narrative cause.
-- **NEW, Chapter 13, permanent:** the technical origin of the Architect's future Ark-precursor pathway concept traces to his WC17 realization that his own body, not the spell's backlash, destroyed his arm — this causal chain must not be contradicted in future chapters.
+- All prior DO NOT CONTRADICT items from Chapter 13's memory file remain in force (Architect born WC0, Elena's aging rate, hard 18+ romance rule, Iris's platonic status through ~WC21, Seraphine/Isolde not yet active, Elena's WC35 death, "Builder" ≠ "Architect," WC16 First Major Loss fully dramatized, missing left arm permanent, burial arrangements, WC16 Demon resolution, Empire of Veyrand status, city renamed "Elena," World Peoples list, OST "no Season 3," Architect's independent Guild adventurer status, the causal chain from WC17's realization to the pathway concept).
+- **NEW, Chapter 14, permanent:** Elena has moved out of the Architect's home as of WC18 — do not silently reverse this without a future reconciliation scene (WC19, already logged as the next canonical beat).
+- **NEW, Chapter 14, permanent:** Iris now carries a real steel sword, entrusted to her by the blacksmith, and has committed to undisclosed protective shadowing of the Architect — this is an ongoing status, not a one-time event.
+- **NEW, Chapter 14, permanent:** The Architect has demonstrated, on-page and in front of witnesses, an uncontrolled and intimidating Mana outburst when Elena and Iris were threatened — this is now known to at least one political delegation.
 
 ---
 
@@ -190,19 +141,19 @@ One year has passed since First Major Loss. The Architect has channeled his grie
 
 ### The Architect
 
-- One year into the Darkest Point's early formation. Research-as-avoidance has calcified into a systematic pattern, directly named by Elena. Has begun the earliest technical steps toward Ark-precursor technology and formal independent adventuring. Next canonical milestone: the WC18 major argument with Elena (already logged), followed by his first genuinely successful magic research reinforcing his optimization-driven worldview.
+- Deep in the early Darkest Point, now marked by a genuine relationship rupture (Elena) rather than only internal withdrawal. Has demonstrated a new, more dangerous failure mode: loss of emotional control under threat to loved ones, rather than only calculation-as-avoidance. Next canonical milestone: WC19 reconciliation with Elena (already logged) — should not be rushed or resolved off-page.
 
 ### Elena
 
-- Escalates from a gentle Chapter 12 warning to direct confrontation about a systemic pattern — the explicit emotional bridge to the WC18 argument.
+- Escalates from direct confrontation (Chapter 13) to genuine anger and a real consequence (moving out) — the clearest evidence yet that her role is an active challenger of his coping mechanisms, not merely a caretaker. Sets up the WC19 reconciliation and, further out, the WC23 "people are not variables" breakthrough.
 
 ### Iris
 
-- Continues indirect caretaking; now consciously registers the Architect's withdrawal as a pattern. Still strictly platonic (age 14).
+- Shifts decisively from indirect, action-based caretaking to active, undisclosed physical protection. Now armed with a real sword and formally trusted by the blacksmith. Still strictly platonic (age 15).
 
 ### The Guild Master
 
-- Accepts the Architect's registration as an independent adventurer; voices quiet concern about his desire to fight alone, without pressuring him to change course.
+- Implicitly betrayed by the Architect's misreported threat assessment; has not yet had a full on-page reaction — open for a future chapter.
 
 ### Seraphine, Isolde, Son, Mira, The Other Builder, Noah
 
@@ -211,72 +162,77 @@ One year has passed since First Major Loss. The Architect has channeled his grie
 ## CURRENT ROMANCE STATE
 
 PRIMARY:
-The Architect ↔ Elena — ACQUAINTANCE moving toward FRIEND, now under active strain; Elena's direct confrontation in Chapter 13 is the explicit precursor to the WC18 major argument. Must not be read as a romantic escalation — the tension here is one of concern and friction, not attraction.
+The Architect ↔ Elena — RUPTURED as of WC18. Elena has moved out following the major argument. This must not be treated as a breakup in the romantic sense (they are not yet married or officially a couple), but as a serious relational rupture that directly precedes the already-logged WC19 reconciliation. Do not resolve this quickly.
 
 SECONDARY ATTRACTIONS:
 
-- Iris — ACQUAINTANCE, strictly platonic (age 14)
+- Iris — ACQUAINTANCE, strictly platonic (age 15), now deepened through active protection rather than romantic development.
 - Seraphine (not yet active)
 - Isolde (not yet active)
 
 ## ELENA STATUS:
 
-Still living in or very close to the Architect's home as of WC17, though her role has shifted from acute caretaking (Chapter 12) to ongoing, increasingly worried observation of his behavioral pattern.
+As of WC18, Elena has moved out of the Architect's home. Her new living situation is not yet specified on-page — open for a future chapter to establish.
 
 ---
 
 ## CURRENT FAN-SERVICE LEVEL
 
-CURRENT LEVEL: None. Chapter 13 continues the direct emotional aftermath of WC16 and the early Darkest Point formation — no fanservice framing is appropriate, per `41-romance-agent-rules.md`. This restriction should continue through the WC18 argument.
+CURRENT LEVEL: None. Chapter 14 is a major dramatic rupture chapter — no fanservice framing is appropriate. This restriction should continue at least through the WC19 reconciliation.
 
 ## Avoid:
 
-Any romantic/fanservice framing in this chapter or its immediate aftermath. Any softening of the Architect's withdrawal pattern as healthy or neutral — it must continue to read as a warning sign the reader should worry about. Any premature naming of "the Ark."
+Any romantic/fanservice framing involving Iris (age 15) or in the immediate aftermath of the Elena rupture. Any quick, off-page, or unearned resolution of the Elena rupture. Any softening of the Architect's Mana outburst as heroic without also registering it as a warning sign, consistent with Elena's core critique of him.
 
 ---
 
 ## CURRENT TECHNOLOGY LEVEL
 
-- **New (Chapter 13):** near-instant-cast technique for basic spells, developed by the Architect; earliest unnamed conceptual seed for an externalized Mana pathway (Ark-precursor), inspired by Earth-origin physics concepts (gun barrels, rocket engines); pre-woven spell structures carved onto Father's sword as a makeshift storage/release method.
+- Unchanged from Chapter 13's near-instant-cast technique and unnamed externalized Mana-pathway concept, still confined to notebook sketches and small-scale nighttime testing — no larger prototype yet built.
+- **New (Chapter 14):** the wide-area sealing structure improvised at the ravine (binding multiple enemies via a single ground-level structure rather than individual bindings) is a new applied variant of his sealing technique — not yet formalized, a candidate for future refinement.
 
 ## CURRENT MAGIC LEVEL
 
-- Confirmed: the Architect's established two-handed Mana-channeling technique (lost WC16) has been substantially replaced by a new one-handed, near-instant-cast approach as of Chapter 13. This is now the baseline for all future spellcasting scenes involving him, pending further refinement.
+- Confirmed: one-handed, near-instant-cast baseline remains the standard for the Architect's spellcasting as of Chapter 14.
+- **New:** the Architect demonstrated an undirected, uncontrolled large-scale Mana pressure release under extreme emotional stress — distinct from his controlled techniques, and not a technique he can currently reproduce deliberately.
 
 ## CURRENT FACTION STATE
 
-- The Guild's supportive role toward the Architect is now formalized through his registration as an independent adventurer.
+- **New:** a coalition of unnamed representatives from two Kingdoms and a northern Empire has attempted to coerce the Architect into a weapons-development arrangement; refused, and now hostile after his warning. This is the first on-page instance of external political pressure specifically targeting the Architect's research for military use.
 
 ## CURRENT LOCATION STATE
 
-- No new registry-level locations. Guild headquarters continues as an active recurring location.
+- Southwestern ravine — new mission site, non-registry unless it recurs.
+- Architect's family home — now occupied only by the Architect (Elena moved out).
 
 ## CURRENT ARTIFACT STATE
 
-- **Updated (Chapter 13):** Father's sword now carries carved, pre-woven spell structures as a makeshift Mana-release method — a functional update to the existing "Father's Sword" entry in `24-artifact-registry.md`.
-- The Teacher's unfinished research notebook remains unread/unexplored — unchanged from Chapter 12.
+- **New (Chapter 14):** Iris's real steel sword, given by the village blacksmith — see updated `24-artifact-registry.md`.
+- Father's sword and The Teacher's unfinished research notebook remain unchanged from Chapter 13.
 
 ---
 
 ## LAST CHAPTER SUMMARY
 
-**Chapter 13 — Learning to Aim (WC17):** One year after First Major Loss, the Architect has systematized his research-as-coping-mechanism into a consistent behavioral pattern — skipping meals, curt answers, self-isolation. He develops a near-instant-cast spellcasting technique and conceives, for the first time, the unnamed technical seed of what will become Ark technology, after realizing his own body was the true point of failure in his WC16 arm loss. He carves pre-woven spell structures onto Father's sword. Elena directly names his withdrawal as a systemic pattern rather than a passing moment; Iris quietly registers the same shift. The village's collective attitude toward him shifts toward awe rather than warmth. He formally registers as an independent Guild adventurer, takes low-tier solo missions, and begins compiling fragmentary, HINTED-level rumors of unusual Demon activity.
+**Chapter 14 — What Cannot Be Optimized (WC18):** The Architect takes an unauthorized hazard-B Guild mission, misreporting the threat level, and nearly dies against eight Demons in a ravine before self-rescuing via an improvised wide-area sealing structure. Iris secretly follows him with a real sword, newly entrusted to her by the blacksmith, and watches the fight without intervening, trusting him to survive it. Elena discovers both the reckless mission and the Architect's continued solo nighttime testing of his externalized Mana-pathway concept. The WC18 major argument occurs in full: Elena's anger is unguarded and genuine, culminating in her comparing him to the monster that killed his parents. She moves out of the shared home. Three days later, a political delegation from two Kingdoms and a northern Empire attempts to coerce the Architect into weaponizing his research; when they threaten Elena and Iris directly, the Architect loses control and releases an overwhelming, undirected Mana pressure, delivering an explicit, cold warning that sends them retreating. That night, Iris tells him she will now shadow and protect him without warning him each time.
 
 ## NEXT CHAPTER INTENT
 
-- Escalate toward the WC18 major argument between the Architect and Elena, already logged in `42-romance-continuity-memory.md` — his first genuinely successful magic research reinforcing his optimization-driven worldview, and Elena's failed attempt to pull him back.
-- Continue developing the Architect's Ark-precursor pathway concept in concrete, incremental steps — do not resolve it into a finished technology prematurely.
+- Move toward the WC19 reconciliation between the Architect and Elena — already logged in prior continuity files — but do not rush or resolve it off-page; it should feel earned.
+- Continue developing consequences of the political delegation's coercion attempt — possible early political faction formation.
+- Continue developing Iris's undisclosed protective shadowing as an ongoing pattern, not a one-time event.
 - Preserve reveal discipline on the Demon's identity absolutely.
-- Preserve Iris's strictly platonic framing (age 14).
-- Preserve Elena's non-romantic proximity; do not accelerate the relationship state machine.
+- Preserve Iris's strictly platonic framing (age 15).
 
 ## CONTINUITY WARNINGS
 
-- WC16's First Major Loss is FULLY RESOLVED ON-PAGE (Chapter 11) — do not re-stage or contradict it.
-- The Architect's missing left arm is PERMANENT — do not silently restore it.
+- WC16's First Major Loss is FULLY RESOLVED ON-PAGE — do not re-stage or contradict it.
+- The Architect's missing left arm is PERMANENT.
 - Do not reveal the Unburied One's identity, name, or WC16↔WC33–35 connection early.
 - Do not name "the Ark" explicitly until its canonical introduction point.
 - Never give The Architect a personal name.
+- Do not resolve the Elena rupture quickly or off-page.
+- Do not add romantic framing to Iris at age 15.
 
 ## MEMORY UPDATE RULE
 
@@ -291,10 +247,10 @@ IN-WORLD TITLE:
 The Architect (earned WC35; distinct from the broader category "Builder")
 
 NARRATIVE IDENTITY:
-Reader-projectable first-person protagonist, adult mind from birth (WC0) — now permanently missing his left arm from WC16 onward, and now one year into a systematic pattern of avoidance that is the visible early shape of the Darkest Point.
+Reader-projectable first-person protagonist, adult mind from birth (WC0) — permanently missing his left arm from WC16 onward, deep in the early Darkest Point, now marked by a genuine relational rupture and a first instance of uncontrolled emotional/Mana outburst.
 
 PHYSICAL SPECIFICITY:
-Keep intentionally moderate unless scene requires detail. The missing left arm (from WC16 onward) must be preserved consistently in all future prose and visual work.
+Keep intentionally moderate unless scene requires detail. The missing left arm must be preserved consistently in all future prose and visual work.
 
 VISUAL DEFAULT:
 Back / side / silhouette / over-the-shoulder / partially obscured face.
@@ -304,14 +260,17 @@ Back / side / silhouette / over-the-shoulder / partially obscured face.
 ## ACTIVE CHARACTER DESIGNS:
 
 - The Architect (WC16 onward): missing left arm — see `30-visual-bible.md`.
+- Iris (WC18 onward): now carries a real steel sword rather than a wooden training sword — minor visual update candidate for `30-visual-bible.md`.
 
 ## ACTIVE LOCATION DESIGNS:
 
-- Village cemetery (under an old oak tree) — unchanged from Chapter 12.
+- Village cemetery (under an old oak tree) — unchanged.
+- Southwestern ravine — new, no formal design sheet yet.
 
 ## ACTIVE ARTIFACT DESIGNS:
 
-- Father's sword (now carrying carved pre-woven spell structures); The Teacher's unfinished research notebook — no formal design sheets yet.
+- Father's sword (carrying carved pre-woven spell structures); The Teacher's unfinished research notebook — no formal design sheets yet.
+- Iris's real steel sword — new, no formal design sheet yet.
 
 ## LAST CANONICAL ILLUSTRATIONS:
 
@@ -319,9 +278,11 @@ Back / side / silhouette / over-the-shoulder / partially obscured face.
 
 ## PENDING ILLUSTRATIONS:
 
-- Candidate P0 illustration: "The Teacher's death" scene — still available for future development.
-- Candidate: the funeral scene (three graves under the oak tree) — still available.
-- **New candidate (Chapter 13):** the Architect carving spell structures onto Father's sword by lamplight, alone in his research space — a strong visual for the chapter's emotional isolation, not yet formally proposed.
+- Candidate: "The Teacher's death" scene — still available.
+- Candidate: the funeral scene — still available.
+- Candidate (Chapter 13): the Architect carving spell structures onto Father's sword — still available.
+- **New candidate (Chapter 14):** the Architect surrounded by eight Demons in the ravine, mid-cast of the wide-area sealing structure — strong P1 candidate for an action illustration.
+- **New candidate (Chapter 14):** the Architect's uncontrolled Mana outburst in front of the political delegation — strong P1 candidate for an emotional-climax illustration.
 
 ## IMAGE CONTINUITY WARNINGS
 
@@ -329,5 +290,6 @@ Back / side / silhouette / over-the-shoulder / partially obscured face.
 - Never turn "The Architect" into a civilian name.
 - Never accidentally use another character's design for Elena, Iris, Seraphine, or Isolde.
 - Never depict Iris with any romantic/attraction framing before she is an adult (~WC21+).
-- Keep age (computed via the Aging Rate System), costume, technology, and location consistent with the current WC year.
-- From WC16 onward, the Architect must always be depicted missing his left arm, unless a specific future canon decision is explicitly authorized by the owner.
+- Keep age, costume, technology, and location consistent with the current WC year.
+- From WC16 onward, the Architect must always be depicted missing his left arm.
+- From WC18 onward, Iris should be depicted with a real steel sword rather than a wooden training sword when armed.

@@ -1,4 +1,4 @@
-# Romance Continuity Memory (v11, World Calendar canon)
+# Romance Continuity Memory (v12, World Calendar canon)
 
 ## Purpose
 
@@ -70,8 +70,10 @@ Seed entries to track from the outset:
 - Seraphine's request to be called "Sera" (post-WC35) — a granted concession paired with a refusal.
 - Seraphine's genuine, unspoken love and the resulting loss of her demonic combat power.
 - Elena's "temporary name" motif (Chapter 8) — a direct thematic seed for the WC35 "Architect" title.
-- **Elena moving into the Architect's home post-WC16 (Chapter 12)** — a major, explicitly non-romantic caretaking milestone.
-- **(New, Chapter 13) Elena's direct confrontation about the Architect's systematized withdrawal** — see dedicated entry below; a distinct beat from her Chapter 12 warning, escalating it into open concern.
+- Elena moving into the Architect's home post-WC16 (Chapter 12) — a major, explicitly non-romantic caretaking milestone.
+- Elena's direct confrontation about the Architect's systematized withdrawal (Chapter 13).
+- **(New, Chapter 14) Elena moving OUT of the Architect's home post-WC18 argument** — see dedicated entry below; the direct counterpart/escalation of her Chapter 12 move-in.
+- **(New, Chapter 14) Iris's shift from wooden to real sword and her formal commitment to undisclosed protective shadowing** — non-romantic but load-bearing for her arc; see dedicated entry below.
 
 ## Rule
 
@@ -93,29 +95,29 @@ Especially track: first meeting (WC15); the WC16 rescue and cohabitation; the WC
 
 (unchanged — see prior version)
 
-### WC17 — The Systematized Withdrawal, Direct Confrontation (new, Chapter 13)
+### WC17 — The Systematized Withdrawal, Direct Confrontation (Chapter 13)
 
-- **Event ID:** ROM-S01-C013-01
-- **WC Year:** 17
+(unchanged — see prior version)
+
+### WC18 — Major Argument and Rupture (new, Chapter 14)
+
+- **Event ID:** ROM-S01-C014-01
+- **WC Year:** 18
 - **Characters:** Architect, Elena
-- **Character Ages (computed):** Architect 17; Elena 24.25
-- **Relationship State Before:** ACQUAINTANCE moving toward FRIEND, under growing strain since Chapter 12's first crack.
-- **Interaction:** On the Architect's birthday — which he has forgotten entirely, absorbed in research — Elena confronts him directly about a full year of behavioral withdrawal: skipped meals, curt answers, self-isolation. She explicitly distinguishes this from her Chapter 12 warning, naming it as a sustained pattern rather than a single moment of grief. The Architect defends his research as a genuine attempt to prevent further loss; Elena does not concede the point, warning that replacing grief with calculation risks leaving him unable to feel anything else. She leaves without waiting for his response.
-- **Relationship State After:** Still ACQUAINTANCE/FRIEND, now under active strain — this is the direct emotional bridge to the WC18 major argument already logged.
-- **Emotional Meaning:** Establishes Elena's role not merely as a caretaker but as an active, willing challenger of the Architect's coping mechanisms — a direct escalation of her Chapter 12 concern, and a structural precursor to her full WC23 "people are not variables" breakthrough.
-- **Joke / Running Motif:** None; too tense a moment for levity. Notable dramatic irony: this confrontation occurs on the Architect's forgotten birthday, which Iris had prepared a meal for.
-- **Foreshadowing:** Elena's warning here ("nếu cậu cứ tiếp tục thay thế nỗi đau bằng những con số...") is a further, escalated echo of her Chapter 12 line, itself a precursor to the LOCKED "You can't fix everything." Do not treat this as the lesson landing — it is a second failed attempt, more forceful than the first, still short of full impact.
-- **Reader Interpretation:** The reader should feel Elena's care intensifying into genuine alarm, and should register the Architect's isolation as a red flag the narrative is deliberately escalating toward the WC18 argument.
-- **Character Interpretation:** Neither character frames this as romantic. Elena's motivation is escalating platonic concern; the Architect experiences it as an unwelcome intrusion on what he believes is productive, protective work.
-- **Must Be Remembered Later:** This scene must be referenced, at least implicitly, when the WC18 major argument occurs — it should read as the second of at least two clear warnings Elena gave before the relationship ruptures. Do not let the WC18 argument feel like it comes out of nowhere.
-
-### WC18 — Major Argument
-
-(unchanged — see prior version; now understood to be preceded by both the Chapter 12 warning and the Chapter 13 direct confrontation)
+- **Character Ages (computed):** Architect 18; Elena 24.5
+- **Relationship State Before:** ACQUAINTANCE/FRIEND under active strain, following two prior warnings (Chapter 12 gentle, Chapter 13 direct).
+- **Interaction:** Elena learns from the Guild Master that the Architect took an unauthorized hazard-B mission, misreporting the threat as three Demons when it was actually eight, and nearly died. She also discovers his notebook of ongoing solo nighttime experiments with the externalized Mana-pathway concept — the same category of research that cost him his arm at WC16. For the first time, her response is not gentle concern but genuine, unguarded anger. She confronts him directly; he defends his actions as necessary risk-management; she rejects the framing entirely, telling him she wants him to actually *live*, not merely optimize his own survival odds. When he says he cannot let another person he loves die in front of him again, she delivers the chapter's emotional climax: that he is becoming exactly the kind of thing that killed his own parents — something that only calculates, no longer feels. He has no answer. She announces she is moving out of the shared home, stating it is not because she has stopped caring, but because she can no longer watch him harm himself without being able to stop it — and that he may need to hit bottom before he is willing to listen.
+- **Relationship State After:** CONFLICT / RUPTURED. Elena has physically moved out. This is the first genuine relational break in the saga, distinct from all prior tension.
+- **Emotional Meaning:** This is the payoff of the escalating pattern set up in Chapter 12 (gentle warning) and Chapter 13 (direct confrontation) — Elena's third attempt is the one that finally lands emotionally (the Architect has no rebuttal), even though it does not yet produce behavioral change. It establishes that Elena's love for him includes real anger and real boundaries, not just patience.
+- **Joke / Running Motif:** None; this is the chapter's most serious confrontation. No levity present.
+- **Foreshadowing:** Elena's line here is a direct, deliberate precursor to the LOCKED "You can't fix everything" and to the WC23 "People are not variables" breakthrough — this is the third and most forceful of at least three attempts before the lesson actually lands at WC23. Do NOT treat this scene as the breakthrough itself — it is escalation, not resolution. The "becoming the monster" line is a strong new candidate for future consideration but has NOT been promoted to `46-iconic-dialogue-registry.md` — owner discretion required before any such promotion.
+- **Reader Interpretation:** The reader should feel that Elena's care has curdled into real, earned anger, and that the relationship has genuinely broken rather than merely strained — raising the stakes for the WC19 reconciliation.
+- **Character Interpretation:** Neither character frames this as a romantic rupture in the sense of ending a courtship (they are not yet a couple); it reads as a friendship/found-family bond reaching a real breaking point over the Architect's self-destructive coping.
+- **Must Be Remembered Later:** This scene, and Elena's absence from the home afterward, must be directly referenced and felt in the WC19 reconciliation — the reconciliation must not read as a quick fix or as though this rupture never happened.
 
 ### WC19 — Reconciliation
 
-(unchanged — see prior version)
+(unchanged — see prior version; now understood to require direct acknowledgment of the WC18 rupture, including Elena's absence from the home, before any reconciliation beat can land)
 
 ## Iris Memory
 
@@ -131,18 +133,22 @@ Especially track: first meeting (WC15); the WC16 rescue and cohabitation; the WC
 
 (unchanged — see prior version)
 
-### WC17 — Continued Caretaking, Quiet Recognition of Withdrawal (new, Chapter 13)
+### WC17 — Continued Caretaking, Quiet Recognition of Withdrawal (Chapter 13)
 
-- **Event ID:** ROM-S01-C013-02
-- **WC Year:** 17
+(unchanged — see prior version)
+
+### WC18 — Real Sword, Silent Vigil, and the Protection Vow (new, Chapter 14)
+
+- **Event ID:** ROM-S01-C014-02
+- **WC Year:** 18
 - **Characters:** Iris, Architect
-- **Character Ages (computed):** Iris 14 (STRICTLY PLATONIC); Architect 17
-- **Relationship State Before:** ACQUAINTANCE, platonic.
-- **Interaction:** Iris continues her established caretaking pattern — bringing food, noting when the Architect has skipped a meal for consecutive days — but for the first time consciously registers his self-isolation as a repeating pattern rather than a single grief response. She does not confront him directly (contrasting with Elena's approach in the same chapter); instead she continues her indirect, action-based care, leaving food and quietly withdrawing when he declines it.
-- **Relationship State After:** ACQUAINTANCE, platonic — deepened in Iris's private awareness, unchanged in outward kind.
-- **Emotional Meaning:** Establishes a clear contrast between Iris's and Elena's approaches to the same concern — Elena confronts directly; Iris continues to express care through action rather than words, consistent with her established voice (`15-character-voice.md`).
-- **Character Interpretation:** No attraction is present or implied at this age. Her care remains that of a devoted friend/found-family member.
-- **Must Be Remembered Later:** This should be understood, in retrospect (post-~WC21), as part of the same durable caretaking pattern established in Chapter 12 — deferred, action-based, non-confrontational. Do not accelerate her emotional arc or reframe this scene as attraction at this age.
+- **Character Ages (computed):** Iris 15 (STRICTLY PLATONIC); Architect 18
+- **Relationship State Before:** ACQUAINTANCE, platonic, deepening quiet caretaking.
+- **Interaction:** The village blacksmith, now confident in Iris's swordsmanship, entrusts her with a real steel sword. She secretly follows the Architect to his unauthorized ravine mission, watches him nearly die against eight Demons from a nearby cliff, and deliberately chooses not to intervene — trusting him to survive it on his own. That night, after witnessing the political delegation's threat and the Architect's outburst, she tells him directly that she will no longer merely "happen to pass by": she will actively shadow and protect him from now on, without warning him each time, so as not to give him the chance to either stop her or perform strength for her benefit.
+- **Relationship State After:** ACQUAINTANCE, platonic — deepened into an active protective role, still entirely non-romantic.
+- **Emotional Meaning:** Marks Iris's clearest developmental beat since Chapter 12: she moves from passive/indirect care (food, mending, small gestures) to active, physically capable protection, while still preserving her established voice (action over words, restraint over declaration). Her choice not to intervene during the ravine fight is presented as an act of trust, not neglect — consistent with `15-character-voice.md`'s "says less than she feels."
+- **Character Interpretation:** No attraction present or implied at this age. Her motivation is loyalty and found-family devotion, consistent with `17-character-secrets.md`'s established secret that she has loved him since she was old enough for it to matter but never states it, expressing it only through care and now protection.
+- **Must Be Remembered Later:** Iris's real sword and her commitment to undisclosed shadowing should recur as an ongoing pattern in future chapters — she should plausibly be nearby (visibly or not) during future dangerous situations. Do not let this commitment be forgotten or silently dropped.
 
 ## Iris / Seraphine / Isolde Memory
 

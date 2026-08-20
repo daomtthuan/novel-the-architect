@@ -1,18 +1,18 @@
-# Emotional Memory (v11, World Calendar canon)
+# Emotional Memory (v12, World Calendar canon)
 
 These moments should echo later.
 
-## First Major Loss (WC16, now fully dramatized — Chapter 11)
+## First Major Loss (WC16, fully dramatized — Chapter 11)
 
-The origin point of the Darkest Point, now shown on-page in full. Not merely The Teacher's death — the Architect's tactical miscalculation against a high-tier Demon costs him the Scout first, then his Father, Mother, and The Teacher together, all three dying to shield him from the Demon's finishing blow after his own layered defenses both fail. His father throws him clear at the last moment; his father's body then strikes him, revealing the fatal wound. In desperation, the Architect breaks The Teacher's core rule to unleash a self-designed spell that gravely wounds the Demon — at the cost of his own left arm, permanently lost. His missing arm should recur, sparingly, as a physical echo of this event across future chapters — not over-explained, but present.
+(unchanged — see prior version)
 
-## Elena and Architect's Major Argument (WC18)
+## Elena and Architect's Major Argument (WC18, now fully dramatized — Chapter 14)
 
-(unchanged — see `42-romance-continuity-memory.md` for the seed already established in Chapter 13's direct confrontation)
+The direct payoff of the escalating pattern from Chapters 12 and 13. Elena discovers the Architect's unauthorized, underreported hazard-B Guild mission (he nearly died against eight Demons, having reported only three) and his continued solo nighttime testing of the externalized Mana-pathway concept — the same category of research responsible for his WC16 arm loss. For the first time, her response is genuine, unguarded anger rather than gentle or even direct-but-controlled concern. The argument's emotional climax is her line comparing him to the very monster that killed his parents — a thing that only calculates, no longer feels — which lands with real force precisely because the Architect has no rebuttal to offer. She moves out of the shared home. This scene must be treated as a genuine rupture, not a repeatable beat; do not stage a near-identical "major argument" again before the WC23 breakthrough. Should recur, sparingly, as a memory the Architect carries into future chapters — particularly at the WC19 reconciliation, where it must be directly acknowledged rather than skipped past.
 
 ## Elena and Architect's Reconciliation (WC19)
 
-(unchanged)
+(unchanged — see `42-romance-continuity-memory.md`; must now explicitly reference and resolve the WC18 rupture and Elena's absence from the home, not merely restate prior warnings)
 
 ## Elena's "People Are Not Variables" (WC23)
 
@@ -90,10 +90,22 @@ The origin point of the Darkest Point, now shown on-page in full. Not merely The
 
 (unchanged)
 
-## The Systematized Withdrawal (WC17, new, Chapter 13)
+## The Systematized Withdrawal (WC17, Chapter 13)
 
-One year after First Major Loss, the "first crack" from Chapter 12 has become a sustained pattern: the Architect skips meals, gives curt answers, and isolates himself in his research space for long stretches, channeling grief almost entirely into technical work — the development of a near-instant-cast spellcasting technique and the earliest conceptual seed of an externalized Mana pathway (unnamed Ark-precursor). Elena directly confronts him about this, explicitly distinguishing between "a moment" and "a pattern," and referencing her own Chapter 12 warning. This scene is the direct emotional bridge to the WC18 major argument. Iris, separately, quietly registers the same withdrawal through her own caretaking routine (bringing food that goes untouched, noticing his self-isolation) without directly confronting him about it — establishing a contrast between Elena's growing willingness to challenge him openly and Iris's continued preference for indirect, action-based care. Use this scene as an early escalation beat; do not let it resolve the Darkest Point prematurely — it should read as tension building, not tension released.
+(unchanged)
 
-## Registering Alone (WC17, new, Chapter 13)
+## Registering Alone (WC17, Chapter 13)
 
-The Architect formally registers as an independent Guild adventurer specifically so that no one else will ever again be positioned to die protecting him. The Guild Master accepts this without argument but voices quiet, unresolved concern. This moment should be remembered later as an early expression of the same impulse — controlling risk by eliminating dependence on others — that fully calcifies into the Darkest Point's "people as variables" thinking by WC22.
+(unchanged)
+
+## Elena Moves Out (WC18, new, Chapter 14)
+
+The direct counterpart to "Elena Moves In" (WC16, Chapter 12). Following the WC18 major argument, Elena moves out of the Architect's home — not out of diminished care, but because she can no longer watch him harm himself without being able to stop it. This is a significant physical and emotional marker of the relationship's rupture and must be directly felt in the Architect's subsequent isolation, and directly addressed (not silently reversed) at the WC19 reconciliation.
+
+## The Architect's First Loss of Control (WC18, new, Chapter 14)
+
+When a political delegation representing two Kingdoms and a northern Empire threatens Elena and Iris directly in an attempt to coerce the Architect into weaponizing his research, he responds not with his usual calculated, structured magic, but with an undirected, overwhelming release of raw Mana pressure — frightening the delegation into retreat. This is distinct from and more concerning than his established "calculation instead of grief" coping mechanism: it is the first on-page evidence that the emotion he has been suppressing through research and isolation is finding an uncontrolled outlet. Should be remembered as an early warning sign of the systems of control and intimidation he risks building during the deepest part of the Darkest Point, later dismantled during The Reform (~WC48–52). Do not treat this outburst as heroic without also registering it as dangerous — this must align with, not undercut, Elena's core critique of him in the same chapter.
+
+## Iris's Silent Vigil (WC18, new, Chapter 14)
+
+Iris secretly shadows the Architect to his unauthorized ravine mission and watches him nearly die without intervening, trusting him to survive on his own. This moment — deliberately withheld from the Architect's own knowledge at chapter's end — should be remembered as a defining beat of Iris's character: her devotion expressed through trust and restraint rather than through visible rescue. Pairs thematically with her decision, later the same chapter, to commit to ongoing undisclosed protection — trust and vigilance held together without contradiction.

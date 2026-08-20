@@ -1,40 +1,43 @@
-# Conflict and Antagonist Board (v8, World Calendar canon)
+# Conflict and Antagonist Board (v9, World Calendar canon)
 
 ## Season 1 — Political Powers
 
-Motivations: fear, greed, security, control, competition. Not all are evil. **The Empire of Veyrand** is initially adversarial-by-negotiation, not hostile. (Corrected v7 — previously "Isolde's Kingdom"; Veyrand is an Empire, see `06-factions-and-politics.md`.)
+Motivations: fear, greed, security, control, competition. Not all are evil. The Empire of Veyrand is initially adversarial-by-negotiation, not hostile. **New (v9, Chapter 14):** a separate, unnamed coalition of two Kingdoms and a northern Empire has emerged as a distinct and more overtly hostile political thread — see new entry below. Do not conflate this coalition with the Empire of Veyrand; they are unrelated political actors.
+
+## Season 1 — Coercive Political Coalition (new, v9, Chapter 14)
+
+At WC18, envoys representing two unnamed Kingdoms and a northern Empire approach the Architect, initially with lawful-seeming diplomatic language ("cơ hội hợp tác," "lợi ích chung"), attempting to secure his research — the near-instant-cast technique and the unnamed externalized Mana-pathway concept — for military use under their sponsorship. When the Architect refuses outright, a member of the delegation escalates to an explicit threat against Elena and Iris. The Architect responds with an uncontrolled, overwhelming release of Mana pressure and a cold, explicit warning; the delegation retreats.
+
+**Status:** ACTIVE, unresolved. Identity of the specific Kingdoms/Empire involved is intentionally left unnamed as of Chapter 14 — open for future development.
+**Motivation:** military advantage; fear of falling behind rival powers who might otherwise secure the Architect's technology first.
+**Not inherently evil:** their initial diplomatic approach was legitimate; the escalation to threats was driven by an individual guard's impatience, not necessarily official state policy — leave room for nuance in future chapters (e.g., official reprimand, deniability, or genuine institutional hostility, owner's discretion).
+**Consequence:** the Architect has now publicly demonstrated an overwhelming, intimidating Mana capability under emotional duress — this fact is now known to at least this delegation and will plausibly spread by rumor, with unpredictable political consequences (increased fear, increased desire to either recruit or neutralize him, or both).
+**Foreshadowing function:** early seed for the "pro-Architect / anti-Architect / neutral" political factions that solidify around WC28–31 (`world_calendar.md`, `20-scene-memory.md`). Also foreshadows the Architect's Darkest-Point-era tendency to build controlling, intimidation-adjacent systems — later dismantled in The Reform (~WC48–52).
 
 ## Season 1 — Demon Threat
 
-Major external threat. Two distinct Demon threads exist across the saga, now confirmed to be quietly connected (v8):
-
-1. **The high-tier Demon encountered at WC16** — continuity name **"The Unburied One"** (an epithet; true name intentionally withheld). Critically wounded, not killed, at WC16; dormant WC16–32; during dormancy it secretly influences the domination-seeking Demon faction (see item 2) from the shadows, as a hidden patron rather than a commander. Presumed (not confirmed) destroyed when Demon territories collapse at WC40. See `26-mystery-board.md` and `28-unresolved-threads.md`. **This connection must stay backstage in Season 1 prose** — reader-facing reveal, if any, belongs no earlier than Movie 1.
-2. **Seraphine's original faction**, whose domination-seeking leadership specifically drives the WC33–35 arc; not all Demon factions share that agenda. The Demon King (or equivalent leadership) is not the ultimate antagonist of the entire saga. The faction leadership remains self-directed and is not aware of the Unburied One's influence; Seraphine herself never learns of it.
+Major external threat. Two distinct Demon threads exist across the saga, now confirmed to be quietly connected (v8): (unchanged — see prior version for full "The Unburied One" / Seraphine's faction detail)
 
 ## Season 1 — Internal Antagonist
 
-The Architect's own need for control — the Darkest Point (WC16–23) — is the true central conflict of the installment, more than any external war. Its origin is now grounded in a concrete tactical failure at WC16 that cost him his parents, The Teacher, and the Scout (see `02-timeline.md`).
+The Architect's own need for control — the Darkest Point (WC16–23) — is the true central conflict of the installment, more than any external war. Its origin is grounded in a concrete tactical failure at WC16 (Chapter 11) and has since escalated through a systematized avoidance pattern (Chapter 13) and, as of Chapter 14, a new failure mode: **uncontrolled emotional/Mana outburst under threat to loved ones**, distinct from and arguably more dangerous than the calculation-based coping mechanism established earlier. Both patterns should be tracked as converging toward the WC22 Darkest Point low point.
 
 ## Movie 1 — Historical / Ideological Conflict
 
-The primary conflict is emotional and ideological: the Son vs. his father's secrecy, converging with the father's death. (Possible optional thread: whether the Son ever uncovers the Unburied One's WC16→WC35 connection — not yet blocked out.)
+(unchanged — see prior version)
 
 ## Movie 2 — Observatory / Aion
 
-Aion believes control is necessary for reality stability.
+(unchanged — see prior version)
 
 ## Movie 3 — The Other Builder
 
-Primary antagonist.
-Ideology: optimize reality to eliminate suffering, at the cost of agency.
-Strength: he is logically consistent, and disturbingly close to who the primary Architect could have become.
-Weakness: he treats freedom as an inefficiency.
+(unchanged — see prior version)
 
 ## Movie 4 — Returnists
 
-They seek one timeline. Not necessarily evil individuals.
-Ideology: one history prevents chaos.
+(unchanged — see prior version)
 
 ## Escalation
 
-Personal → political → civilization → historical → metaphysical → philosophical. Do not escalate only by making enemies stronger.
+Personal → political → civilization → historical → metaphysical → philosophical. **Chapter 14 marks the first genuine crossing from "personal" into "political"** — the Architect's internal Darkest Point now has an external political actor responding to and amplifying it, rather than existing purely as an internal/interpersonal struggle. Do not escalate only by making enemies stronger; the political coalition's threat works precisely because it targets people the Architect loves, not because of raw military strength.
