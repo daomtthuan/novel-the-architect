@@ -1,4 +1,4 @@
-# Continuity Tracker (v12, World Calendar canon)
+# Continuity Tracker (v13, World Calendar canon)
 
 Updated after every accepted chapter/scene.
 
@@ -61,24 +61,28 @@ The agent does NOT need to reread all chapters every time. The purpose of this p
 
 ### Chapter 14 — What Cannot Be Optimized
 
+*(Unchanged — see prior tracker version for the full record of Chapter 14, WC18.)*
+
+### Chapter 15 — Keeping Time
+
 - **Installment:** Season 1 — The Architect
-- **WC:** WC18
+- **WC:** WC19
 - **POV:** The Architect, first-person
-- **Location:** Southwestern ravine (Guild mission site); Architect's family home; front porch
-- **Characters:** The Architect (18), Elena (24.5), Iris (15), The Guild Master, unnamed political delegation (two Kingdoms + one northern Empire)
-- **Core conflict:** External — an unauthorized, underreported hazard-B Guild mission nearly kills the Architect; a political delegation attempts coercion and threatens his loved ones. Internal — the WC18 major argument with Elena directly names his defense mechanism as "becoming the monster"; first on-page loss of emotional control.
-- **Emotional objective:** Deliver the WC18 major argument in full, as a genuine rupture rather than another gentle warning; establish Iris's shift to active, undisclosed protection; introduce a new external political threat that escalates the stakes of the Architect's isolation.
-- **Plot objective:** Dramatize WC18 per `world_calendar.md` ("Architect tiếp tục nghiên cứu nhưng trở nên lạnh lùng... ông và Elena đã cãi nhau lớn"); establish new political-pressure thread (Kingdoms/Empire attempting to weaponize the Architect); give Iris a real sword and a new protective role.
-- **New facts:** Architect takes an unauthorized hazard-B mission, misreports the threat count (three reported, eight actual), nearly dies, self-rescues via an improvised wide-area sealing structure rather than repeating his WC16 body-conduit mistake. Iris secretly shadows him with a real steel sword (newly given by the blacksmith), watches the full fight, deliberately does not intervene. Elena discovers both the reckless mission and continued solo nighttime pathway testing; the WC18 argument occurs in full, culminating in Elena's line comparing him to the monster that killed his parents; Elena moves out of the shared home. Three days later, a political delegation from two Kingdoms and a northern Empire attempts to coerce the Architect into weaponizing his research, threatens Elena and Iris directly, and is met with an uncontrolled, intimidating Mana outburst and an explicit warning from the Architect. That night, Iris commits to ongoing, undisclosed protective shadowing.
-- **Character changes:** **PERMANENT (relational):** Elena moves out of the Architect's home — the first genuine rupture in their relationship, not merely tension. **PERMANENT:** the Architect demonstrates, for the first time on-page, a loss of emotional control (the Mana outburst) distinct from his usual calculation-based coping — a new and more dangerous failure mode. Iris is entrusted with a real steel sword and formally shifts from indirect to active, undisclosed protection.
-- **Relationship changes:** Architect ↔ Elena ruptures — she moves out following the major argument; this is the direct, unresolved bridge to the already-logged WC19 reconciliation. Architect ↔ Iris deepens through her new protective commitment, still strictly platonic (age 15). Architect ↔ political delegation begins as a new, hostile relationship thread.
-- **World changes:** First on-page instance of political coercion targeting the Architect's research for military use; early seed for the pro-/anti-/neutral-Architect factions that solidify around WC31.
-- **New objects:** Iris's real steel sword (given by the village blacksmith) — added to `24-artifact-registry.md`.
-- **New locations:** Southwestern ravine — non-registry unless it recurs.
-- **Foreshadowing:** The Architect's uncontrolled Mana outburst foreshadows the controlling, intimidation-adjacent systems of the Darkest Point later dismantled in The Reform (~WC48–52). The political delegation's coercion attempt foreshadows the political faction formation of WC31. Iris's shift to active protection is a new through-line for future chapters.
-- **Revealed secrets:** None. WC16 Demon reveal discipline unaffected.
-- **Unresolved questions:** Where Elena goes after moving out; how/when WC19 reconciliation occurs on-page; identity of the political delegation's Kingdoms/Empire; whether the Architect ever learns Iris witnessed the full ravine fight without intervening.
-- **Handoff to Chapter 15:** The Architect is alone in his home for the first time since WC16 (Elena moved out); Iris has committed to undisclosed protective shadowing; the WC19 reconciliation with Elena is the next expected major beat, alongside possible further political-delegation consequences.
+- **Location:** Architect's home; Guild HQ; village market; food stall; The Teacher's abandoned house; village cemetery; Elena's temporary lodging
+- **Characters:** The Architect (19), Elena (24.75), Iris (16), The Guild Master, an unnamed market child
+- **Core conflict:** External — Guild disciplinary consequence for the WC18 mission deception. Internal — genuine psychological recovery process; confronting the truth of The Teacher's past; earning (not simply requesting) reconciliation with Elena.
+- **Emotional objective:** Show real recovery, not a quick fix — consequence, idle time used constructively, a moment of renewed motivation (the market child), active reconnection with Iris, confrontation with The Teacher's legacy, and only then reconciliation with Elena, itself left conditional and unresolved (a date, not a full resolution).
+- **Plot objective:** Dramatize WC19 per `world_calendar.md`; close the open Guild Master reaction thread from Chapter 14; resolve The Teacher's "why he stopped taking students" secret via his notebook, at HINTED level only regarding the former student's true nature; advance the externalized Mana-pathway concept from notebook sketch to working prototype; open a very light, background-only Isolde/Veyrand rumor thread for future development.
+- **New facts:** Guild Master suspends the Architect's independent adventurer status for one year over the misreported WC18 mission. During the suspension, the Architect develops a standardized calendar/time-keeping system (sundial + night-marker mana stones) that spreads informally through the region, raising community goodwill. A market encounter with a curious young child rekindles the Architect's own sense of purpose. The Architect proactively invites Iris on a non-romantic outing (haggling, a meal); she advises him directly to seek out Elena. The Architect returns to The Teacher's house and reads his unfinished research notebook in full for the first time, finding a passage addressed to him: The Teacher once had an earlier student — a strikingly intelligent child who displayed knowledge "not of this world" — who eventually grew arrogant, sought to reshape the world through power, and had to be personally killed by The Teacher himself. This is the true, previously unresolved reason The Teacher stopped taking students for years before the Architect. The Architect visits his parents' and Teacher's graves, holds an internal one-sided conversation, then goes to Elena and apologizes without deflection. Elena forgives him conditionally: he must take her on an outing (a date) the next day. Drawing on The Teacher's dormant theoretical notes combined with his own WC17 concept, the Architect successfully builds and tests a working externalized Mana-pathway prototype (a carved hollow rod) — instant, wordless, structure-free spellcasting of significant power, without drawing Mana through his own body. Rumors of the Architect's WC14 Mana outburst reach the Empire of Veyrand's court and are heard, with idle interest, by Isolde — kept to a minimal background mention only.
+- **Character changes:** **PERMANENT (organizational):** the Architect's independent Guild adventurer status is suspended for one year. **PERMANENT (lore):** The Teacher's secret — why he stopped taking students — is now resolved on-page, at HINTED level regarding the former student's deeper nature (no "Builder" terminology used). **PERMANENT (technology):** the externalized Mana-pathway concept moves from notebook sketch to a working, tested prototype device.
+- **Relationship changes:** Architect ↔ Elena moves from RUPTURED toward RECONCILIATION — forgiveness is granted but explicitly conditional on a shared outing the next day; the reconciliation is not yet complete. Architect ↔ Iris deepens through a mutual, platonic outing initiated by the Architect himself (age 16 — still strictly platonic). Architect ↔ Guild Master reaches a clear disciplinary resolution, closing the Chapter 14 thread.
+- **World changes:** A standardized regional time-keeping system is introduced, improving the Architect's community standing. A very light political thread opens: rumor of the Architect's WC14 Mana display reaches the Veyrand court and Isolde specifically — kept intentionally minor.
+- **New objects:** Externalized Mana-pathway rod (first working prototype) — added to `24-artifact-registry.md`. Regional calendar/sundial system — added to `24-artifact-registry.md` as community infrastructure.
+- **New locations:** None registry-level; Elena's temporary lodging is a non-registry, reusable minor location.
+- **Foreshadowing:** The Teacher's notebook passage about his former student is a new HINTED-level clue toward the Season 1 Builder-adjacent foreshadowing already permitted (`11-foreshadowing-and-revelations.md`) — must not be connected explicitly to "Builder" terminology or to The Other Builder specifically. The Veyrand/Isolde rumor is a light political seed for future chapters.
+- **Revealed secrets:** The Teacher's reason for not taking students (`17-character-secrets.md`) is resolved — see updated file below. The deeper nature of the former student (i.e., that he was a Builder) remains withheld from the reader and from the Architect.
+- **Unresolved questions:** The former student's name and fuller fate remain open. The Teacher's earlier attentiveness toward Elena (Chapter 7–8) remains unresolved and separate from this reveal. The outing/date with Elena is left open for the next chapter.
+- **Handoff to Chapter 16:** The Architect is under a one-year Guild suspension; he has a working Mana-pathway prototype; he owes Elena a full day together the next morning, with reconciliation still incomplete pending that outing.
 
 ---
 
@@ -94,17 +98,23 @@ Track: age (computed via the Aging Rate System); physical condition; emotional s
 
 **Post-Chapter-14 note:** The Architect's coping pattern has produced a new failure mode — uncontrolled emotional/Mana outburst under threat to loved ones — that should be tracked alongside the existing "calculation instead of grief" pattern as the Darkest Point continues escalating toward its WC22 low point.
 
+**Post-Chapter-15 note:** The Architect shows the first genuine signs of psychological recovery since WC16 — constructive use of enforced downtime, renewed personal motivation, and active repair of both the Iris and Elena relationships. This should be tracked as a real (if fragile and incomplete) upward turn, not a full resolution of the Darkest Point, which remains ongoing through WC22–23.
+
 ## World State
 
 Track: city status; political alliances; wars; economy; magical infrastructure; technology level; institutions.
 
 **Post-Chapter-14 note:** A new political threat exists — an unnamed coalition of two Kingdoms and a northern Empire attempting to coerce the Architect militarily, now hostile after his warning.
 
+**Post-Chapter-15 note:** A standardized regional calendar/time-keeping system now exists, improving the Architect's community standing. A minor, background-only rumor thread now connects the Architect to the Veyrand court via Isolde — not yet developed on-page beyond a mention.
+
 ## Lore State
 
 UNKNOWN → HINTED → SUSPECTED → PARTIALLY REVEALED → CONFIRMED → PUBLIC KNOWLEDGE
 
-Apply this specifically to: the Builder concept, the Architect/Builder distinction, the Quantum Anchor, the Other Builder's existence, fragmentary Demon-activity rumors (status: HINTED, unchanged by Chapter 14).
+Apply this specifically to: the Builder concept, the Architect/Builder distinction, the Quantum Anchor, the Other Builder's existence, fragmentary Demon-activity rumors (status: HINTED, unchanged by Chapter 14 or 15).
+
+**Post-Chapter-15 note:** The Teacher's former student is now a new HINTED-level clue toward the broader Builder concept — status remains HINTED, not SUSPECTED; the reader and the Architect both lack any explicit "Builder" framing.
 
 ## Relationship State
 
@@ -112,7 +122,7 @@ For primary romantic characters (Elena):
 
 STRANGER → ACQUAINTANCE → TRUST → FRIEND → LOVE → PARTNER → CONFLICT → RECONCILIATION → FAMILY → LOSS
 
-**Post-Chapter-14 note:** Architect ↔ Elena is now at CONFLICT, having ruptured following the WC18 major argument; RECONCILIATION (WC19) is the next expected state.
+**Post-Chapter-15 note:** Architect ↔ Elena has moved from CONFLICT into the early stage of RECONCILIATION — forgiveness has been extended but is explicitly conditional on the following day's outing; treat as incomplete until that scene is dramatized.
 
 For secondary romantic characters (Iris, Seraphine, Isolde):
 

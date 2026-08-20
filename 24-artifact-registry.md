@@ -1,4 +1,4 @@
-# Artifact Registry (v9, World Calendar canon)
+# Artifact Registry (v10, World Calendar canon)
 
 ## The Ark
 
@@ -12,7 +12,7 @@ Elena and the Architect's wedding rings (WC24). Formally established as **Eterna
 
 ## Architect's Notebooks
 
-Contain inventions, observations, personal thoughts, unresolved problems — including, in the earliest volumes, half-formed notes from childhood that already show adult-level reasoning. The WC17 volume contains the Architect's first sketches of an externalized Mana pathway concept (unnamed Ark precursor) and detailed notes on his near-instant-cast technique. **Updated (v9, Chapter 14):** this same notebook is the object Elena discovers and confronts him about at WC18, having found evidence of continued solo nighttime testing — the notebook now carries direct narrative weight as physical evidence of his avoidance pattern, not merely a private research log.
+Contain inventions, observations, personal thoughts, unresolved problems — including, in the earliest volumes, half-formed notes from childhood that already show adult-level reasoning. The WC17 volume contains the Architect's first sketches of an externalized Mana pathway concept (unnamed Ark precursor) and detailed notes on his near-instant-cast technique. This same notebook is the object Elena discovers and confronts him about at WC18, having found evidence of continued solo nighttime testing — the notebook now carries direct narrative weight as physical evidence of his avoidance pattern, not merely a private research log.
 
 ## Elena's Personal Objects
 
@@ -22,17 +22,21 @@ Objects retained by family — jewelry, letters, clothing, magical images, house
 
 A personal item of The Teacher's, kept by the Architect after WC16. Functions as a private reminder of his first great failure. Distinct from The Teacher's Unfinished Research Notebook below.
 
-## Father's Sword (unchanged from v8)
+## Father's Sword
 
 A plain, well-kept blade the Architect's Father kept within reach by the door out of old soldier's habit. Recovered by the Architect after WC16 (Chapter 12). The Architect has carved simplified, pre-woven spell structures directly onto the blade (Chapter 13) as a makeshift storage/release method — a crude precursor to automated enchantment technology. This modification is a personal, evolving project, not a finished magical weapon. No pre-existing magical properties are established beyond this; purely an emotional artifact tied to Father's quiet, watchful nature, now also a canvas for the Architect's grief-driven research. Use sparingly as a grief anchor in future chapters.
 
 ## The Teacher's Unfinished Research Notebook
 
-Dense, heavily corrected handwritten research notes belonging to The Teacher, found by the Architect at The Teacher's abandoned house (Chapter 12), cut off mid-sentence at the final entry. Contents remain unread/unexplored on-page as of Chapter 14; a strong candidate for future development. Do not resolve its contents without deliberate narrative planning.
+Dense, heavily corrected handwritten research notes belonging to The Teacher, found by the Architect at The Teacher's abandoned house (Chapter 12). **Updated (v10, Chapter 15):** the Architect has now read the notebook in full. It contains both technical theory — dormant, unfinished sketches of a Mana pathway concept closely related to the Architect's own WC17 idea — and a personal passage addressed directly to the Architect, revealing the true reason The Teacher stopped taking students: an earlier gifted student who grew dangerous and had to be killed by The Teacher himself. The notebook's technical content has now been partially applied toward the Architect's Mana-pathway rod (below). Any further un-mined technical or personal content remains open for future development, but the notebook's central mystery (why The Teacher stopped teaching) is now resolved — see `17-character-secrets.md`.
 
-## Iris's Real Sword (new, v9, Chapter 14)
+## Mana-Pathway Rod (new, v10, Chapter 15)
 
-A plain, well-made steel longsword, entrusted to Iris by the village blacksmith at WC18, replacing the wooden training sword she had used since Chapter 9. The blacksmith, having trained her personally over several years, judges her skilled enough for a real weapon, but explicitly warns her to remain cautious — a Demon is not a sparring partner. No magical properties are established; this is a practical, non-enchanted weapon. Function: marks Iris's formal transition from training to active combat capability, directly enabling her Chapter 14 decision to secretly shadow and protect the Architect. Use as a recurring visual/practical marker of her protective role going forward — do not silently revert her to the wooden sword or drop the sword from future scenes without narrative cause.
+A carved, hollow metal rod, roughly forearm-length, developed by the Architect at WC19 by combining The Teacher's dormant theoretical notes with his own WC17 externalized-pathway concept. Functions as a rigid, non-living channel through which Mana can be directed and compressed without passing through the caster's body — allowing instant, wordless, structure-free spell release at significantly greater power than the near-instant-cast technique alone. This is the Architect's first **working** prototype of this technology, distinct from the WC17–18 notebook sketches and small-scale nighttime tests. It remains a personal device, not a formalized or mass-reproducible technology, and is the direct, unnamed technical precursor to Ark Stage 1 (`07-magic-and-technology.md`). **Do not refer to it as "the Ark" or imply formal military/civilizational deployment at this stage.**
+
+## Regional Calendar / Time-Keeping System (new, v10, Chapter 15)
+
+A standardized calendar and time-of-day system developed by the Architect during his WC19 Guild suspension: a sundial-based day marker combined with a row of small mana stones for tracking hours after dark, paired with a mathematically regularized seasonal calendar carved into a public marker stone in the village square. Not magical infrastructure in the combative or civilizational-defense sense — a piece of practical, socially beneficial technology (Stage 1–2, `25-technology-evolution.md`) that spreads informally through the region due to its usefulness, improving the Architect's community standing. **Do not connect this system on-page to its far-future historical significance** (i.e., that it will later inform how the World Calendar itself is dated) — that connection belongs to a post-Architect, out-of-POV historical framing device and must not be foreshadowed within Season 1 prose.
 
 ## Observatory Artifacts
 

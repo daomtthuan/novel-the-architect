@@ -1,4 +1,4 @@
-# Romance Continuity Memory (v12, World Calendar canon)
+# Romance Continuity Memory (v13, World Calendar canon)
 
 ## Purpose
 
@@ -72,8 +72,10 @@ Seed entries to track from the outset:
 - Elena's "temporary name" motif (Chapter 8) — a direct thematic seed for the WC35 "Architect" title.
 - Elena moving into the Architect's home post-WC16 (Chapter 12) — a major, explicitly non-romantic caretaking milestone.
 - Elena's direct confrontation about the Architect's systematized withdrawal (Chapter 13).
-- **(New, Chapter 14) Elena moving OUT of the Architect's home post-WC18 argument** — see dedicated entry below; the direct counterpart/escalation of her Chapter 12 move-in.
-- **(New, Chapter 14) Iris's shift from wooden to real sword and her formal commitment to undisclosed protective shadowing** — non-romantic but load-bearing for her arc; see dedicated entry below.
+- Elena moving OUT of the Architect's home post-WC18 argument (Chapter 14) — the direct counterpart/escalation of her Chapter 12 move-in.
+- Iris's shift from wooden to real sword and her formal commitment to undisclosed protective shadowing (Chapter 14).
+- **(New, Chapter 15) Elena's conditional forgiveness and the pending "outing"** — see dedicated entry below; the direct next step after the WC18 rupture, not yet a full resolution.
+- **(New, Chapter 15) Iris's proactive, Architect-initiated outing and her direct advice about Elena** — see dedicated entry below; non-romantic but a meaningful shift in the dynamic (Architect reaching out first, for once).
 
 ## Rule
 
@@ -99,25 +101,25 @@ Especially track: first meeting (WC15); the WC16 rescue and cohabitation; the WC
 
 (unchanged — see prior version)
 
-### WC18 — Major Argument and Rupture (new, Chapter 14)
+### WC18 — Major Argument and Rupture (Chapter 14)
 
-- **Event ID:** ROM-S01-C014-01
-- **WC Year:** 18
+(unchanged — see prior version)
+
+### WC19 — Conditional Forgiveness and the Pending Outing (new, Chapter 15)
+
+- **Event ID:** ROM-S01-C015-01
+- **WC Year:** 19
 - **Characters:** Architect, Elena
-- **Character Ages (computed):** Architect 18; Elena 24.5
-- **Relationship State Before:** ACQUAINTANCE/FRIEND under active strain, following two prior warnings (Chapter 12 gentle, Chapter 13 direct).
-- **Interaction:** Elena learns from the Guild Master that the Architect took an unauthorized hazard-B mission, misreporting the threat as three Demons when it was actually eight, and nearly died. She also discovers his notebook of ongoing solo nighttime experiments with the externalized Mana-pathway concept — the same category of research that cost him his arm at WC16. For the first time, her response is not gentle concern but genuine, unguarded anger. She confronts him directly; he defends his actions as necessary risk-management; she rejects the framing entirely, telling him she wants him to actually *live*, not merely optimize his own survival odds. When he says he cannot let another person he loves die in front of him again, she delivers the chapter's emotional climax: that he is becoming exactly the kind of thing that killed his own parents — something that only calculates, no longer feels. He has no answer. She announces she is moving out of the shared home, stating it is not because she has stopped caring, but because she can no longer watch him harm himself without being able to stop it — and that he may need to hit bottom before he is willing to listen.
-- **Relationship State After:** CONFLICT / RUPTURED. Elena has physically moved out. This is the first genuine relational break in the saga, distinct from all prior tension.
-- **Emotional Meaning:** This is the payoff of the escalating pattern set up in Chapter 12 (gentle warning) and Chapter 13 (direct confrontation) — Elena's third attempt is the one that finally lands emotionally (the Architect has no rebuttal), even though it does not yet produce behavioral change. It establishes that Elena's love for him includes real anger and real boundaries, not just patience.
-- **Joke / Running Motif:** None; this is the chapter's most serious confrontation. No levity present.
-- **Foreshadowing:** Elena's line here is a direct, deliberate precursor to the LOCKED "You can't fix everything" and to the WC23 "People are not variables" breakthrough — this is the third and most forceful of at least three attempts before the lesson actually lands at WC23. Do NOT treat this scene as the breakthrough itself — it is escalation, not resolution. The "becoming the monster" line is a strong new candidate for future consideration but has NOT been promoted to `46-iconic-dialogue-registry.md` — owner discretion required before any such promotion.
-- **Reader Interpretation:** The reader should feel that Elena's care has curdled into real, earned anger, and that the relationship has genuinely broken rather than merely strained — raising the stakes for the WC19 reconciliation.
-- **Character Interpretation:** Neither character frames this as a romantic rupture in the sense of ending a courtship (they are not yet a couple); it reads as a friendship/found-family bond reaching a real breaking point over the Architect's self-destructive coping.
-- **Must Be Remembered Later:** This scene, and Elena's absence from the home afterward, must be directly referenced and felt in the WC19 reconciliation — the reconciliation must not read as a quick fix or as though this rupture never happened.
-
-### WC19 — Reconciliation
-
-(unchanged — see prior version; now understood to require direct acknowledgment of the WC18 rupture, including Elena's absence from the home, before any reconciliation beat can land)
+- **Character Ages (computed):** Architect 19; Elena 24.75
+- **Relationship State Before:** RUPTURED (Elena moved out following the WC18 argument, Chapter 14).
+- **Interaction:** Following a period of real, observable change — a one-year Guild suspension used constructively, a proactive outing with Iris, and a direct confrontation with The Teacher's own history of failure — the Architect goes to Elena's temporary lodging and apologizes without deflecting into logic or self-justification, explicitly naming that she was right about what he was becoming. Elena forgives him, but conditionally: she requires a full day together the next day, with no research, no problem-solving, nothing but simply being present with each other — framed lightly by her as something close to a date.
+- **Relationship State After:** RECONCILIATION (in progress, not complete). Forgiveness has been extended, but is explicitly contingent on the outing that follows.
+- **Emotional Meaning:** Marks the first time the Architect apologizes without immediately re-litigating his own reasoning — a direct, meaningful contrast to his behavior in the WC17 (Chapter 13) and WC18 (Chapter 14) confrontations. Elena's condition (an outing, not merely an apology) reinforces her established WC18 point: she wants him to actually *live*, not simply resolve the conflict analytically.
+- **Joke / Running Motif:** Elena's light teasing framing of the outing as "something close to a date" is a new, gentle motif — first genuinely warm exchange between them since before Chapter 14's rupture.
+- **Foreshadowing:** This scene is the direct, necessary bridge to the WC23 "People are not variables" breakthrough — the outing itself (next chapter) should continue building toward, not resolve, that eventual moment. Do NOT treat this scene as the breakthrough itself.
+- **Reader Interpretation:** The reader should feel cautious hope rather than full resolution — real change has been demonstrated, but the relationship's actual repair depends on what happens next, not on this conversation alone.
+- **Character Interpretation:** Neither character treats this as erasing the WC18 rupture; Elena's condition is a deliberate test of follow-through, not a formality.
+- **Must Be Remembered Later:** The outing itself must be directly dramatized in a near-future chapter — it cannot be skipped, summarized, or resolved off-page without violating the Confession Rule (`37-relationship-state-machine.md`).
 
 ## Iris Memory
 
@@ -137,19 +139,25 @@ Especially track: first meeting (WC15); the WC16 rescue and cohabitation; the WC
 
 (unchanged — see prior version)
 
-### WC18 — Real Sword, Silent Vigil, and the Protection Vow (new, Chapter 14)
+### WC18 — Real Sword, Silent Vigil, and the Protection Vow (Chapter 14)
 
-- **Event ID:** ROM-S01-C014-02
-- **WC Year:** 18
+(unchanged — see prior version)
+
+### WC19 — The Architect Reaches Out First (new, Chapter 15)
+
+- **Event ID:** ROM-S01-C015-02
+- **WC Year:** 19
 - **Characters:** Iris, Architect
-- **Character Ages (computed):** Iris 15 (STRICTLY PLATONIC); Architect 18
-- **Relationship State Before:** ACQUAINTANCE, platonic, deepening quiet caretaking.
-- **Interaction:** The village blacksmith, now confident in Iris's swordsmanship, entrusts her with a real steel sword. She secretly follows the Architect to his unauthorized ravine mission, watches him nearly die against eight Demons from a nearby cliff, and deliberately chooses not to intervene — trusting him to survive it on his own. That night, after witnessing the political delegation's threat and the Architect's outburst, she tells him directly that she will no longer merely "happen to pass by": she will actively shadow and protect him from now on, without warning him each time, so as not to give him the chance to either stop her or perform strength for her benefit.
-- **Relationship State After:** ACQUAINTANCE, platonic — deepened into an active protective role, still entirely non-romantic.
-- **Emotional Meaning:** Marks Iris's clearest developmental beat since Chapter 12: she moves from passive/indirect care (food, mending, small gestures) to active, physically capable protection, while still preserving her established voice (action over words, restraint over declaration). Her choice not to intervene during the ravine fight is presented as an act of trust, not neglect — consistent with `15-character-voice.md`'s "says less than she feels."
-- **Character Interpretation:** No attraction present or implied at this age. Her motivation is loyalty and found-family devotion, consistent with `17-character-secrets.md`'s established secret that she has loved him since she was old enough for it to matter but never states it, expressing it only through care and now protection.
-- **Must Be Remembered Later:** Iris's real sword and her commitment to undisclosed shadowing should recur as an ongoing pattern in future chapters — she should plausibly be nearby (visibly or not) during future dangerous situations. Do not let this commitment be forgotten or silently dropped.
+- **Character Ages (computed):** Iris 16 (STRICTLY PLATONIC); Architect 19
+- **Relationship State Before:** ACQUAINTANCE, platonic, deepened by her active protective role (Chapter 14).
+- **Interaction:** For the first time in their relationship, the Architect proactively invites Iris out — not out of necessity, not because she sought him out, but simply because the empty house has become too heavy to sit in alone. They spend an afternoon at the market and a nearby food stall; he lets her haggle on his behalf as she has always insisted he should. Over the meal, she gives him direct, unsentimental advice: go to Elena, apologize plainly, and don't over-explain his reasoning — Elena doesn't need a report, she needs to see genuine remorse.
+- **Relationship State After:** ACQUAINTANCE, platonic — unchanged in category, but marked by a meaningful shift in dynamic: the Architect initiating connection rather than only receiving Iris's care.
+- **Emotional Meaning:** A quiet but important beat — after several chapters of Iris caring for the Architect largely unprompted, this is the first time he actively reaches toward her, suggesting the beginning of a healthier, more reciprocal pattern rather than one-directional dependency.
+- **Character Interpretation:** No attraction present or implied at this age. Iris's advice about Elena is delivered in her established plainspoken, dry voice — practical rather than emotionally effusive, consistent with `15-character-voice.md`.
+- **Must Be Remembered Later:** This shift toward reciprocity (the Architect initiating contact, not just receiving care) should recur as a subtle pattern in future chapters — not overstated, but present.
 
 ## Iris / Seraphine / Isolde Memory
 
 Track each woman's key unresolved beat separately, and make sure none of the three is allowed to quietly "win" the Architect's heart in a later installment.
+
+**New, minor (Chapter 15):** A rumor of the Architect's WC14 Mana outburst has reached the Veyrand court and Isolde specifically, who reacts with idle interest rather than concern. This is background-only — no direct interaction has occurred, and this should not be developed further without deliberate narrative planning for her formal introduction (canonically WC26).

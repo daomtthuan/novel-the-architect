@@ -1,4 +1,4 @@
-# Emotional Memory (v12, World Calendar canon)
+# Emotional Memory (v13, World Calendar canon)
 
 These moments should echo later.
 
@@ -6,13 +6,13 @@ These moments should echo later.
 
 (unchanged — see prior version)
 
-## Elena and Architect's Major Argument (WC18, now fully dramatized — Chapter 14)
+## Elena and Architect's Major Argument (WC18, fully dramatized — Chapter 14)
 
-The direct payoff of the escalating pattern from Chapters 12 and 13. Elena discovers the Architect's unauthorized, underreported hazard-B Guild mission (he nearly died against eight Demons, having reported only three) and his continued solo nighttime testing of the externalized Mana-pathway concept — the same category of research responsible for his WC16 arm loss. For the first time, her response is genuine, unguarded anger rather than gentle or even direct-but-controlled concern. The argument's emotional climax is her line comparing him to the very monster that killed his parents — a thing that only calculates, no longer feels — which lands with real force precisely because the Architect has no rebuttal to offer. She moves out of the shared home. This scene must be treated as a genuine rupture, not a repeatable beat; do not stage a near-identical "major argument" again before the WC23 breakthrough. Should recur, sparingly, as a memory the Architect carries into future chapters — particularly at the WC19 reconciliation, where it must be directly acknowledged rather than skipped past.
+(unchanged — see prior version)
 
-## Elena and Architect's Reconciliation (WC19)
+## Elena and Architect's Reconciliation (WC19, in progress — Chapter 15)
 
-(unchanged — see `42-romance-continuity-memory.md`; must now explicitly reference and resolve the WC18 rupture and Elena's absence from the home, not merely restate prior warnings)
+**Updated (Chapter 15):** The Architect apologizes to Elena directly, without deflecting into logic or self-justification — a marked change from his behavior in Chapters 13–14. Elena forgives him, but explicitly conditionally: he must take her on a full shared outing the next day, with no research, no problem-solving, nothing but simply being together. This must be treated as the **beginning**, not the completion, of the WC19 reconciliation — the outing itself is the next required beat and must be dramatized directly, not skipped or resolved off-page. Must reference and honor the WC18 rupture (Chapter 14) rather than pretending it did not happen.
 
 ## Elena's "People Are Not Variables" (WC23)
 
@@ -98,14 +98,30 @@ The direct payoff of the escalating pattern from Chapters 12 and 13. Elena disco
 
 (unchanged)
 
-## Elena Moves Out (WC18, new, Chapter 14)
+## Elena Moves Out (WC18, Chapter 14)
 
-The direct counterpart to "Elena Moves In" (WC16, Chapter 12). Following the WC18 major argument, Elena moves out of the Architect's home — not out of diminished care, but because she can no longer watch him harm himself without being able to stop it. This is a significant physical and emotional marker of the relationship's rupture and must be directly felt in the Architect's subsequent isolation, and directly addressed (not silently reversed) at the WC19 reconciliation.
+(unchanged — see prior version)
 
-## The Architect's First Loss of Control (WC18, new, Chapter 14)
+## The Architect's First Loss of Control (WC18, Chapter 14)
 
-When a political delegation representing two Kingdoms and a northern Empire threatens Elena and Iris directly in an attempt to coerce the Architect into weaponizing his research, he responds not with his usual calculated, structured magic, but with an undirected, overwhelming release of raw Mana pressure — frightening the delegation into retreat. This is distinct from and more concerning than his established "calculation instead of grief" coping mechanism: it is the first on-page evidence that the emotion he has been suppressing through research and isolation is finding an uncontrolled outlet. Should be remembered as an early warning sign of the systems of control and intimidation he risks building during the deepest part of the Darkest Point, later dismantled during The Reform (~WC48–52). Do not treat this outburst as heroic without also registering it as dangerous — this must align with, not undercut, Elena's core critique of him in the same chapter.
+(unchanged — see prior version)
 
-## Iris's Silent Vigil (WC18, new, Chapter 14)
+## Iris's Silent Vigil (WC18, Chapter 14)
 
-Iris secretly shadows the Architect to his unauthorized ravine mission and watches him nearly die without intervening, trusting him to survive on his own. This moment — deliberately withheld from the Architect's own knowledge at chapter's end — should be remembered as a defining beat of Iris's character: her devotion expressed through trust and restraint rather than through visible rescue. Pairs thematically with her decision, later the same chapter, to commit to ongoing undisclosed protection — trust and vigilance held together without contradiction.
+(unchanged — see prior version)
+
+## The Guild Suspension (WC19, new, Chapter 15)
+
+Following the WC18 mission deception, the Guild Master suspends the Architect's independent adventurer status for one year. Unlike the Architect's earlier defense mechanisms, this consequence is externally imposed rather than self-chosen — and, notably, it produces the first genuinely constructive response of his post-WC16 life: rather than deepening isolation, the enforced downtime becomes the space in which real recovery begins. Should be remembered as the practical catalyst that made the rest of this chapter's recovery possible — future chapters should not undo or bypass this suspension without narrative cause.
+
+## The Market Child (WC19, new, Chapter 15)
+
+A brief, unplanned encounter with a curious young child at the market — fascinated by a broken mana stone, asking questions without self-consciousness — reminds the Architect of his own early curiosity, before grief and control became entangled with it. A small moment, but functions as the emotional turning point that reopens the Architect's capacity for constructive motivation. Should be referenced sparingly, if at all, in future chapters — its power lies in its smallness, not in becoming a recurring device.
+
+## The Teacher's Confession (WC19, new, Chapter 15)
+
+Reading The Teacher's unfinished research notebook in full for the first time, the Architect discovers a passage addressed directly to him: The Teacher once had an earlier student, similarly gifted and similarly marked by knowledge "not of this world," who grew arrogant, sought to reshape the world through power, and had to be killed by The Teacher's own hand. This retroactively explains The Teacher's guardedness and his years-long refusal to take new students before the Architect. This moment should be remembered as the direct, personal seed of the Architect's private fear of his own potential trajectory — reinforcing, not replacing, Elena's WC18 warning. Do not resolve the former student's deeper nature or connect him explicitly to "Builder" terminology in future Season 1 chapters.
+
+## The Cemetery Address (WC19, new, Chapter 15)
+
+For the first time since the WC16 funeral (Chapter 12), the Architect visits his family's graves and holds a direct, one-sided internal conversation with his parents and The Teacher — acknowledging how close he came to becoming what they feared, and renewing a genuine (not merely defensive) promise to himself. This should be treated as a quiet but significant marker of emotional processing, distinct from and more mature than the calculation-based coping established in Chapters 12–13.
